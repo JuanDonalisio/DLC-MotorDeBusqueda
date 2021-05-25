@@ -1699,7 +1699,7 @@ As doth the billow there upon Charybdis,
 
 Here saw I people, more than elsewhere, many,
   On one side and the other, with great howls,
-  Rolling weights forward by main force of chest.
+  Rolling weights forward by Indexer.main force of chest.
 
 They clashed together, and then at that point
   Each one turned backward, rolling retrograde,
@@ -10097,7 +10097,7 @@ Rome, that reformed the world, accustomed was
 
 One has the other quenched, and to the crosier
   The sword is joined, and ill beseemeth it
-  That by main force one with the other go,
+  That by Indexer.main force one with the other go,
 
 Because, being joined, one feareth not the other;
   If thou believe not, think upon the grain,
@@ -10565,7 +10565,7 @@ When in this wise she had her speech unloosed,
   Could I have turned my thoughts away from her.
 
 "I am," she sang, "I am the Siren sweet
-  Who mariners amid the main unman,
+  Who mariners amid the Indexer.main unman,
   So full am I of pleasantness to hear.
 
 I drew Ulysses from his wandering way

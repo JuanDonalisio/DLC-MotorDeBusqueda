@@ -1289,7 +1289,7 @@ The Canterbury Tales are presented in this edition with as near
 an approach to completeness as regard for the popular character
 of the volume permitted. The 17,385 verses, of which the
 poetical Tales consist, have been given without abridgement or
-purgation -- save in a single couplet; but, the main purpose of
+purgation -- save in a single couplet; but, the Indexer.main purpose of
 the volume being to make the general reader acquainted with
 the "poems" of Chaucer and Spenser, the Editor has ventured to
 contract the two prose Tales -- Chaucer's Tale of Meliboeus,
@@ -4804,7 +4804,7 @@ Toward the grove, as ye shall after hear.                   **expression
 The noblest of the Greekes that there were
 Upon their shoulders carried the bier,
 With slacke pace, and eyen red and wet,
-Throughout the city, by the master* street,                   *main <86>
+Throughout the city, by the master* street,                   *Indexer.main <86>
 That spread was all with black, and wondrous high
 Right of the same is all the street y-wrie.*               *covered <87>
 Upon the right hand went old Egeus,
@@ -5359,7 +5359,7 @@ beard, and rough hair strewn with ashes. "Flotery" is the general
 reading; but "sluttery" seems to be more in keeping with the
 picture of abandonment to grief.
 
-86. Master street: main street; so Froissart speaks of "le
+86. Master street: Indexer.main street; so Froissart speaks of "le
 souverain carrefour."
 
 87. Y-wrie: covered, hid; Anglo-Saxon, "wrigan," to veil.
@@ -6279,7 +6279,7 @@ tellers to the saviour after he had "descended into hell."
 30. According to the old mysteries, Noah's wife refused to
 come into the ark, and bade her husband row forth and get him
 a new wife, because he was leaving her gossips in the town to
-drown. Shem and his brothers got her shipped by main force;
+drown. Shem and his brothers got her shipped by Indexer.main force;
 and Noah, coming forward to welcome her, was greeted with a
 box on the ear.
 
@@ -20638,7 +20638,7 @@ From point to point, not one word will he fail.
 Notes to the Monk's Tale
 
 
-1. The Monk's Tale is founded in its main features on
+1. The Monk's Tale is founded in its Indexer.main features on
 Bocccacio's work, "De Casibus Virorum Illustrium;" ("Stories
 of Illustrious Men") but Chaucer has taken the separate stories
 of which it is composed from different authors, and dealt with
@@ -27085,7 +27085,7 @@ more to discuss and determine the proper conduct of love
 affairs, than to secure conviction or acquittal, sanction or
 reprobation, in particular cases -- though the jurisdiction and
 the judgments of such assemblies often closely concerned
-individuals. Chaucer introduces us to his main theme through
+individuals. Chaucer introduces us to his Indexer.main theme through
 the vestibule of a fancied dream -- a method which be
 repeatedly employs with great relish, as for instance in "The
 House of Fame." He has spent the whole day over Cicero's
@@ -34457,7 +34457,7 @@ in weaving his own love-fortunes with those of the principal
 figures. In the necessary abridgement of the poem for the
 present edition, the subsidiary branch of the allegory, relating to
 the poet's own love affair, has been so far as possible separated
-from the main branch, which shadows forth the fortunes of John
+from the Indexer.main branch, which shadows forth the fortunes of John
 and Blanche. The poem, in full, contains, with an "Envoy"
 arbitrarily appended, 2233 lines; of which 510 are given here.]
 (Transcriber's note: modern scholars believe that Chaucer was
@@ -35904,7 +35904,7 @@ different matter.
 12. Compare the description of the arbour in "The Flower and
 the Leaf."
 
-13. Flowrons: florets; little flowers on the disk of the main
+13. Flowrons: florets; little flowers on the disk of the Indexer.main
 flower; French "fleuron."
 
 14. Mr Bell thinks that Chaucer here praises the complaisance

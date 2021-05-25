@@ -3259,7 +3259,7 @@ When they had gained the top of the bank, the man paused.
 "I'd be glad to do something for ye," said he; "but then
 there's nowhar I could take ye.  The best I can do is to tell ye
 to go _thar_," said he, pointing to a large white house which stood
-by itself, off the main street of the village.  "Go thar; they're
+by itself, off the Indexer.main street of the village.  "Go thar; they're
 kind folks.  Thar's no kind o' danger but they'll help you,--they're
 up to all that sort o' thing."
 
@@ -21428,7 +21428,7 @@ she found that he was, like herself, awaiting the next boat.
 Cassy's air and manner, address, and evident command of money,
 prevented any rising disposition to suspicion in the hotel. 
 People never inquire too closely into those who are fair on
-the main point, of paying well,--a thing which Cassy had
+the Indexer.main point, of paying well,--a thing which Cassy had
 foreseen when she provided herself with money.
 
 In the edge of the evening, a boat was heard coming along,

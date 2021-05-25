@@ -19,7 +19,8 @@ Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
 
 
-Messer Marco Polo
+Messer Marco Polo
+
 
 by Brian Oswald Donn-Byrne
 
@@ -1098,7 +1099,7 @@ The times went by, and Marco Polo busied himself with his daily
 affairs, keeping track of the galleasses with merchandise to strange
 far-away ports, buying presents for refractory governors who didn't
 care for foreign trade in their domains, getting wisdom from the old
-clerks, and knowledge from the mariners; in the main, acting as the
+clerks, and knowledge from the mariners; in the Indexer.main, acting as the
 son of a great house while the heads of it were away.
 
 You would think that he would have forgotten what the sea-captain

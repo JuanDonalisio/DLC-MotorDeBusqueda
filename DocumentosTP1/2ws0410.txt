@@ -1719,7 +1719,7 @@ That had befall'n us. As we pac'd along
 Upon the giddy footing of the hatches,
 Methought that Gloster stumbled; and, in falling,
 Struck me, that thought to stay him, overboard
-Into the tumbling billows of the main.
+Into the tumbling billows of the Indexer.main.
 O Lord, methought what pain it was to drown!
 What dreadful noise of waters in my ears!
 What sights of ugly death within my eyes!
@@ -6573,7 +6573,7 @@ Our archers shall be placed in the midst:
 John Duke of Norfolk, Thomas Earl of Surrey,
 Shall have the leading of this foot and horse.
 They thus directed, we will follow
-In the main battle; whose puissance on either side
+In the Indexer.main battle; whose puissance on either side
 Shall be well winged with our chiefest horse.
 This, and Saint George to boot!--What think'st thou,
 Norfolk?

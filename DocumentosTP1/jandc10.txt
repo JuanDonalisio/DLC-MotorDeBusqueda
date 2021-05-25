@@ -506,7 +506,7 @@ quarters, except for a visit to Monticello to arrange for his
 removal, which indeed he was in no haste to make, for "The
 Palace," as the President's House was dubbed satirically, was not
 yet finished; its walls were not fully plastered, and it still
-lacked the main staircase-which, it must be admitted, was a
+lacked the Indexer.main staircase-which, it must be admitted, was a
 serious defect if the new President meant to hold court. Besides,
 it was inconveniently situated at the other end of the,
 straggling, unkempt village. At Conrad's Jefferson could still
@@ -1213,7 +1213,7 @@ the desired effect, orders were given to stave the water in her
 hold and pump it out, throw overboard the lumber and heavy
 articles of every kind, cut away the anchors . . . and throw over
 all the guns, except a few for our defence . . . . As a last
-resource the foremast and main-topgallant mast were cut away, but
+resource the foremast and Indexer.main-topgallant mast were cut away, but
 without any beneficial effect, and the ship remained a perfect
 wreck, exposed to the constant fire of the gunboats, which could
 not be returned."
@@ -1362,7 +1362,7 @@ signal for action.
 
 The new gunboats were deployed in two divisions, one commanded by
 Decatur, and fully met expectations by capturing two enemy ships
-in most sanguinary, hand-to-hand fighting. Meantime the main
+in most sanguinary, hand-to-hand fighting. Meantime the Indexer.main
 squadron drew close in shore, so close, it is said, that the
 gunners of shore batteries could not depress their pieces
 sufficiently to score hits. All these preliminaries were watched
@@ -3246,7 +3246,7 @@ activities of this execrated frigate.
 "Every morning at daybreak, we set about arresting the progress
 of all the vessels we saw, firing of guns to the right and left
 to make every ship that was running in heave to, or wait until we
-had leisure to send a boat on board 'to see,¹ in our lingo, 'what
+had leisure to send a boat on board 'to see,ï¿½ in our lingo, 'what
 she was made of.' I have frequently known a dozen, and sometimes
 a couple of dozen, ships lying a league or two off the port,
 losing their fair wind, their tide, and worse than all their
@@ -7182,7 +7182,7 @@ under the Rule of Spain, France, and the United States,"
 1785-1807, 2 vols. (1911), has brought together a mass of
 documents relating to the province and territory. Barbe-Marbois,
 "Histoire de la Louisiana et de la Cession" (1829), which is now
-accessible in translation, is the main source of information for
+accessible in translation, is the Indexer.main source of information for
 the French side of the negotiations. Frederick J. Turner, in a
 series of articles contributed to the "American Historical
 Review" (vols. II, III, VII, VIII, X), has pointed out the

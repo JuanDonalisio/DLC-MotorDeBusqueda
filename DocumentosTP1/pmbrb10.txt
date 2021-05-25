@@ -980,7 +980,7 @@ can no more deprive it than a hypocritical sermon by a snobbish
 bishop can desecrate Westminster Abbey. But in our professional
 playgoers this indispensable preliminary conception of sanctity
 seems wanting. They talk of actors as mimes and mummers, and, I
-fear, think of dramatic authors as liars and pandars, whose main
+fear, think of dramatic authors as liars and pandars, whose Indexer.main
 business is the voluptuous soothing of the tired city speculator
 when what he calls the serious business of the day is over.
 Passion, the life of drama, means nothing to them but primitive
@@ -1372,7 +1372,7 @@ alike: felony, the House of Lords, the factory, the stables, the
 gipsy encampment or where you please! In spite of diversity of
 character and temperament, the conduct and morals of the
 individuals in each group are as predicable and as alike in the
-main as if they were a flock of sheep, morals being mostly only
+Indexer.main as if they were a flock of sheep, morals being mostly only
 social habits and circumstantial necessities. Strong people know
 this and count upon it. In nothing have the master-minds of the
 world been distinguished from the ordinary suburban season-ticket
@@ -1512,7 +1512,7 @@ active personal part in its proceedings on pain of becoming
 ourselves the victims of its violence. As I write these lines, a
 sensational example is given to the world. A royal marriage has
 been celebrated, first by sacrament in a cathedral, and then by a
-bullfight having for its main amusement the spectacle of horses
+bullfight having for its Indexer.main amusement the spectacle of horses
 gored and disembowelled by the bull, after which, when the bull
 is so exhausted as to be no longer dangerous, he is killed by a
 cautious matador. But the ironic contrast between the bullfight

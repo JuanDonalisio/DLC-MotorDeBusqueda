@@ -8046,7 +8046,7 @@ should think."
 
 "No doubt; but as I shall raise an army to ---- "
 
-"Yes, yes -- I understand, parbleu! -- a coup-de-main. Yes,
+"Yes, yes -- I understand, parbleu! -- a coup-de-Indexer.main. Yes,
 then, monsieur, you will triumph, for no one equals you in
 such sorts of encounters."
 
@@ -8642,7 +8642,7 @@ were mixed up in the tumult and showered with blows. The
 Parisians hit like Cyclops, with an ensemble and a tactic
 delightful to behold. At length, obliged to beat a retreat
 before superior numbers, they formed an intrenchment behind
-the large table, which they raised by main force; whilst the
+the large table, which they raised by Indexer.main force; whilst the
 two others, arming themselves each with a trestle, and using
 it like a great sledge-hammer, knocked down at a blow eight
 sailors upon whose heads they had brought their monstrous
@@ -14559,7 +14559,7 @@ crowns remaining in the purse of the richest among you."
 
 "Gentlemen," said D'Artagnan, "then, this is the last order.
 The treaty of commerce has been concluded thanks to our
-coup-de-main which made us masters of the most skillful
+coup-de-Indexer.main which made us masters of the most skillful
 financier of England, for now I am at liberty to confess to
 you that the man we had to carry off was the treasurer of
 General Monk."
@@ -19829,7 +19829,7 @@ Monk."
 
 "And did you succeed?"
 
-"Like the captains of the fifteenth century, coups-de-main
+"Like the captains of the fifteenth century, coups-de-Indexer.main
 and adventures."
 
 "What do you call succeeding? -- a fortune?"
@@ -29506,7 +29506,7 @@ a laugh; "a royal court! What think you of that, my
 daughter?"
 
 And she turned round towards Mademoiselle de la Valliere,
-whom she would by main force have dragged away from
+whom she would by Indexer.main force have dragged away from
 Montalais, and who, instead of obeying the impulse of Madame
 de Saint-Remy, looked first at her mother and then at
 Montalais with her beautiful conciliatory eyes.

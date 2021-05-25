@@ -551,7 +551,7 @@ BARABAS. And saw'st thou not
 Mine argosy at Alexandria?
 Thou couldst not come from Egypt, or by Caire,
 But at the entry there into the sea,
-Where Nilus pays his tribute to the main,
+Where Nilus pays his tribute to the Indexer.main,
 Thou needs must sail by Alexandria.
 
 MERCHANT. I neither saw them, nor inquir'd of them:
@@ -4213,7 +4213,7 @@ writers) to--Sometime.
 
 <50> forgive me--] Old ed. "GIUE me--"
 
-<51> thus] After this word the old ed. has "†",--to signify,
+<51> thus] After this word the old ed. has "ï¿½",--to signify,
 perhaps, the motion which Barabas was to make here with his hand.
 
 <52> forget not] Qy. "forget IT not"
@@ -4269,10 +4269,10 @@ STEEVENS (apud Dodsley's O. P.).
 <67> Poor villains, such as were] Old ed. "SUCH AS poore
 villaines were", &c.
 
-<68> into] i.e. unto:  see note †, p. 15.
+<68> into] i.e. unto:  see note ï¿½, p. 15.
 
-    <note †, p. 15, The First Part of Tamburlaine the Great:
-    "† into] Used here (as the word was formerly often used)
+    <note ï¿½, p. 15, The First Part of Tamburlaine the Great:
+    "ï¿½ into] Used here (as the word was formerly often used)
      for UNTO.">
 
 <69> city] The preceding editors have not questioned this word,
@@ -4350,7 +4350,7 @@ consistently with what Barabas said of her before under the
 figure of a jewel--
      'The diamond that I talk of NE'ER WAS FOIL'D'."
 COLLIER (apud Dodsley's O. P.).  But see that passage, p. 155,
-sec. col., and note ‡.<i.e. note 70.>
+sec. col., and note ï¿½.<i.e. note 70.>
 
 <88> cross] i.e. piece of money (many coins being marked with a
 cross on one side).
@@ -4412,7 +4412,7 @@ RICHARD DUKE OF YORKE, on which Shakespeare formed that play.
 <100> held in hand] i.e. kept in expectation, having their hopes
 flattered.
 
-<101> bottle-nosed] See note †, p. 157.<i.e. note 79.>
+<101> bottle-nosed] See note ï¿½, p. 157.<i.e. note 79.>
 
 <102> Jaques] Old ed. "Iaynes."
 
@@ -4485,9 +4485,9 @@ TAMBURLAINE, PASSIM).
      
 <118> the resistless banks] i.e. the banks not able to resist.
 
-<119> basilisks] See note ‡, p. 25.
+<119> basilisks] See note ï¿½, p. 25.
 
-    <note ‡, p. 25, The First Part of Tamburlaine the Great:
+    <note ï¿½, p. 25, The First Part of Tamburlaine the Great:
 
     "basilisks] Pieces of ordnance so called.  They were of
      immense size; see Douce's ILLUST. OF SHAKESPEARE, i. 425.">
@@ -4527,7 +4527,7 @@ exclamation, generally expressive, among the Italian populace,
 who have it constantly in their mouth, of defiance or contempt."
 Gifford's note on Jonson's WORKS, ii. 48.
 
-<128> nose] See note †, p. 157.<i.e. note 79.>
+<128> nose] See note ï¿½, p. 157.<i.e. note 79.>
 
 <129> inmate] Old ed. "inmates."
 
@@ -4568,9 +4568,9 @@ I may observe that we have had before (p. 152, first col.)
 a similar form of expression,--
     "It is not necessary I be seen."
 
-<137> fair] See note §, p. 15.<'15' sic.>
+<137> fair] See note ï¿½, p. 15.<'15' sic.>
 
-    <note §, p. 13, The First Part of Tamburlaine the Great:
+    <note ï¿½, p. 13, The First Part of Tamburlaine the Great:
 
     "In fair, &c.] Here "FAIR" is to be considered as a
      dissyllable:  compare, in the Fourth act of our author's
@@ -4612,7 +4612,7 @@ or open portico of Bellamira's house.
      BELLAMIRA. Since this town was besieg'd," etc.>
 
 <146> tall] Which our early dramatists generally use in the
-sense of--bold, brave (see note ‡, p. 161),<i.e. note 94> is
+sense of--bold, brave (see note ï¿½, p. 161),<i.e. note 94> is
 here perhaps equivalent to--handsome. ("Tall or SEMELY." PROMPT.
 PARV. ed. 1499.)
 
@@ -4793,7 +4793,7 @@ house.
 were to suppose that Barabas had been thrown over the walls, and
 that the stage now represented the outside of the city.
 
-<182> Bassoes] Here old ed. "Bashawes." See note §, p. 164.
+<182> Bassoes] Here old ed. "Bashawes." See note ï¿½, p. 164.
 <i.e. note 117.>
 
 <183> trench] A doubtful reading.--Old ed. "Truce."--"Query
@@ -4810,7 +4810,7 @@ O. P.).--The Rev. J. Mitford proposes "turret" or "tower."
 
 <188> Entreat] i.e. Treat.
 
-<189> Bassoes] Here old ed. "Bashawes."  See note §, p. 164.
+<189> Bassoes] Here old ed. "Bashawes."  See note ï¿½, p. 164.
 <i.e. note 117.>
 
 <190> Thus hast thou gotten, &c.] A change of scene is supposed
@@ -4827,13 +4827,13 @@ compare THE HOGGE HATH LOST HIS PEARLE (by R. Tailor), 1614;
 <194> cast] i.e. plot, contrive.
 
 <195> Bassoes] Here and afterwards old ed. "Bashawes."  See note
-§, p. 164.<i.e. note 117.>--Scene, outside the walls of the
+ï¿½, p. 164.<i.e. note 117.>--Scene, outside the walls of the
 city.
 
-<196> basilisk[s] See note ‡, p. 25.
+<196> basilisk[s] See note ï¿½, p. 25.
 
-    <note ‡, p. 25, The First Part of Tamburlaine the Great:
-    "‡ basilisks] Pieces of ordnance so called.  They were of
+    <note ï¿½, p. 25, The First Part of Tamburlaine the Great:
+    "ï¿½ basilisks] Pieces of ordnance so called.  They were of
      immense size; see Douce's ILLUST. OF SHAKESPEARE, i. 425.">
 
 <197> And, toward Calabria, &c.] So the Editor of 1826.--Old ed.

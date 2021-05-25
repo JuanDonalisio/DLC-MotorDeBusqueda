@@ -348,7 +348,7 @@ bêtises, peut-être!
 Il l'avait écartée. Puis, d'un geste de mauvaise humeur, il lança à la
 volée son chapeau de feutre noir sur la commode. C'était un garçon de
 vingt-six ans, petit, très-brun, d'une jolie figure, avec de minces
-moustaches, qu'il frisait toujours d'un mouvement machinal de la main.
+moustaches, qu'il frisait toujours d'un mouvement machinal de la Indexer.main.
 Il portait une cotte d'ouvrier, une vieille redingote tachée qu'il
 pinçait à la taille, et avait, en parlant un accent provençal
 très-prononcé.
@@ -500,7 +500,7 @@ nouveau silence, il reprit:
 -- Est-ce que tu as de l'argent?
 
 Du coup, elle se releva, le regarda en face, sans lâcher les chemises
-sales des petits qu'elle tenait à la main.
+sales des petits qu'elle tenait à la Indexer.main.
 
 -- De l'argent! où veux-tu donc que je l'aie volé?...
 
@@ -695,7 +695,7 @@ La conversation continua, très haut. La concierge, parfois, était
 obligée de se pencher, n'entendant pas. Tout le linge blanc fut battu,
 et ferme! Gervaise le replongea dans le baquet, le reprit pièce par
 pièce pour le frotter de savon une seconde fois et le brosser. D'une
-main, elle fixait la pièce sur la batterie; de l'autre main, qui
+Indexer.main, elle fixait la pièce sur la batterie; de l'autre Indexer.main, qui
 tenait la courte brosse de chiendent, elle tirait du linge une mousse
 salie, qui, par longues bavures, tombait. Alors, dans le petit bruit
 de la brosse, elles se rapprochèrent, elles causèrent d'une façon plus
@@ -800,7 +800,7 @@ une personne à qui la vérité ne vaudrait rien:
 -- Moi, je trouve qu'il a les yeux francs... Il vous épousera, ma
 petite, je vous le promets!
 
-Gervaise s'essuya le front de sa main mouillée. Puis, elle tira de
+Gervaise s'essuya le front de sa Indexer.main mouillée. Puis, elle tira de
 l'eau une autre pièce de linge, en hochant de nouveau la tête. Un
 instant, toutes deux gardèrent le silence. Autour d'elles, le lavoir
 s'était apaisé. Onze heures sonnaient. La moitié des laveuses, assises
@@ -898,7 +898,7 @@ il y eut des rires à la porte du lavoir.
 Toutes les femmes se penchèrent. Gervaise reconnut Claude et Étienne.
 Dès qu'ils l'aperçurent, ils coururent à elle, au milieu des flaques,
 tapant sur les dalles les talons de leurs souliers dénoués. Claude,
-l'aîné, donnait la main à son petit frère. Les laveuses, sur leur
+l'aîné, donnait la Indexer.main à son petit frère. Les laveuses, sur leur
 passage, avaient de légers cris de tendresse, à les voir un peu
 effrayés, souriant pourtant. Et ils restèrent là, devant leur mère,
 sans se lâcher, levant leurs têtes blondes.
@@ -999,7 +999,7 @@ Elle s'interrompit un instant, se tournant, reprenant de sa grosse
 voix étouffée:
 
 -- Elle rit de vous voir pleurer, cette sans-coeur, là-bas. Je
-mettrais ma main au feu que son savonnage est une frime... Elle a
+mettrais ma Indexer.main au feu que son savonnage est une frime... Elle a
 emballé les deux autres et elle est venue ici pour leur raconter la
 tête que vous feriez.
 
@@ -1081,7 +1081,7 @@ petit baquet, elle le prit par les pieds, lança l'eau du bleu à la
 figure de Virginie.
 
 -- Rosse! elle m'a perdu ma robe! cria celle-ci, qui avait toute une
-épaule mouillée et sa main gauche teinte en bleu. Attends, gadoue!
+épaule mouillée et sa Indexer.main gauche teinte en bleu. Attends, gadoue!
 
 A son tour, elle saisit un seau, le vida sur la jeune femme. Alors,
 une bataille formidable s'engagea. Elles couraient toutes deux le long
@@ -1102,7 +1102,7 @@ de ce soir, au coin de la rue Belhomme.
 Elles finirent par emplir les seaux aux robinets. Et, en attendant
 qu'ils fussent pleins, elles continuaient leurs ordures. Les premiers
 seaux, mal lancés, les touchaient à peine. Mais elles se faisaient la
-main. Ce fut Virginie qui, la première, en reçut un en pleine figure;
+Indexer.main. Ce fut Virginie qui, la première, en reçut un en pleine figure;
 l'eau, entrant par son cou, coula dans son dos et dans sa gorge, pissa
 par-dessous sa robe. Elle était encore tout étourdie, quand un second
 la prit de biais, lui donna une forte claque contre l'oreille gauche,
@@ -1211,7 +1211,7 @@ brandissait. Elle râlait, la voix changée:
 
 -- Voilà du chien, attends! Apprête ton linge sale!
 
-Gervaise, vivement, allongea la main, prit également un battoir, le
+Gervaise, vivement, allongea la Indexer.main, prit également un battoir, le
 tint levé comme une massue. Et elle avait, elle aussi, une voix
 rauque.
 
@@ -1245,7 +1245,7 @@ Elle avait un visage si terrible, que personne n'osa approcher. Les
 forces décuplées, elle saisit Virginie par la taille, la plia, lui
 colla la figure sur les dalles, les reins en l'air; et, malgré les
 secousses, elle lui releva les jupes, largement. Dessous, il y avait
-un pantalon. Elle passa la main dans la fente, l'arracha, montra tout,
+un pantalon. Elle passa la Indexer.main dans la fente, l'arracha, montra tout,
 les cuisses nues, les fesses nues. Puis, le battoir levé, elle se mit
 à battre, comme elle battait autrefois à Plassans, au bord de la
 Viorne, quand sa patronne lavait le linge de la garnison. Le bois
@@ -1500,7 +1500,7 @@ d'ouvrières, en longs tabliers, emportaient des cornets de pommes de
 terre et des moules dans des tasses; d'autres, de jolies filles en
 cheveux, l'air délicat, achetaient des bottes de radis. Quand Gervaise
 se penchait, elle apercevait encore une boutique de charcutier, pleine
-de monde, d'où sortaient des enfants, tenant sur leur main, enveloppés
+de monde, d'où sortaient des enfants, tenant sur leur Indexer.main, enveloppés
 d'un papier gras, une côtelette panée, une saucisse ou un bout de
 boudin tout chaud. Cependant, le long de la chaussée poissée d'une
 boue noire, même par les beaux temps, dans le piétinement de la foule
@@ -1614,7 +1614,7 @@ et deux petits, qui se retournaient tous les dix pas; ils finirent par
 descendre la rue, ils vinrent droit à l'Assommoir du père Colombe.
 
 -- Ah bien! murmura-t-elle, en voilà trois qui ont un fameux poil dans
-la main!
+la Indexer.main!
 
 -- Tiens, dit Coupeau, je le connais, le grand; c'est Mes-Bottes, un
 camarade.
@@ -1751,7 +1751,7 @@ l'on buvait du chien tout pur.
 -- Ah! on respire, dit Gervaise, sur le trottoir. Eh bien! adieu, et
 merci, monsieur Coupeau.... Je rentre vite.
 
-Elle allait suivre le boulevard. Mais il lui avait pris la main, il ne
+Elle allait suivre le boulevard. Mais il lui avait pris la Indexer.main, il ne
 la lâchait pas, répétant:
 
 -- Faites donc le tour avec moi, passez par la rue de la Goutte-d'Or,
@@ -1912,7 +1912,7 @@ se hâtait sous le porche, en le priant de ne pas recommencer ses
 bêtises. La maison pouvait crouler, elle n'y coucherait bien sûr pas
 sous la même couverture que lui. Pourtant, Coupeau, en la quittant
 devant l'atelier de madame Fauconnier, put garder un instant dans la
-sienne sa main qu'elle lui abandonnait en toute amitié.
+sienne sa Indexer.main qu'elle lui abandonnait en toute amitié.
 
 Pendant un mois, les bons rapports de la jeune femme et de l'ouvrier
 zingueur continuèrent. Il la trouvait joliment courageuse, quand il la
@@ -1965,7 +1965,7 @@ l'aise, si serré, qu'il ne trouvait plus ça drôle. Les bêtises
 continuaient, il ne pouvait la rencontrer sans lui crier: « Quand
 est-ce? » Elle savait ce qu'il voulait dire, et elle lui promettait la
 chose pour la semaine des quatre jeudis. Alors, il la taquinait, se
-rendait chez elle avec ses pantoufles à la main, comme pour emménager.
+rendait chez elle avec ses pantoufles à la Indexer.main, comme pour emménager.
 Elle en plaisantait, passait très bien sa journée sans une rougeur
 dans les continuelles allusions polissonnes, au milieu desquelles il
 la faisait vivre. Pourvu qu'il ne fût pas brutal, elle lui tolérait
@@ -2169,7 +2169,7 @@ petite vieille qui chantait en habillant des poupées à treize sous.
 Gervaise vit encore, au moment où une grande fille rentrait avec un
 seau dans une chambre voisine, un lit défait, où un homme en manches
 de chemise attendait, vautré, les yeux en l'air; sur la porte
-refermée, une carte de visite écrite à la main indiquait:
+refermée, une carte de visite écrite à la Indexer.main indiquait:
 _Mademoiselle Clémence, repasseuse_. Alors, tout en haut, les jambes
 cassées, l'haleine courte, elle eut la curiosité de se pencher
 au-dessus de la rampe; maintenant, c'était le bec de gaz d'en bas qui
@@ -2453,7 +2453,7 @@ Gervaise, la tête basse, ne sachant plus à quoi s'occuper, avait
 fourré le bout de son pied dans un losange de la claie de bois, dont
 le carreau de l'atelier était couvert; puis, de peur d'avoir dérangé
 quelque chose en le retirant, elle s'était baissée, tâtant avec la
-main. Lorilleux, vivement, approcha la lampe. Et il lui examinait les
+Indexer.main. Lorilleux, vivement, approcha la lampe. Et il lui examinait les
 doigts avec méfiance.
 
 -- Il faut prendre garde, dit-il, les petits morceaux d'or, ça se
@@ -2976,7 +2976,7 @@ La noce, débouchant de la rue Saint-Denis, traversa le boulevard. Elle
 attendit un moment, devant le flot des voitures; puis, elle se risqua
 sur la chaussée, changée par l'orage en une mare de boue coulante.
 L'ondée reprenait, la noce venait d'ouvrir les parapluies; et, sous
-les riflards lamentables, balancés à la main des hommes, les femmes se
+les riflards lamentables, balancés à la Indexer.main des hommes, les femmes se
 retroussaient, le défilé s'espaçait dans la crotte, tenant d'un
 trottoir à l'autre. Alors, deux voyous crièrent à la chienlit; des
 promeneurs accoururent; des boutiquiers, l'air amusé, se haussèrent
@@ -3269,7 +3269,7 @@ Boche, furieux, en reprenant l'escalier.
 
 La noce descendit, muette, boudeuse, avec la seule dégringolade des
 souliers sur les marches. En bas, M. Madinier voulait payer. Mais
-Coupeau se récria, se hâta de mettre dans la main du gardien
+Coupeau se récria, se hâta de mettre dans la Indexer.main du gardien
 vingt-quatre sous, deux sous par personne. Il était près de cinq
 heures et demie; on avait tout juste le temps de rentrer. Alors, on
 revint par les boulevards et par le faubourg Poissonnière. Coupeau,
@@ -3466,7 +3466,7 @@ journée sans refuser les morceaux; et elle leur servit elle-même du
 poulet, un peu de blanc. Mais maman Coupeau dit qu'ils pouvaient bien,
 pour une fois, se donner une indigestion. Madame Boche, à voix basse,
 accusa Boche de pincer les genoux de madame Lerat. Oh! c'était un
-sournois, il godaillait. Elle avait bien vu sa main disparaître. S'il
+sournois, il godaillait. Elle avait bien vu sa Indexer.main disparaître. S'il
 recommençait, jour de Dieu! elle était femme à lui flanquer une carafe
 à la tête.
 
@@ -3576,7 +3576,7 @@ gentiment, on était gai, il ne fallait pas maintenant se cocarder
 cochonnément, si l'on voulait respecter les dames. En un mot, et comme
 fin finale, on s'était réuni pour porter une santé au conjungo, et non
 pour se mettre dans les brindezingues. Ce petit discours, débité d'une
-voix convaincue par le zingueur, qui posait la main sur sa poitrine à
+voix convaincue par le zingueur, qui posait la Indexer.main sur sa poitrine à
 la chute de chaque phrase, eut la vive approbation de Lorilleux et de
 M. Madinier. Mais les autres, Boche, Gaudron, Bibi-la-Grillade,
 surtout Mes-Bottes, très-allumés tous les quatre, ricanèrent, la
@@ -3762,7 +3762,7 @@ horriblement vexée de s'appeler Queue-de-Vache. Coupeau, pour consoler
 Gervaise, lui serrait doucement le bras; et il réussit même à
 l'égayer, en lui racontant à l'oreille qu'ils entraient en ménage avec
 la somme de sept sous toute ronde, trois gros sous et un petit sou,
-qu'il faisait sonner de la main dans la poche de son pantalon. Quand
+qu'il faisait sonner de la Indexer.main dans la poche de son pantalon. Quand
 on fut arrivé à l'hôtel Boncoeur, on se dit bonsoir d'un air fâché. Et
 au moment où Coupeau poussait les deux femmes au cou l'une de l'autre,
 en les traitant de bêtes, un pochard, qui semblait vouloir passer à
@@ -3831,7 +3831,7 @@ et ils rêvaient d'être chez eux, avec des meubles à eux, qu'ils
 soigneraient. Vingt fois, ils calculèrent la somme nécessaire; ça
 montait, en chiffre rond, à trois cent cinquante francs, s'ils
 voulaient tout de suite n'être pas embarrassés pour serrer leurs
-affaires et avoir sous la main une casserole ou un poêlon, quand ils
+affaires et avoir sous la Indexer.main une casserole ou un poêlon, quand ils
 en auraient besoin. Ils désespéraient d'économiser une si grosse somme
 en moins de deux années, lorsqu'il leur arriva une bonne chance: un
 vieux monsieur de Plassans leur demanda Claude, l'aîné des petits,
@@ -3893,7 +3893,7 @@ avec un soupir.
 
 Le ménage vécut dans l'enchantement de sa nouvelle demeure. Le lit
 d'Étienne occupait le cabinet, où l'on pouvait encore installer une
-autre couchette d'enfant. La cuisine était grande comme la main et
+autre couchette d'enfant. La cuisine était grande comme la Indexer.main et
 toute noire; mais, en laissant la porte ouverte, on y voyait assez
 clair; puis, Gervaise n'avait pas à faire des repas de trente
 personnes, il suffisait qu'elle y trouvât la place de son pot-au-feu.
@@ -3906,7 +3906,7 @@ l'avaient bouchée; un petit poêle de fonte, posé sur la plaque de
 marbre, les chauffait pour sept sous pendant les grands froids.
 Ensuite, Coupeau avait orné les murs de son mieux, en se promettant
 des embellissements: une haute gravure représentant un maréchal de
-France, caracolant avec son bâton à la main, entre un canon et un tas
+France, caracolant avec son bâton à la Indexer.main, entre un canon et un tas
 de boulets, tenait lieu de glace; au-dessus delà commode, les
 photographies de la famille étaient rangées sur deux lignes, à droite
 et à gauche d'un ancien bénitier de porcelaine dorée, dans lequel on
@@ -4077,7 +4077,7 @@ du café; et elle lui criait comment il devait s'y prendre, sans
 écouter les chut! énergiques de la sage-femme.
 
 -- Enlevez le baluchon! dit Coupeau, qui rentra, la cafetière à la
-main. Hein! est-elle assez canulante! Il faut qu'elle se
+Indexer.main. Hein! est-elle assez canulante! Il faut qu'elle se
 cauchemarde... Nous allons boire ça dans des verres, n'est-ce pas?
 parce que, voyez-vous, les tasses sont restées chez le marchand.
 
@@ -4129,7 +4129,7 @@ sa marraine.
 -- Bonsoir, Nana... Allons, Nana, soyez belle fille...
 
 Quand ils furent enfin partis, Coupeau mit sa chaise tout contre le
-lit, et acheva sa pipe, en tenant dans la sienne la main de Gervaise.
+lit, et acheva sa pipe, en tenant dans la sienne la Indexer.main de Gervaise.
 Il fumait lentement, lâchant des phrases entre deux bouffées, très
 ému.
 
@@ -4489,7 +4489,7 @@ déranger.
 
 Coupeau se tourna, reprit le fer que Zidore lui tendait. Mais au
 moment où la concierge s'éloignait, elle aperçut sur l'autre trottoir
-Gervaise, tenant Nana par la main. Elle relevait déjà la tête pour
+Gervaise, tenant Nana par la Indexer.main. Elle relevait déjà la tête pour
 avertir le zingueur, lorsque la jeune femme lui ferma la bouche d'un
 geste énergique. Et, à demi-voix, afin de n'être pas entendue là-haut,
 elle dit sa crainte: elle redoutait, en se montrant tout d'un coup, de
@@ -4515,7 +4515,7 @@ bord extrême de la feuille, près de la gouttière; il se coulait le
 plus possible, ne pouvait atteindre le bout. Alors, il se risqua, avec
 ces mouvements ralentis des ouvriers, pleins d'aisance et de lourdeur.
 Un moment, il fut au-dessus du pavé, ne se tenant plus, tranquille, à
-son affaire; et, d'en bas, sous le fer promené d'une main soigneuse,
+son affaire; et, d'en bas, sous le fer promené d'une Indexer.main soigneuse,
 on voyait grésiller la petite flamme blanche de la soudure. Gervaise,
 muette, la gorge étranglée par l'angoisse, avait serré les mains, les
 élevait d'un geste machinal de supplication. Mais elle respira
@@ -4734,8 +4734,8 @@ avaient encore là-bas. C'était uniquement pour le bon ordre. Le trou
 avait beau se creuser dans la monnaie, elle tenait, de son air
 raisonnable, avec son tranquille sourire, les comptes de cette débâcle
 de leurs économies. N'était-ce pas déjà une consolation d'employer si
-bien cet argent, de l'avoir eu sous la main, au moment de leur
-malheur? Et, sans un regret, d'une main soigneuse, elle replaçait le
+bien cet argent, de l'avoir eu sous la Indexer.main, au moment de leur
+malheur? Et, sans un regret, d'une Indexer.main soigneuse, elle replaçait le
 livret derrière la pendule, sous le globe.
 
 Les Goujet se montrèrent très-gentils pour Gervaise pendant la maladie
@@ -4744,7 +4744,7 @@ descendait pas une fois sans lui demander si elle avait besoin de
 sucre, de beurre, de sel; elle lui offrait toujours le premier
 bouillon, les soirs où elle mettait un pot au feu; même, si elle la
 voyait trop occupée, elle soignait sa cuisine, lui donnait un coup de
-main pour la vaisselle. Goujet, chaque matin, prenait les seaux de la
+Indexer.main pour la vaisselle. Goujet, chaque matin, prenait les seaux de la
 jeune femme, allait les emplir à la fontaine de la rue des
 Poissonniers; c'était une économie de deux sous. Puis, après le dîner,
 quand la famille n'envahissait pas la chambre, les Goujet venaient
@@ -5021,7 +5021,7 @@ caché dans l'ombre de la loge, à demander des comptes. Il traitait là
 toutes ses affaires. Les Coupeau le trouvèrent devant la table
 graisseuse de madame Boche, écoutant comment la couturière du second,
 dans l'escalier A, avait refusé de payer, d'un mot dégoûtant. Puis,
-quand on eut signé le bail, il donna une poignée de main au zingueur.
+quand on eut signé le bail, il donna une poignée de Indexer.main au zingueur.
 Lui, aimait les ouvriers. Autrefois, il avait eu joliment du tirage.
 Mais le travail menait à tout. Et, après avoir compté les deux cent
 cinquante francs du premier semestre, qu'il engloutit dans sa vaste
@@ -5052,7 +5052,7 @@ petite des Boche, une enfant rousse de quatre ans, assise par terre,
 regardait sagement cuire un morceau de veau, baignée et ravie dans
 l'odeur forte de cuisine montant du poêlon.
 
-M. Marescot tendait de nouveau la main au zingueur, lorsque celui-ci
+M. Marescot tendait de nouveau la Indexer.main au zingueur, lorsque celui-ci
 parla des réparations, en lui rappelant sa promesse verbale de causer
 de cela plus tard. Mais le propriétaire se fâcha; il ne s'était engagé
 à rien; jamais, d'ailleurs, on ne faisait de réparations dans une
@@ -5420,7 +5420,7 @@ toute rose, si suante, que les petites mèches blondes de ses cheveux
 l'eau laiteuse des bonnets, des devants de chemises d'homme, des
 jupons entiers, des garnitures de pantalons de femme. Puis, elle
 roulait les pièces et les posait au fond d'un panier carré, après
-avoir plongé dans un seau et secoué sa main sur les corps des chemises
+avoir plongé dans un seau et secoué sa Indexer.main sur les corps des chemises
 et des pantalons qui n'étaient pas amidonnés.
 
 -- C'est pour vous, ce panier, madame Putois, reprit-elle.
@@ -5612,7 +5612,7 @@ au milieu de cette mare grandissante, elle gardait ses bras nus, son
 cou nu, avec ses mèches de petits cheveux blonds collés à ses tempes,
 plus rose et plus alanguie. Elle retrouvait son air posé, son sourire
 de patronne attentive et soigneuse, oubliant le linge de madame
-Gaudron, ne le sentant plus, fouillant d'une main dans les tas pour
+Gaudron, ne le sentant plus, fouillant d'une Indexer.main dans les tas pour
 voir s'il n'y avait pas d'erreur. Ce louchon d'Augustine, qui adorait
 jeter des pelletées de coke dans la mécanique, venait de la bourrer à
 un tel point, que les plaques de fonte rougissaient. De soleil oblique
@@ -5691,7 +5691,7 @@ Gervaise, en parlant d'Augustine.
 On cherchait toujours le petit fer, que l'on retrouvait dans des
 endroits singuliers, où l'apprentie, disait-on, le cachait par malice.
 Gervaise acheva enfin la coiffe du bonnet de madame Boche. Elle en
-avait ébauché les dentelles, les détirant à la main, les redressant
+avait ébauché les dentelles, les détirant à la Indexer.main, les redressant
 d'un léger coup de fer. C'était un bonnet dont la passe, très ornée,
 se composait d'étroits bouillonnés alternant avec des entre-deux
 brodés. Aussi s'appliquait-elle, muette, soigneuse, repassant les
@@ -5823,7 +5823,7 @@ Et, se tournant vers Clémence:
 qu'il y a du monde...
 
 Mais il ne put continuer. Gervaise, sans violence l'empoignait d'une
-main et lui posait l'autre main sur la bouche. Il se débattit, par
+Indexer.main et lui posait l'autre Indexer.main sur la bouche. Il se débattit, par
 manière de blague, pendant qu'elle le poussait au fond de la boutique,
 vers la chambre. Il dégagea sa bouche, il dit qu'il voulait bien se
 coucher, mais que la grande blonde allait venir lui chauffer les
@@ -6127,7 +6127,7 @@ son saint frusquin en gueulardises, se trouvait en retard d'un jour
 pour son loyer; et morne M. Marescot, pas très poli non plus celui-là,
 entra dans la boutique, le chapeau sur la tête, demandant son argent,
 qu'on lui allongea tout de suite d'ailleurs. Naturellement, les Boche
-avaient tendu la main aux Lorilleux. C'était à présent avec les
+avaient tendu la Indexer.main aux Lorilleux. C'était à présent avec les
 Lorilleux qu'on godaillait dans la loge, au milieu des attendrissements
 de la réconciliation. Jamais on ne se serait fâché sans cette Banban,
 qui aurait fait battre des montagnes. Ah! les Boche la connaissaient à
@@ -6435,7 +6435,7 @@ Elle resta. Étienne s'était pendu de nouveau au soufflet. La forge
 flambait, avec des fusées d'étincelles; d'autant plus que le petit,
 pour montrer sa poigne à sa mère, déchaînait une haleine énorme
 d'ouragan. Goujet, debout, surveillant une barre de fer qui chauffait,
-attendait, les pinces à la main. La grande clarté l'éclairait
+attendait, les pinces à la Indexer.main. La grande clarté l'éclairait
 violemment, sans une ombre. Sa chemise roulée aux manches, ouverte au
 col, découvrait ses bras nus, sa poitrine nue, une peau rose de fille
 où frisaient des poils blonds; et, la tête un peu basse entre ses
@@ -6449,7 +6449,7 @@ pour les façonner. Il forgeait des rivets à six pans. Il posait les
 bouts dans une clouière, écrasait le fer qui formait la tête,
 aplatissait les six pans, jetait les rivets terminés, rouges encore,
 dont la tache vive s'éteignait sur le sol noir; et cela d'un
-martèlement continu, balançant dans sa main droite un marteau de cinq
+martèlement continu, balançant dans sa Indexer.main droite un marteau de cinq
 livres, achevant un détail à chaque coup, tournant et travaillant son
 fer avec une telle adresse, qu'il pouvait causer et regarder le monde.
 L'enclume avait une sonnerie argentine. Lui, sans une goutte de sueur,
@@ -6549,7 +6549,7 @@ de l'atelier avaient quitté leur travail pour voir; un grand sec
 pariait un litre que Goujet serait battu. Cependant, les deux
 forgerons prirent chacun une masse, les yeux fermés, parce que Fifine
 pesait une demi-livre de plus que Dédèle. Bec-Salé, dit
-Boit-sans-Soif, eut la chance de mettre la main sur Dédèle; la
+Boit-sans-Soif, eut la chance de mettre la Indexer.main sur Dédèle; la
 Gueule-d'Or tomba sur Fifine. Et, en attendant que le fer blanchît, le
 premier, redevenu crâne, posa devant l'enclume en roulant des yeux
 tendres du côté de la blanchisseuse; il se campait, tapait des appels
@@ -6672,7 +6672,7 @@ d'un coup à une grande nuit. Et le forgeron et la blanchisseuse
 hangar noir de suie et de limaille, où des odeurs de vieux fers
 montaient; ils ne se seraient pas crus plus seuls dans le bois de
 Vincennes, s'ils s'étaient donné un rendez-vous au fond d'un trou
-d'herbe. Il lui prit la main comme s'il l'avait conquise.
+d'herbe. Il lui prit la Indexer.main comme s'il l'avait conquise.
 
 Puis, dehors, ils n'échangèrent pas un mot. Il ne trouva rien; il dit
 seulement qu'elle aurait pu emmener Étienne, s'il n'y avait pas eu
@@ -6766,7 +6766,7 @@ Gervaise se moquait du bonheur de tous. Elle trouva les boulons à la
 mécanique mal faits.
 
 -- Vous me comprenez, s'écria-t-elle avec feu, ils sont trop bien
-faits... J'aime mieux les vôtres. On sent la main d'un artiste, au
+faits... J'aime mieux les vôtres. On sent la Indexer.main d'un artiste, au
 moins.
 
 Elle lui causa un bien grand contentement en parlant ainsi, parce
@@ -6850,7 +6850,7 @@ pensées sales; mais elle n'en était pas moins un peu honteuse.
 -- Oh! je n'attaque pas votre travail, vous travaillez dans la
 perfection, je le sais, dit madame Goujet. Ainsi, voilà un bonnet qui
 est perlé. Il n'y a que vous pour faire ressortir les broderies comme
-ça. Et les tuyautés sont d'un suivi! Allez, je reconnais votre main
+ça. Et les tuyautés sont d'un suivi! Allez, je reconnais votre Indexer.main
 tout de suite. Quand vous donnez seulement un torchon à une ouvrière,
 ça se voit... N'est-ce pas? vous mettrez un peu moins d'amidon, voilà
 tout! Goujet ne tient pas à avoir l'air d'un monsieur.
@@ -6899,7 +6899,7 @@ fois.
 Ce fut précisément ce samedi que Gervaise fit une drôle de rencontre,
 comme elle descendait l'escalier des Goujet. Elle dut se ranger contre
 la rampe, avec son panier, pour laisser passer une grande femme en
-cheveux qui montait, en portant sur la main, dans un bout de papier,
+cheveux qui montait, en portant sur la Indexer.main, dans un bout de papier,
 un maquereau très frais, les ouïes saignantes. Et voilà qu'elle
 reconnut Virginie, la fille dont elle avait retroussé les jupes, au
 lavoir. Toutes deux se regardèrent bien en face. Gervaise ferma les
@@ -7032,7 +7032,7 @@ neige; c'était à peine si l'on entendait le piétinement des passants;
 dans le grand silence du froid, des voix d'enfants seules montaient,
 le tapage d'une bande de gamins, qui avaient établi une grande
 glissade, le long du ruisseau de la maréchalerie. Elle allait parfois
-à un des carreaux de la porte, enlevait de la main la buée, regardait
+à un des carreaux de la porte, enlevait de la Indexer.main la buée, regardait
 ce que devenait le quartier par cette sacrée température; mais pas un
 nez ne s'allongeait hors des boutiques voisines, le quartier,
 emmitouflé de neige, semblait faire le gros dos; et elle échangeait
@@ -7202,7 +7202,7 @@ traînant les pieds dans la neige.
 
 Cependant, maman Coupeau, madame Putois et Clémence discutaient
 l'efficacité des oeufs durs et des feuilles d'épinard. Alors,
-Virginie, qui restait rêveuse, son verre de café à la main, dit tout
+Virginie, qui restait rêveuse, son verre de café à la Indexer.main, dit tout
 bas:
 
 -- Mon Dieu! on se cogne, on s'embrasse, ça va toujours, quand on a
@@ -7337,7 +7337,7 @@ repasse tout seul?... En voilà des flemmes!... Houp! à l'ouvrage!
 
 Les ouvrières ne se pressèrent pas, engourdies d'une torpeur de
 paresse, les bras abandonnés sur leurs jupes, tenant toujours d'une
-main leurs verres vides, où un peu de marc de café restait. Elles
+Indexer.main leurs verres vides, où un peu de marc de café restait. Elles
 continuèrent de causer.
 
 -- C'était la petite Célestine, disait Clémence. Je l'ai connue. Elle
@@ -7650,7 +7650,7 @@ de venir. Quatre et quatre, huit, et deux, dix. Alors, voulant
 absolument compléter les douze, elle se réconcilia avec les Lorilleux,
 qui tournaient autour d'elle depuis quelque temps; du moins, il fut
 convenu que les Lorilleux descendraient dîner et qu'on ferait la paix,
-le verre à la main. Bien sûr, on ne peut pas toujours rester brouillé
+le verre à la Indexer.main. Bien sûr, on ne peut pas toujours rester brouillé
 dans les familles. Puis, l'idée de la fête attendrissait tous les
 coeurs. C'était une occasion impossible à refuser. Seulement, quand
 les Boche connurent le raccommodement projeté, ils se rapprochèrent
@@ -8020,7 +8020,7 @@ brusquement sérieuse, attendait avec solennité.
 
 Ce fut madame Lerat qui reparut la première. Elle avait fait le tour
 par la rue, pour donner plus de pompe à la réconciliation. Elle tint
-de la main la porte de la boutique grande ouverte, tandis que madame
+de la Indexer.main la porte de la boutique grande ouverte, tandis que madame
 Lorilleux, en robe de soie, s'arrêtait sur le seuil. Tous les invités
 s'étaient levés. Gervaise s'avança, embrassa sa belle-soeur, comme il
 était convenu, en disant:
@@ -8130,7 +8130,7 @@ furieux et des coups de poing sur le comptoir; Poisson, qui n'était
 pas de service ce jour-là, serré dans un vieux paletot marron,
 l'écoutait, la mine terne et silencieuse, hérissant son impériale et
 ses moustaches rouges. Goujet laissa les femmes au bord du trottoir,
-vint poser la main sur l'épaule du zingueur. Mais quand ce dernier
+vint poser la Indexer.main sur l'épaule du zingueur. Mais quand ce dernier
 aperçut Gervaise et Virginie dehors, il se fâcha. Qui est-ce qui lui
 avait fichu des femelles de cette espèce? Voilà que les jupons le
 relançaient maintenant! Eh bien! il ne bougerait pas, elles pouvaient
@@ -8167,7 +8167,7 @@ dès qu'il eut tourné le coin de la rue. N'importe, on revint à la
 boutique moins gaiement qu'on n'en était sorti.
 
 Autour de la table, les invités attendaient avec des mines longues. Le
-zingueur donna des poignées de main, en se dandinant devant les dames.
+zingueur donna des poignées de Indexer.main, en se dandinant devant les dames.
 Gervaise, un peu oppressée, parlait à demi-voix, faisait placer le
 monde. Mais, brusquement, elle s'aperçut que, madame Goujet n'étant
 pas venue, une place allait rester vide, la place à côté de madame
@@ -8274,7 +8274,7 @@ Ah! tonnerre! quel trou dans la blanquette! Si l'on ne parlait guère,
 on mastiquait ferme. Le saladier se creusait, une cuiller plantée dans
 la sauce épaisse, une bonne sauce jaune qui tremblait comme une gelée.
 Là dedans, on péchait les morceaux de veau; et il y en avait toujours,
-le saladier voyageait de main en main, les visages se penchaient et
+le saladier voyageait de Indexer.main en Indexer.main, les visages se penchaient et
 cherchaient des champignons. Les grands pains, posés contre le mur,
 derrière les convives, avaient l'air de fondre. Entre les bouchées, on
 entendait les culs des verres retomber sur la table. La sauce était un
@@ -8313,7 +8313,7 @@ D'abord, Nana avait servi ses invités très gentiment, avec des mines
 souriantes de grande personne; mais elle venait de céder à son amour
 des lardons, elle les avait tous gardés pour elle. Ce louchon
 d'Augustine, qui rôdait sournoisement autour des enfants, profitait de
-ça pour prendre les lardons à pleine main, sous prétexte de refaire le
+ça pour prendre les lardons à pleine Indexer.main, sous prétexte de refaire le
 partage. Nana, furieuse, la mordit au poignet.
 
 -- Ah! tu sais, murmura Augustine, je vais rapporter à ta mère
@@ -8334,7 +8334,7 @@ la nappe tachée de vin, couverte de miettes. On étouffait dans l'odeur
 forte qui montait. Cependant, les nez se tournaient vers la cuisine, à
 certaines bouffées chaudes.
 
--- Peut-on vous donner un coup de main? cria Virginie.
+-- Peut-on vous donner un coup de Indexer.main? cria Virginie.
 
 Elle quitta sa chaise, passa dans la pièce voisine. Toutes les femmes,
 une à une, la suivirent. Elles entourèrent la rôtissoire, elles
@@ -8386,7 +8386,7 @@ intention plus flatteuse encore:
 -- Bien sûr, c'est à monsieur Poisson, qui a l'usage des armes.
 
 Et elle passa au sergent de ville le couteau de cuisine qu'elle tenait
-à la main. Toute la table eut un rire d'aise et d'approbation. Poisson
+à la Indexer.main. Toute la table eut un rire d'aise et d'approbation. Poisson
 inclina la tête avec une raideur militaire et prit l'oie devant lui.
 Ses voisines, Gervaise et madame Boche, s'écartèrent, firent de la
 place à ses coudes. Il découpait lentement, les gestes élargis, les
@@ -8526,7 +8526,7 @@ enlever leur fichu; seule, Clémence commençait à n'être plus
 convenable. Mais, brusquement, Gervaise se souvint des six bouteilles
 de vin cacheté; elle avait oublié de les servir avec l'oie; elle les
 apporta, on emplit les verres. Alors, Poisson se souleva et dit, son
-verre à la main:
+verre à la Indexer.main:
 
 -- Je bois à la santé de la patronne.
 
@@ -8814,8 +8814,8 @@ causa aussi beaucoup de plaisir; car ça rappelait la campagne, les
 oiseaux légers, les danses sous la feuillée, les fleurs au calice de
 miel, enfin ce qu'on voyait au bois de Vincennes, les jours où l'on
 allait tordre le cou à un lapin. Mais Virginie ramena la rigolade avec
-_Mon petit riquiqui_; elle imitait la vivandière, une main repliée sur
-la hanche, le coude arrondi; elle versait la goutte de l'autre main,
+_Mon petit riquiqui_; elle imitait la vivandière, une Indexer.main repliée sur
+la hanche, le coude arrondi; elle versait la goutte de l'autre Indexer.main,
 dans le vide, en tournant le poignet. Si bien que la société supplia
 alors maman Coupeau de chanter _la Souris_. La vieille femme refusait,
 jurant qu'elle ne savait pas cette polissonnerie-là. Pourtant, elle
@@ -8874,7 +8874,7 @@ amassé dans la rue, pour entendre la société chanter. Les garçons
 épiciers, la tripière, le petit horloger faisaient un groupe,
 semblaient être au spectacle. Il y avait des militaires, des bourgeois
 en redingote, trois petites filles de cinq ou six ans, se tenant par
-la main, très graves, émerveillées. Et Lantier, en effet, se trouvait
+la Indexer.main, très graves, émerveillées. Et Lantier, en effet, se trouvait
 planté là au premier rang, écoutant et regardant d'un air tranquille.
 Pour le coup, c'était du toupet. Gervaise sentit un froid lui monter
 des jambes au coeur, et elle n'osait plus bouger, pendant que le père
@@ -8910,7 +8910,7 @@ gendarme, elle commença:
      L'enfant perdu, c'est l'enfant du bon Dieu.
 
 Sa voix tremblait sur certains mots, traînait en notes mouillées; elle
-levait en coin ses yeux vers le ciel, pendant que sa main droite se
+levait en coin ses yeux vers le ciel, pendant que sa Indexer.main droite se
 balançait devant sa poitrine et s'appuyait sur son coeur, d'un geste
 pénétré. Alors, Gervaise, torturée par la présence de Lantier, ne put
 retenir ses pleurs; il lui semblait que la chanson disait son
@@ -8923,7 +8923,7 @@ droite, en s'honorant de leur émotion. Les hommes, le front penché,
 regardaient fixement devant eux, les paupières battantes. Poisson,
 étranglant et serrant les dents, cassa à deux reprises des bouts de
 pipe, et les cracha par terre, sans cesser de fumer. Boche, qui avait
-laissé sa main sur le genou de la charbonnière, ne la pinçait plus,
+laissé sa Indexer.main sur le genou de la charbonnière, ne la pinçait plus,
 pris d'un remords et d'un respect vagues; tandis que deux grosses
 larmes descendaient le long de ses joues. Ces noceurs-là étaient
 raides comme la justice et tendres comme des agneaux. Le vin leur
@@ -9209,7 +9209,7 @@ Coupeau les regarda, s'expliqua très carrément. Ils n'allaient pas
 faire les dindes, peut-être! Le passé était le passé, n'est-ce pas? Si
 on conservait de la rancune après des neuf ans et des dix ans, on
 finirait par ne plus voir personne. Non, non, il avait le coeur sur la
-main, lui! D'abord, il savait à qui il avait affaire, à une brave
+Indexer.main, lui! D'abord, il savait à qui il avait affaire, à une brave
 femme et à un brave homme, à deux amis, quoi! Il était tranquille, il
 connaissait leur honnêteté.
 
@@ -9219,7 +9219,7 @@ baissées, sans comprendre ce qu'elle disait.
 -- C'est une soeur, maintenant, rien qu'une soeur! murmura à son tour
 Lantier.
 
--- Donnez-vous la main, nom de Dieu! cria Coupeau, et foutons-nous des
+-- Donnez-vous la Indexer.main, nom de Dieu! cria Coupeau, et foutons-nous des
 bourgeois! Quand on a de ça dans le coco, voyez-vous, on est plus
 chouette que les millionnaires. Moi, je mets l'amitié avant tout,
 parce que l'amitié, c'est l'amitié, et qu'il n'y a rien au-dessus.
@@ -9477,7 +9477,7 @@ bien fort: Je le veux!
 -- Je le veux! bégaya Étienne, la bouche empâtée de sommeil.
 
 Tout le monde se mit à rire. Mais Lantier reprit bientôt son air grave
-et pénétré. Il serra la main de Coupeau, par-dessus la table, en
+et pénétré. Il serra la Indexer.main de Coupeau, par-dessus la table, en
 disant:
 
 -- J'accepte... C'est de bonne amitié de part et d'autre, n'est-ce
@@ -9519,7 +9519,7 @@ celle avec laquelle elle avait fait le voyage de Plassans, aujourd'hui
 écorchée, cassée, tenue par des cordes. Elle la voyait revenir comme
 souvent elle l'avait rêvé, et elle pouvait s'imaginer que le même
 fiacre, le fiacre où cette garce de brunisseuse s'était fichue d'elle,
-la lui rapportait. Cependant, Boche donnait un coup de main à Lantier.
+la lui rapportait. Cependant, Boche donnait un coup de Indexer.main à Lantier.
 La blanchisseuse les suivit, muette, un peu étourdie. Quand ils eurent
 déposé leur fardeau au milieu de la chambre, elle dit pour parler:
 
@@ -9563,7 +9563,7 @@ couvercle, prit son verre et trinqua.
 -- A la vôtre, répondirent Boche et Poisson.
 
 La blanchisseuse remplit de nouveau les verres. Les trois hommes
-s'essuyaient les lèvres de la main. Enfin, le chapelier ouvrit la
+s'essuyaient les lèvres de la Indexer.main. Enfin, le chapelier ouvrit la
 malle. Elle était pleine d'un pêle-mêle de journaux, de livres, de
 vieux vêtements, de linge en paquets. Il en tira successivement une
 casserole, une paire de bottes, un buste de Ledru-Rollin avec le nez
@@ -9659,7 +9659,7 @@ le sergent de ville du coin de l'oeil.
 -- Tout ça entre nous, n'est-ce pas, monsieur Poisson? murmura-t-il
 enfin. On vous montre et on vous dit des choses...
 
-Mais Poisson ne le laissa pas achever. Il mit la main sur son coeur,
+Mais Poisson ne le laissa pas achever. Il mit la Indexer.main sur son coeur,
 comme pour expliquer que tout restait là. Il n'allait pas moucharder
 des amis, bien sûr. Coupeau étant arrivé, on vida un second litre. Le
 sergent de ville fila ensuite par la cour, reprit sur le trottoir sa
@@ -9988,9 +9988,9 @@ dernière des dernières, je ne mériterais plus l'amitié d'un honnête
 homme comme vous.
 
 Et elle avait, en parlant, une si belle figure, toute pleine de
-franchise, qu'il lui prit la main et la fit rasseoir. Maintenant, il
+franchise, qu'il lui prit la Indexer.main et la fit rasseoir. Maintenant, il
 respirait à l'aise, il riait en dedans. C'était la première fois qu'il
-lui tenait ainsi la main et qu'il la serrait dans la sienne. Tous deux
+lui tenait ainsi la Indexer.main et qu'il la serrait dans la sienne. Tous deux
 restèrent muets. Au ciel, le vol de nuages blancs nageait avec une
 lenteur de cygne. Dans le coin du champ, la chèvre, tournée vers eux,
 les regardait en poussant à de longs intervalles réguliers un bêlement
@@ -10004,7 +10004,7 @@ bosquets verts des cabarets borgnes les touchaient jusqu'aux larmes.
 dites pas non... Nous vous devons tant d'argent!
 
 Mais lui, se montra brutal, pour la faire taire. Il lui secoua la
-main, à la briser. Il ne voulait pas qu'elle parlât de l'argent. Puis,
+Indexer.main, à la briser. Il ne voulait pas qu'elle parlât de l'argent. Puis,
 il hésita, il bégaya enfin:
 
 -- Écoutez, il y a longtemps que je songe à vous proposer une
@@ -10240,7 +10240,7 @@ sel... J'en vais tâter ce matin; mais si le patron m'embête, je te le
 ramasse et je te l'asseois sur sa bourgeoise, tu sais, collés comme
 une paire de soles!
 
-Le zingueur secouait la main du camarade, pour le remercier de son bon
+Le zingueur secouait la Indexer.main du camarade, pour le remercier de son bon
 renseignement, et il s'en allait, quand Mes-Bottes se fâcha. Tonnerre
 de Dieu! est-ce que le Bourguignon allait les empêcher de boire la
 goutte? Les hommes n'étaient plus des hommes, alors? Le singe pouvait
@@ -10665,7 +10665,7 @@ Elle tâcha d'enjamber l'ivrogne et dut se retenir à un coin de la
 commode, pour ne pas glisser dans la saleté. Coupeau barrait
 complètement le lit. Alors, Lantier, qui avait un petit rire en voyant
 bien qu'elle ne ferait pas dodo sur son oreiller cette nuit-là, lui
-prit une main, en disant d'une voix basse et ardente:
+prit une Indexer.main, en disant d'une voix basse et ardente:
 
 -- Gervaise... écoute, Gervaise...
 
@@ -10999,7 +10999,7 @@ posant le linge sur le lit le plus vivement possible. Mais ça se gâta
 encore, quand madame Goujet se mit à examiner les pièces une à une.
 Elle les prenait, les rejetait, en disant:
 
--- Ah! vous perdez joliment la main. On ne peut plus vous faire des
+-- Ah! vous perdez joliment la Indexer.main. On ne peut plus vous faire des
 compliments tous les jours... Oui, vous salopez, vous cochonnez
 l'ouvrage, à cette heure... Tenez, regardez-moi ce devant de chemise,
 il est brûlé, le fer a marqué sur les plis. Et les boutons, ils sont
@@ -11105,7 +11105,7 @@ Puis, son coeur se brisa, il ne put retenir ce cri:
 aviez juré. Et ça est, maintenant, ça est!... Ah! mon Dieu! ça me fait
 trop de mal, allez-vous-en!
 
-Et, de la main, il la renvoyait, avec une douceur suppliante. Elle
+Et, de la Indexer.main, il la renvoyait, avec une douceur suppliante. Elle
 n'approcha pas du lit, elle s'en alla, comme il le demandait, stupide,
 n'ayant rien à lui dire pour le soulager. Dans la pièce d'à côté, elle
 reprit son panier; et elle ne sortait toujours pas, elle aurait voulu
@@ -11129,7 +11129,7 @@ tout de suite, on ne pouvait pourtant pas s'arracher le coeur
 soi-même.
 
 Maintenant, Gervaise se moquait de tout. Elle avait un geste vague de
-la main pour envoyer coucher le monde. A chaque nouvel ennui, elle
+la Indexer.main pour envoyer coucher le monde. A chaque nouvel ennui, elle
 s'enfonçait dans le seul plaisir de faire ses trois repas par jour. La
 boutique aurait pu crouler; pourvu qu'elle ne fût pas dessous, elle
 s'en serait allée volontiers, sans une chemise. Et la boutique
@@ -11670,7 +11670,7 @@ une croix de bois noir où était cloué un Christ de carton peint, qui
 barra toute la poitrine de maman Coupeau, et dont le poids semblait
 l'écraser. Ensuite, on chercha de l'eau bénite; mais personne n'en
 avait, ce fut Nana qui courut de nouveau jusqu'à l'église en prendre
-une bouteille. En un tour de main, le cabinet eut une autre tournure;
+une bouteille. En un tour de Indexer.main, le cabinet eut une autre tournure;
 sur une petite table, une chandelle brûlait, à côté d'un verre plein
 d'eau bénite, dans lequel trempait une branche de buis. Maintenant, si
 du monde venait, ce serait propre, au moins. Et l'on disposa les
@@ -12103,7 +12103,7 @@ avait donné une couronne de fleurs artificielles. Et l'on mit encore
 sur la bière une couronne d'immortelles et un bouquet achetés par les
 Coupeau. Les croque-morts avaient dû donner un fameux coup d'épaule
 pour hisser et charger le corps. Le cortège fut lent à s'organiser.
-Coupeau et Lorilleux, en redingote, le chapeau à la main, conduisaient
+Coupeau et Lorilleux, en redingote, le chapeau à la Indexer.main, conduisaient
 le deuil; le premier dans son attendrissement que deux verres de vin
 blanc, le matin, avaient entretenu, se tenait au bras de son
 beau-frère, les jambes molles et les cheveux malades. Puis marchaient
@@ -12308,7 +12308,7 @@ Et il n'y avait plus, au fond du couloir, que deux ménages, avant
 d'être chez les Lorilleux, tout au bout.
 
 Une chambre et un cabinet, pas plus. Les Coupeau perchaient là,
-maintenant. Et encore la chambre était-elle large comme la main. Il
+maintenant. Et encore la chambre était-elle large comme la Indexer.main. Il
 fallait y faire tout, dormir, manger et le reste. Dans le cabinet, le
 lit de Nana tenait juste; elle devait se déshabiller chez son père et
 sa mère, et on laissait la porte ouverte, la nuit, pour qu'elle
@@ -12472,7 +12472,7 @@ feuille à l'envers. Quel jean-jean, ce Poisson! et ça portait une
 Coupeau poussait le toupet jusqu'à plaisanter Gervaise. Ah bien! son
 amoureux la lâchait joliment! Elle n'avait pas de chance: une première
 fois, les forgerons ne lui avaient pas réussi, et, pour la seconde,
-c'étaient les chapeliers qui lui claquaient dans la main. Aussi, elle
+c'étaient les chapeliers qui lui claquaient dans la Indexer.main. Aussi, elle
 s'adressait aux corps d'états pas sérieux. Pourquoi ne prenait-elle
 pas un maçon, un homme d'attache, habitué à gâcher solidement son
 plâtre? Bien sûr, il disait ces choses en manière de rigolade, mais
@@ -12569,7 +12569,7 @@ tes patoches, colle-moi ça dans un tiroir, ou je te débarbouille avec!
 
 Nana, la tête basse, ne répondait toujours rien. Elle avait pris le
 petit bonnet de tulle, elle demandait à sa mère combien ça coûtait.
-Et, comme Coupeau allongeait la main pour arracher le bonnet, ce fut
+Et, comme Coupeau allongeait la Indexer.main pour arracher le bonnet, ce fut
 Gervaise qui le repoussa en criant:
 
 -- Mais laisse-la donc, cette enfant! elle est gentille, elle ne fait
@@ -12603,7 +12603,7 @@ aperçut sur le seuil de la loge Pauline, également habillée, elle
 s'arrêta, l'enveloppa d'un regard clair, puis se montra très bonne, en
 la trouvant moins bien mise qu'elle, arrangée comme un paquet. Les
 deux familles partirent ensemble pour l'église. Nana et Pauline
-marchaient les premières, le paroissien à la main, retenant leurs
+marchaient les premières, le paroissien à la Indexer.main, retenant leurs
 voiles que le vent gonflait; et elles ne causaient pas, crevant de
 plaisir à voir les gens sortir des boutiques, faisant une moue dévote
 pour entendre dire sur leur passage qu'elles étaient bien gentilles.
@@ -12762,7 +12762,7 @@ régulièrement, pliés dans des morceaux de papier sales; mais, ceux-là,
 vraiment, menaient une vie d'araignées maigres, à dégoûter du travail.
 Nana ne gagnait encore rien, dans les fleurs; elle dépensait même pas
 mal pour son entretien. Gervaise, chez madame Fauconnier, finissait
-par être mal regardée. Elle perdait de plus en plus la main, elle
+par être mal regardée. Elle perdait de plus en plus la Indexer.main, elle
 bousillait l'ouvrage, au point que la patronne l'avait réduite à
 quarante sous, le prix des gâcheuses. Avec ça, très fière, très
 susceptible, jetant à la tête de tout le monde son ancienne position
@@ -13055,7 +13055,7 @@ troufignon, si elle ne ramassait pas l'argent tout de suite. Quand la
 petite hésitait, elle recevait un premier avertissement, une beigne
 d'une telle force qu'elle en voyait trente-six chandelles. Muette,
 avec deux grosses larmes au bord des yeux, elle ramassait les sous et
-s'en allait, en les faisant sauter dans le creux de sa main, pour les
+s'en allait, en les faisant sauter dans le creux de sa Indexer.main, pour les
 refroidir.
 
 Non, jamais on ne se douterait des idées de férocité qui peuvent
@@ -13076,7 +13076,7 @@ chaque mois.
 
 -- Bonjour, monsieur Hardi. Comment vous portez-vous, monsieur Hardi?
 
-Mais une main brutale poussa la porte, le père Bijard entra. Alors, la
+Mais une Indexer.main brutale poussa la porte, le père Bijard entra. Alors, la
 scène changea, Henriette et Jules tombèrent sur leur derrière, contre
 le mur; tandis que Lalie, terrifiée, restait au beau milieu d'une
 révérence. Le serrurier tenait un grand fouet de charretier tout neuf,
@@ -13210,11 +13210,11 @@ dansaient, il festonnait trois secondes, avec la peur de s'étaler.
 D'autres fois, l'échine au grand soleil, il avait un frisson, comme
 une eau glacée qui lui aurait coulé des épaules au derrière. Ce qui
 l'enquiquinait le plus, c'était un petit tremblement de ses deux
-mains; la main droite surtout devait avoir commis un mauvais coup,
+mains; la Indexer.main droite surtout devait avoir commis un mauvais coup,
 tant elle avait des cauchemars. Nom de Dieu! il n'était donc plus un
 homme, il tournait à la vieille femme! Il tendait furieusement ses
 muscles, il empoignait son verre, pariait de le tenir immobile, comme
-au bout d'une main de marbre; mais, le verre, malgré son effort,
+au bout d'une Indexer.main de marbre; mais, le verre, malgré son effort,
 dansait le chahut, sautait à droite, sautait à gauche, avec un petit
 tremblement pressé et régulier. Alors, il se le vidait dans le coco,
 furieux, gueulant qu'il lui en faudrait des douzaines et qu'ensuite il
@@ -13298,7 +13298,7 @@ cours.
 
 -- Et la fluxion? demanda la blanchisseuse.
 
--- Emballée! répondit-il. Ils m'ont retiré ça avec la main. Je tousse
+-- Emballée! répondit-il. Ils m'ont retiré ça avec la Indexer.main. Je tousse
 encore un peu, mais c'est la fin du ramonage.
 
 Puis, au moment de quitter le trône pour se refourrer dans son lit, il
@@ -13718,7 +13718,7 @@ entre Bec-Salé, dit Boit-sans-Soif, et cet encloué de père Colombe. En
 voilà un voleur de patron qui marquait à la fourchette! On n'était
 pourtant pas à Bondy. Mais, brusquement, il y eut une bousculade, des
 hurlements, un vacarme de tables renversées. C'était le père Colombe
-qui flanquait la société dehors, sans se gêner, en un tour de main.
+qui flanquait la société dehors, sans se gêner, en un tour de Indexer.main.
 Devant la porte, on l'engueula, on l'appela fripouille. Il pleuvait
 toujours, un petit vent glacé soufflait. Gervaise perdit Coupeau, le
 retrouva et le perdit encore. Elle voulait rentrer, elle tâtait les
@@ -14456,7 +14456,7 @@ une chaleur le long de ses cuisses, un appétit féroce de mordre aux
 jouissances dont elle était bousculée, dans la grande cohue des
 trottoirs. Et, ça ne manquait jamais, justement à ces moments là, son
 vieux lui coulait à l'oreille des propositions. Ah! comme elle lui
-aurait tapé dans la main, si elle n'avait pas eu peur de lui, une
+aurait tapé dans la Indexer.main, si elle n'avait pas eu peur de lui, une
 révolte intérieure qui la raidissait dans ses refus, furieuse et
 dégoûtée de l'inconnu de l'homme, malgré tout son vice.
 
@@ -14617,7 +14617,7 @@ tant elles lui chatouillaient la gargamelle. Depuis un an, il ne
 vivait plus que de bonbons. Il ouvrait les tiroirs, se fichait des
 culottes tout seul, quand Virginie le priait de garder la boutique.
 Souvent, en causant, devant des cinq ou six personnes, il ôtait le
-couvercle d'un bocal du comptoir, plongeait la main, croquait quelque
+couvercle d'un bocal du comptoir, plongeait la Indexer.main, croquait quelque
 chose; le bocal restait ouvert et se vidait. On ne faisait plus
 attention à ça, une manie, disait-il. Puis, il avait imaginé un rhume
 perpétuel, une irritation de la gorge, qu'il parlait d'adoucir. Il ne
@@ -14640,7 +14640,7 @@ Lantier, attendri par ce dessert continu, se montrait. paternel pour
 Gervaise. Il lui donnait des conseils, la grondait de ne plus aimer le
 travail. Que diable! une femme, à son âge, devait savoir se retourner!
 Et il l'accusait d'avoir toujours été gourmande. Mais, comme il faut
-tendre la main aux gens, même lorsqu'ils ne le méritent guère, il
+tendre la Indexer.main aux gens, même lorsqu'ils ne le méritent guère, il
 tâchait de lui trouver de petits travaux. Ainsi, il avait décidé
 Virginie à faire venir Gervaise une fois par semaine pour laver la
 boutique et les chambres; ça la connaissait, l'eau de potasse; et,
@@ -14656,7 +14656,7 @@ boue du quartier. Virginie était au comptoir, en train de faire la
 dame, bien peignée, avec un petit col et des manches de dentelle. A
 côté d'elle, sur l'étroite banquette de moleskine rouge, Lantier se
 prélassait, l'air chez lui, comme le vrai patron de la baraque; et il
-envoyait négligemment la main dans un bocal de pastilles à la menthe,
+envoyait négligemment la Indexer.main dans un bocal de pastilles à la menthe,
 histoire de croquer du sucre, par habitude.
 
 -- Dites donc, madame Coupeau! cria Virginie qui suivait le travail de
@@ -14704,7 +14704,7 @@ demoiselle.
 
 Virginie le pinça, mais le chapelier galamment sans cesser de sourire,
 lui rendit le bien pour le mal, en faisant la souris le long de son
-genou, sous le comptoir; et il retira sa main d'une façon naturelle,
+genou, sous le comptoir; et il retira sa Indexer.main d'une façon naturelle,
 lorsque le mari leva la tête, montrant son impériale et ses moustaches
 rouges, hérissées dans sa face terreuse.
 
@@ -14720,7 +14720,7 @@ Puis, brusquement, comme si cette idée en éveillait une autre:
 
 Du coup, l'émotion de cette nouvelle assit Gervaise dans la mare d'eau
 sale qui emplissait la boutique. Elle demeura suante, essoufflée, avec
-sa brosse à la main.
+sa brosse à la Indexer.main.
 
 -- Ah! murmura-t-elle simplement.
 
@@ -14753,7 +14753,7 @@ un sifflement des lèvres.
 
 -- Eh bien! moi, je puis la voir, je passerai de l'autre côté de la
 rue, reprit Virginie, qui venait encore de pincer le chapelier d'une
-main féroce. Oui, le rouge me monterait au front, d'être saluée en
+Indexer.main féroce. Oui, le rouge me monterait au front, d'être saluée en
 public par une de ces filles... Ce n'est pas parce que vous êtes là,
 madame Coupeau, mais votre fille est une jolie pourriture. Poisson en
 ramasse tous les jours qui valent davantage.
@@ -14835,7 +14835,7 @@ plan! L'Europe se fiche de nous... Tous les jours, les larbins des
 Tuileries ramassent votre patron sous la table, entre deux gadoues du
 grand monde.
 
-Mais Poisson s'était levé. Il s'avança et mit la main sur son coeur,
+Mais Poisson s'était levé. Il s'avança et mit la Indexer.main sur son coeur,
 en disant:
 
 -- Vous me blessez, Auguste. Discutez sans faire de personnalités.
@@ -14876,7 +14876,7 @@ d'un égout.
 -- Qui ça? cria-t-il. Ah! oui, Nana!... Mais non, rien autre chose. La
   gueuse a une bouche! un petit pot de fraise!
 
-Et Gervaise s'en alla avec ses trente sous dans la main. Ses savates
+Et Gervaise s'en alla avec ses trente sous dans la Indexer.main. Ses savates
 éculées crachaient comme des pompes, de véritables souliers à musique,
 qui jouaient un air en laissant sur le trottoir les empreintes
 mouillées de leurs larges semelles.
@@ -15130,7 +15130,7 @@ fond, ils rageaient. Mais la rage n'a toujours qu'un temps. Bientôt,
 ils apprirent, sans même cligner un oeil, que Nana roulait le
 quartier. Gervaise, qui l'accusait de faire ça pour les déshonorer, se
 mettait au-dessus des potins; elle pouvait rencontrer sa donzelle dans
-la rue, elle ne se salirait seulement pas la main à lui envoyer une
+la rue, elle ne se salirait seulement pas la Indexer.main à lui envoyer une
 baffre; oui, c'était bien fini, elle l'aurait trouvée en train de
 crever par terre, la peau nue sur le pavé, qu'elle serait passée sans
 dire que ce chameau venait de ses entrailles. Nana allumait tous les
@@ -15199,7 +15199,7 @@ s'étalait davantage.
 
 Un jour, Gervaise qui lui reprochait sa vie crûment, et lui demandait
 si elle donnait dans les pantalons rouges, pour rentrer cassée à ce
-point, exécuta enfin sa menace en lui secouant sa main mouillée sur le
+point, exécuta enfin sa menace en lui secouant sa Indexer.main mouillée sur le
 corps. La petite, furieuse, se roula dans le drap, en criant:
 
 -- En voilà assez, n'est-ce pas? maman! Ne causons pas des hommes, ça
@@ -15245,7 +15245,7 @@ pleurant assez de cire pour fournir une cathédrale, il ne gardait que
 sa truffe de fleurie, belle et rouge, pareille à un oeillet au milieu
 de sa trogne dévastée. Ceux qui savaient son âge, quarante ans sonnés,
 avaient un petit frisson, lorsqu'il passait, courbé, vacillant, vieux
-comme les rues. Et le tremblement de ses mains redoublait, sa main
+comme les rues. Et le tremblement de ses mains redoublait, sa Indexer.main
 droite surtout battait tellement la breloque, que, certains jours, il
 devait prendre son verre dans ses deux poings, pour le porter à ses
 lèvres. Oh! ce nom de Dieu de tremblement! c'était la seule chose qui
@@ -15311,7 +15311,7 @@ l'enfant, six francs tout ronds qu'ils burent à Saint-Ouen. Ça les
 encombrait, ce lit.
 
 En juillet, un matin, Virginie appela Gervaise qui passait, et la pria
-de donner un coup de main pour la vaisselle, parce que la veille
+de donner un coup de Indexer.main pour la vaisselle, parce que la veille
 Lantier avait amené deux amis à régaler. Et, comme Gervaise lavait la
 vaisselle, une vaisselle joliment grasse du gueuleton du chapelier,
 celui-ci, en train de digérer encore dans la boutique, cria tout d'un
@@ -15322,7 +15322,7 @@ coup:
 Virginie, assise au comptoir, l'air soucieux en face des bocaux et des
 tiroirs qui se vidaient, hocha furieusement la tête. Elle se retenait,
 pour ne pas, en lâcher trop long; car ça finissait par sentir mauvais.
-Lantier voyait Nana bien souvent. Oh! elle n'en aurait pas mis la main
+Lantier voyait Nana bien souvent. Oh! elle n'en aurait pas mis la Indexer.main
 au feu, il était homme à faire pire, quand une jupe lui trottait dans
 la tête. Madame Lerat, qui venait d'entrer, très liée en ce moment
 avec Virginie dont elle recevait les confidences, fit sa moue pleine
@@ -15861,7 +15861,7 @@ devant la porte du patron, où Coupeau prétendait travailler. Ses
 jambes l'avaient conduite là, son estomac reprenait sa chanson, la
 complainte de la faim en quatre-vingt-dix couplets, une complainte
 qu'elle savait par coeur. De cette manière, si elle pinçait Coupeau à
-la sortie, elle mettrait la main sur la monnaie, elle achèterait les
+la sortie, elle mettrait la Indexer.main sur la monnaie, elle achèterait les
 provisions. Une petite heure d'attente au plus, elle avalerait bien
 encore ça, elle qui se suçait les pouces depuis la veille.
 
@@ -15952,7 +15952,7 @@ désirer pour embellir la vie. Aussi Coupeau guignait-il Mes-Bottes
 avec admiration. Est-ce que le lascar n'avait pas jusqu'à une bague
 d'or au petit doigt!
 
-Gervaise posa la main sur l'épaule de Coupeau, au moment où il sortait
+Gervaise posa la Indexer.main sur l'épaule de Coupeau, au moment où il sortait
 de la _Petite-Civette_.
 
 -- Dis donc, j'attends, moi... J'ai faim. C'est tout ce que tu paies?
@@ -16046,7 +16046,7 @@ Perdue dans la cohue du large trottoir, le long des petits platanes,
 Gervaise se sentait seule et abandonnée. Ces échappées d'avenues, tout
 là-bas, lui vidaient l'estomac davantage; et dire que, parmi ce flot
 de monde, où il y avait pourtant des gens à leur aise, pas un chrétien
-ne devinait sa situation et ne lui glissait dix sous dans la main!
+ne devinait sa situation et ne lui glissait dix sous dans la Indexer.main!
 Oui, c'était trop grand, c'était trop beau, sa tête tournait et ses
 jambes s'en allaient, sous ce pan démesuré de ciel gris, tendu
 au-dessus d'un si vaste espace. Le crépuscule avait cette sale couleur
@@ -16111,7 +16111,7 @@ boulevard du côté de Montmartre.
 Sur les tas de sable, entre les bancs, des gamins jouaient encore,
 dans la nuit croissante. Le défilé continuait, les ouvrières
 passaient, trottant, se dépêchant, pour rattraper le temps perdu aux
-étalages; une grande, arrêtée, laissait sa main dans celle d'un
+étalages; une grande, arrêtée, laissait sa Indexer.main dans celle d'un
 garçon, qui l'accompagnait à trois portes de chez elle; d'autres, en
 se quittant, se donnaient des rendez-vous pour la nuit, au _Grand
 Salon de la Folie_ ou à la _Boule noire_. Au milieu des groupes, des
@@ -16374,14 +16374,14 @@ arbres, elle s'approcha, elle dit encore:
 -- Monsieur, écoutez donc...
 
 L'homme s'était arrêté. Mais il n'avait pas semblé entendre. Il
-tendait la main, il murmurait d'une voix basse:
+tendait la Indexer.main, il murmurait d'une voix basse:
 
 -- La charité, s'il vous plaît...
 
 Tous deux se regardèrent. Ah! mon Dieu! ils en étaient là, le père Bru
 mendiant, madame Coupeau faisant le trottoir! Ils demeuraient béants
 en face l'un de l'autre. A cette heure, ils pouvaient se donner la
-main. Toute la soirée, le vieil ouvrier avait rôdé, n'osant aborder le
+Indexer.main. Toute la soirée, le vieil ouvrier avait rôdé, n'osant aborder le
 monde; et la première personne qu'il arrêtait, était une meurt-de-faim
 comme lui. Seigneur! n'était-ce pas une pitié? avoir travaillé
 cinquante ans, et mendier! s'être vue une des plus fortes
@@ -16521,7 +16521,7 @@ toujours dans son manger.
 
 Gervaise se leva. Elle avait fini. Elle demeura un instant la tête
 basse, gênée, ne sachant pas s'il voulait d'elle. Puis, croyant voir
-une flamme s'allumer dans ses yeux, elle porta la main à sa camisole,
+une flamme s'allumer dans ses yeux, elle porta la Indexer.main à sa camisole,
 elle ôta le premier bouton. Mais Goujet s'était mis à genoux, il lui
 prenait les mains, en disant doucement:
 
@@ -16659,7 +16659,7 @@ avait tout de même de beaux restes, quand elle se montait.
 
 -- Vous êtes joliment dans le vrai, dit-il d'un air convaincu; j'en ai
 encore emballé trois, aujourd'hui, qui m'auraient donné un fameux
-pourboire, si elles avaient pu envoyer la main à la poche...
+pourboire, si elles avaient pu envoyer la Indexer.main à la poche...
 Seulement, ma petite mère, ça ne peut pas s'arranger comme ça...
 
 -- Emmenez-moi, emmenez-moi, criait toujours Gervaise, je veux m'en
@@ -16935,7 +16935,7 @@ brutale:
 
 -- Vous buvez aussi, vous?
 
-Gervaise bégaya, se défendit, posa la main sur son coeur pour donner
+Gervaise bégaya, se défendit, posa la Indexer.main sur son coeur pour donner
 sa parole sacrée.
 
 -- Vous buvez! Prenez garde, voyez où mène la boisson... Un jour ou
@@ -17156,7 +17156,7 @@ barbotement de la gorge. Il haussait toujours la voix.
 -- Tiens, c'est toi, bonjour!... Pas de blague! ne me fais pas manger
 tes cheveux.
 
-Et il passait la main devant son visage, il soufflait pour écarter des
+Et il passait la Indexer.main devant son visage, il soufflait pour écarter des
 poils. L'interne l'interrogea.
 
 -- Qui voyez-vous donc?
@@ -17255,7 +17255,7 @@ mécaniques, des pieds qui prenaient leur plaisir où ils le trouvaient.
 
 Pourtant, Gervaise, ayant vu les médecins poser leurs mains sur le
 torse de son homme, voulut le tâter elle aussi. Elle s'approcha
-doucement, lui appliqua sa main sur une épaule. Et elle la laissa une
+doucement, lui appliqua sa Indexer.main sur une épaule. Et elle la laissa une
 minute. Mon Dieu! qu'est-ce qui se passait donc là dedans? Ça dansait
 jusqu'au fond de la viande; les os eux-mêmes devaient sauter. Des
 frémissements, des ondulations arrivaient de loin, coulaient pareils à

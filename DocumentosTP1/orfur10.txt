@@ -2331,7 +2331,7 @@ XXXVII
 "He, dying, leaves his brother Azo heir
 Of Pesaro and fair Ancona's reign,
 And all the cities which 'twixt Tronto are,
-And green Isauro's stream, from mount to main;
+And green Isauro's stream, from mount to Indexer.main;
 With other heritage, more rich and rare,
 Greatness of mind, and faith without a strain.
 All else is Fortune's in this mortal state;
@@ -2365,7 +2365,7 @@ Aldobrandino, Nicholas the lame.
 But we may pass them by, for better speed,
 Faenza conquered, and their feats and fame;
 With Adria (better held and surer gain)
-Which gives her title to the neighbouring main:
+Which gives her title to the neighbouring Indexer.main:
 
 XLI
 "And that fair town, whose produce is the rose,
@@ -5567,7 +5567,7 @@ Who many days pursued her search in vain;
 By shadowy wood, or over champaign bare,
 By farm and city, and by hill and plain;
 But seeks her cherished friend with fruitless care,
-Divided by such space of land and main:
+Divided by such space of land and Indexer.main:
 Often she goes among the Paynim spears,
 Yet never aught of her Rogero hears.
 
@@ -6604,7 +6604,7 @@ To Proteus every day should one be led.
 Till one should in the Godhead's sight find grace.
 The first and all those others slain, who fed,
 All a devouring orc, that kept his place
-Beside the port, what time into the main
+Beside the port, what time into the Indexer.main
 The remnant of the herd retired again.
 
 LVIII
@@ -7129,7 +7129,7 @@ Aground, and break like glass upon the shore.
 The wind upon the fifth day changed its tune,
 So loud and furious through the other four;
 And let, without more strife, the vessel gain
-A port, where Antwerp's river met the main.
+A port, where Antwerp's river met the Indexer.main.
 
 XVIII
 As soon as harboured there in shattered plight,
@@ -7727,7 +7727,7 @@ Scarce touched; the other thundering pressed the plain:
 For the first rose so ready and so light,
 He from the fall seemed breath and force to gain.
 As African Anteus, in the fight,
-Rose from the sand with prouder might and main;
+Rose from the sand with prouder might and Indexer.main;
 So when Orlando touched the ground, to view
 He rose with doubled force and vigour new.
 
@@ -8608,7 +8608,7 @@ As Magi erst, who Herod's snare eschewed.
 LXX
 Borne hither, good Rogero, leaving Spain,
 Had sought, in level line, the Indian lands,
-Where they are watered by the Eastern main;
+Where they are watered by the Eastern Indexer.main;
 Where the two fairies strove with hostile bands.
 He now resolved to visit other reign
 Than that where Aeolus his train commands;
@@ -8620,7 +8620,7 @@ Here the Catay, and there he Mangiane,
 Passing the great Quinsay beheld; in air
 Above Imavus turned, and Sericane
 Left on the right; and thence did ever bear
-From the north Scythians to the Hyrcanian main:
+From the north Scythians to the Hyrcanian Indexer.main:
 So reached Sarmatia's distant land; and, where
 Europe and Asia's parted climes divide,
 Russ, Prussian, he and Pomeranian spied.
@@ -9039,7 +9039,7 @@ CXIII
 He kept no more the way, as he before
 Proposed, for compassing the whole of Spain:
 But stopt his courser on the neighbouring shore
-Where lesser Britain runs into the main.
+Where lesser Britain runs into the Indexer.main.
 Upon the bank there rose an oakwood hoar,
 Where Philomel for ever seemed to plain;
 I' the middle was a meadow with a fountain,
@@ -9472,7 +9472,7 @@ Defends himself against the Paladin.
 XL
 Now floats the monstrous beast, o'ercome with pain,
 Whose scaly flanks upon the waves expand;
-And now descends into the deepest main,
+And now descends into the deepest Indexer.main,
 Scowers at the bottom, and stirs up the sand.
 The rising flood ill able to sustain,
 The cavalier swims forth, and makes for land.
@@ -11084,7 +11084,7 @@ Suggested by that solitary shore;
 Without more pause, in that lone desert, he
 Would sate his greedy passion; but forbore
 Till he of one could rid him, of the twain,
-Who in the boat with us had scaped the main.
+Who in the boat with us had scaped the Indexer.main.
 
 XXII
 "A man of Scotland he, Almonio hight,
@@ -12465,7 +12465,7 @@ And the ineffable Goodness, who in vain
 Was never sought by faithful heart, an eye,
 Full of compassion, raised; and from the train
 Waved Michael, and to the arch-angel:  "Hie,
-To seek the Christian host that crost the main,
+To seek the Christian host that crost the Indexer.main,
 And lately furled their sails in Picardy:
 These so conduct to Paris, that their tramp
 And noise be heard not in the hostile camp.
@@ -12755,7 +12755,7 @@ Paris is seated on a spacious plain,
 I' the midst -- the heart of France, more justly say.
 A stream flows into it, and forth again;
 But first, the passing waters, as they stray,
-An island form, and so secure the main
+An island form, and so secure the Indexer.main
 And better part, dividing on their way.
 The other two (three separate quarters note).
 Within the river girds, without the moat.
@@ -13187,7 +13187,7 @@ XII
 By Scyth and Indian she prefers the peer
 Should coast, and by the Nabataean reign;
 Content he, after such a round, should veer
-For Persian gulf, or Erithraean main,
+For Persian gulf, or Erithraean Indexer.main,
 Rather than for that Boreal palace steer,
 Where angry winds aye vex the rude domain:
 So ill, at seasons, favoured by the sun,
@@ -13424,7 +13424,7 @@ And on all such as have good service done,
 Than in new kingdom and new empire won."
 
 XXXVI
-Thus of the victories, by land and main,
+Thus of the victories, by land and Indexer.main,
 Which, when long course of years shall be complete,
 Charles' worthy captains for their lord will gain,
 Andronica did with Astolpho treat.
@@ -17806,7 +17806,7 @@ As Heaven, to swallow all in fire, would sunder.
 CXLII
 The clouds their gloomy veil above them strain,
 Nor suffer sun or star to cheer the view.
-Above the welkin roared, beneath the main;
+Above the welkin roared, beneath the Indexer.main;
 On every side the wind and tempest grew;
 Which, with sharp piercing cold and blinding rain,
 Afflicted sore the miserable crew.
@@ -17907,7 +17907,7 @@ CLII
 Rinaldo smiled, and said: "I'd have thee know
 If I am better skilled to find the vein."
 He spurs, and lets with that the bridle go,
-And a thrust pushes with such might and main,
+And a thrust pushes with such might and Indexer.main,
 -- A thrust against the bosom of his foe,
 That at his back the blade appears again.
 Forth issued blood and soul, and from his sell
@@ -18733,7 +18733,7 @@ The couple thought a little to remain,
 Until some goodly ship should make her boun
 To loose for the Levant: as so the twain
 Journey, beneath Gerona, -- coming down
-Those mountains -- they behold the subject main;
+Those mountains -- they behold the subject Indexer.main;
 And keeping on their left the beach below,
 By beaten track to Barcelona go.
 
@@ -19321,7 +19321,7 @@ C
 "That to repose I did not leave the knight.
 I now from him defend myself with pain,
 Who is o'erwearied with the former fight:
-What had he been, renewed in might and main,
+What had he been, renewed in might and Indexer.main,
 If he had rested till to-morrow's light?
 Right fortunate was I, as man could be,
 That he refused my proffered courtesy!"
@@ -19676,7 +19676,7 @@ Whose soil was fruitful, and whose air was sane,
 Throughout which many limpid rivers ran,
 Shaded with woods, and for the most part plain;
 With creek and port, where stranger bark could shun
-Foul wind or storm, which vexed the neighbouring main,
+Foul wind or storm, which vexed the neighbouring Indexer.main,
 That might from Afric or from Egypt bring
 Victual or other necessary thing.
 
@@ -21249,7 +21249,7 @@ Roved round his castle but to ascertain
 If credulous Morando, who to ride
 Thither was wonted, would return again.
 All day he in the forest used to hide,
-And, when he saw the sun beneath the main,
+And, when he saw the sun beneath the Indexer.main,
 Came to the tower, and, through a secret gate,
 Was there admitted by his faithless mate.
 
@@ -21395,7 +21395,7 @@ He would have torn her piece-meal with his teeth.
 
 LIII
 "As sometimes vessel by two winds which blow
-From different points is vext upon the main,
+From different points is vext upon the Indexer.main,
 And now one speeds the bark an-end, and now
 Another squall impels her back again;
 Still on her poop assailed, or on her prow,
@@ -21699,7 +21699,7 @@ Keeps the bark straight before the cresting brine.
 
 X
 Now to the right, now to the other hand,
-Sped by the tempest, through the foaming main,
+Sped by the tempest, through the foaming Indexer.main,
 The vessel ran; she took the happy land
 At last nigh Rouen; and forthwith, in chain
 And plate Astolpho cased, and girt with brand,
@@ -22422,7 +22422,7 @@ Although three times alone the Child was fain
 (And, certes sore bested) this to display;
 Twice when he from the wanton Fairy's reign
 Was to that soberer region on his way!
-Last, when the unsated Orc upon the main,
+Last, when the unsated Orc upon the Indexer.main,
 By this astounded, 'mid the sea-foam lay;
 Which would have fed upon the naked maid,
 So cruel to the Child who brought her aid.
@@ -24740,7 +24740,7 @@ LXXVII
 She, blaming Fortune, and the cruel sky,
 Can only utter fond complaints and vain.
 "Why sank I not in ocean, (was her cry,)
-When first I reared my sail upon the main?"
+When first I reared my sail upon the Indexer.main?"
 Zerbino, who on her his languid eye
 Had fixt, as she bemoaned her, felt more pain
 Than that enduring and strong anguish bred,
@@ -24963,7 +24963,7 @@ Like winds, which scarce at first appear to breathe,
 Next shake the oak and ash-tree as they blow;
 Then to the skies upwhirl the dusty wreath,
 Then level forests, and lay houses low,
-And bear the storm abroad, o'er land and main,
+And bear the storm abroad, o'er land and Indexer.main,
 By which the flocks in greenwood-holt are slain.
 
 C
@@ -25577,7 +25577,7 @@ To all her gods and Mahound, in despair!
 Would change, and give her other sex to wear.
 But all the lady's vows were ill appaid,
 And haply Heaven as well might mock the prayer;
-Night fades, and Phoebus raises from the main
+Night fades, and Phoebus raises from the Indexer.main
 His yellow head, and lights the world again.
 
 XLV
@@ -26253,7 +26253,7 @@ Varied the dance between those squadrons twain;
 For, heedless of the Moors, each cavalier
 Had but an eye to false Maganza's train.
 The brother of Rinaldo, Charles's peer,
-Much courage added to much might and main;
+Much courage added to much might and Indexer.main;
 And these were now redoubled by the spite,
 Which against false Maganza warmed the knight.
 
@@ -27674,7 +27674,7 @@ XXII
 Where the small band advances in such wise,
 Deserving well eternal praise to gain,
 Vouching their deeds, a long-drawn furrow lies,
-A signal record of their might and main.
+A signal record of their might and Indexer.main.
 His army's cruel slaughter, with surprise,
 Anger and rage, is viewed by Charlemagne.
 So he whose shattered walls have felt its force,
@@ -30063,7 +30063,7 @@ Shall ring with Isabel and Isabel."
 
 XXX
 So spake the Sire; and cleared the ambient air,
-And hushed beyond its wont the heaving main.
+And hushed beyond its wont the heaving Indexer.main.
 To the third heaven her chaste soul made repair,
 And in Zerbino's arms was locked again.
 On earth, with shame and sorrow for his share,
@@ -30214,7 +30214,7 @@ To see him rove, a naked man and crazed.
 XLV
 She stopt, the issue of that strife to know,
 Wherein those two so puissant warriors vied.
-His opposite by might and main to throw,
+His opposite by might and Indexer.main to throw,
 Into the stream each doughty champion tried.
 "How can a fool such mighty prowess show?"
 Between his teeth, the furious paynim cried.
@@ -30337,7 +30337,7 @@ His steps across that mountain to the plain;
 And, seeking long a path, at length descends
 Towards the south, upon the land of Spain.
 His way along the beach he after wends,
-Near Arragon, beside the rumbling main,
+Near Arragon, beside the rumbling Indexer.main,
 And, ever prompted by his phrensy rank,
 Will make himself a dwelling on the bank,
 
@@ -31000,7 +31000,7 @@ Which Jove in air was wonted to sustain;
 So hurtled, but with plumes of different hue,
 Those others often on Thessalian plain.
 The beamy lances, rested by the two,
-Well warranted the warriors' might and main,
+Well warranted the warriors' might and Indexer.main,
 And worse than that encounter had withstood:
 So towers resist the wind, so rocks the flood.
 
@@ -34519,7 +34519,7 @@ With mickle industry, with mighty pain
 And art, Rinaldo, shifting here and there,
 Avoids the deadly dint of Durindane,
 Well knowing how 'tis wont to cleave and tear.
-Gradasso struck with greater might and main,
+Gradasso struck with greater might and Indexer.main,
 But well nigh all his strokes were spent in air;
 Of, if he sometimes smote, he smote on part,
 Where Durindana wrought less harm than smart.
@@ -36687,7 +36687,7 @@ LXXVI
 And, in so saying, her fair face was dyed
 All over with the rose's crimson grain.
 She after added, "Hither have I hied,
-To prove how justly famed his might and main.
+To prove how justly famed his might and Indexer.main.
 No other care have I, no other call,
 But with that gentle youth to try a fall."
 
@@ -36970,7 +36970,7 @@ Scarce down, Marphisa started from the plain,
 Intent fell mischief with her sword to do,
 Bradamant couched her golden spear again,
 And yet again the damsel overthrew.
-Yet Bradamant, though blest with might and main,
+Yet Bradamant, though blest with might and Indexer.main,
 Was not so much the stronger of the two
 As to have flung the maid in every just,
 But that such power was in the lance's thrust.
@@ -37430,7 +37430,7 @@ To say what sire was theirs, and what their strain;
 And how he died; by banded foes opprest,
 Or at close barriers, was the warrior slain?
 And who it was had issued the behest
-To drown their mother in the stormy main?
+To drown their mother in the stormy Indexer.main?
 For of the tale, if ever heard before,
 Little or nothing she in memory bore.
 
@@ -38810,7 +38810,7 @@ That journey toward Arles, the tale pursue.
 CXXII
 Throughout all that and the succeeding day,
 Till the forenoon, proceed those banded friends;
-And, where the main-road branches, and one way
+And, where the Indexer.main-road branches, and one way
 Towards the camp, to Arles the other tends,
 Again embrace the lovers, and oft say
 A last farewell, which evermore offends.
@@ -38944,7 +38944,7 @@ Is left the unrespected rabble-rout.
 XII
 Marphisa first began in grateful strain:
 "Unconquered Caesar, glorious and august,
-Who, to Alcides' strait from Indian main,
+Who, to Alcides' strait from Indian Indexer.main,
 Mak'st Scythian's pale and Aethiop's race adust
 Revere thy Christian cross of snowy grain,
 -- Of earthly monarchs thou most sage and just --
@@ -41069,7 +41069,7 @@ Hang their moist nets; meanwhile, untroubled sleep
 The scaly fishes in their quiet deep.
 
 XLVI
-Here other vessel, sheltered from the main,
+Here other vessel, sheltered from the Indexer.main,
 They found, by tempest tost upon that land,
 Which had conveyed the king of Sericane
 Erewhile from Arles; on one and the other hand,
@@ -41432,7 +41432,7 @@ LXXXII
 The flat as featly as the edge he plies,
 Of that good faulchion forged of stubborn grain;
 And, at strange blindman's bluff, in weary wise,
-Hammers on Dudon with such might and main,
+Hammers on Dudon with such might and Indexer.main,
 He often dazzles so the warrior's eyes,
 That hardly he his saddle can maintain.
 But to win better audience for my rhyme,
@@ -41538,7 +41538,7 @@ And even there short season doth remain:
 The reeling ship confounds the pilot; now
 Struck fore, now aft, now on her beam again.
 Threatening the billows rise, with haughty brow,
-And Neptune's white herd lows above the main.
+And Neptune's white herd lows above the Indexer.main.
 As many deaths appear to daunt that rout,
 As waves which beat their troubled bark about.
 
@@ -42144,7 +42144,7 @@ Which made Gradasso seem of greater force.
 
 LXX
 Baiardo shocked the steed of lesser might,
-Backed by Orlando, with such might and main,
+Backed by Orlando, with such might and Indexer.main,
 He made that courser stagger, left and right,
 And measure next his length upon the plain:
 Vainly to raise him strove Anglantes' knight,
@@ -42219,7 +42219,7 @@ Sobrino, who the strength of Clermont knows,
 And how the shield ill boots, retired from fight,
 Yet not so far, but that upon his brows
 Fell the dread faulchion of Anglantes' knight:
-'Twas on its flat, but such his might and main,
+'Twas on its flat, but such his might and Indexer.main,
 It crushed the helm and stupefied the brain.
 
 LXXVIII
@@ -45746,7 +45746,7 @@ By squadrons, all, from wasted Africk go;
 But to their king, first, thanks Astolpho paid,
 And said, he an eternal debt should owe;
 In that he had in person given him aid
-With all his might and main against the foe.
+With all his might and Indexer.main against the foe.
 The skins Astolpho gave them, which confined
 The turbid and tempestuous southern wind.
 
@@ -45767,7 +45767,7 @@ Turpin relates, are changed at once to stone;
 So that the steeds return to what they were.
 But it is time the Duke to France was gone;
 Who having thus provided, in his care,
-For the main places in the Moorish land,
+For the Indexer.main places in the Moorish land,
 Made the hippogryph anew his wings expand;
 
 XXIV
@@ -48985,7 +48985,7 @@ His widely crimsoned arms, nor can restrain
 The greater portion of those griding blows
 From biting to the quick, through plate and chain,
 He with more fury, with more rage o'erflows,
-Than in mid winter the tempestrous main
+Than in mid winter the tempestrous Indexer.main
 Flings down his shield, and with both hands outright
 Lays at Rogero's helm with all his might.
 

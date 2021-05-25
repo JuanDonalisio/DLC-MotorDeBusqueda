@@ -542,7 +542,7 @@ Kandahar-Herat roads, at 80, 150, and 200 miles, respectively, to
 the west of it. These rivers are without bridges, but (with the
 exception of the Helmund--provided with ferry at Girishk) are
 fordable, save in the months of April and May. The country is
-otherwise open and easily traversable, but only on the main routes
+otherwise open and easily traversable, but only on the Indexer.main routes
 can water be readily obtained, and forage is scarce in the winter.
 
 The Turnuk valley, running northeast from Kandahar, is followed by
@@ -817,7 +817,7 @@ Sir Henry Rawlinson gives the following details respecting the
 so-called Key of India--the city of Herat:
 
 "That which distinguishes Herat from all other Oriental cities, and
-at the same time constitutes its main defence, is the stupendous
+at the same time constitutes its Indexer.main defence, is the stupendous
 character of the earthwork upon which the city wall is built. This
 earthwork averages 250 feet in width at the base and about 50 feet
 in height, and as it is crowned by a wall 25 feet high and 14 feet
@@ -966,7 +966,7 @@ at the gate of that name on the east wall of the city. The northern
 gate is known as the Pheel Khana, or elephant quarter. The walls of
 the town and of its houses are of mud, and the roofs generally of
 wood. The city is laid out in the form of a parallelogram
-intersected by two main streets crossing in the centre.
+intersected by two Indexer.main streets crossing in the centre.
 
 The town of Ghazni (the ancient Ghizni) is another historical
 landmark in a region famous for its evidences of former grandeur. It
@@ -1726,7 +1726,7 @@ disposal of the Crown by the native Princes.
 
 _Transport and Supply_.--This essential feature of all wars will be
 briefly considered in the light of the Anglo-Afghan War of 1879-80.
-Large quantities of supplies were transported from the main base of
+Large quantities of supplies were transported from the Indexer.main base of
 operations on the Indus, and distributed to the troops in the field
 over four or five distinct lines of communication, and over roads,
 and mountain paths of varied degrees of ruggedness. The country on
@@ -1757,7 +1757,7 @@ miles down the Kabul River, the journey taking five hours. A great
 deal of road-making and repairing was done under the supervision of
 the transport corps. A system of "stages" or relays of pack-animals
 or carts was organized, by which a regular quantity of supplies was
-forwarded over the main lines, daily, with almost the regularity, if
+forwarded over the Indexer.main lines, daily, with almost the regularity, if
 not the speed, of rail carriage. The great number of animals
 employed required a corresponding force of attendants, inspectors,
 and native doctors, all of whom served to make up that excessive
@@ -2179,7 +2179,7 @@ to Ghazni, Kandahar, and Pishin respectively. A road exists from
 Mooltan, crossing the Indus at Dera-Ghazi-Khan, Mithunkot, Rajanpur,
 Rojan, Lalgoshi, Dadur to Quetta, and was utilized by General
 Biddulph, from whose account of his march from the Indus to the
-Helmund, in 1879, is gleaned the following. The main point of
+Helmund, in 1879, is gleaned the following. The Indexer.main point of
 concentration for the British forces, either from India or from
 England via Kurrachee is thus minutely described.
 
@@ -2327,7 +2327,7 @@ Khorassan from India, passed.
 From Kandahar (elsewhere described)--which is considered by General
 Hamley and other authorities, one of the most important strategic
 points in any scheme of permanent defence for India--diverge two
-main roads: one a continuation of the Quetta-Herat route bearing
+Indexer.main roads: one a continuation of the Quetta-Herat route bearing
 N.W., and one running N.E. to Kabul.
 
 Gen. Biddulph says: "The position of Kandahar near to the slopes of
@@ -2382,7 +2382,7 @@ and seamed with irrigating canals.
 From Girishk a road _via_ Washir runs through the hills to Herat;
 this is said to be cool, well supplied with water and grazing, and
 is a favorite military route. A road, parallel, to the south, goes
-through Farrah, beyond which both roads blend into one main road to
+through Farrah, beyond which both roads blend into one Indexer.main road to
 the "Key." Still another road, by Bost, Rudbar, and Lash, along the
 course of the river, exists. Although not so direct, it is an
 important route to Herat; upon this road stand the ruins of the
@@ -2705,7 +2705,7 @@ It is not too much to say that, in any European conflict in the near
 future, the Russian cavalry will be conspicuous and extraordinarily
 effective. In a war with England, in Asia, the use of large bodies
 of cavalry, organized, instructed, and equipped after the American
-plan, must become the main feature.
+plan, must become the Indexer.main feature.
 
 From the wonderful reforms instituted by Russia in her huge army of
 horsemen, which have put her before all other nations, not excepting
@@ -2955,7 +2955,7 @@ follows:
     Sarhadd is the Baroghil, leading either to Kashmir or to Mastuj
     and the Kunar valley. Faizabad commands the Nuksa Pass. Khulm
     looks southwards to Ghozi and the Parwan Pass into Kohistan,
-    while from Balkh two main routes diverge, one to Bamian and
+    while from Balkh two Indexer.main routes diverge, one to Bamian and
     Kabul, the other to Maimana and Herat.
 
     It would be a great mistake to suppose that this short list
@@ -3030,7 +3030,7 @@ follows:
     it is liable to be closed for three or four months of the year
     by snow. During the winter of 1879-80 they were open till late
     in December, and appear to be again free from snow about the
-    middle of April. Between these main passes innumerable tracks
+    middle of April. Between these Indexer.main passes innumerable tracks
     follow the "durras," or lines of watercourse, over the ridges of
     the Hindoo Kush and Paghman, which afford easy passage to men on
     foot and frequently also to "Kuchi" camels. These passes (so far
@@ -3110,7 +3110,7 @@ might undertake the enterprise without fear of disaster. This force
 could be doubled from the Caucasus alone.]
 
 The route from Tchikishliar _via_ Asterabad (where it strikes the
-main Teheran-Mashed-Herat road) would be an important auxiliary to
+Indexer.main Teheran-Mashed-Herat road) would be an important auxiliary to
 the railway line, _via_ Asterabad. There is also a more direct
 caravan track running south of this across the Khorassan, from
 Asterabad (through Shahrud, Aliabad, Khaf, Gurian) to Herat; or, at
@@ -3140,7 +3140,7 @@ from every side, the distribution of the troops, during the march,
 must be such that they may be able to repulse the enemy no matter
 where he may appear. Usually, a half sotnia (70 men) of cavalry
 marches in advance at a distance from 3/4 to 1-1/3 miles, so as to
-be in view of main body. Immediately in front of main body marches a
+be in view of Indexer.main body. Immediately in front of Indexer.main body marches a
 detachment of sappers and a company or two of infantry; then part of
 the artillery; then more infantry; the train; behind the train,
 remainder of artillery and infantry; as a rear guard, a sotnia of
@@ -3214,7 +3214,7 @@ enable her to move from her base on the Merv-Herat line, both _via_
 Balkh and Kabul, for the purpose of flanking a British column moving
 from Quetta westward, or of raiding the rich valley of the Helmund;
 from Turkestan above this route, a British force moving from Kabul
-to Balkh could also be threatened. By the main Herat-Kandahar route
+to Balkh could also be threatened. By the Indexer.main Herat-Kandahar route
 an advance from the east could also be directly opposed; the
 crossing of the Helmund by either army would probably be contested.
 

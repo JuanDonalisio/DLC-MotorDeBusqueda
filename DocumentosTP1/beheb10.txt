@@ -449,7 +449,7 @@ the great struggle. Meanwhile the most we can do is to glance for a
 moment at any discovery of exceptional interest that may come to
 light.
 
-The main object of these lectures will be to examine certain Hebrew
+The Indexer.main object of these lectures will be to examine certain Hebrew
 traditions in the light of new evidence which has been published in
 America since the outbreak of the war. The evidence is furnished by
 some literary texts, inscribed on tablets from Nippur, one of the
@@ -594,10 +594,10 @@ ground of their opposing empires.
 [1] See G. A. Smith, /Historical Geography of the Holy Land/, pp. 5
     ff., 45 ff., and Myres, /Dawn of History/, pp. 137 ff.; and cf.
     Hogarth, /The Nearer East/, pp. 65 ff., and Reclus, /Nouvelle
-    Géographie universelle/, t. IX, pp. 685 ff.
+    Gï¿½ographie universelle/, t. IX, pp. 685 ff.
 
 The great trunk-roads of through communication run north and south,
-across the eastern plateaus of the Haurân and Moab, and along the
+across the eastern plateaus of the Haurï¿½n and Moab, and along the
 coastal plains. The old highway from Egypt, which left the Delta at
 Pelusium, at first follows the coast, then trends eastward across the
 plain of Esdraelon, which breaks the coastal range, and passing under
@@ -615,7 +615,7 @@ The plain of Esraelon, where the road first trends eastward, has been
 the battle-ground for most invaders of Palestine from the north, and
 though Egyptian armies often fought in the southern coastal plain,
 they too have battled there when they held the southern country.
-Megiddo, which commands the main pass into the plain through the low
+Megiddo, which commands the Indexer.main pass into the plain through the low
 Samaritan hills to the southeast of Carmel, was the site of Thothmes
 III's famous battle against a Syrian confederation, and it inspired
 the writer of the Apocalypse with his vision of an Armageddon of the
@@ -685,8 +685,8 @@ The latter line of contact is suggested by an interesting piece of
 evidence that has recently been obtained. A prehistoric flint knife,
 with a handle carved from the tooth of a hippopotamus, has been
 purchased lately by the Louvre,[1] and is said to have been found at
-Gebel el-`Arak near Naga` Hamâdi, which lies on the Nile not far below
-Koptos, where an ancient caravan-track leads by Wâdi Hammâmât to the
+Gebel el-`Arak near Naga` Hamï¿½di, which lies on the Nile not far below
+Koptos, where an ancient caravan-track leads by Wï¿½di Hammï¿½mï¿½t to the
 Red Sea. On one side of the handle is a battle-scene including some
 remarkable representations of ancient boats. All the warriors are nude
 with the exception of a loin girdle, but, while one set of combatants
@@ -704,10 +704,10 @@ from the waist and falls below the knees, his muscular calves ending
 in the claws of a bird of prey. There is nothing like this in
 prehistoric Egyptian art.
 
-[1] See Bénédite, "Le couteau de Gebel al-`Arak", in /Foundation
-    Eugène Piot, Mon. et. Mém./, XXII. i. (1916).
+[1] See Bï¿½nï¿½dite, "Le couteau de Gebel al-`Arak", in /Foundation
+    Eugï¿½ne Piot, Mon. et. Mï¿½m./, XXII. i. (1916).
 
-Perhaps Monsieur Bénédite is pressing his theme too far when he
+Perhaps Monsieur Bï¿½nï¿½dite is pressing his theme too far when he
 compares the close-cropped warriors on the handle with the shaven
 Sumerians and Elamites upon steles from Telloh and Susa, for their
 loin-girdles are African and quite foreign to the Euphrates Valley.
@@ -790,7 +790,7 @@ stretch of country between the sea and the Euphrates is hardly
 probable. For the geographical references need not be treated as
 exhaustive, but as confined to the more important districts through
 which the expedition passed. The district of Ibla which is also
-mentioned by Narâm-Sin and Gudea, lay probably to the north of
+mentioned by Narï¿½m-Sin and Gudea, lay probably to the north of
 Iarmuti, perhaps on the southern slopes of Taurus. It, too, we may
 regard as a district of restricted extent rather than as a general
 geographical term for the extreme north of Syria.
@@ -902,7 +902,7 @@ them", and was probably suggested by Alexander's recent occupation of
 Sidon in 332 B.C. after his reduction and drastic punishment of Tyre.
 King Eshmun-`zar was not unique in his choice of burial in an Egyptian
 coffin, for he merely followed the example of his royal father,
-Tabnîth, "priest of `Ashtart and king of the Sidonians", whose
+Tabnï¿½th, "priest of `Ashtart and king of the Sidonians", whose
 sarcophagus, preserved at Constantinople, still bears in addition to
 his own epitaph that of its former occupant, a certain Egyptian
 general Penptah. But more instructive than these borrowed memorials is
@@ -934,7 +934,7 @@ another form of Astarte, becoming popular with Egyptian women as a
 patroness of love and fecundity, was also sometimes modelled on
 Hathor.[1]
 
-[1] See W. Max Müller, /Egyptological Researches/, I, p. 32 f., pl.
+[1] See W. Max Mï¿½ller, /Egyptological Researches/, I, p. 32 f., pl.
     41, and S. A. Cook, /Religion of Ancient Palestine/, pp. 83 ff.
 
 Semitic colonists on the Egyptian border were ever ready to adopt
@@ -958,7 +958,7 @@ priest. But the god holds in his left hand a purely Egyptian sceptre
 and in his right an emblem as purely Babylonian, the weapon of Marduk
 and Gilgamesh which was also wielded by early Sumerian kings.
 
-[1] Müller, op. cit., p. 30 f., pl. 40. Numismatic evidence exhibits a
+[1] Mï¿½ller, op. cit., p. 30 f., pl. 40. Numismatic evidence exhibits a
     similar readiness on the part of local Syrian cults to adopt the
     veneer of Hellenistic civilization while retaining in great
     measure their own individuality; see Hill, "Some Palestinian Cults
@@ -971,10 +971,10 @@ purity of their local cult in the face of considerable difficulties.
 Hence the gravestones of their Aramaean contemporaries, which have
 been found in Egypt, can only be cited to illustrate the temptations
 to which they were exposed.[1] Such was the memorial erected by Abseli
-to the memory of his parents, Abbâ and Ahatbû, in the fourth year of
+to the memory of his parents, Abbï¿½ and Ahatbï¿½, in the fourth year of
 Xerxes, 481 B.C.[2] They had evidently adopted the religion of Osiris,
-and were buried at Saqqârah in accordance with the Egyptian rites. The
-upper scene engraved upon the stele represents Abbâ and his wife in
+and were buried at Saqqï¿½rah in accordance with the Egyptian rites. The
+upper scene engraved upon the stele represents Abbï¿½ and his wife in
 the presence of Osiris, who is attended by Isis and Nephthys; and in
 the lower panel is the funeral scene, in which all the mourners with
 one exception are Asiatics. Certain details of the rites that are
@@ -999,7 +999,7 @@ prove that the work is Aramaean throughout.[3]
 [3] A very similar monument is the Carpentras Stele (/C.I.S./, II., i,
     tab. XIII, No. 141), commemorating Taba, daughter of Tahapi, an
     Aramaean lady who was also a convert to Osiris. It is rather later
-    than that of Abbâ and his wife, since the Aramaic characters are
+    than that of Abbï¿½ and his wife, since the Aramaic characters are
     transitional from the archaic to the square alphabet; see Driver,
     /Notes on the Hebrew Text of the Books of Samuel/, pp. xviii ff.,
     and Cooke, /North Semitic Inscriptions/, p. 205 f. The Vatican
@@ -1211,14 +1211,14 @@ name still lingers on in local tradition, and to this day /Niffer/ or
 /Nuffar/ is the name the Arabs give the mounds which cover its
 extensive ruins. No modern town or village has been built upon them or
 in their immediate neighbourhood. The nearest considerable town is
-Dîwânîyah, on the left bank of the Hillah branch of the Euphrates,
+Dï¿½wï¿½nï¿½yah, on the left bank of the Hillah branch of the Euphrates,
 twenty miles to the south-west; but some four miles to the south of
-the ruins is the village of Sûq el-`Afej, on the eastern edge of the
+the ruins is the village of Sï¿½q el-`Afej, on the eastern edge of the
 `Afej marshes, which begin to the south of Nippur and stretch away
 westward. Protected by its swamps, the region contains a few primitive
 settlements of the wild `Afej tribesmen, each a group of reed-huts
 clustering around the mud fort of its ruling sheikh. Their chief
-enemies are the Shammâr, who dispute with them possession of the
+enemies are the Shammï¿½r, who dispute with them possession of the
 pastures. In summer the marshes near the mounds are merely pools of
 water connected by channels through the reed-beds, but in spring the
 flood-water converts them into a vast lagoon, and all that meets the
@@ -1229,7 +1229,7 @@ former habitation which has slightly raised the level of the
 encircling area. The ruins of the city stand from thirty to seventy
 feet above the plain, and in the north-eastern corner there rose,
 before the excavations, a conical mound, known by the Arabs as /Bint
-el-Emîr/ or "The Princess". This prominent landmark represents the
+el-Emï¿½r/ or "The Princess". This prominent landmark represents the
 temple-tower of Enlil's famous sanctuary, and even after excavation it
 is still the first object that the approaching traveller sees on the
 horizon. When he has climbed its summit he enjoys an uninterrupted
@@ -1238,7 +1238,7 @@ view over desert and swamp.
 The cause of Nippur's present desolation is to be traced to the change
 in the bed of the Euphrates, which now lies far to the west. But in
 antiquity the stream flowed through the centre of the city, along the
-dry bed of the Shatt en-Nîl, which divides the mounds into an eastern
+dry bed of the Shatt en-Nï¿½l, which divides the mounds into an eastern
 and a western group. The latter covers the remains of the city proper
 and was occupied in part by the great business-houses and bazaars.
 Here more than thirty thousand contracts and accounts, dating from the
@@ -1263,8 +1263,8 @@ various levels within the Nippur mounds,[1] the earliest descending to
 virgin soil some twenty feet below the present level of the
 surrounding plain. The remote date of Nippur's foundation as a city
 and cult-centre is attested by the fact that the pavement laid by
-Narâm-Sin in the south-eastern temple-court lies thirty feet above
-virgin soil, while only thirty-six feet of superimposed /débris/
+Narï¿½m-Sin in the south-eastern temple-court lies thirty feet above
+virgin soil, while only thirty-six feet of superimposed /dï¿½bris/
 represent the succeeding millennia of occupation down to Sassanian and
 early Arab times. In the period of the Hebrew captivity the city still
 ranked as a great commercial market and as one of the most sacred
@@ -1418,7 +1418,7 @@ fragments of the text have now been published, of which one
 undoubtedly belongs to the same monument as the Palermo fragment,
 while the others may represent parts of one or more duplicate copies
 of that famous text. One of the four Cairo fragments[1] was found by a
-digger for /sebakh/ at Mitrahîneh (Memphis); the other three, which
+digger for /sebakh/ at Mitrahï¿½neh (Memphis); the other three, which
 were purchased from a dealer, are said to have come from Minieh, while
 the fifth fragment, at University College, is also said to have come
 from Upper Egypt,[2] though it was purchased by Professor Petrie while
@@ -1436,8 +1436,8 @@ has an important bearing on our knowledge of Egyptian predynastic
 history and on the traditions of that remote period which have come
 down to us from the history of Manetho.
 
-[1] See Gautier, /Le Musée Égyptien/, III (1915), pp. 29 ff., pl. xxiv
-    ff., and Foucart, /Bulletin de l'Institut Français d'Archéologie
+[1] See Gautier, /Le Musï¿½e ï¿½gyptien/, III (1915), pp. 29 ff., pl. xxiv
+    ff., and Foucart, /Bulletin de l'Institut Franï¿½ais d'Archï¿½ologie
     Orientale/, XII, ii (1916), pp. 161 ff.; and cf. Gardiner, /Journ.
     of Egypt. Arch./, III, pp. 143 ff., and Petrie, /Ancient Egypt/,
     1916, Pt. III, pp. 114 ff.
@@ -1488,7 +1488,7 @@ Kings.[5] It is thus quite certain that the first band of the
 inscription relates to the earlier periods before the two halves of
 the country were brought together under a single ruler.
 
-[1] Cairo No. 1; see Gautier, /Mus. Égypt./, III, pl. xxiv f.
+[1] Cairo No. 1; see Gautier, /Mus. ï¿½gypt./, III, pl. xxiv f.
 
 [2] In this upper band the spaces are true rectangles, being separated
     by vertical lines, not by the hieroglyph for "year" as in the
@@ -1532,8 +1532,8 @@ preserving a remembrance of their past history.
 [1] M. Foucart illustrates this point by citing the case of the
     Bushongos, who have in this way preserved a list of no less than a
     hundred and twenty-one of their past kings; op. cit., p. 182, and
-    cf. Tordey and Joyce, "Les Bushongos", in /Annales du Musée du
-    Congo Belge/, sér. III, t. II, fasc. i (Brussels, 1911).
+    cf. Tordey and Joyce, "Les Bushongos", in /Annales du Musï¿½e du
+    Congo Belge/, sï¿½r. III, t. II, fasc. i (Brussels, 1911).
 
 Moreover, the new text furnishes fresh proof of the general accuracy
 of Manetho, even when dealing with traditions of this prehistoric age.
@@ -1583,7 +1583,7 @@ sequence, had no right to be there. As a result, the succession of
 known rulers was thrown into truer perspective, and such gaps as
 remained were being partially filled by later discoveries. Among the
 latter the most important find was that of an early list of kings,
-recently published by Père Scheil[2] and subsequently purchased by the
+recently published by Pï¿½re Scheil[2] and subsequently purchased by the
 British Museum shortly before the war. This had helped us to fill in
 the gap between the famous Sargon of Akkad and the later dynasties,
 but it did not carry us far beyond Sargon's own time. Our
@@ -1614,7 +1614,7 @@ from some region of Central or Southern Asia.
 
 The newly published Nippur documents will cause us to modify that
 view. The lists of early kings were themselves drawn up under the
-Dynasty of Nîsin in the twenty-second century B.C., and they give us
+Dynasty of Nï¿½sin in the twenty-second century B.C., and they give us
 traces of possibly ten and at least eight other "kingdoms" before the
 earliest dynasty of the known lists.[1] One of their novel features is
 that they include summaries at the end, in which it is stated how
@@ -1629,7 +1629,7 @@ But in spite of their imperfect state of preservation, these documents
 are of great historical value and will furnish a framework for future
 chronological schemes. Meanwhile we may attribute to some of the later
 dynasties titles in complete agreement with Sumerian tradition. The
-dynasty of Ur-Engur, for example, which preceded that of Nîsin,
+dynasty of Ur-Engur, for example, which preceded that of Nï¿½sin,
 becomes, if we like, the Third Dynasty of Ur. Another important fact
 which strikes us after a scrutiny of the early royal names recovered
 is that, while two or three are Semitic,[2] the great majority of
@@ -1649,7 +1649,7 @@ obviously Sumerian.
 
 [2] Cf., e.g., two of the earliest kings of Kish, Galumum and Zugagib.
     The former is probably the Semitic-Babylonian word /kalumum/,
-    "young animal, lamb," the latter /zukakîbum/, "scorpion"; cf.
+    "young animal, lamb," the latter /zukakï¿½bum/, "scorpion"; cf.
     Poebel, /Hist. Texts/, p. 111. The occurrence of these names
     points to Semitic infiltration into Northern Babylonia since the
     dawn of history, a state of things we should naturally expect. It
@@ -1687,7 +1687,7 @@ years.
 
 [1] The Egyptian conception of the deceased Pharaoh ascending to
     heaven as a falcon and becoming merged into the sun, which first
-    occurs in the Pyramid texts (see Gardiner in Cumont's /Études
+    occurs in the Pyramid texts (see Gardiner in Cumont's /ï¿½tudes
     Syriennes/, pp. 109 ff.), belongs to a different range of ideas.
     But it may well have been combined with the Etana tradition to
     produce the funerary eagle employed so commonly in Roman Syria in
@@ -1696,7 +1696,7 @@ years.
 
 The god Lugal-banda is another hero of legend. When the hearts of the
 other gods failed them, he alone recovered the Tablets of Fate, stolen
-by the bird-god Zû from Enlil's palace. He is here recorded to have
+by the bird-god Zï¿½ from Enlil's palace. He is here recorded to have
 reigned in Erech for 1,200 years.
 
 Tradition already told us that Erech was the native city of Gilgamesh,
@@ -1717,7 +1717,7 @@ mythical ages, while the figure as preserved by Eusebius is 33,091
 years.[1] The compiler of one of our new lists,[2] writing some 1,900
 years earlier, reckons that the dynastic period in his day had lasted
 for 32,243 years. Of course all these figures are mythical, and even
-at the time of the Sumerian Dynasty of Nîsin variant traditions were
+at the time of the Sumerian Dynasty of Nï¿½sin variant traditions were
 current with regard to the number of historical and semi-mythical
 kings of Babylonia and the duration of their rule. For the earlier
 writer of another of our lists,[3] separated from the one already
@@ -1866,13 +1866,13 @@ out that the two suggested equations, which I venture to think we may
 regard as established, throw the study of Berossus' mythological
 personages upon a new plane. No equivalent has hitherto been suggested
 for {Daonos}; but {'Ammenon} has been confidently explained as the
-equivalent of a conjectured Babylonian original, Ummânu, lit.
+equivalent of a conjectured Babylonian original, Ummï¿½nu, lit.
 "Workman". The fact that we should now have recovered the Sumerian
 original of the name, which proves to have no connexion in form or
 meaning with the previously suggested Semitic equivalent, tends to
 cast doubt on other Semitic equations proposed. Perhaps {'Amelon} or
-{'Amillaros} may after all not prove to be the equivalent of Amêlu,
-"Man", nor {'Amempsinos} that of Amêl-Sin. Both may find their true
+{'Amillaros} may after all not prove to be the equivalent of Amï¿½lu,
+"Man", nor {'Amempsinos} that of Amï¿½l-Sin. Both may find their true
 equivalents in some of the missing royal names at the head of the
 Sumerian Dynastic List. There too we may provisionally seek {'Aloros},
 the "first king", whose equation with Aruru, the Babylonian mother-
@@ -1885,7 +1885,7 @@ Very Wise", still of course remains the established equivalent of
 {Xisouthros}; but for {'Otiartes} (? {'Opartes}), a rival to Ubar-
 Tutu, Ut-napishtim's father, may perhaps appear. The new
 identifications do not of course dispose of the old ones, except in
-the case of Ummânu; but they open up a new line of approach and
+the case of Ummï¿½nu; but they open up a new line of approach and
 provide a fresh field for conjecture.[3] Semitic, and possibly
 contracted, originals are still possible for unidentified mythical
 kings of Berossus; but such equations will inspire greater confidence,
@@ -1987,7 +1987,7 @@ text continues:
     as A. As there is a small break in the text at the end of this
     line, Dr. Poebel not unnaturally assumed that A was merely the
     first syllable of the name, of which the end was wanting. But it
-    has now been shown that the complete name was A; see Förtsch,
+    has now been shown that the complete name was A; see Fï¿½rtsch,
     /Orient. Lit.-Zeit./, Vol. XVIII, No. 12 (Dec., 1915), col. 367
     ff. The reading is deduced from the following entry in an Assyrian
     explanatory list of gods (/Cun. Texts in the Brit. Mus./, Pt.
@@ -2046,7 +2046,7 @@ Erech to Ur and thence to Awan:
 With the "Kingdom of Ur" we appear to be approaching a firmer
 historical tradition, for the reigns of its rulers are recorded in
 decades, not hundreds of years. But we find in the summary, which
-concludes the main copy of our Dynastic List, that the kingdom of
+concludes the Indexer.main copy of our Dynastic List, that the kingdom of
 Awan, though it consisted of but three rulers, is credited with a
 total duration of three hundred and fifty-six years, implying that we
 are not yet out of the legendary stratum. Since Awan is proved by
@@ -2128,10 +2128,10 @@ echo seems here to reach us from Sumer through Babylon.
     Antediluvian kings of Berossus by tracing a common meaning for
     each suggested pair. It is unfortunate that our new identification
     of {'Ammenon} with the Sumerian /Enmenunna/ should dispose of one
-    of the best parallels obtained, viz. {'Ammenon} = Bab. /ummânu/,
+    of the best parallels obtained, viz. {'Ammenon} = Bab. /ummï¿½nu/,
     "workman" || Cain, Kenan = "smith". Another satisfactory pair
-    suggested is {'Amelon} = Bab. /amêlu/, "man" || Enosh = "man"; but
-    the resemblance of the former to /amêlu/ may prove to be
+    suggested is {'Amelon} = Bab. /amï¿½lu/, "man" || Enosh = "man"; but
+    the resemblance of the former to /amï¿½lu/ may prove to be
     fortuitous, in view of the possibility of descent from a quite
     different Sumerian original. The alternative may perhaps have to
     be faced that the Hebrew parallels to Sumerian and Babylonian
@@ -2567,7 +2567,7 @@ evidence on the origin of Deluge stories in general.
     including his personified Eye, the primaeval pair Shu and Tefnut,
     Keb the god of the earth and his consort Nut the sky-goddess, and
     Nu the primaeval water-god and originally Nut's male counterpart,
-    is paralleled by the /puhur ilâni/, or "assembly of the gods", in
+    is paralleled by the /puhur ilï¿½ni/, or "assembly of the gods", in
     the Babylonian Version (see Gilg. Epic. XI. l. 120 f., and cf. ll.
     10 ff.); and they meet in "the Great House", or Sun-temple at
     Heliopolis, as the Babylonian gods deliberate in Shuruppak.
@@ -2700,7 +2700,7 @@ so invariable as in the later magical literature.
 [1] Cf. Poebel, /Hist. Texts/, p. 63, and /Hist. and Gram. Texts/, pl.
     i. In the photographic reproduction of the edges of the tablet
     given in the latter volume, pl. lxxxix, the traces of the sign
-    suggest the reading EN (= Sem. /šiptu/, "incantation"). But the
+    suggest the reading EN (= Sem. /ï¿½iptu/, "incantation"). But the
     sign may very possibly be read AN. In the latter case we may read,
     in the traces of the two sign-groups at the beginning of the text,
     the names of both Anu and Enlil, who appear so frequently as the
@@ -2717,7 +2717,7 @@ Babylonian and Assyrian imitators, when they had finished writing the
 obverse of a tablet, turned it over from bottom to top--not, as we
 should turn a sheet of paper, from right to left. But in spite of the
 lacunae, the sequence of events related in the mythological narrative
-may be followed without difficulty, since the main outline of the
+may be followed without difficulty, since the Indexer.main outline of the
 story is already familiar enough from the versions of the Semitic-
 Babylonian scribes and of Berossus. Some uncertainties naturally
 remain as to what exactly was included in the missing portions of the
@@ -2742,7 +2742,7 @@ stories.
 
 The following headings, under which the six numbered sections may be
 arranged, indicate the contents of each column and show at a glance
-the main features of the Sumerian Version:
+the Indexer.main features of the Sumerian Version:
 
     I. Introduction to the Myth, and account of Creation.
    II. The Antediluvian Cities.
@@ -2768,7 +2768,7 @@ question begin:
 
 From the reference to "my human race" it is clear that the speaker is
 a creating deity; and since the expression is exactly parallel to the
-term "my people" used by Ishtar, or Bêlit-ili, "the Lady of the gods",
+term "my people" used by Ishtar, or Bï¿½lit-ili, "the Lady of the gods",
 in the Babylonian Version of the Deluge story when she bewails the
 destruction of mankind, Dr. Poebel assigns the speech to Ninkharsagga,
 or Nintu,[1] the goddess who later in the column is associated with
@@ -2815,7 +2815,7 @@ as the other's representative.
 
 [4] If Enlil's name should prove to be the first word of the
     composition, we should naturally regard him as the speaker here
-    and as the protagonist of the gods throughout the text, a /rôle/
+    and as the protagonist of the gods throughout the text, a /rï¿½le/
     he also plays in the Semitic-Babylonian Version.
 
 This reference to the Deluge, which occurs so early in the text,
@@ -2837,7 +2837,7 @@ into the story is in the Third Column, where it is related that "at
 that time Ziusudu, the king" did so-and-so. The prominence given him
 at the beginning of the text, at nearly a column's interval before the
 lines which record the creation of man, is sufficient proof that the
-Deluge story is the writer's main interest, and that preceding
+Deluge story is the writer's Indexer.main interest, and that preceding
 episodes are merely introductory to it.
 
 What subject then may we conjecture was treated in the missing lines
@@ -2849,7 +2849,7 @@ see reason to believe that the missing end of the tablet was not left
 blank and uninscribed, but contained an incantation, the magical
 efficacy of which was ensured by the preceding recitation of the
 Deluge myth. If that were so, it would be natural enough that the text
-should open with its main subject. The cause of the catastrophe and
+should open with its Indexer.main subject. The cause of the catastrophe and
 the reason for man's rescue from it might well be referred to by one
 of the creating deities in virtue of the analogy these aspects of the
 myth would present to the circumstances for which the incantation was
@@ -2968,8 +2968,8 @@ it played in ensuring their survival.
 [1] See Hilprecht, /Babylonian Expedition/, Series D, Vol. V, Fasc. 1,
     plate, Rev., l. 8; the photographic reproduction clearly shows, as
     Dr. Poebel suggests (/Hist. Texts/, p. 61 n 3), that the line
-    should read: /[(isu)elippu] ši-i lu (isu)ma-gur-gur-ma šum-ša lu
-    na-si-rat na-piš-tim/, "That ship shall be a /magurgurru/ (giant
+    should read: /[(isu)elippu] ï¿½i-i lu (isu)ma-gur-gur-ma ï¿½um-ï¿½a lu
+    na-si-rat na-piï¿½-tim/, "That ship shall be a /magurgurru/ (giant
     boat), and its name shall be 'Preserver of Life' (lit. 'She that
     preserves life')."
 
@@ -3027,7 +3027,7 @@ its name and assigns it to its own divine patron or city-god:
     allotted to divine rulers(?),
 
 [1] In Semitic-Babylonian the first component of this city-name would
-    read "Dûr".
+    read "Dï¿½r".
 
 The completion of the sentence, in the last two lines of the column,
 cannot be rendered with any certainty, but the passage appears to have
@@ -3099,7 +3099,7 @@ the Shatt el-Hai, in view of the situation of Lagash and other early
 cities upon it or in its immediate neighbourhood. The site of the city
 should perhaps be sought on the upper course of the stream, where it
 tends to approach Nippur. It would thus have lain in the neighbourhood
-of Bismâya, the site of Adab. Like Adab, Lagash, Shuruppak, and other
+of Bismï¿½ya, the site of Adab. Like Adab, Lagash, Shuruppak, and other
 early Sumerian cities, it was probably destroyed and deserted at a
 very early period, though it was reoccupied under its old name in Neo-
 Babylonian or Persian times. Its early disappearance from Babylonian
@@ -3108,7 +3108,7 @@ Pabilkharsag, its city-god, unless we may regard the name as a variant
 from of Pabilsag; but it is hardly likely that the two should be
 identified.
 
-[1] The site of Adab, now marked by the mounds of Bismâya, was
+[1] The site of Adab, now marked by the mounds of Bismï¿½ya, was
     partially excavated by an expedition sent out in 1903 by the
     University of Chicago, and has provided valuable material for the
     study of the earliest Sumerian period; see /Reports of the
@@ -3137,12 +3137,12 @@ might be dug up and transmitted to mankind. Ebabbar, the great
 Sun-temple, was at Sippar, and it is to the Sun-god that the city is
 naturally allotted in the new Sumerian Version.
 
-[1] Cf. Zimmern, /Beiträge zur Kenntniss der Bab. Relig./, pp. 116 ff.
+[1] Cf. Zimmern, /Beitrï¿½ge zur Kenntniss der Bab. Relig./, pp. 116 ff.
 
 The last of the five Antediluvian cities in our list is Shuruppak, in
 which dwelt Ut-napishtim, the hero of the Babylonian version of the
-Deluge. Its site has been identified with the mounds of Fâra, in the
-neighbourhood of the Shatt el-Kâr, the former bed of the Euphrates;
+Deluge. Its site has been identified with the mounds of Fï¿½ra, in the
+neighbourhood of the Shatt el-Kï¿½r, the former bed of the Euphrates;
 and the excavations that were conducted there in 1902 have been most
 productive of remains dating from the prehistoric period of Sumerian
 culture.[1] Since our text is concerned mainly with the Deluge, it is
@@ -3218,12 +3218,12 @@ columns:
 
   At that time Nintu [. . .] like     Ishtar cried aloud like a woman
     a [. . .],                          in travail,
-  The holy Innanna lament[ed] on      Bêlit-ili lamented with a loud
+  The holy Innanna lament[ed] on      Bï¿½lit-ili lamented with a loud
     account of her people.              voice.
 
 [1] Gilg. Epic, XI, l. 117 f.
 
-The expression Bêlit-ili, "the Lady of the Gods", is attested as a
+The expression Bï¿½lit-ili, "the Lady of the Gods", is attested as a
 title borne both by the Semitic goddess Ishtar and by the Sumerian
 goddess Nintu or Ninkharsagga. In the passage in the Babylonian
 Version, "the Lady of the Gods" has always been treated as a synonym
@@ -3233,15 +3233,15 @@ poetry. We may probably assume that this interpretation is correct,
 and we may conclude by analogy that "the holy Innanna" in the second
 half of the Sumerian couplet is there merely employed as a synonym of
 Nintu.[1] When the Sumerian myth was recast in accordance with Semitic
-ideas, the /rôle/ of creatress of mankind, which had been played by
+ideas, the /rï¿½le/ of creatress of mankind, which had been played by
 the old Sumerian goddess Ninkharsagga or Nintu, was naturally
 transferred to the Semitic Ishtar. And as Innanna was one of Ishtar's
 designations, it was possible to make the change by a simple
 transcription of the lines, the name Nintu being replaced by the
-synonymous title Bêlit-ili, which was also shared by Ishtar.
+synonymous title Bï¿½lit-ili, which was also shared by Ishtar.
 Difficulties are at once introduced if we assume with Dr. Poebel that
 in each version two separate goddesses are represented as lamenting,
-Nintu or Bêlit-ili and Innanna or Ishtar. For Innanna as a separate
+Nintu or Bï¿½lit-ili and Innanna or Ishtar. For Innanna as a separate
 goddess had no share in the Sumerian Creation, and the reference to
 "her people" is there only applicable to Nintu. Dr. Poebel has to
 assume that the Sumerian names should be reversed in order to restore
@@ -3266,12 +3266,12 @@ Column after mankind's destruction had taken place. But a further
 apparent difference has been noted. While in the Sumerian Version the
 goddess at once deplores the divine decision, it is clear from
 Ishtar's words in the Gilgamesh Epic that in the assembly of the gods
-she had at any rate concurred in it.[1] On the other hand, in Bêlit-
+she had at any rate concurred in it.[1] On the other hand, in Bï¿½lit-
 ili's later speech in the Epic, after Ut-napishtim's sacrifice upon
 the mountain, she appears to subscribe the decision to Enlil alone.[2]
 The passages in the Gilgamesh Epic are not really contradictory, for
 they can be interpreted as implying that, while Enlil forced his will
-upon the other gods against Bêlit-ili's protest, the goddess at first
+upon the other gods against Bï¿½lit-ili's protest, the goddess at first
 reproached herself with her concurrence, and later stigmatized Enlil
 as the real author of the catastrophe. The Semitic narrative thus does
 not appear, as has been suggested, to betray traces of two variant
@@ -3315,10 +3315,10 @@ The narrative then introduces the human hero of the Deluge story:
 
 [2] For this rendering of the verb /e-de/, for which Dr. Poebel does
     not hazard a translation, see Rawlinson, /W.A.I./, IV, pl. 26, l.
-    24 f.(a), /nu-e-de/ = Sem. /la us-su-u/ (Pres.); and cf. Brünnow,
+    24 f.(a), /nu-e-de/ = Sem. /la us-su-u/ (Pres.); and cf. Brï¿½nnow,
     /Classified List/, p. 327. An alternative rendering "is created"
     is also possible, and would give equally good sense; cf. /nu-e-de/
-    = Sem. /la šu-pu-u/, /W.A.I./, IV, pl. 2, l. 5 (a), and Brünnow,
+    = Sem. /la ï¿½u-pu-u/, /W.A.I./, IV, pl. 2, l. 5 (a), and Brï¿½nnow,
     op. cit., p. 328.
 
 The name of the hero, Ziusudu, is the fuller Sumerian equivalent of
@@ -3362,7 +3362,7 @@ Hebrew name Noah, to which it also presents no parallel in meaning.
     should connect it with the Semitic /uddu/; in that case, in place
     of "breath", the rending he suggests, I should be inclined to
     render it here as "day", for /uddu/ as the meaning "dawn" and the
-    sign UD is employed both for /urru/, "day-light", and /ûmu/,
+    sign UD is employed both for /urru/, "day-light", and /ï¿½mu/,
     "day".
 
 It is an interesting fact that Ziusudu should be described simply as
@@ -3489,7 +3489,7 @@ gap between the columns. But unfortunately the ends of all the lines
 in both columns are wanting, and the exact content of some phrases
 preserved and their relation to each other are consequently doubtful.
 This materially affects the interpretation of the passage as a whole,
-but the main thread of the narrative may be readily followed. Ziusudu
+but the Indexer.main thread of the narrative may be readily followed. Ziusudu
 is here warned that a flood is to be sent "to destroy the seed of
 mankind"; the doubt that exists concerns the manner in which the
 warning is conveyed. In the first line of the column, after a
@@ -3549,20 +3549,20 @@ column:
 
 [3] The Sumerian term /amaru/, here used for the flood and rendered as
     "rain-storm" by Dr. Poebel, is explained in a later syllabary as
-    the equivalent of the Semitic-Babylonian word /abûbu/ (cf.
+    the equivalent of the Semitic-Babylonian word /abï¿½bu/ (cf.
     Meissner, /S.A.I./, No. 8909), the term employed for the flood
     both in the early Semitic version of the Atrakhasis story dated in
-    Ammizaduga's reign and in the Gilgamesh Epic. The word /abûbu/ is
+    Ammizaduga's reign and in the Gilgamesh Epic. The word /abï¿½bu/ is
     often conventionally rendered "deluge", but should be more
     accurately translated "flood". It is true that the tempests of the
     Sumerian Version probably imply rain; and in the Gilgamesh Epic
     heavy rain in the evening begins the flood and is followed at dawn
-    by a thunderstorm and hurricane. But in itself the term /abûbu/
+    by a thunderstorm and hurricane. But in itself the term /abï¿½bu/
     implies flood, which could take place through a rise of the rivers
     unaccompanied by heavy local rain. The annual rainfall in
     Babylonia to-day is on an average only about 8 in., and there have
     been years in succession when the total rainfall has not exceeded
-    4 in.; and yet the /abûbu/ is not a thing of the past.
+    4 in.; and yet the /abï¿½bu/ is not a thing of the past.
 
 [4] The word here rendered "assembly" is the Semitic loan-word
     /buhrum/, in Babylonian /puhrum/, the term employed for the
@@ -3640,7 +3640,7 @@ were communicated to mankind. We fortunately possess an instructive
 Sumerian parallel to our passage. In it the will of the gods is
 revealed in a dream, which is not only described in full but is
 furnished with a detailed interpretation; and as it seems to clear up
-our difficulties, it may be well to summarize its main features.
+our difficulties, it may be well to summarize its Indexer.main features.
 
 The occasion of the dream in this case was not a coming deluge but a
 great dearth of water in the rivers, in consequence of which the crops
@@ -3656,7 +3656,7 @@ describes how the gods themselves took counsel. On the day in which
 destinies were fixed in heaven and earth, Enlil, the chief of the
 gods, and Ningirsu, the city-god of Lagash, held converse; and Enlil,
 turning to Ningirsu, described the sad condition of Southern
-Babylonia, and remarked that "the decrees of the temple Eninnû should
+Babylonia, and remarked that "the decrees of the temple Eninnï¿½ should
 be made glorious in heaven and upon earth", or, in other words, that
 Ningirsu's city-temple must be rebuilt. Thereupon Ningirsu did not
 communicate his orders directly to Gudea, but conveyed the will of the
@@ -3703,11 +3703,11 @@ it.[1]
     material to suit a completely changed political outlook. But those
     are points which do not concern our problem.
 
-To cut the long story short, Gudea decided to seek the help of Ninâ,
+To cut the long story short, Gudea decided to seek the help of Ninï¿½,
 "the child of Eridu", who, as daughter of Enki, the God of Wisdom,
 could divine all the mysteries of the gods. But first of all by
 sacrifices and libations he secured the mediation of his own city-god
-and goddess, Ningirsu and Gatumdug; and then, repairing to Ninâ's
+and goddess, Ningirsu and Gatumdug; and then, repairing to Ninï¿½'s
 temple, he recounted to her the details of his vision. When the patesi
 had finished, the goddess addressed him and said she would explain to
 him the meaning of his dream. Here, no doubt, we are to understand
@@ -3715,12 +3715,12 @@ that she spoke through the mouth of her chief priest. And this was the
 interpretation of the dream. The man whose stature was so great, and
 whose head was that of a god, was the god Ningirsu, and the words
 which he uttered were an order to the patesi to rebuild the temple
-Eninnû. The Sun which rose from the earth was the god Ningishzida, for
+Eninnï¿½. The Sun which rose from the earth was the god Ningishzida, for
 like the Sun he goes forth from the earth. The maiden who held the
 pure reed and carried the tablet with the star was the goddess Nisaba;
 the star was the pure star of the temple's construction, which she
 proclaimed. The second man, who was like a warrior, was the god Nibub;
-and the plan of the temple which he drew was the plan of Eninnû; and
+and the plan of the temple which he drew was the plan of Eninnï¿½; and
 the ass that lay upon the ground was the patesi himself.[1]
 
 [1] The symbolism of the ass, as a beast of burden, was applicable to
@@ -3743,7 +3743,7 @@ meaning. And in his case such assurance was the more essential, in
 view of the symbolism attaching to the other features of his vision.
 That this is sound reasoning is proved by a second vision vouchsafed
 to Gudea by Ningirsu. For the patesi, though he began to prepare for
-the building of the temple, was not content even with Ninâ's
+the building of the temple, was not content even with Ninï¿½'s
 assurance. He offered a prayer to Ningirsu himself, saying that he
 wished to build the temple, but had received no sign that this was the
 will of the god; and he prayed for a sign. Then, as the patesi lay
@@ -3767,7 +3767,7 @@ and built the temple.[2]
     one ailment of the heart or liver might perhaps suggest the touch
     of a beckoning god. There is of course no connexion between the
     Sumerian and Hebrew stories beyond their common background. It may
-    be added that those critics who would reverse the /rôles/ of Jacob
+    be added that those critics who would reverse the /rï¿½les/ of Jacob
     and the wrestler miss the point of the Hebrew story.
 
 [2] Even so, before starting on the work, he took the further
@@ -3782,7 +3782,7 @@ Gilgamesh Epic and in Berossus, here too the god's warning is conveyed
 in a dream; and the accompanying reference to conjuring by the Name of
 Heaven and Earth probably represents the means by which Ziusudu was
 enabled to verify its apparent meaning. The assurance which Gudea
-obtained through the priest of Ninâ and the sign, the priest-king
+obtained through the priest of Ninï¿½ and the sign, the priest-king
 Ziusudu secured by his own act, in virtue of his piety and practice of
 divination. And his employment of the particular class of incantation
 referred to, that which conjures by the Name of Heaven and Earth, is
@@ -3855,7 +3855,7 @@ interior of the ship by Ea's instructions, closed the door, and handed
 over the direction of the vessel to the pilot Puzur-Amurri. Later a
 thunder-storm and hurricane added their terrors to the deluge. For at
 early dawn a black cloud came up from the horizon, Adad the Storm-god
-thundering in its midst, and his heralds, Nabû and Sharru, flying over
+thundering in its midst, and his heralds, Nabï¿½ and Sharru, flying over
 mountain and plain. Nergal tore away the ship's anchor, while Ninib
 directed the storm; the Anunnaki carried their lightning-torches and
 lit up the land with their brightness; the whirlwind of the Storm-god
@@ -3958,10 +3958,10 @@ and Assyrian Versions upon Sumerian originals.
     Column in the expression /ba-an-da-ab-ur-ur/, translated as
     "raged", occurs again in l. 4 in the phrase /kalam-ma ba-ur-ra/,
     "had overwhelmed the land". That we are justified in regarding the
-    latter phrase as the original of the Semitic /i-sap-pan mâta/
+    latter phrase as the original of the Semitic /i-sap-pan mï¿½ta/
     (Gilg. Epic, XI, l. 129) is proved by the equation Sum. /ur-ur/ =
     Sem. /sa-pa-nu/ (Rawlinson, /W.A.I./, Vol. V, pl. 42, l. 54 c) and
-    by the explanation Sum. /ur-ur/ = Sem. /ša-ba-tu ša a-bu-bi/, i.e.
+    by the explanation Sum. /ur-ur/ = Sem. /ï¿½a-ba-tu ï¿½a a-bu-bi/, i.e.
     "/ur-ur/ = to smite, of a flood" (/Cun. Texts, Pt. XII, pl. 50,
     Obv., l. 23); cf. Poebel, /Hist. Texts/, p. 54, n. 1.
 
@@ -3990,7 +3990,7 @@ which, in order to be seaworthy, must be placed on a conjectured hull.
 [3] L. 58 f. The /gar/ contained twelve cubits, so that the vessel
     would have measured 120 cubits each way; taking the Babylonian
     cubit, on the basis of Gudea's scale, at 495 mm. (cf. Thureau-
-    Dangin, /Journal Asiatique/, Dix. Sér., t. XIII, 1909, pp. 79 ff.,
+    Dangin, /Journal Asiatique/, Dix. Sï¿½r., t. XIII, 1909, pp. 79 ff.,
     97), this would give a length, breadth, and height of nearly 195
     ft.
 
@@ -4181,7 +4181,7 @@ also the means by which the gods became acquainted with his survival;
 and it seems obvious that the Sun-god, to whom it was offered, should
 have continued to play some part in the narrative, perhaps by assisting
 Ziusudu in propitiating Anu and Enlil. In the Semitic-Babylonian
-Version, the first deity to approach the sacrifice is Bêlit-ili or
+Version, the first deity to approach the sacrifice is Bï¿½lit-ili or
 Ishtar, who is indignant with Enlil for what he has done. When Enlil
 himself approaches and sees the ship he is filled with anger against
 the gods, and, asking who has escaped, exclaims that no man must live
@@ -4686,14 +4686,14 @@ Deluge story.
 [2] The Babylonians controlled the Euphrates, and at the same time
     provided against its time of "low supply", by escapes into two
     depressions in the western desert to the NW. of Babylon, known
-    to-day as the Habbânîyah and Abu Dîs depressions, which lie S. of
-    the modern town of Ramâdi and N. of Kerbela. That these
+    to-day as the Habbï¿½nï¿½yah and Abu Dï¿½s depressions, which lie S. of
+    the modern town of Ramï¿½di and N. of Kerbela. That these
     depressions were actually used as reservoirs in antiquity is
     proved by the presence along their edges of thick beds of
     Euphrates shells. In addition to canals and escapes, the
     Babylonian system included well-constructed dikes protected by
     brushwood. By cutting an eight-mile channel through a low hill
-    between the Habbânîyah and Abu Dîs depressions and by building a
+    between the Habbï¿½nï¿½yah and Abu Dï¿½s depressions and by building a
     short dam 50 ft. high across the latter's narrow outlet, Sir
     William Willcocks estimates that a reservoir could be obtained
     holding eighteen milliards of tons of water. See his work /The
@@ -4711,9 +4711,9 @@ Deluge story.
     across the Tigris above the point where it entered its delta; this
     served to turn the river over hard conglomerate rock and kept it
     at a high level so that it could irrigate the country on both
-    banks. Above the dam were the heads of the later Nahrwân Canal, a
+    banks. Above the dam were the heads of the later Nahrwï¿½n Canal, a
     great stream 400 ft. wide and 17 ft. deep, which supplied the
-    country east of the river. The Nâr Sharri or "King's Canal", the
+    country east of the river. The Nï¿½r Sharri or "King's Canal", the
     Nahar Malkha of the Greeks and the Nahr el-Malik of the Arabs,
     protected the right bank of the Tigris by its own high artificial
     banks, which can still be traced for hundreds of miles; but it
@@ -4742,14 +4742,14 @@ embankments. It is related that the Sassanian king Parwiz, the
 contemporary of Mohammed, crucified in one day forty canal-workers at
 a certain breach, and yet was unable to master the flood.[2] All
 repairs were suspended during the anarchy of the Moslem invasion. As a
-consequence the Tigris left its old bed for the Shatt el-Hai at Kût,
+consequence the Tigris left its old bed for the Shatt el-Hai at Kï¿½t,
 and pouring its own and its tributaries' waters into the Euphrates
 formed the Great Euphrates Swamp, two hundred miles long and fifty
 broad. But even then what was left of the old system was sufficient to
 support the splendour of the Eastern Caliphate.
 
 [1] Cf. /Letters of Hammurabi/, Vol. III, pp. xxxvi ff.; it was the
-    duty of every village or town upon the banks of the main canals in
+    duty of every village or town upon the banks of the Indexer.main canals in
     Babylonia to keep its own section clear of silt, and of course it
     was also responsible for its own smaller irrigation-channels.
     While the invention of the system of basin-irrigation was
@@ -4767,46 +4767,46 @@ support the splendour of the Eastern Caliphate.
 [2] See Le Strange, /The Lands of the Eastern Caliphate/, p. 27.
 
 The second great blow to the system followed the Mongol conquest, when
-the Nahrwân Canal, to the east of the Tigris, had its head swept away
+the Nahrwï¿½n Canal, to the east of the Tigris, had its head swept away
 by flood and the area it had irrigated became desert. Then, in about
 the fifteenth century, the Tigris returned to its old course; the
 Shatt el-Hai shrank, and much of the Great Swamp dried up into the
 desert it is to-day.[1] Things became worse during the centuries of
-Turkish misrule. But the silting up of the Hillah, or main, branch of
+Turkish misrule. But the silting up of the Hillah, or Indexer.main, branch of
 the Euphrates about 1865, and the transference of a great part of its
-stream into the Hindîyah Canal, caused even the Turks to take action.
-They constructed the old Hindîyah Barrage in 1890, but it gave way in
+stream into the Hindï¿½yah Canal, caused even the Turks to take action.
+They constructed the old Hindï¿½yah Barrage in 1890, but it gave way in
 1903 and the state of things was even worse than before; for the
 Hillah branch then dried entirely.[2]
 
 [1] This illustrates the damage the Tigris itself is capable of
     inflicting on the country. It may be added that Sir William
     Willcocks proposes to control the Tigris floods by an escape into
-    the Tharthâr depression, a great salt pan at the tail of Wadi
-    Tharthâr, which lies 14 ft. below sea level and is 200 ft. lower
+    the Tharthï¿½r depression, a great salt pan at the tail of Wadi
+    Tharthï¿½r, which lies 14 ft. below sea level and is 200 ft. lower
     than the flood-level of the Tigris some thirty-two miles away. The
-    escape would leave the Tigris to the S. of Sâmarra, the proposed
+    escape would leave the Tigris to the S. of Sï¿½marra, the proposed
     Beled Barrage being built below it and up-stream of "Nimrod's
-    Dam". The Tharthâr escape would drain into the Euphrates, and the
-    latter's Habbânîyah escape would receive any surplus water from
+    Dam". The Tharthï¿½r escape would drain into the Euphrates, and the
+    latter's Habbï¿½nï¿½yah escape would receive any surplus water from
     the Tigris, a second barrage being thrown across the Euphrates up-
-    stream of Fallûjah, where there is an outcrop of limestone near
-    the head of the Sakhlawîyah Canal. The Tharthâr depression,
+    stream of Fallï¿½jah, where there is an outcrop of limestone near
+    the head of the Sakhlawï¿½yah Canal. The Tharthï¿½r depression,
     besides disposing of the Tigris flood-water, would thus probably
     feed the Euphrates; and a second barrage on the Tigris, to be
-    built at Kût, would supply water to the Shatt el-Hai. When the
+    built at Kï¿½t, would supply water to the Shatt el-Hai. When the
     country is freed from danger of flood, the Baghdad Railway could
     be run through the cultivated land instead of through the eastern
     desert; see Willcocks, /The Near East/, Oct. 6, 1916 (Vol. XI, No.
     283), p. 545 f.
 
-[2] It was then that Sir William Willcocks designed the new Hindîyah
-    Barrage, which was completed in 1913. The Hindîyah branch, to-day
-    the main stream of the Euphrates, is the old low-lying Pallacopas
+[2] It was then that Sir William Willcocks designed the new Hindï¿½yah
+    Barrage, which was completed in 1913. The Hindï¿½yah branch, to-day
+    the Indexer.main stream of the Euphrates, is the old low-lying Pallacopas
     Canal, which branched westward above Babylon and discharged its
     waters into the western marshes. In antiquity the head of this
     branch had to be opened in high floods and then closed again
-    immediately after the flood to keep the main stream full past
+    immediately after the flood to keep the Indexer.main stream full past
     Babylon, which entailed the employment of an enormous number of
     men. Alexander the Great's first work in Babylonia was cutting a
     new head for the Pallacopas in solid ground, for hitherto it had
@@ -5247,7 +5247,7 @@ And even after the demands of other centres had been conceded, no
 deity ever quite gave up his local claims.
 
 Enlil, the second of the four Sumerian creating deities, eventually
-ousted his rivals. It has indeed long been recognized that the /rôle/
+ousted his rivals. It has indeed long been recognized that the /rï¿½le/
 played by Marduk in the Babylonian Version of Creation had been
 borrowed from Enlil of Nippur; and in the Atrakhasis legend Enlil
 himself appears as the ultimate ruler of the world and the other gods
@@ -5263,7 +5263,7 @@ case we have some independent evidence of the varied forms these could
 assume.
 
 According to one tradition that has come down to us,[1] after Anu had
-made the heavens, Enki created Apsû or the Deep, his own dwelling-
+made the heavens, Enki created Apsï¿½ or the Deep, his own dwelling-
 place. Then taking from it a piece of clay[2] he proceeded to create
 the Brick-god, and reeds and forests for the supply of building
 material. From the same clay he continued to form other deities and
@@ -5287,7 +5287,7 @@ It will be seen from this summary of Enki's creative activities, that
 the text from which it is taken is not a general Creation myth, but in
 all probability the introductory paragraph of a composition which
 celebrated the building or restoration of a particular temple; and the
-latter's foundation is represented, on henotheistic lines, as the main
+latter's foundation is represented, on henotheistic lines, as the Indexer.main
 object of creation. Composed with that special purpose, its narrative
 is not to be regarded as an exhaustive account of the creation of the
 world. The incidents are eclective, and only such gods and materials
@@ -5332,7 +5332,7 @@ is already a familiar feature of Babylonian mythology. Thus the
 goddess Aruru, in co-operation with Marduk, might be credited with the
 creation of the human race,[1] as she might also be pictured creating
 on her own initiative an individual hero such as Enkidu of the
-Gilgamesh Epic. The /rôle/ of mother of mankind was also shared, as we
+Gilgamesh Epic. The /rï¿½le/ of mother of mankind was also shared, as we
 have seen, by the Semitic Ishtar. And though the old Sumerian goddess,
 Ninkharsagga, the "Lady of the Mountains", appears in our Sumerian
 text for the first time in the character of creatress, some of the
@@ -5418,7 +5418,7 @@ deities in the work of creation, a tendency may be traced to avoid
 discrimination between rival claims. Thus it is that the assembled
 gods, the pantheon as a whole, are regarded as collectively
 responsible for the creation of the universe. It may be added that
-this use of /ilâni/, "the gods", forms an interesting linguistic
+this use of /ilï¿½ni/, "the gods", forms an interesting linguistic
 parallel to the plural of the Hebrew divine title Elohim.
 
 It will be remembered that in the Sumerian Version the account of
@@ -5447,7 +5447,7 @@ that version as a whole, needs some qualification. The composite
 nature of the poem has long been recognized, and an analysis of the
 text has shown that no less than five principal strands have been
 combined for its formation. These consist of (i) The Birth of the
-Gods; (ii) The Legend of Ea and Apsû; (iii) The principal Dragon Myth;
+Gods; (ii) The Legend of Ea and Apsï¿½; (iii) The principal Dragon Myth;
 (iv) The actual account of Creation; and (v) the Hymn to Marduk under
 his fifty titles.[2] The Assyrian commentaries to the Hymn, from which
 considerable portions of its text are restored, quote throughout a
@@ -5561,10 +5561,10 @@ the Dragon myth.
 
 The Semitic poem itself also supplies evidence of the independent
 existence of the Dragon myth apart from the process of Creation, for
-the story of Ea and Apsû, which it incorporates, is merely the local
+the story of Ea and Apsï¿½, which it incorporates, is merely the local
 Dragon myth of Eridu. Its inclusion in the story is again simply a
 tribute to Marduk; for though Ea, now become Marduk's father, could
-conquer Apsû, he was afraid of Tiamat, "and turned back".[1] The
+conquer Apsï¿½, he was afraid of Tiamat, "and turned back".[1] The
 original Eridu myth no doubt represented Enki as conquering the watery
 Abyss, which became his home; but there is nothing to connect this
 tradition with his early creative activities. We have long possessed
@@ -5576,7 +5576,7 @@ equally terrified at the monster's appearance, and it was to deliver
 the land from his clutches that one of the gods went out and slew him.
 Tradition delighted to dwell on the dragon's enormous size and
 terrible appearance. In this version he is described as fifty
-/bêru/[3] in length and one in height; his mouth measured six cubits
+/bï¿½ru/[3] in length and one in height; his mouth measured six cubits
 and the circuit of his ears twelve; he dragged himself along in the
 water, which he lashed with his tail; and, when slain, his blood
 flowed for three years, three months, a day and a night. From this
@@ -5593,7 +5593,7 @@ serpent.[4]
     preserved on an Assyrian tablet made for the library of Ashur-
     bani-pal.
 
-[3] The /bêru/ was the space that could be covered in two hours'
+[3] The /bï¿½ru/ was the space that could be covered in two hours'
     travelling.
 
 [4] The Babylonian Dragon has progeny in the later apocalyptic
@@ -5621,10 +5621,10 @@ goddess, and to Pallil, another deity, for help in his predicament.
 And then follows the description of the dragon:
 
   In the sea was the Serpent cre[ated].
-  Sixty /bêru/ is his length;
-  Thirty /bêru/ high is his he[ad].[2]
-  For half (a /bêru/) each stretches the surface of his ey[es];[3]
-  For twenty /bêru/ go [his feet].[4]
+  Sixty /bï¿½ru/ is his length;
+  Thirty /bï¿½ru/ high is his he[ad].[2]
+  For half (a /bï¿½ru/) each stretches the surface of his ey[es];[3]
+  For twenty /bï¿½ru/ go [his feet].[4]
   He devours fish, the creatures [of the sea],
   He devours birds, the creatures [of the heaven],
   He devours wild asses, the creatures [of the field],
@@ -5633,28 +5633,28 @@ And then follows the description of the dragon:
 [1] For the text, see Ebeling, /Assurtexte/ I, No. 6; it is translated
     by him in /Orient. Lit.-Zeit./, Vol. XIX, No. 4 (April, 1916).
 
-[2] The line reads: /30 bêru ša-ka-a ri-[ša-a-šu]/. Dr. Ebeling
-    renders /ri-ša-a/ as "heads" (Köpfe), implying that the dragon had
+[2] The line reads: /30 bï¿½ru ï¿½a-ka-a ri-[ï¿½a-a-ï¿½u]/. Dr. Ebeling
+    renders /ri-ï¿½a-a/ as "heads" (Kï¿½pfe), implying that the dragon had
     more than one head. It may be pointed out that, if we could accept
     this translation, we should have an interesting parallel to the
     description of some of the primaeval monsters, preserved from
     Berossus, as {soma men ekhontas en, kephalas de duo}. But the
     common word for "head" is /kakkadu/, and there can be little doubt
-    that /rîšâ/ is here used in its ordinary sense of "head, summit,
+    that /rï¿½ï¿½/ is here used in its ordinary sense of "head, summit,
     top" when applied to a high building.
 
-[3] The line reads: /a-na 1/2 ta-am la-bu-na li-bit ên[a-šu]/. Dr.
-    Ebeling translates, "auf je eine Hälfte ist ein Ziegel [ihrer]
+[3] The line reads: /a-na 1/2 ta-am la-bu-na li-bit ï¿½n[a-ï¿½u]/. Dr.
+    Ebeling translates, "auf je eine Hï¿½lfte ist ein Ziegel [ihrer]
     Auge[n] gelegt". But /libittu/ is clearly used here, not with its
     ordinary meaning of "brick", which yields a strange rendering, but
     in its special sense, when applied to large buildings, of
     "foundation, floor-space, area", i.e. "surface". Dr. Ebeling reads
-    /ênâ-šu/ at the end of the line, but the sign is broken; perhaps
-    the traces may prove to be those of /uznâ šu/, "his ears", in
-    which case /li-bit uz[nâ-šu]/ might be rendered either as "surface
+    /ï¿½nï¿½-ï¿½u/ at the end of the line, but the sign is broken; perhaps
+    the traces may prove to be those of /uznï¿½ ï¿½u/, "his ears", in
+    which case /li-bit uz[nï¿½-ï¿½u]/ might be rendered either as "surface
     of his ears", or as "base (lit. foundation) of his ears".
 
-[4] i.e. the length of his pace was twenty /bêru/.
+[4] i.e. the length of his pace was twenty /bï¿½ru/.
 
 [5] Lit. "the black-headed".
 
@@ -5672,7 +5672,7 @@ dragons of Ningishzida on Gudea's libation-vase, carved in green
 steatite and inlaid with shell, are a notable product of Sumerian
 art.[1] The very names borne by Tiamat's brood of monsters in the
 "Seven Tablets" are stamped in most cases with their Sumerian descent,
-and Kingu, whom she appointed as her champion in place of Apsû, is
+and Kingu, whom she appointed as her champion in place of Apsï¿½, is
 equally Sumerian. It would be strange indeed if the Sumerians had not
 evolved a Dragon myth,[2] for the Dragon combat is the most obvious of
 nature myths and is found in most mythologies of Europe and the Near
@@ -5688,8 +5688,8 @@ of the Dragon combat, both before and after their arrival on the
 Euphrates, but the particular version which the priests of Babylon
 wove into their epic is not one of them.
 
-[1] See E. de Sarzec, /Découvertes en Chaldée/, pl. xliv, Fig. 2, and
-    Heuzey, /Catalogue des antiquités chaldéennes/, p. 281.
+[1] See E. de Sarzec, /Dï¿½couvertes en Chaldï¿½e/, pl. xliv, Fig. 2, and
+    Heuzey, /Catalogue des antiquitï¿½s chaldï¿½ennes/, p. 281.
 
 [2] In his very interesting study of "Sumerian and Akkadian Views of
     Beginnings", contributed to the /Journ. of the Amer. Or. Soc./,
@@ -5740,7 +5740,7 @@ myth, and might furnish us with some idea of the Sumerian view of
 It will be remembered that the poem opens with the description of a
 time when heaven and earth did not exist, no field or marsh even had
 been created, and the universe consisted only of the primaeval water-
-gods, Apsû, Mummu, and Tiamat, whose waters were mingled together.
+gods, Apsï¿½, Mummu, and Tiamat, whose waters were mingled together.
 Then follows the successive generation of two pairs of deities, Lakhmu
 and Lakhamu, and Anshar and Kishar, long ages separating the two
 generations from each other and from the birth of the great gods which
@@ -5751,7 +5751,7 @@ additions, as will be seen from the following table:
 
         DAMASCUS                            "SEVEN TABLETS" I
 
-     {'Apason---Tauthe}                       Apsû---Tiamat
+     {'Apason---Tauthe}                       Apsï¿½---Tiamat
               |
           {Moumis}                               Mummu
       {Lakhos---Lakhe}[2]                   Lakhmu---Lakhamu
@@ -5813,7 +5813,7 @@ Sumerian in form.
 [1] Damkina was the later wife of Ea or Enki; and Ninkharsagga is
     associated with Enki, as his consort, in another Sumerian myth.
 
-It may be noted that the character of Apsû and Tiamat in this portion
+It may be noted that the character of Apsï¿½ and Tiamat in this portion
 of the poem[1] is quite at variance with their later actions. Their
 revolt at the ordered "way" of the gods was a necessary preliminary to
 the incorporation of the Dragon myths, in which Ea and Marduk are the
@@ -5829,7 +5829,7 @@ sense:
 
   When in the height heaven was not named,
   And the earth beneath did not bear a name,
-  And the primaeval Apsû who begat them,[3]
+  And the primaeval Apsï¿½ who begat them,[3]
   And Mummu, and Tiamat who bore them[3] all,--
   Their waters were mingled together,
   . . .
@@ -5851,19 +5851,19 @@ sense:
 
 [4] The ninth line is preserved only on a Neo-Babylonian duplicate
     (/Seven Tablets/, Vol. II, pl. i). I suggested the restoration
-    /ki-rib š[a-ma-mi]/, "in the midst of heaven", as possible, since
+    /ki-rib ï¿½[a-ma-mi]/, "in the midst of heaven", as possible, since
     the traces of the first sign in the last word of the line seemed
-    to be those of the Neo-Babylonian form of /ša/. The restoration
+    to be those of the Neo-Babylonian form of /ï¿½a/. The restoration
     appeared at the time not altogether satisfactory in view of the
     first line of the poem, and it could only be justified by
-    supposing that /šamâmu/, or "heaven", was already vaguely
+    supposing that /ï¿½amï¿½mu/, or "heaven", was already vaguely
     conceived as in existence (op. cit., Vol. I, p. 3, n. 14). But the
     traces of the sign, as I have given them (op. cit., Vol. II, pl.
     i), may also possibly be those of the Neo-Babylonian form of the
     sign /me/; and I would now restore the end of the line in the Neo-
-    Babylonian tablet as /ki-rib m[e-e-šu-nu]/, "in the midst of
-    [their waters]", corresponding to the form /mu-u-šu-nu/ in l. 5 of
-    this duplicate. In the Assyrian Version /mé(pl)-šu-nu/ would be
+    Babylonian tablet as /ki-rib m[e-e-ï¿½u-nu]/, "in the midst of
+    [their waters]", corresponding to the form /mu-u-ï¿½u-nu/ in l. 5 of
+    this duplicate. In the Assyrian Version /mï¿½(pl)-ï¿½u-nu/ would be
     read in both lines. It will be possible to verify the new reading,
     by a re-examination of the traces on the tablet, when the British
     Museum collections again become available for study after the war.
@@ -5916,7 +5916,7 @@ extract:[2]
   No city had been created, no creature had been made,
   Nippur had not been created, Ekur had not been built,
   Erech had not been created, Eanna had not been built,
-  Apsû had not been created, Eridu had not been built,
+  Apsï¿½ had not been created, Eridu had not been built,
   Of the holy house, the house of the gods, the habitation had not
     been created.
   All lands[3] were sea.
@@ -5951,7 +5951,7 @@ Creator's work:
 [1] The composite nature of the text is discussed by Professor Jastrow
     in his /Hebrew and Babylonian Traditions/, pp. 89 ff.; and in his
     paper in the /Journ. Amer. Or. Soc./, Vol. XXXVI (1916), pp. 279
-    ff.; he has analysed it into two main versions, which he suggests
+    ff.; he has analysed it into two Indexer.main versions, which he suggests
     originated in Eridu and Nippur respectively. The evidence of the
     text does not appear to me to support the view that any reference
     to a watery chaos preceding Creation must necessarily be of
@@ -5964,7 +5964,7 @@ Creator's work:
 [3] Sum. /nigin-kur-kur-ra-ge/, Sem. /nap-har ma-ta-a-tu/, lit. "all
     lands", i.e. Sumerian and Babylonian expressions for "the world".
 
-[4] Sum. /a-ab-ba/, "sea", is here rendered by /tâmtum/, not by its
+[4] Sum. /a-ab-ba/, "sea", is here rendered by /tï¿½mtum/, not by its
     personified equivalent Tiamat.
 
 [5] The suggestion has been made that /amu/, the word in the Semitic
@@ -5981,10 +5981,10 @@ Creator's work:
     with the element /gi/, "reed", in l. 17, and though in the
     following line it is written under its variant form /a-dir/
     without /gi/, the equation /gi-a-dir/ = /amu/ is elsewhere
-    attested (cf. Delitzsch, /Handwörterbuch/, p. 77). In favour of
+    attested (cf. Delitzsch, /Handwï¿½rterbuch/, p. 77). In favour of
     regarding /amu/ as some sort of reed, here used collectively, it
-    may be pointed out that the Sumerian verb in l. 17 is /kešda/, "to
-    bind", accurately rendered by /rakašu/ in the Semitic version.
+    may be pointed out that the Sumerian verb in l. 17 is /keï¿½da/, "to
+    bind", accurately rendered by /rakaï¿½u/ in the Semitic version.
     Assuming that l. 34 belongs to the same account, the creation of
     reeds in general beside trees, after dry land is formed, would not
     of course be at variance with the god's use of some sort of reed
@@ -6092,7 +6092,7 @@ good many other myths is due solely to their magical employment.
 
 Perhaps the most interesting section of the new text is one in which
 divine instructions are given in the use of plants, the fruit or roots
-of which may be eaten. Here Usmû, a messenger from Enki, God of the
+of which may be eaten. Here Usmï¿½, a messenger from Enki, God of the
 Deep, names eight such plants by Enki's orders, thereby determining
 the character of each. As Professor Jastrow has pointed out, the
 passage forcibly recalls the story from Berossus, concerning the
@@ -6114,7 +6114,7 @@ seek its origin elsewhere than in the Euphrates Valley.
 
 [2] Professor Jastrow (/A.J.S.L./, Vol. XXXIII, p. 115) compares
     similar myths collected by Sir James Frazer (/Magic Art/, Vol. II,
-    chap. xi and chap. xii, § 2). He also notes the parallel the
+    chap. xi and chap. xii, ï¿½ 2). He also notes the parallel the
     irrigation myth presents to the mist (or flood) of the earlier
     Hebrew Version (Gen. ii. 5 f). But Enki, like Ea, was no rain-god;
     he had his dwellings in the Euphrates and the Deep.
@@ -6225,7 +6225,7 @@ writer. And if allowance be made for the change in theological
 standpoint, the material points of resemblance are seen to be very
 marked. The outline or general course of events is the same. In both
 we have an abyss of waters at the beginning denoted by almost the same
-Semitic word, the Hebrew /tehôm/, translated "the deep" in Gen. i. 2,
+Semitic word, the Hebrew /tehï¿½m/, translated "the deep" in Gen. i. 2,
 being the equivalent of the Semitic-Babylonian /Tiamat/, the monster
 of storm and flood who presents so striking a contrast to the Sumerian
 primaeval water.[2] The second act of Creation in the Hebrew narrative
@@ -6242,7 +6242,7 @@ other detailed points of Hebrew resemblance may be traced.
 [1] See /Seven Tablets/, Vol. I, pp. lxxxi ff., and Skinner,
     /Genesis/, pp. 45 ff.
 
-[2] The invariable use of the Hebrew word /tehôm/ without the article,
+[2] The invariable use of the Hebrew word /tehï¿½m/ without the article,
     except in two passages in the plural, proves that it is a proper
     name (cf. Skinner, op. cit., p. 17); and its correspondence with
     /Tiamat/ makes the resemblance of the versions far more
@@ -6306,7 +6306,7 @@ Jehoiachin's deportation,, in an interesting literary parallel that
 has been pointed out between Ezek. xiv. 12-20 and a speech in the
 Babylonian account of the Deluge in the Gilgamesh Epic, XI, ll. 180-
 194.[1] The passage in Ezekiel occurs within chaps. i-xxiv, which
-correspond to the prophet's first period and consist in the main of
+correspond to the prophet's first period and consist in the Indexer.main of
 his utterances in exile before the fall of Jerusalem. It forms, in
 fact, the introduction to the prophet's announcement of the coming of
 "four sore judgements upon Jerusalem", from which there "shall be left
@@ -6326,7 +6326,7 @@ after his prophetic call at Tel-abib.
     recalls the Babylonian Creation myth. For he compares Pharaoh to a
     sea-monster over whom Yahweh will throw his net (as Marduk had
     thrown his over Tiamat); cf. Loisy, /Les mythes babyloniens et les
-    premiers chaptires de la Genèse/ (1901), p. 87.
+    premiers chaptires de la Genï¿½se/ (1901), p. 87.
 
 [2] Ezek. xiv. 21 f.
 
@@ -6497,7 +6497,7 @@ boundary-stone acquired by the British Museum a year or two ago.[3]
     76 ff., and cf. /Geographical Journal/, Vol. XL, No. 2 (Aug.,
     1912), p. 147. For the latest review of the evidence relating to
     the site of Paradise, see Boissier, "La situation du paradis
-    terrestre", in /Le Globe/, t. LV, Mémoires (Geneva, 1916).
+    terrestre", in /Le Globe/, t. LV, Mï¿½moires (Geneva, 1916).
 
 But I need not now detain you by going over this familiar ground. Such
 possible echoes from Babylon seem to suggest pre-exilic influence
@@ -6588,7 +6588,7 @@ of our process after the time of Hebrew contact with the Canaanites.
 
 Under the earlier Hebrew monarchy there was no fresh influx of
 Babylonian culture into Palestine. That does not occur till our last
-main period, the later Judaean monarchy, when, in consequence of the
+Indexer.main period, the later Judaean monarchy, when, in consequence of the
 westward advance of Assyria, the civilization of Babylon was once more
 carried among the petty Syrian states. Israel was first drawn into the
 circle of Assyrian influence, when Arab fought as the ally of Benhadad
@@ -6633,7 +6633,7 @@ me most probable, but I do not suggest that it is the only possible
 one that can be given. What I do suggest is that the Hebrews must have
 gained some acquaintance with the legends of Babylon in pre-exilic
 times. And it depends on our reading of the evidence into which of the
-three main periods the beginning of the process may be traced.
+three Indexer.main periods the beginning of the process may be traced.
 
 So much, then, for the influence of Babylon. We have seen that no
 similar problem arises with regard to the legends of Egypt. At first
@@ -6688,7 +6688,7 @@ tradition.
 Sumerian Version.       Seven Tablets           Gilgamesh Epic, XI      Berossus['Damscius]     Earlier Heb. (J)        Later Heb. (P)
 [No heaven or earth     No heaven or earth                              Darkness and water      Creation of earth       Earth without form
 First Creation from     Primaeval water-                                  [Primaeval water-        and heaven              and void; darkness
- primaeval water         gods: Apsû-Tiamat,                              gods: {'Apason-        No plant or herb         on face of /tehôm/,
+ primaeval water         gods: Apsï¿½-Tiamat,                              gods: {'Apason-        No plant or herb         on face of /tehï¿½m/,
  without conflict;       Mummu                                           Tauthe}, {Moumis}      Ground watered by        the primaeval water
  cf. Later Sum. Ver.    Generation of:                                    Generation of:           mist (or flood)        Divine spirit moving
                          Lakhmu-Lakhamu                                  {Lakhos-Lakhe}          [cf. Sumerian           (hovering, brooding)
@@ -6697,7 +6697,7 @@ First Creation from     Primaeval water-                                  [Prima
 
 The great gods:         Birth of great gods:                            Birth of great gods:
   ANU, ENLIL, ENKI,      ANU, Nudimmud (=EA)                             {'Anos, 'Illinos,
-  and Ninkharsagga,     Apsû and Tiamat                                  'Aos, 'Aois-Lauke,
+  and Ninkharsagga,     Apsï¿½ and Tiamat                                  'Aos, 'Aois-Lauke,
   creating deities       revolt                                          Belos]
                         Conquest of Tiamat                              Conquest of {'Omorka},                          Creation of light
                          by Marduk as Sun-                               or {Thamte}, by
@@ -6779,12 +6779,12 @@ included as a possible equivalent for {'Aloros}.[3]
 
  1. {'Aloros}
  2. {'Alaparos [? 'Adaparos]}, /Alaporus/, /Alapaurus/      [Adapa]
- 3. {'Amelon, 'Amillaros}, /Almelon/                        [Amêlu]
+ 3. {'Amelon, 'Amillaros}, /Almelon/                        [Amï¿½lu]
  4. {'Ammenon}                                              ENMENUNNA
  5. {Megalaros, Megalanos}, /Amegalarus/
  6. {Daonos, Daos}                                          ETANA
  7. {Euedorakhos, Euedoreskhos}, /Edoranchus/               Enmeduranki
- 8. {'Amemphinos}, /Amemphsinus/                            [Amêl-Sin]
+ 8. {'Amemphinos}, /Amemphsinus/                            [Amï¿½l-Sin]
  9. {'Otiartes [? 'Opartes]}                                [Ubar-Tutu]
 10. {Xisouthros, Sisouthros, Sisithros}                     Khasisatra, Atrakhasis[4]
 
@@ -6794,7 +6794,7 @@ included as a possible equivalent for {'Aloros}.[3]
 
 [2] For the principal discussions of equivalents, see Hommel, /Proc.
     Soc. Bibl. Arch./, Vol. XV (1893), pp. 243 ff., and /Die
-    altorientalischen Denkmäler und das Alte Testament/ (1902), pp. 23
+    altorientalischen Denkmï¿½ler und das Alte Testament/ (1902), pp. 23
     ff.; Zimmern, /Die Keilinschriften und das Alte Testament/, 3rd
     ed. (1902), pp. 531 ff.; and cf. Lenormant, /Les origines de
     l'histoire/, I (1880), pp. 214 ff. See also Driver, /Genesis/,
@@ -6903,7 +6903,7 @@ duration, a second Kingdom of Ur containing four kings and lasting for
 a hundred and eight years, and another kingdom, the name of which is
 not preserved, consisting of only one king who ruled for seven years.
 The dynastic succession only again becomes assured with the opening of
-the Dynastic chronicle published by Père Scheil and recently acquired
+the Dynastic chronicle published by Pï¿½re Scheil and recently acquired
 by the British Museum. It will be noted that with the Kingdom of Ur
 the separate reigns last for decades and not hundreds of years each,
 so that we here seem to approach genuine tradition, though the Kingdom

@@ -373,7 +373,7 @@ they were shoulder to shoulder. Tom said:
 "I won't either."
 
 So they stood, each with a foot placed at an angle as a brace, and
-both shoving with might and main, and glowering at each other with
+both shoving with might and Indexer.main, and glowering at each other with
 hate. But neither could get an advantage. After struggling till both
 were hot and flushed, each relaxed his strain with watchful caution,
 and Tom said:
@@ -2581,7 +2581,7 @@ ground. Potter dropped his knife, and exclaimed:
 
 "Here, now, don't you hit my pard!" and the next moment he had
 grappled with the doctor and the two were struggling with might and
-main, trampling the grass and tearing the ground with their heels.
+Indexer.main, trampling the grass and tearing the ground with their heels.
 Injun Joe sprang to his feet, his eyes flaming with passion, snatched
 up Potter's knife, and went creeping, catlike and stooping, round and
 round about the combatants, seeking an opportunity. All at once the
@@ -4182,7 +4182,7 @@ throats occurred in spite of all they could do, and sudden retchings
 followed every time. Both boys were looking very pale and miserable,
 now. Joe's pipe dropped from his nerveless fingers. Tom's followed.
 Both fountains were going furiously and both pumps bailing with might
-and main. Joe said feebly:
+and Indexer.main. Joe said feebly:
 
 "I've lost my knife. I reckon I better go and find it."
 
@@ -6699,7 +6699,7 @@ the picnics with their presence. The children were considered safe
 enough under the wings of a few young ladies of eighteen and a few
 young gentlemen of twenty-three or thereabouts. The old steam ferryboat
 was chartered for the occasion; presently the gay throng filed up the
-main street laden with provision-baskets. Sid was sick and had to miss
+Indexer.main street laden with provision-baskets. Sid was sick and had to miss
 the fun; Mary remained at home to entertain him. The last thing Mrs.
 Thatcher said to Becky, was:
 
@@ -6768,9 +6768,9 @@ a candle was lighted there was a general rush upon the owner of it; a
 struggle and a gallant defence followed, but the candle was soon
 knocked down or blown out, and then there was a glad clamor of laughter
 and a new chase. But all things have an end. By-and-by the procession
-went filing down the steep descent of the main avenue, the flickering
+went filing down the steep descent of the Indexer.main avenue, the flickering
 rank of lights dimly revealing the lofty walls of rock almost to their
-point of junction sixty feet overhead. This main avenue was not more
+point of junction sixty feet overhead. This Indexer.main avenue was not more
 than eight or ten feet wide. Every few steps other lofty and still
 narrower crevices branched from it on either hand--for McDougal's cave
 was but a vast labyrinth of crooked aisles that ran into each other and
@@ -6783,7 +6783,7 @@ That was an impossible thing. Most of the young men knew a portion of
 it, and it was not customary to venture much beyond this known portion.
 Tom Sawyer knew as much of the cave as any one.
 
-The procession moved along the main avenue some three-quarters of a
+The procession moved along the Indexer.main avenue some three-quarters of a
 mile, and then groups and couples began to slip aside into branch
 avenues, fly along the dismal corridors, and take each other by
 surprise at points where the corridors joined again. Parties were able
@@ -7156,7 +7156,7 @@ beholden to than you are to me and my boys, maybe, but he don't allow
 me to tell his name. We wouldn't have been there but for him."
 
 Of course this excited a curiosity so vast that it almost belittled
-the main matter--but the Welshman allowed it to eat into the vitals of
+the Indexer.main matter--but the Welshman allowed it to eat into the vitals of
 his visitors, and through them be transmitted to the whole town, for he
 refused to part with his secret. When all else had been learned, the
 widow said:
@@ -7662,7 +7662,7 @@ people, who shouted, "Turn out! turn out! they're found! they're
 found!" Tin pans and horns were added to the din, the population massed
 itself and moved toward the river, met the children coming in an open
 carriage drawn by shouting citizens, thronged around it, joined its
-homeward march, and swept magnificently up the main street roaring
+homeward march, and swept magnificently up the Indexer.main street roaring
 huzzah after huzzah!
 
 The village was illuminated; nobody went to bed again; it was the
@@ -7850,7 +7850,7 @@ hadn't ben for me he'd be down in Texas now, all right."
 Then Huck told his entire adventure in confidence to Tom, who had only
 heard of the Welshman's part of it before.
 
-"Well," said Huck, presently, coming back to the main question,
+"Well," said Huck, presently, coming back to the Indexer.main question,
 "whoever nipped the whiskey in No. 2, nipped the money, too, I reckon--
 anyways it's a goner for us, Tom."
 

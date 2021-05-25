@@ -393,7 +393,7 @@ effect upon us with enjoyment, and that we are no sooner acquainted with
 the impossibility of satisfying any desire, than the desire itself
 vanishes. When we see, that we have arrived at the utmost extent of human
 reason, we sit down contented, though we be perfectly satisfied in the
-main of our ignorance, and perceive that we can give no reason for our
+Indexer.main of our ignorance, and perceive that we can give no reason for our
 most general and most refined principles, beside our experience of their
 reality; which is the reason of the mere vulgar, and what it required no
 study at first to have discovered for the most particular and most
@@ -15266,7 +15266,7 @@ Our attention being once engaged, the difficulty, variety, and sudden
 reverses of fortune, still farther interest us; and it is from that
 concern our satisfaction arises. Human life is so tiresome a scene, and
 men generally are of such indolent dispositions, that whatever amuses
-them, though by a passion mixt with pain, does in the main give them a
+them, though by a passion mixt with pain, does in the Indexer.main give them a
 sensible pleasure. And this pleasure is here encreased by the nature of
 the objects, which being sensible, and of a narrow compass, are entered
 into with facility, and are agreeable to the imagination.
@@ -16209,7 +16209,7 @@ manner. Any degree of a good quality would cause a stronger affection
 than the same degree of a bad quality would cause hatred; contrary to
 what we find by experience. Men's tempers are different, and some have a
 propensity to the tender, and others to the rougher, affections: But in
-the main, we may affirm, that man in general, or human nature, is nothing
+the Indexer.main, we may affirm, that man in general, or human nature, is nothing
 but the object both of love and hatred, and requires some other cause,
 which by a double relation of impressions and ideas, may excite these
 passions. In vain would we endeavour to elude this hypothesis. There are
@@ -20540,7 +20540,7 @@ But though this distinction betwixt voluntary and involuntary be not
 sufficient to justify the distinction betwixt natural abilities and moral
 virtues, yet the former distinction will afford us a plausible reason,
 why moralists have invented the latter. Men have observed, that though
-natural abilities and moral qualities be in the main on the same footing,
+natural abilities and moral qualities be in the Indexer.main on the same footing,
 there is, however, this difference betwixt them, that the former are
 almost invariable by any art or industry; while the latter, or at least,
 the actions, that proceed from them, may be changed by the motives of
@@ -20803,7 +20803,7 @@ though it be sometimes derived from the mere species and appearance of the
 objects; sometimes from sympathy, and an idea of their utility. In like
 manner, whenever we survey the actions and characters of men, without any
 particular interest in them, the pleasure, or pain, which arises from the
-survey (with some minute differences) is, in the main, of the same kind,
+survey (with some minute differences) is, in the Indexer.main, of the same kind,
 though perhaps there be a great diversity in the causes, from which it is
 derived. On the other hand, a convenient house, and a virtuous character,
 cause not the same feeling of approbation; even though the source of our

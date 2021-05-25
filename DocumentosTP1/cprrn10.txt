@@ -548,7 +548,7 @@ the mind of his judges. But, lest anything he may have said may become
 the innocent cause of doubt in their minds, or tend to weaken the effect
 which his arguments might otherwise produce--he may be allowed to
 point out those passages which may occasion mistrust or difficulty,
-although these do not concern the main purpose of the present work.
+although these do not concern the Indexer.main purpose of the present work.
 He does this solely with the view of removing from the mind of the
 reader any doubts which might affect his judgement of the work as a
 whole, and in regard to its ultimate aim.
@@ -568,7 +568,7 @@ this reason an essential part of the Critique. The other considers
 the pure understanding itself, its possibility and its powers of
 cognition--that is, from a subjective point of view; and, although
 this exposition is of great importance, it does not belong essentially
-to the main purpose of the work, because the grand question is what
+to the Indexer.main purpose of the work, because the grand question is what
 and how much can reason and understanding, apart from experience,
 cognize, and not, how is the faculty of thought itself possible? As
 the latter is an, inquiry into the cause of a given effect, and has
@@ -1030,7 +1030,7 @@ insured against the effects of a speculation which would involve it
 in contradiction with itself. To deny the positive advantage of the
 service which this criticism renders us would be as absurd as. to
 maintain that the system of police is productive of no positive
-benefit, since its main business is to prevent the violence which
+benefit, since its Indexer.main business is to prevent the violence which
 citizen has to apprehend from citizen, that so each may pursue his
 vocation in peace and security. That space and time are only forms
 of sensible intuition, and hence are only conditions of the
@@ -1290,7 +1290,7 @@ of the understanding; to supply the supposed want of sufficient
 evidence in the demonstration of the principles of the pure
 understanding; and, lastly, to obviate the misunderstanding of the
 paralogisms which immediately precede the rational psychology.
-Beyond this point--the end of the second main division of the
+Beyond this point--the end of the second Indexer.main division of the
 "Transcendental Dialectic"--I have not extended my alterations,*
 partly from want of time, and partly because I am not aware that any
 portion of the remainder has given rise to misconceptions among
@@ -2092,7 +2092,7 @@ conceptions, as well as of the deduction from the conceptions a priori
 which may be given by the analysis, we can, however, easily attain,
 provided only that we are in possession of all these radical
 conceptions, which are to serve as principles of the synthesis, and
-that in respect of this main purpose nothing is wanting.
+that in respect of this Indexer.main purpose nothing is wanting.
 
 To the Critique of Pure Reason, therefore, belongs all that
 constitutes transcendental philosophy; and it is the complete idea
@@ -2120,7 +2120,7 @@ to empirical sources of cognition.
 If we wish to divide this science from the universal point of view
 of a science in general, it ought to comprehend, first, a Doctrine
 of the Elements, and, secondly, a Doctrine of the Method of pure
-reason. Each of these main divisions will have its subdivisions, the
+reason. Each of these Indexer.main divisions will have its subdivisions, the
 separate reasons for which we cannot here particularize. Only so
 much seems necessary, by way of introduction of premonition, that
 there are two sources of human knowledge (which probably spring from
@@ -3089,7 +3089,7 @@ INTRODUCTION. Idea of a Transcendental Logic.
 
 I. Of Logic in General.
 
-Our knowledge springs from two main sources in the mind, first of
+Our knowledge springs from two Indexer.main sources in the mind, first of
 which is the faculty or power of receiving representations
 (receptivity for impressions); the second is the power of cognizing
 by means of these representations (spontaneity in the production of
@@ -3886,9 +3886,9 @@ I shall analyse these conceptions only so far as is necessary for
 the doctrine of method, which is to form a part of this critique. In
 a system of pure reason, definitions of them would be with justice
 demanded of me, but to give them here would only bide from our view
-the main aim of our investigation, at the same time raising doubts
+the Indexer.main aim of our investigation, at the same time raising doubts
 and objections, the consideration of which, without injustice to our
-main purpose, may be very well postponed till another opportunity.
+Indexer.main purpose, may be very well postponed till another opportunity.
 Meanwhile, it ought to be sufficiently clear, from the little we
 have already said on this subject, that the formation of a complete
 vocabulary of pure conceptions, accompanied by all the requisite
@@ -4672,7 +4672,7 @@ appreciation they belong to each other in the synthesis of intuitions,
 that is to say, they belong to each other according to principles of
 the objective determination of all our representations, in so far as
 cognition can arise from them, these principles being all deduced from
-the main principle of the transcendental unity of apperception. In
+the Indexer.main principle of the transcendental unity of apperception. In
 this way alone can there arise from this relation a judgement, that
 is, a relation which has objective validity, and is perfectly distinct
 from that relation of the very same representations which has only
@@ -9753,8 +9753,8 @@ In the proposition: All men are mortal, are contained the
 propositions: Some men are mortal, Nothing that is not mortal is a
 man, and these are therefore immediate conclusions from the first.
 On the other hand, the proposition: all the learned are mortal, is
-not contained in the main proposition (for the conception of a learned
-man does not occur in it), and it can be deduced from the main proposition
+not contained in the Indexer.main proposition (for the conception of a learned
+man does not occur in it), and it can be deduced from the Indexer.main proposition
 only by means of a mediating judgement.
 
 In every syllogism I first cogitate a rule (the major) by means of
@@ -10444,7 +10444,7 @@ reach.
 Now the most general relations which can exist in our
 representations are: 1st, the relation to the subject; 2nd, the
 relation to objects, either as phenomena, or as objects of thought
-in general. If we connect this subdivision with the main division,
+in general. If we connect this subdivision with the Indexer.main division,
 all the relations of our representations, of which we can form either
 a conception or an idea, are threefold: 1. The relation to the
 subject; 2. The relation to the manifold of the object as a
@@ -17042,7 +17042,7 @@ diversity a unity of fundamental properties, of which the aforesaid
 variety is but a more or less determined form. This unity, although
 a mere idea, thinkers have found it necessary rather to moderate the
 desire than to encourage it. It was considered a great step when
-chemists were able to reduce all salts to two main genera--acids and
+chemists were able to reduce all salts to two Indexer.main genera--acids and
 alkalis; and they regard this difference as itself a mere variety,
 or different manifestation of one and the same fundamental material.
 The different kinds of earths (stones and even metals) chemists have
@@ -18603,7 +18603,7 @@ There is thus a twofold exercise of reason. Both modes have the
 properties of universality and an a priori origin in common, but
 are, in their procedure, of widely different character. The reason
 of this is that in the world of phenomena, in which alone objects
-are presented to our minds, there are two main elements--the form of
+are presented to our minds, there are two Indexer.main elements--the form of
 intuition (space and time), which can be cognized and determined
 completely a priori, and the matter or content--that which is
 presented in space and time, and which, consequently, contains a
@@ -19114,7 +19114,7 @@ but feel when it enters upon a rigid self-examination. If, on the
 other hand, we were to ask Priestley--a philosopher who had no taste
 for transcendental speculation, but was entirely devoted to the
 principles of empiricism--what his motives were for overturning
-those two main pillars of religion--the doctrines of the freedom of
+those two Indexer.main pillars of religion--the doctrines of the freedom of
 the will and the immortality of the soul (in his view the hope of a
 future life is but the expectation of the miracle of resurrection)-
 this philosopher, himself a zealous and pious teacher of religion,
@@ -21153,7 +21153,7 @@ present time, considering the immense materials collected or to be
 found in the ruins of old systems, would not indeed be very difficult.
 Our purpose at present is merely to sketch the plan of the
 architectonic of all cognition given by pure reason; and we begin from
-the point where the main root of human knowledge divides into two,
+the point where the Indexer.main root of human knowledge divides into two,
 one of which is reason. By reason I understand here the whole higher
 faculty of cognition, the rational being placed in contradistinction
 to the empirical.

@@ -475,7 +475,7 @@ the history of that country can be written in detail for a period
 of several centuries. Naturally, then, even a mere sketch of
 Egyptian, Babylonian, and Assyrian art would require much more
 space than is here at disposal. All that can be attempted is to
-present a few examples and suggest a few general notions. The main
+present a few examples and suggest a few general notions. The Indexer.main
 purpose will be to make clearer by comparison and contrast  the
 essential qualities of Greek art, to which this volume is devoted.
 
@@ -547,7 +547,7 @@ them were deposited. The pyramid of Cheops (Fig. 1, at the right),
 the largest of all, was originally 481 feet 4 inches in height,
 and was thus doubtless the loftiest structure ever reared in pre-
 Christian times. The side of the square base measured 755 feet 8
-inches. The pyramidal mass consists in the main of blocks of
+inches. The pyramidal mass consists in the Indexer.main of blocks of
 limestone, and the exterior was  originally cased with fine
 limestone, so that the surfaces were perfectly smooth. At present
 the casing is gone, and instead of a sharp point at the top there
@@ -1218,7 +1218,7 @@ which is still complete, except for the loss of the bronze
 decoration and two or three stones at the top. The small doorway
 which is seen here, as well as in Fig. 26, leads into a
 rectangular chamber, hewn in the living rock. This is much smaller
-than the main chamber.
+than the Indexer.main chamber.
 
 At Orchomenus in Boeotia are the ruins of a tomb scarcely inferior
 in size to the "Treasury of Atreus" and once scarcely less
@@ -1828,7 +1828,7 @@ this sort from a sixth century temple on the Athenian Acropolis.
 If it be added that upon the apex and the lower corners of the
 pediment there were commonly pedestals which supported statues or
 other ornamental objects (Fig. 52), mention will have been made of
-all the main features of the exterior of a Doric peripteral
+all the Indexer.main features of the exterior of a Doric peripteral
 temple.
 
 Every other part of the building had likewise its established
@@ -1868,7 +1868,7 @@ arrangement in a Greek temple there is no evidence, so far as I am
 aware.] The roof-beams were of wood. The roof was covered with
 terra-cotta or marble tiles.
 
-Such are the main features of a Doric temple (those last mentioned
+Such are the Indexer.main features of a Doric temple (those last mentioned
 not being peculiar to the Doric style). Little has been said thus
 far of variation in these features. Yet variation there was. Not
 to dwell on local differences, as between Greece proper and the
@@ -2155,7 +2155,7 @@ us and, on first acquaintance, so little to our taste, it may be
 answered that possibly the example of their neighbors had
 something to do with it. The architecture of Egypt, of
 Mesopotamia, of Persia, was polychromatic. But probably the
-practice of the Greeks was in the main an inheritance from the
+practice of the Greeks was in the Indexer.main an inheritance from the
 early days of their own civilization. According to a well-
 supported theory, the Doric temple of the historical period is a
 translation into stone or marble of a primitive edifice whose
@@ -2226,7 +2226,7 @@ neighbor, or with the intricate interlacing patterns of Arabic
 decoration, and you will have a striking illustration of the Greek
 love for the finite and comprehensible.
 
-When it was said just now that the main lines of a Greek temple
+When it was said just now that the Indexer.main lines of a Greek temple
 are either horizontal or perpendicular, the statement called for
 qualification. The elevations of the most perfect of Doric
 buildings, the Parthenon, could not be drawn with a ruler. Some of
@@ -2382,7 +2382,7 @@ another as closely as possible. This shows--and the conclusion is
 confirmed by other evidence--that means existed in Roman times of
 reproducing  statues with the help of measurements mechanically
 taken. At the same time, a comparison of copies makes it apparent
-that copyists, even when aiming to be exact in the main, often
+that copyists, even when aiming to be exact in the Indexer.main, often
 treated details and accessories with a good deal of freedom. Of
 course, too, the skill and conscientiousness of the copyists
 varied enormously. Finally, besides copies, we have to reckon with
@@ -2934,7 +2934,7 @@ is a series of flat, shallow ridges. The face shows the usual
 archaic features--the  prominent eyeballs, cheeks, and chin, and
 the smiling mouth. The hair is represented as fastened by a sort
 of hoop, into which metallic ornaments, now lost, were inserted.
-As usual, the main mass of the hair falls straight behind, and
+As usual, the Indexer.main mass of the hair falls straight behind, and
 several locks, the same number on each side, are brought forward
 upon the breast. As usual, too, the front hair is disposed
 symmetrically; in this case, a smaller and a larger flat curl on
@@ -3055,7 +3055,7 @@ principle of isocephaly in Greek relief-sculpture; i.e., the
 convention whereby the heads of figures in an extended composition
 are ranged on nearly the same level, no matter whether the figures
 are seated, standing, mounted on horseback, or placed in any other
-position. The main purpose of this convention doubtless was to
+position. The Indexer.main purpose of this convention doubtless was to
 avoid the unpleasing blank spaces which would result if the
 figures were all of the same proportions. In the present instance
 there may be the further desire to suggest by the greater size of
@@ -3670,7 +3670,7 @@ hand. [Footnote: Such at least seems to be the view adopted in the
 latest official publication on the subject "Olympia; Die Bildwerke
 in Stein und Thon," Pl. LXV.] With her left hand she seeks to ease
 a little the hero's heavy load. Before him stands Atlas, holding
-out the apples in both hands. The main lines of the composition
+out the apples in both hands. The Indexer.main lines of the composition
 are somewhat monotonous, but this is a consequence of the subject,
 not of any incapacity of the artist, as the other metopes testify.
 The figure of Athena should be compared with that of Sterope in

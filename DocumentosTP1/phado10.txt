@@ -1301,7 +1301,7 @@ of God, and are led on in the order of thought from one to the other.'  Or
 more correctly:  'The existence of right and truth is the existence of God,
 and can never for a moment be separated from Him.'
 
-19.  The main argument of the Phaedo is derived from the existence of
+19.  The Indexer.main argument of the Phaedo is derived from the existence of
 eternal ideas of which the soul is a partaker; the other argument of the
 alternation of opposites is replaced by this.  And there have not been
 wanting philosophers of the idealist school who have imagined that the
@@ -3338,7 +3338,7 @@ will die with me, and therefore no harm will be done.  This is the state of
 mind, Simmias and Cebes, in which I approach the argument.  And I would ask
 you to be thinking of the truth and not of Socrates:  agree with me, if I
 seem to you to be speaking the truth; or if not, withstand me might and
-main, that I may not deceive you as well as myself in my enthusiasm, and
+Indexer.main, that I may not deceive you as well as myself in my enthusiasm, and
 like the bee, leave my sting in you before I die.
 
 And now let us proceed, he said.  And first of all let me be sure that I

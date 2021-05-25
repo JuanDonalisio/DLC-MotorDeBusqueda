@@ -384,7 +384,7 @@ and sweet birds sing, the lark at dawn of day, the throstle cock and cuckoo;
 when lads and lasses look upon each other with sweet thoughts; when busy
 housewives spread their linen to bleach upon the bright green grass.
 Sweet was the greenwood as he walked along its paths, and bright the green
-and rustling leaves, amid which the little birds sang with might and main:
+and rustling leaves, amid which the little birds sang with might and Indexer.main:
 and blithely Robin whistled as he trudged along, thinking of Maid Marian
 and her bright eyes, for at such times a youth's thoughts are wont to turn
 pleasantly upon the lass that he loves the best.
@@ -1244,7 +1244,7 @@ So saying, he strode away toward the forest, talking to himself,
 while the landlord and his worthy dame and Maken stood looking after him,
 and laughed when he had fairly gone.
 
-"Robin and I stripped yon ass of his pack main neatly,"
+"Robin and I stripped yon ass of his pack Indexer.main neatly,"
 quoth the landlord.
 
 Now it happened about this time that Robin Hood was going
@@ -1272,7 +1272,7 @@ came straight at the other.  He struck two or three blows, but soon
 found that he had met his match, for Robin warded and parried all
 of them, and, before the Tinker thought, he gave him a rap upon
 the ribs in return.  At this Robin laughed aloud, and the Tinker grew
-more angry than ever, and smote again with all his might and main.
+more angry than ever, and smote again with all his might and Indexer.main.
 Again Robin warded two of the strokes, but at the third, his staff
 broke beneath the mighty blows of the Tinker.  "Now, ill betide thee,
 traitor staff," cried Robin, as it fell from his hands; "a foul stick
@@ -1813,7 +1813,7 @@ Once I slew a man, and never do I wish to slay a man again,
 for it is bitter for the soul to think thereon.  So now we will
 abide silently in Sherwood Forest, so that it may be well for all,
 but should we be forced to defend ourselves, or any of our band,
-then let each man draw bow and brand with might and main."
+then let each man draw bow and brand with might and Indexer.main."
 
 At this speech many of the band shook their heads, and said to themselves,
 "Now the Sheriff will think that we are cowards, and folk will scoff
@@ -1919,7 +1919,7 @@ said Robin to the lass.
 
 "Ay, marry, for I saw it all," cried she, panting as the hare
 pants when it has escaped the hounds, "and I fear he is
-wounded sore, for one smote him main shrewdly i' the crown.
+wounded sore, for one smote him Indexer.main shrewdly i' the crown.
 They have bound him and taken him to Nottingham Town, and ere I
 left the Blue Boar I heard that he should be hanged tomorrow day."
 
@@ -2099,7 +2099,7 @@ and Stutely leaped straightway from the cart.
 is a sturdy rebel!  Take him, I bid you all, and let him not go!"
 
 So saying, he spurred his horse upon Little John, and rising
-in his stirrups smote with might and main, but Little John ducked
+in his stirrups smote with might and Indexer.main, but Little John ducked
 quickly underneath the horse's belly and the blow whistled
 harmlessly over his head.
 
@@ -2595,7 +2595,7 @@ good man, without aid."
 
 "Then I will put thee on the right track mine own self,"
 quoth Robin, and, taking the Sheriff's horse by the bridle rein,
-he led him into the main forest path.  Then, before he let
+he led him into the Indexer.main forest path.  Then, before he let
 him go, he said, "Now, fare thee well, good Sheriff,
 and when next thou thinkest to despoil some poor prodigal,
 remember thy feast in Sherwood Forest.  `Ne'er buy a horse,
@@ -2626,7 +2626,7 @@ not bear to hear Robin Hood's name spoken in his presence.
 With October had come the time for holding the great Fair
 which was celebrated every five years at Nottingham Town,
 to which folk came from far and near throughout the country.
-At such times archery was always the main sport of the day,
+At such times archery was always the Indexer.main sport of the day,
 for the Nottinghamshire yeomen were the best hand at the longbow
 in all merry England, but this year the Sheriff hesitated
 a long time before he issued proclamation of the Fair,
@@ -3664,7 +3664,7 @@ in his former trim."
 
 At last Little John saw his chance, and, throwing all the
 strength he felt going from him into one blow that might have
-felled an ox, he struck at the Tanner with might and main.
+felled an ox, he struck at the Tanner with might and Indexer.main.
 And now did the Tanner's cowhide cap stand him in good stead,
 and but for it he might never have held staff in hand again.
 As it was, the blow he caught beside the head was so shrewd
@@ -4660,7 +4660,7 @@ When they had come near where all the tumult sounded they heard the three
 blasts of Robin's bugle horn.
 
 "Quick!" cried young David of Doncaster.  "Our master is in sore need!"
-So, without stopping a moment, they dashed forward with might and main
+So, without stopping a moment, they dashed forward with might and Indexer.main
 and burst forth from the covert into the highroad.
 
 But what a sight was that which they saw!  The road was all white with meal,
@@ -8871,7 +8871,7 @@ of a sudden the sound of a horse's feet, and presently Little John
 and Will Stutely came forth from the forest path into the open glade,
 young Richard Partington riding between them upon his milk-white horse.
 The three came toward where Robin Hood sat, all the band staring with might
-and main, for never had they seen so gay a sight as this young Page,
+and Indexer.main, for never had they seen so gay a sight as this young Page,
 nor one so richly clad in silks and velvets and gold and jewels.
 Then Robin arose and stepped forth to meet him, and Partington leaped from
 his horse and doffing his cap of crimson velvet, met Robin as he came.
@@ -9693,7 +9693,7 @@ When they had come to the highroad without the town, Robin stopped
 and told them all that had passed between young Partington and himself,
 and how that the King's men were after them with hot heels.
 Then he told them that here they should part company; they three going
-to the eastward and he to the westward, and so, skirting the main highroads,
+to the eastward and he to the westward, and so, skirting the Indexer.main highroads,
 would come by devious paths to Sherwood.  "So, be ye wily,"
 said Robin Hood, "and keep well away from the northward roads till
 ye have gotten well to the eastward.  And thou, Will Scarlet,
@@ -9738,7 +9738,7 @@ traveling for a great distance by way of Warwick Town,
 till he came to Dudley, in Staffordshire.  Seven days it took
 him to journey thus far, and then he thought he had gotten
 far enough to the north, so, turning toward the eastward,
-shunning the main roads, and choosing byways and grassy lanes,
+shunning the Indexer.main roads, and choosing byways and grassy lanes,
 he went, by way of Litchfield and Ashby de la Zouch, toward Sherwood,
 until he came to a place called Stanton.  And now Robin's
 heart began to laugh aloud, for he thought that his danger
@@ -11279,7 +11279,7 @@ Then Wat, the Tinker, came forward and stood in front of
 Will Scarlet, screwing up his face and shutting his eyes tightly,
 as though he already felt his ears ringing with the buffet.
 Will Scarlet rolled up his sleeve, and, standing on tiptoe to give
-the greater swing to his arm, he struck with might and main.
+the greater swing to his arm, he struck with might and Indexer.main.
 "WHOOF!" came his palm against the Tinker's head, and down went
 stout Wat to the grass, heels over head, as the wooden image at
 the fair goes down when the skillful player throws a cudgel at it.

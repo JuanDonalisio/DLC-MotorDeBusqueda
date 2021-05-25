@@ -1876,7 +1876,7 @@ A distinction, more subtle than accurate, has been raised
  any object of internal administration. An exact equality of
  suffrage between the members has also been insisted upon as a
  leading feature of a confederate government. These positions are,
- in the main, arbitrary; they are supported neither by principle nor
+ in the Indexer.main, arbitrary; they are supported neither by principle nor
  precedent. It has indeed happened, that governments of this kind
  have generally operated in the manner which the distinction taken
  notice of, supposes to be inherent in their nature; but there have
@@ -3110,7 +3110,7 @@ It is true, as has been before observed that facts, too stubborn
  experience do not proceed from minute or partial imperfections, but
  from fundamental errors in the structure of the building, which
  cannot be amended otherwise than by an alteration in the first
- principles and main pillars of the fabric.
+ principles and Indexer.main pillars of the fabric.
 The great and radical vice in the construction of the existing
  Confederation is in the principle of LEGISLATION for STATES or
  GOVERNMENTS, in their CORPORATE or COLLECTIVE CAPACITIES, and as
@@ -14248,7 +14248,7 @@ These considerations seem alone sufficient to authorize a
  intervention of a jury, in the second instance, would obviate the
  danger. But juries are frequently influenced by the opinions of
  judges. They are sometimes induced to find special verdicts, which
- refer the main question to the decision of the court. Who would be
+ refer the Indexer.main question to the decision of the court. Who would be
  willing to stake his life and his estate upon the verdict of a jury
  acting under the auspices of judges who had predetermined his guilt?
 Would it have been an improvement of the plan, to have united
@@ -14338,7 +14338,7 @@ The FIRST of these objections is, that the provision in question
  meaning of this maxim has been discussed and ascertained in another
  place, and has been shown to be entirely compatible with a partial
  intermixture of those departments for special purposes, preserving
- them, in the main, distinct and unconnected. This partial
+ them, in the Indexer.main, distinct and unconnected. This partial
  intermixture is even, in some cases, not only proper but necessary
  to the mutual defense of the several members of the government
  against each other. An absolute or qualified negative in the
@@ -14446,7 +14446,7 @@ A THIRD objection to the Senate as a court of impeachments, is
  dismiss from a share in it all such who, by their conduct, shall
  have proved themselves unworthy of the confidence reposed in them.
  Though facts may not always correspond with this presumption, yet
- if it be, in the main, just, it must destroy the supposition that
+ if it be, in the Indexer.main, just, it must destroy the supposition that
  the Senate, who will merely sanction the choice of the Executive,
  should feel a bias, towards the objects of that choice, strong
  enough to blind them to the evidences of guilt so extraordinary, as
@@ -16166,7 +16166,7 @@ THE third ingredient towards constituting the vigor of the
  of the terms, would no doubt convey more than is intended. There
  are men who could neither be distressed nor won into a sacrifice of
  their duty; but this stern virtue is the growth of few soils; and
- in the main it will be found that a power over a man's support is a
+ in the Indexer.main it will be found that a power over a man's support is a
  power over his will. If it were necessary to confirm so plain a
  truth by facts, examples would not be wanting, even in this country,
  of the intimidation or seduction of the Executive by the terrors or
@@ -18146,7 +18146,7 @@ The principles established in a former paper1 teach us that
  is granted to the Union, with which a similar authority in the
  States would be utterly incompatible. Though these principles may
  not apply with the same force to the judiciary as to the legislative
- power, yet I am inclined to think that they are, in the main, just
+ power, yet I am inclined to think that they are, in the Indexer.main, just
  with respect to the former, as well as the latter. And under this
  impression, I shall lay it down as a rule, that the State courts
  will RETAIN the jurisdiction they now have, unless it appears to be
@@ -18807,7 +18807,7 @@ PUBLIUS.
  devise of land comes into question.
 2 It is true that the principles by which that relief is
  governed are now reduced to a regular system; but it is not the
- less true that they are in the main applicable to SPECIAL
+ less true that they are in the Indexer.main applicable to SPECIAL
  circumstances, which form exceptions to general rules.
 3 Vide No. 81, in which the supposition of its being
  abolished by the appellate jurisdiction in matters of fact being

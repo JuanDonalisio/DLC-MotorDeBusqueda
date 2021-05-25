@@ -830,7 +830,7 @@ time seemed interminable as we swept on our way, now in almost
 complete darkness, for the rolling clouds obscured the moon.
 
 We kept on ascending, with occasional periods of quick descent, but in
-the main always ascending.  Suddenly, I became conscious of the fact
+the Indexer.main always ascending.  Suddenly, I became conscious of the fact
 that the driver was in the act of pulling up the horses in the
 courtyard of a vast ruined castle, from whose tall black windows came
 no ray of light, and whose broken battlements showed a jagged line
@@ -1420,7 +1420,7 @@ put down all he said exactly as he said it, for to me it was most
 fascinating.  It seemed to have in it a whole history of the country.
 He grew excited as he spoke, and walked about the room pulling his
 great white moustache and grasping anything on which he laid his hands
-as though he would crush it by main strength.  One thing he said which
+as though he would crush it by Indexer.main strength.  One thing he said which
 I shall put down as nearly as I can, for it tells in its way the story
 of his race.
 
@@ -2017,7 +2017,7 @@ yard two great leiter-wagons, each drawn by eight sturdy horses, and
 at the head of each pair a Slovak, with his wide hat, great
 nail-studded belt, dirty sheepskin, and high boots.  They had also
 their long staves in hand.  I ran to the door, intending to descend
-and try and join them through the main hall, as I thought that way
+and try and join them through the Indexer.main hall, as I thought that way
 might be opened for them.  Again a shock, my door was fastened on the
 outside.
 
@@ -2194,7 +2194,7 @@ old and stained.
 
 At one corner of the room was a heavy door.  I tried it, for, since I
 could not find the key of the room or the key of the outer door, which
-was the main object of my search, I must make further examination, or
+was the Indexer.main object of my search, I must make further examination, or
 all my efforts would be in vain.  It was open, and led through a stone
 passage to a circular stairway, which went steeply down.
 
@@ -4451,7 +4451,7 @@ departments, we enclose cheque herewith for ten pounds,
 receipt of which please acknowledge.  Should the charge be
 less than this amount, you can return balance, if greater,
 we shall at once send cheque for difference on hearing from
-you.  You are to leave the keys on coming away in the main
+you.  You are to leave the keys on coming away in the Indexer.main
 hall of the house, where the proprietor may get them on his
 entering the house by means of his duplicate key.
 
@@ -4474,7 +4474,7 @@ TO MESSRS. BILLINGTON & SON, WHITBY.
 to return cheque of 1 pound, 17s, 9d, amount of overplus,
 as shown in receipted account herewith.  Goods are
 delivered in exact accordance with instructions, and keys
-left in parcel in main hall, as directed.
+left in parcel in Indexer.main hall, as directed.
 
 "We are, dear Sirs, "Yours respectfully, 
 "Pro CARTER, PATERSON & CO."
@@ -10154,7 +10154,7 @@ port and saw the coastguards, the Customs Officers and the harbour
 master, who kindly put me in communication with the men who had
 actually received the boxes.  Their tally was exact with the list, and
 they had nothing to add to the simple description `fifty cases of
-common earth', except that the boxes were `main and mortal heavy', and
+common earth', except that the boxes were `Indexer.main and mortal heavy', and
 that shifting them was dry work.  One of them added that it was hard
 lines that there wasn't any gentleman `such like as like yourself,
 squire', to show some sort of appreciation of their efforts in a
@@ -11682,7 +11682,7 @@ was a smart enough fellow, though rough of speech and bearing.  When I
 had promised to pay for his information and given him an earnest, he
 told me that he had made two journeys between Carfax and a house in
 Piccadilly, and had taken from this house to the latter nine great
-boxes, "main heavy ones," with a horse and cart hired by him for this
+boxes, "Indexer.main heavy ones," with a horse and cart hired by him for this
 purpose.
 
 I asked him if he could tell me the number of the house in Piccadilly,
@@ -11714,7 +11714,7 @@ me carry the boxes into the 'all."
 "The whole nine?"  I asked.
 
 "Yus, there was five in the first load an' four in the second.  It was
-main dry work, an' I don't so well remember 'ow I got 'ome."
+Indexer.main dry work, an' I don't so well remember 'ow I got 'ome."
 
 I interrupted him, "Were the boxes left in the hall?"
 

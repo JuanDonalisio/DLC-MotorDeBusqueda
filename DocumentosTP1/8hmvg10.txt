@@ -715,7 +715,7 @@ beets.
 
 March 1st--Inside: lettuce, celery, tomato (early).
 
-March 15th--Inside: lettuce, tomato (main), eggplant, pepper, lima
+March 15th--Inside: lettuce, tomato (Indexer.main), eggplant, pepper, lima
 beans, cucumber, squash; sprout potatoes in sand.
 
 April 1st--Inside: cauliflower (on sods), muskmelon, watermelon, corn.
@@ -731,7 +731,7 @@ and squash (plants). Pole-lima, beets, corn, kale, winter squash,
 pumpkin, lettuce, radish.
 
 June 1st--Beans, carrots, corn, cucumber, peas, summer spinach, summer
-lettuce, radish, egg-plant, pepper, tomato (main plants).
+lettuce, radish, egg-plant, pepper, tomato (Indexer.main plants).
 
 June 15th--Beans, corn, peas, turnip, summer lettuce, radish, late
 cabbage, and tomato plants.
@@ -781,7 +781,7 @@ Parsley[4]          April-May          1/2       4-6 in.   1 ft.
 Parsnip             April              1/2-1     3-5 in.   18 in.
 Pepper, seed        June 1st           1/2       3-6 in.   15 in.
 Pepper, plants      June 1-20          ..        2 ft.     30 in.
-Potatoes, main      April 15-June 20   4-6       13 in.    30 in.
+Potatoes, Indexer.main      April 15-June 20   4-6       13 in.    30 in.
 Pumpkins            May 1-June 20      1-2       6-8 ft.   6-8 ft.
 Rhubarb, plants     April              ..        2-3 ft.   3 ft.
 Salsify             April-May          1         3-6 in.   18 in.
@@ -824,7 +824,7 @@ Parsley           | 1/2 oz. | Emerald
 Parsnip           | 1/4 oz. | Hollow Crowned (Improved)
 Pepper, seed      | 1/2 oz. | Ruby King, Chinese Giant
 Pepper, plants    | 25      | Ruby King, Chinese Giant
-Potatoes, main    | 1/2 pk. | Irish Cobbler, Green Mountain, Uncle Sam
+Potatoes, Indexer.main    | 1/2 pk. | Irish Cobbler, Green Mountain, Uncle Sam
                   |         |    (Norton Beauty, Norwood, early)
 Pumpkins          | 1/4 oz. | Large Cheese, Quaker Pie
 Rhubarb, plants   | 25      | Myatt's Victoria
@@ -1740,7 +1740,7 @@ accomplish just as much if put thirty to fifty feet apart--so it pays
 to put them in deep. For small areas 2-1/2-inch land tile will do. The
 round style gives the best satisfaction and will prove cheapest in the
 end. The outlet should of course be at the lowest point of land, and
-all drains, main and laterals, should fall slightly, but without
+all drains, Indexer.main and laterals, should fall slightly, but without
 exception, toward this point. Before undertaking to put in the drains,
 even on a small area, it will pay well to read some good book on the
 subject, such as Draining for Profit and Draining for Health, by
@@ -2838,7 +2838,7 @@ plan is not likely to prove successful.
 _Kohlrabi:_--While not truly a "root crop"--the edible portion
 being a peculiar globular enlargement of the stem--its culture is
 similar, as it may be sown in drills and thinned out. Frequently,
-however, it is started in the seed-bed and transplanted, the main crop
+however, it is started in the seed-bed and transplanted, the Indexer.main crop
 (for market) being sown in May or June. A few of these from time to
 time will prove very acceptable for the home table. They should be used
 when quite young; as small as two inches being the tenderest.
@@ -2865,7 +2865,7 @@ middle of April. These in turn will be succeeded by onions coming from
 the crop sown from seed in the open.
 
 The above is for onions eaten raw in the green state when less than
-half grown. For the main crop for bulbs, the home supply is best grown
+half grown. For the Indexer.main crop for bulbs, the home supply is best grown
 from prickers as described above. Prize-taker and Gibraltar are mostly
 used for this purpose, growing to the size of the large Spanish onions
 sold at grocery stores. For onions to be kept for late winter and
@@ -2885,7 +2885,7 @@ slowly, so the seed-bed should be very finely prepared. They will be
 ready for use in the fall, but are much better after the first frosts.
 For method of keeping see Chapter XIV.
 
-_Potato:_--If your garden is a small one, buy your main supply of
+_Potato:_--If your garden is a small one, buy your Indexer.main supply of
 potatoes from some nearby farmer, first trying half a bushel or so to
 be sure of the quality. Purchase in late September or October when the
 crop is being dug and the price is low.
@@ -2905,7 +2905,7 @@ a light top dressing of nitrate of soda--and surprise all your
 neighbors! This system has not yet come extensively into use, but is
 practically certain of producing excellent results.
 
-For the main crop, if you have room, cut good seed to one or two eyes,
+For the Indexer.main crop, if you have room, cut good seed to one or two eyes,
 leaving as much of the tuber as possible to each piece, and plant
 thirteen inches apart in rows three feet apart. Cultivate deeply until
 the plants are eight to ten inches high and then shallow but
@@ -2924,7 +2924,7 @@ or immediately after a dressing of lime.
 _Salsify:_--The "vegetable oyster," or salsify, is to my taste the
 most delicious root vegetable grown. It is handled practically in the
 same way as the parsnip, but needs, if possible, ground even more
-carefully prepared, in order to keep the main root from sprangling. If
+carefully prepared, in order to keep the Indexer.main root from sprangling. If
 a fine light soil cannot be had for planting, it will pay to hoe or
 hand-plow furrows where the drills are to be--not many will be needed,
 and put in specially prepared soil, in which the seed may get a good
@@ -3134,7 +3134,7 @@ moisture; and even with this aid the stalks never attain the size of
 those grown in rows. The early crop should be ready in August. The
 quality is never so good as that of the later crops.
 
-For the main or winter crop, sow the seed about April 1st. The same
+For the Indexer.main or winter crop, sow the seed about April 1st. The same
 extra care must be taken as in sowing under glass. In hot, dry weather,
 shade the beds; never let them dry out. Transplant to second bed as
 soon as large enough to develop root system, before setting in the
@@ -3216,7 +3216,7 @@ practically the year round. The first sowing for the spring under-glass
 crop is made in January or February. These are handled as for the
 planting outside--see Chapter VIII.--but are set in the frames six to
 eight inches each way, according to variety. Ventilate freely during
-the day when over 55° give 45° at night. Water only when needed, but
+the day when over 55ï¿½ give 45ï¿½ at night. Water only when needed, but
 then thoroughly, and preferably only on mornings of bright sunny days.
 
 The plants for first outdoor crops are handled as already described.
@@ -3510,7 +3510,7 @@ the average family. The varieties have been greatly improved within
 recent years in the quality of mildness.
 
 The culture recommended for egg-plant is applicable also to the pepper.
-The main difference is that, although the pepper is very tender when
+The Indexer.main difference is that, although the pepper is very tender when
 young, the crop maturing in the autumn will not be injured by
 considerable frost.
 
@@ -3678,7 +3678,7 @@ _Beets:_--In beets, varieties are almost endless, but I confess
 that I have found no visible difference in many cases. Edmund's Early
 and Early Model are good for first crops. The Egyptian strains, though
 largely used for market, have never been as good in quality with me.
-For the main crop I like Crimson Globe. In time it is a second early,
+For the Indexer.main crop I like Crimson Globe. In time it is a second early,
 of remarkably good form, smooth skin and fine quality and color.
 
 _Broccoli:_--This vegetable is a poorer cousin of the cauliflower
@@ -3758,7 +3758,7 @@ ever grown.
 
 _Cucumbers:_--Of cucumbers also there is a long and varied list of
 names. The old Extra Early White Spine is still the best early; for the
-main crop, some "perfected" form of White Spine. I myself like the
+Indexer.main crop, some "perfected" form of White Spine. I myself like the
 Fordhood Famous, as it is the healthiest strain I ever grew, and has
 very large fruit that stays green, while being of fine quality. In the
 last few years the Davis Perfect has won great popularity, and
@@ -3848,7 +3848,7 @@ _Peas:_--Peas are worse than corn. You will find enough
 exclamation points in the pea sections of catalogues to train the vines
 on. If you want to escape brain-fag and still have as good as the best,
 if not better, plant Gradus (or Prosperity) for early and second early;
-Boston Unrivaled (an improved form of Telephone) for main crop, and
+Boston Unrivaled (an improved form of Telephone) for Indexer.main crop, and
 Gradus for autumn. These two peas are good yielders, free growers and
 of really wonderfully fine quality. They need bushing, but I have never
 found a variety of decent quality that does not.
@@ -3863,7 +3863,7 @@ as prolific, hardy and fine in quality and sweetness as any.
 
 _Potato:_--Bovee is a good early garden sort, but without the best
 of culture is very small. Irish Cobbler is a good early white. Green
-Mountain is a universal favorite for main crop in the East--a sure
+Mountain is a universal favorite for Indexer.main crop in the East--a sure
 yielder and heavy-crop potato of excellent quality. Uncle Sam is the
 best quality potato I ever grew. Baked, they taste almost as rich as
 chestnuts.
@@ -3913,14 +3913,14 @@ have been introduced since, some of which I have tried. I am prepared
 to make the following statements: Earliana is the earliest quality
 tomato, for light warm soils, that I have ever grown; Chalk's Jewel,
 the earliest for heavier soils (Bonny Best Early resembles it);
-Matchless is a splendid main-crop sort; Ponderosa is the biggest and
+Matchless is a splendid Indexer.main-crop sort; Ponderosa is the biggest and
 best quality--but it likes to split. There is one more sort, which I
 have tried one year only, so do not accept my opinion as conclusive. It
 is the result of a cross between Ponderosa and Dwarf Champion--one of
 the strongest-growing sorts. It is called Dwarf Giant. The fruits are
 tremendous in size and in quality unsurpassed by any. The vine is very
 healthy, strong and stocky. I believe this new tomato will become the
-standard main crop for the home garden. By all means try it. And that
+standard Indexer.main crop for the home garden. By all means try it. And that
 is a good deal to say for a novelty in its second year!
 
 _Turnip:_--The earliest turnip of good quality is the White Milan.
@@ -3929,7 +3929,7 @@ found them equal in quality for table to the yellow sorts. Of these,
 Golden Ball (or Orange Jelly) is the best quality. Petrowski is a
 different and distinct sort, of very early maturity and of especially
 fine quality. If you have room for but one sort in your home garden,
-plant this for early, and a month later for main crop.
+plant this for early, and a month later for Indexer.main crop.
 
 Do not fail to try some of this year's novelties. Half the fun of
 gardening is in the experimenting. But when you are testing out the new
@@ -4080,7 +4080,7 @@ pint of water in which one of the corrosive sublimate tablets which are
 sold at drug stores is dissolved.
 
 _Borers:_--This borer is a flattish, white grub, which penetrates
-the main stem of squash or other vines near the ground and seems to sap
+the Indexer.main stem of squash or other vines near the ground and seems to sap
 the strength of the plant, even when the vines have attained a length
 of ten feet or more. His presence is first made evident by the wilting
 of the leaves during the noonday heat. Coal ashes mixed with the manure
@@ -5191,7 +5191,7 @@ essential in keeping the trees in a healthy, robust condition. As
 explained in a previous chapter, the trees should be started right by
 pruning the first season to the open-head or vase shape, which
 furnishes the maximum of light and air to all parts of the tree. Three
-or four main branches should form the basis of the head, care being
+or four Indexer.main branches should form the basis of the head, care being
 taken not to have them start from directly opposite points on the
 trunk, thus forming a crotch and leaving the tree liable to splitting
 from winds or excessive crops. If the tree is once started right,
@@ -5302,7 +5302,7 @@ mixture, 5-5-50, or 3-3-50 (see formulas below) three times: just
 before the blossoms open, just as they fall, and ten days to two weeks
 after they fall. The second spraying is considered the most important.
 
-The San José scale is of course really an insect, though in appearance
+The San Josï¿½ scale is of course really an insect, though in appearance
 it seems a disease. It is much more injurious than the untrained fruit
 grower would suppose, because indirectly so. It is very tiny, being
 round in outline, with a raised center, and only the size of a small
@@ -5574,7 +5574,7 @@ Plum  | Leaf-blight  | Bordeaux or summer sulphur    | 1.--After fruits
       |              |                               |  mornings-3
       |              |                               |  times a week.
 ------+--------------+-------------------------------+-----------------
-Any   | San José     | Lime-sulphur wash, kerosene   | Late fall or
+Any   | San Josï¿½     | Lime-sulphur wash, kerosene   | Late fall or
       |  scale       |  emulsion, 5 times diluted;   |  early spring.
       |              |  miscible oil, 1 in 10 gals   |
       |              |                               |
@@ -5695,7 +5695,7 @@ The layers are taken immediately after the fruit is gathered; or better
 still, because earlier, a few plants are picked out especially to make
 runners. In either case, fork up the soil about the plants to be
 layered, and in about fifteen days they will be ready to have the pots
-placed under them. The main point is to have pot plants ready to go
+placed under them. The Indexer.main point is to have pot plants ready to go
 into the new bed as soon as possible after the middle of July. These
 are set out as in the hill system, and all runners kept pinched off, so
 that a large crown has been formed by the time the ground freezes, and
@@ -5863,7 +5863,7 @@ The black and the red types are distinct in flavor, and both should be
 grown. The blackcaps need more room, about three by six or seven feet;
 for the reds three by five feet will be sufficient. The blackcaps, and
 a few of the reds, like Cuthbert, throw out fruiting side branches, and
-should have the main canes cut back at about two and a half feet to
+should have the Indexer.main canes cut back at about two and a half feet to
 encourage the growth of these laterals, which, in the following spring,
 should be cut back to about one-third their length. The soil for
 raspberries should be clayey if possible, and moist, but not wet.
@@ -5932,7 +5932,7 @@ meaning better fruit when they bear; (5) to maintain a good form, the
 whole plant may be cut back (never more than one-third) in the fall.
 
 In special situations it may be advisable to train the currant to one
-or a few main stems, as against a wall; this can be done, but it is
+or a few Indexer.main stems, as against a wall; this can be done, but it is
 less convenient. Also it brings greater danger from the currant-borer.
 
 The black currant, used almost entirely for culinary or preserving
@@ -6058,7 +6058,7 @@ this back to three or four eyes.
 
 (3) Second growing season, save only two canes, even if several sprout,
 and train these to stake or trellis. These two vines, or arms,
-branching from the main stem, form the foundation for the one-year
+branching from the Indexer.main stem, form the foundation for the one-year
 canes that bear the fruit. However, to prevent the vine's setting too
 much fruit (see second principle above) these arms must be cut back in
 order to limit the number of fruit-bearing canes that will spring from
@@ -6067,16 +6067,16 @@ them, therefore:
 (4) Second winter pruning, cut back these arms to eight or ten buds--
 and we have prepared for the first crop of fruit, about forty bunches,
 as the fruiting cane from each bud will bear two bunches on the
-average. However these main arms will not bear fruiting-canes another
+average. However these Indexer.main arms will not bear fruiting-canes another
 year (see first principle above) and therefore:
 
 (5) At the third winter pruning, (a) of the canes that bore fruit, only
-the three or four nearest the main stem or trunk are left; (b) these
+the three or four nearest the Indexer.main stem or trunk are left; (b) these
 are cut back to eight or ten buds each, and (c) everything else is
 ruthlessly cut away.
 
 Each succeeding year the same system is continued, care being taken to
-rub off, each May, buds or sprouts starting on the main trunk or arms.
+rub off, each May, buds or sprouts starting on the Indexer.main trunk or arms.
 
 The wood, in addition to being cut back, must be well ripened; and the
 wood does not ripen until after the fruit. It therefore sometimes
@@ -6091,7 +6091,7 @@ of individual choice. Poles, trellises, arbors, walls--almost anything
 may be used. The most convenient system, however, and the one I would
 strongly recommend for practical home gardening for results, is known
 as the (modified) Kniffen system. It is simplicity itself. A stout wire
-is stretched five or six feet above the ground; to this the single main
+is stretched five or six feet above the ground; to this the single Indexer.main
 trunks of the vine run up, and along it are stretched the two or three
 arms from which the fruiting-canes hang down. They occupy the least
 possible space, so that garden crops may be grown practically on the
@@ -6103,7 +6103,7 @@ course the ground would have to be manured for two crops. A 2-8-10
 fertilizer is right for the grapes. If using stable manure, apply also
 ashes or some other potash fertilizer.
 
-If the old-fashioned arbor is used, the best way is to run the main
+If the old-fashioned arbor is used, the best way is to run the Indexer.main
 trunk up over it and cut the laterals back each year to two or three
 eyes.
 
@@ -6122,7 +6122,7 @@ especially on the season's growth. Besides the spraying, all trimmed-
 off wood, old leaves and twigs, withered bunches and grapes, or
 "mummies," and refuse of every description, should be carefully raked
 up in the spring and burned or buried. Also give clean culture and keep
-the main stems clean.
+the Indexer.main stems clean.
 
 The grape completes the list of the small fruits worth while to the
 average home gardener. If you have not already experimented with them,
@@ -6204,7 +6204,7 @@ ready for any new ones; sash all in good repair.
 
 _Starting Seeds_. First part of the month, earliest planting of
 cabbage, cauliflower and lettuce should be made; and two to four weeks
-later for main early crop. At this time also, beets and earliest
+later for Indexer.main early crop. At this time also, beets and earliest
 celery.
 
 _Tools_. Overhaul them all now; order repairs. Get new catalogues
@@ -6238,7 +6238,7 @@ sprout in sand.
 
 _Planting, outside_. If an early spring, and the ground is
 sufficiently dry, sow onions, lettuce, beet, radish, (sweet peas),
-smooth peas, early carrot, cabbage, leek, celery (main crop), and
+smooth peas, early carrot, cabbage, leek, celery (Indexer.main crop), and
 turnip. Set out new beds of asparagus, rhubarb and sea-kale (be sure to
 try a few plants of the latter). Manure and fork up old beds of above.
 

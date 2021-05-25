@@ -408,7 +408,7 @@ Appendix III: Geology 395
 Appendix IV.: The Astronomical Observations at the Pole 399
                 By A. Alexander, with Note by Professor H. Geelmuyden
 Appendix V.: Oceanography 404
-                By Professors Björn Helland-Hansen and Fridtjof Nansen
+                By Professors Bjï¿½rn Helland-Hansen and Fridtjof Nansen
 Index 439
 
 
@@ -449,7 +449,7 @@ At the South Pole, December 16 and 17, 1911 134
 Mount Don Pedro Christophersen 156
 Reproduced by permission of the Illustrated London News
 Framheim on the Return of the Polar Party 174
-Lindström in the Kitchen 174
+Lindstrï¿½m in the Kitchen 174
 Farewell to the Barrier 178
 Bjaaland as Tinker 180
 Dogs Landed at Hobart for Dr. Mawson's Expedition 180
@@ -473,7 +473,7 @@ The "Fram" at the Ice-edge, January, 1912 268
 The "Kainan Maru" 272
 Seals on Sea-ice near the Barrier 274
 Seals: Mother and Calf 274
-A Group of Adélie Penguins 278
+A Group of Adï¿½lie Penguins 278
 A Quiet Pipe 278
 
 First-lieutenant Thorvald Nilsen, Norwegian Navy 280
@@ -554,14 +554,14 @@ There was no need for a prolonged inquiry into the sentiments of the
 party. -- What do you think? Shall we start?" -- Yes, of course. Let's
 be jogging on." There was only one opinion about it. Our coursers were
 harnessed in a jiffy, and with a little nod -- as much as to say,
-"See you to-morrow" -- we were off. I don't believe Lindström even
+"See you to-morrow" -- we were off. I don't believe Lindstrï¿½m even
 came out of doors to see us start. "Such an everyday affair: what's
 the use of making a fuss about it?"
 
 There were five of us -- Hanssen, Wisting, Hassel, Bjaaland, and
 myself. We had four sledges, with thirteen dogs to each. At the start
 our sledges were very light, as we were only taking supplies for the
-trip to 80° S., where all our cases were waiting for us; we could
+trip to 80ï¿½ S., where all our cases were waiting for us; we could
 therefore sit on the sledges and flourish our whips with a jaunty
 air. I sat astride on Wisting's sledge, and anyone who had seen us
 would no doubt have thought a Polar journey looked very inviting.
@@ -629,9 +629,9 @@ enough, he did not do that either. He never arrived at the station;
 it is quite a mystery what became of him. Rotta, another fine animal,
 was also set free; she was not fit for the journey, and she afterwards
 arrived at home. Ulrik began by having a ride on the sledge; he picked
-up later. Björn went limping after the sledge. Peary was incapacitated;
+up later. Bjï¿½rn went limping after the sledge. Peary was incapacitated;
 he was let loose and followed for a time, but then disappeared. When
-the eastern party afterwards visited the depot in 80° S., they found
+the eastern party afterwards visited the depot in 80ï¿½ S., they found
 him there in good condition. He was shy at first, but by degrees let
 them come near him and put the harness on. He did very good service
 after that. Uranus and Fuchs were out of condition. This was pretty bad
@@ -648,7 +648,7 @@ gave us a good deal to think about: so we could depend upon these
 beacons; they would not fall down. From the experience thus gained,
 we afterwards erected the whole of our extensive system of beacons on
 the way south. The wind went to the south-east during the day; it blew,
-but luckily it had stopped snowing. The temperature was -11.5° F.,
+but luckily it had stopped snowing. The temperature was -11.5ï¿½ F.,
 and bitter enough against the wind. When we stopped in the evening
 and set our tent, we had just found our tracks from the last trip;
 they were sharp and clear, though six weeks old. We were glad to find
@@ -861,11 +861,11 @@ much seal's flesh as they were capable of eating. Thus far the trip
 had been a good one for the animals; with one exception, they were
 all in the best condition. This exception was Uranus. We had never
 been able to get any fat on his bones; he remained thin and scraggy,
-and awaited his death at the depot, a little later, in 82° S. If
+and awaited his death at the depot, a little later, in 82ï¿½ S. If
 Uranus was lanky to look at, the same could not be said of Jaala,
 poor beast! In spite of her condition, she struggled to keep up;
 she did her utmost, but unless her dimensions were reduced before we
-left 82° S., she would have to accompany Uranus to another world.
+left 82ï¿½ S., she would have to accompany Uranus to another world.
 
 The cases of provisions and outfit that we had left here on the last
 trip were almost entirely snowed under, but it did not take long to
@@ -984,7 +984,7 @@ sleeping-bags for the first part of the time; that is to say, an
 inner and an outer one. There were five watches among us, of which
 three were chronometer watches.
 
-We had decided to cover the distance between 80° and 82° S. in daily
+We had decided to cover the distance between 80ï¿½ and 82ï¿½ S. in daily
 marches of seventeen miles. We could easily have done twice this,
 but as it was more important to arrive than to show great speed,
 we limited the distance; besides which, here between the depots we
@@ -992,7 +992,7 @@ had sufficient food to allow us to take our time. We were interested
 in seeing how the dogs would manage the loaded sledges. We expected
 them to do well, but not so well as they did.
 
-On October 25 we left 80° S. with a light north-westerly breeze,
+On October 25 we left 80ï¿½ S. with a light north-westerly breeze,
 clear and mild. I was now to take up my position in advance of
 the sledges, and placed myself a few paces in front of Hanssen's,
 with my ski pointing in the right direction. A last look behind me:
@@ -1013,7 +1013,7 @@ were driving with a line. I had made up my mind to follow in the rear,
 as I thought the dogs would not keep this up for long, but I soon had
 enough of it. We did the first six and a quarter miles in an hour. I
 thought that would do for me, so I went up to Wisting, made a rope
-fast to his sledge, and there I stood till we reached 85° 5' S. --
+fast to his sledge, and there I stood till we reached 85ï¿½ 5' S. --
 three hundred and forty miles. Yes; that was a pleasant surprise. We
 had never dreamed of anything of the sort -- driving on ski to the
 Pole! Thanks to Hanssen's brilliant talents as a dog-driver, we could
@@ -1027,7 +1027,7 @@ way, and we camped early.
 
 On the following day we were already in sight of the large
 pressure-ridges on the east, which we had seen for the first time
-on the second depot journey between 81° and 82° S., and this showed
+on the second depot journey between 81ï¿½ and 82ï¿½ S., and this showed
 that the atmosphere must be very clear. We could not see any greater
 number than the first time, however. From our experience of beacons
 built of snow, we could see that if we built such beacons now, on
@@ -1046,7 +1046,7 @@ advantages, which we could all see and appreciate. Every time we
 stopped to build one, the dogs had a rest, and they wanted this,
 if they were to keep up the pace.
 
-We erected the first beacon in 80° 23' S. To begin with, we contented
+We erected the first beacon in 80ï¿½ 23' S. To begin with, we contented
 ourselves with putting them up at every thirteenth or fifteenth
 kilometre. On the 29th we shot the first dog, Hanssen's Bone. He was
 too old to keep up, and was only a hindrance. He was placed in depot
@@ -1054,7 +1054,7 @@ under a beacon, and was a great joy to us -- or rather to the dogs --
 later on.
 
 On the same day we reached the second important point -- the depot
-in 81° S. Our course took us very slightly to the east of it. The
+in 81ï¿½ S. Our course took us very slightly to the east of it. The
 small pieces of packing-case that had been used as marks on each
 side of the depot could be seen a long way off. On a subsequent
 examination they showed no sign of snowfall; they stood just as
@@ -1104,9 +1104,9 @@ enjoy the situation? Stretched across a giddy abyss, with the prospect
 of slipping down it at any moment -- that was just what he would
 like. We secured the sledge, completed our seventeen miles, and camped.
 
-From 81° S. we began to erect beacons at every nine kilometres. The
+From 81ï¿½ S. we began to erect beacons at every nine kilometres. The
 next day we observed the lowest temperature of the whole of this
-journey: -30.1° F The wind was south-south-east, but not very
+journey: -30.1ï¿½ F The wind was south-south-east, but not very
 strong. It did not feel like summer, all the same. We now adopted the
 habit which we kept up all the way to the south -- of taking our lunch
 while building the beacon that lay half-way in our day's march. It
@@ -1126,12 +1126,12 @@ disappeared rather rapidly.
 On November 2 we had a gale from the south, with heavy snow. The
 going was very stiff, but the dogs got the sledges along better than
 we expected. The temperature rose, as usual, with a wind from this
-quarter: +14° F. It was a pleasure to be out in such a temperature,
+quarter: +14ï¿½ F. It was a pleasure to be out in such a temperature,
 although it did blow a little. The day after we had a light breeze
 from the north. The heavy going of the day before had completely
 disappeared; instead of it we had the best surface one could desire,
 and it made our dogs break into a brisk gallop. That was the day we
-were to reach the depot in 82° S., but as it was extremely thick,
+were to reach the depot in 82ï¿½ S., but as it was extremely thick,
 our chances of doing so were small. In the course of the afternoon
 the distance was accomplished, but no depot was visible. However,
 our range of vision was nothing to boast of -- ten sledge-lengths;
@@ -1151,7 +1151,7 @@ saw that if we had continued our march the day before, we should have
 come right into our line of flags. There they stood, flag after flag,
 and the little strip of black cloth seemed to wave quite proudly,
 as though it claimed credit for the way in which it had discharged
-its duty. Here, as at the depot in 81° S., there was hardly a sign
+its duty. Here, as at the depot in 81ï¿½ S., there was hardly a sign
 of snowfall. The drift round the depot had reached the same height
 as there -- 1 1/2 feet. Clearly the same conditions of weather had
 prevailed all over this region. The depot stood as we had made it,
@@ -1173,7 +1173,7 @@ time. We took advantage of the fine weather to dry our outfit and
 check our instruments. When evening came we were all ready, and now
 we could look back with satisfaction to the good work of the autumn;
 we had fully accomplished what we aimed at -- namely, transferring our
-base from 78° 38' to 82° S. Jaala had to follow Uranus; they were both
+base from 78ï¿½ 38' to 82ï¿½ S. Jaala had to follow Uranus; they were both
 laid on the top of the depot, beside eight little ones that never saw
 the light of day. During our stay here we decided to build beacons
 at every fifth kilometre, and to lay down depots at every degree of
@@ -1182,7 +1182,7 @@ we knew well enough that in the long-run they would find it hard work
 if they were always to have heavy weights to pull. The more we could
 get rid of, and the sooner we could begin to do so, the better.
 
-On November 6, at 8 a.m., we left 82° S. Now the unknown lay before
+On November 6, at 8 a.m., we left 82ï¿½ S. Now the unknown lay before
 us; now our work began in earnest. The appearance of the Barrier was
 the same everywhere -- flat, with a splendid surface. At the first
 beacon we put up we had to shoot Lucy. We were sorry to put an end to
@@ -1203,7 +1203,7 @@ evening we had to put an end to the last of our ladies -- Else. She
 was Hassel's pride and the ornament of his team; but there was no
 help for it. She was also placed at the top of a beacon.
 
-When we halted that evening in 82° 20' S., we saw on the south-western
+When we halted that evening in 82ï¿½ 20' S., we saw on the south-western
 horizon several heavy masses of drab-coloured cloud, such as are
 usually to be seen over land. We could make out no land that evening,
 however; but when we came out next morning and directed our glasses
@@ -1214,8 +1214,8 @@ in South Victoria Land. Our course had been true south all the time; at
 this spot we were about 250 miles to the east of Beardmore Glacier. Our
 course would continue to be true south.
 
-The same evening -- November 8 -- we reached 83° S. by dead
-reckoning. The noon altitude next day gave 83° 1' S. The depot we
+The same evening -- November 8 -- we reached 83ï¿½ S. by dead
+reckoning. The noon altitude next day gave 83ï¿½ 1' S. The depot we
 built here contained provisions for five men and twelve dogs for
 four days; it was made square -- 6 feet each way -- of hard, solid
 blocks of snow. A large flag was placed on the top. That evening a
@@ -1250,13 +1250,13 @@ an apparently good way up. The mountains nearest to the Barrier did not
 seem to offer any great obstruction. What one might find later, between
 Mounts Pedro Christophersen and Fridtjof Nansen, was not easy to say.
 
-On the 12th we reached 84° S. On that day we made the interesting
+On the 12th we reached 84ï¿½ S. On that day we made the interesting
 discovery of a chain of mountains running to the east; this, as it
 appeared from the spot where we were, formed a semicircle, where it
 joined the mountains of South Victoria Land. This semicircle lay true
 south, and our course was directed straight towards it.
 
-In the depot in 84° S. we left, besides the usual quantity of
+In the depot in 84ï¿½ S. we left, besides the usual quantity of
 provisions for five men and twelve dogs for four days, a can of
 paraffin, holding 17 litres (about 34 gallons). We had abundance of
 matches, and could therefore distribute them over all the depots. The
@@ -1269,7 +1269,7 @@ strength, the dogs seemed to become stronger and more active every
 day. Now they, too, had sighted the land, and the black mass of Mount
 Fridtjof Nansen seemed specially to appeal to them; Hanssen often had
 hard work to keep them in the right course. Without any longer stay,
-then, we left 84° S. the next day, and steered for the bay ahead.
+then, we left 84ï¿½ S. the next day, and steered for the bay ahead.
 
 That day we went twenty-three miles in thick fog, and saw nothing
 of the land. It was hard to have to travel thus blindly off an
@@ -1287,7 +1287,7 @@ local disturbance occasioned by one of the numerous small glaciers
 on land. On the following night all was quiet again, and we never
 afterwards heard the slightest sound.
 
-On November 14 we reached 84° 40' S. We were now rapidly
+On November 14 we reached 84ï¿½ 40' S. We were now rapidly
 approaching land; the mountain range on the east appeared to turn
 north-eastward. Our line of ascent, which we had chosen long ago
 and now had our eyes fixed upon as we went, would take us a trifle
@@ -1301,7 +1301,7 @@ the surface greatly disturbed. At some bygone time immense fissures
 and chasms would have rendered its passage practically impossible,
 but now they were all drifted up, and we had no difficulty in crossing.
 
-That day -- November 15 -- we reached 85° S., and camped at the top of
+That day -- November 15 -- we reached 85ï¿½ S., and camped at the top of
 one of these swelling waves. The valley we were to cross next day was
 fairly broad, and rose considerably on the other side. On the west,
 in the direction of the nearest land, the undulation rose to such
@@ -1385,7 +1385,7 @@ jam, fruit, cheese, etc., we had left behind at Framheim.
 We took our reindeer-skin clothing, for which we had had no use as yet,
 on the sledges. We were now coming on to the high ground, and it might
 easily happen that it would be a good thing to have. We did not forget
-the temperature of -40° F. that Shackleton had experienced in 88° S.,
+the temperature of -40ï¿½ F. that Shackleton had experienced in 88ï¿½ S.,
 and if we met with the same, we could hold out a long while if we had
 the skin clothing. Otherwise, we had not very much in our bags. The
 only change we had with us was put on here, and the old clothes hung
@@ -1554,7 +1554,7 @@ were standing, and took bearings from it all round the compass.
 I went back to the pass to look out over the Barrier for the
 last time. The new mountain chain lay there sharp and clear; we
 could see how it turned from the east up to east-north-east, and
-finally disappeared in the north-east -- as we judged, about 84°
+finally disappeared in the north-east -- as we judged, about 84ï¿½
 S. From the look of the sky, it appeared that the chain was continued
 farther. According to the aneroid, the height of the terrace on which
 we stood was 4,000 feet above the sea. From here there was only one
@@ -1604,7 +1604,7 @@ of some big gaps in this descent, and found it prudent to examine it
 first. As we thought, there was a side-glacier coming down into it,
 with large, ugly crevasses in many places; but it was not so bad as
 to prevent our finally reaching, with caution and using good brakes,
-the great main ice-field -- Axel Heiberg Glacier. The plan we had
+the great Indexer.main ice-field -- Axel Heiberg Glacier. The plan we had
 proposed to ourselves was to work our way up to the place where the
 glacier rose in abrupt masses between the two mountains. The task
 we had undertaken was greater than we thought. In the first place,
@@ -1613,7 +1613,7 @@ and, in the second place, the snow was so loose and deep that it was
 hard work for the dogs after all their previous efforts. We set our
 course along the  white line that we had been able to follow among
 the numerous crevasses right up to the first terrace. Here tributary
-glaciers came down on all sides from the mountains and joined the main
+glaciers came down on all sides from the mountains and joined the Indexer.main
 one; it was one of these many small arms that we reached that evening,
 directly under Don Pedro Christophersen.
 
@@ -1635,8 +1635,8 @@ at a time. The state of the going was, fortunately, better than on
 the previous day, and the surface of the glacier was fine and hard,
 so that the dogs got a splendid hold. Bjaaland went in advance up
 through this steep glacier, and had his work cut out to keep ahead of
-the eager animals. One would never have thought we were between 85°
-and 86° S.; the heat was positively disagreeable, and, although lightly
+the eager animals. One would never have thought we were between 85ï¿½
+and 86ï¿½ S.; the heat was positively disagreeable, and, although lightly
 clad, we sweated as if we were running races in the tropics. We were
 ascending rapidly, but, in spite of the sudden change of pressure,
 we did not yet experience any difficulty of breathing, headache,
@@ -1885,7 +1885,7 @@ had to provide it himself -- nothing was offered him. Happy was he
 who had saved some biscuits from his breakfast! Our halt was not a
 very long one. It is a queer thing that, when one only has on light
 underclothing and windproof overalls, one cannot stand still for long
-without feeling cold. Although the temperature was no lower than -4°
+without feeling cold. Although the temperature was no lower than -4ï¿½
 F., we were glad to be on the move again. The last ascent was fairly
 hard work, especially the first half of it. We never expected to
 do it with single teams, but tried it all the same. For this last
@@ -2027,7 +2027,7 @@ snow as a sign that his work was done, after which he picked up the
 cutlets, and went into the tent. The clouds had dispersed somewhat,
 and from time to time the sun appeared, though not in its most genial
 aspect. We succeeded in catching it just in time to get our latitude
-determined -- 85° 36' S. We were lucky, as not long after the wind got
+determined -- 85ï¿½ 36' S. We were lucky, as not long after the wind got
 up from the east-south-east, and, before we knew what was happening,
 everything was in a cloud of snow. But now we snapped our fingers
 at the weather; what difference did it make to us if the wind howled
@@ -2093,7 +2093,7 @@ which by this time consisted chiefly of very small pieces, had to
 be taken out, counted, and then divided among the three sledges. The
 same with the biscuits; every single biscuit had to be taken out and
 counted, and as we had some thousands of them to deal with, it will
-readily be understood what it was to stand there in about -4° F. and
+readily be understood what it was to stand there in about -4ï¿½ F. and
 a gale of wind, most of the time with bare hands, fumbling over this
 troublesome occupation. The wind increased while we were at work,
 and when at last we had finished, the snow was so thick that we could
@@ -2127,7 +2127,7 @@ had gone back to the north, and increased to a gale. It was blowing
 and snowing so that when we came out in the morning we could not
 see the sledges; they were half snowed under. The dogs had all crept
 together, and protected themselves as well as they could against the
-blizzard. The temperature was not so very low (-16.6° F.), but low
+blizzard. The temperature was not so very low (-16.6ï¿½ F.), but low
 enough to be disagreeably felt in a storm. We had all taken a turn
 outside to look at the weather, and were sitting on our sleeping-bags
 discussing the poor prospect. "It's the devil's own weather here at
@@ -2167,7 +2167,7 @@ and made it extremely difficult to advance. Those who had sledges
 to drive had to be very attentive, and support them so that they did
 not capsize on the big waves, and we who had no sledges found great
 difficulty in keeping our feet, as we had nothing to lean against. We
-went on like this, slowly enough, but the main thing was that we
+went on like this, slowly enough, but the Indexer.main thing was that we
 made progress. The ground at first gave one the impression of rising,
 though not much. The going was extremely heavy; it was like dragging
 oneself through sand. Meanwhile the sastrugi grew smaller and smaller,
@@ -2267,7 +2267,7 @@ satisfied with it. Our altitude came out at 9,475 feet above the sea,
 or a drop of 825 feet in the course of the day. This surprised me
 greatly. What did it mean? Instead of rising gradually, we were going
 slowly down. Something extraordinary must await us farther on, but,
-what? According to dead reckoning our latitude that evening was 86° S.
+what? According to dead reckoning our latitude that evening was 86ï¿½ S.
 
 November 27 did not bring us the desired weather; the night was filled
 with sharp gusts from the north; the morning came with a slack wind,
@@ -2371,8 +2371,8 @@ Having finished the edifice, which rose at least 6 feet into the air,
 we put one of our black provision cases on the top of it, so as to be
 able to see it still more easily on the way back. An observation we had
 contrived to take while the work was in progress gave us our latitude
-as 86° 21' S. This did not agree very well with the latitude of our
-dead reckoning -- 86° 23' S. Meanwhile the fog had again enveloped
+as 86ï¿½ 21' S. This did not agree very well with the latitude of our
+dead reckoning -- 86ï¿½ 23' S. Meanwhile the fog had again enveloped
 everything, and a fine, light snow was falling. We had taken a
 bearing of the line of glacier that was most free of crevasses,
 and so we moved on again. It was some time before we felt our way
@@ -2481,12 +2481,12 @@ to our prudence and thoughtfulness in adopting this expedient.
 
 Next morning, November 29, brought considerably clearer weather,
 and allowed us a very good survey of our position. We could now see
-that the two mountain ranges uniting in 86° S. were continued in a
+that the two mountain ranges uniting in 86ï¿½ S. were continued in a
 mighty chain running to the south-east, with summits from 10,000 to
 15,000 feet. Mount Thorvald Nilsen was the most southerly we could
 see from this point. Mounts Hanssen, Wisting, Bjaaland, and Hassel
 formed, as we had thought the day before, a group by themselves,
-and lay separated from the main range.
+and lay separated from the Indexer.main range.
 
 The drivers had a warm morning's work. They had to drive with great
 circumspection and patience to grapple with the kind of ground we
@@ -2856,7 +2856,7 @@ The storm continued unabated on the following day, and on account of
 the dangerous nature of the ground we decided to wait awhile. In the
 course of the morning -- towards noon, perhaps -- the wind dropped
 a little, and out we went. The sun peeped through at times, and
-we took the welcome opportunity of getting an altitude -- 86° 47'
+we took the welcome opportunity of getting an altitude -- 86ï¿½ 47'
 S. was the result.
 
 At this camp we left behind all our delightful reindeer-skin clothing,
@@ -2870,7 +2870,7 @@ had known the ground, we should possibly have gone on; but in this
 storm and driving snow, which prevented our keeping our eyes open,
 it was no use. A serious accident might happen and ruin all. Two and
 half miles was therefore our whole distance. The temperature when we
-camped was -5.8° F. Height above the sea, 9,780 feet.
+camped was -5.8ï¿½ F. Height above the sea, 9,780 feet.
 
 In the course of the night the wind veered from south-east to north,
 falling light, and the weather cleared. This was a good chance for us,
@@ -2965,7 +2965,7 @@ CHAPTER XII
 
 At the Pole
 
-In lat. 87° S. -- according to dead reckoning -- we saw the last of the
+In lat. 87ï¿½ S. -- according to dead reckoning -- we saw the last of the
 land to the north-east. The atmosphere was then apparently as clear
 as could be, and we felt certain that our view covered all the land
 there was to be seen from that spot. We were deceived again on this
@@ -3018,7 +3018,7 @@ it would not have mattered so much; but up here on the high ground,
 where we had to stand and gasp for breath every time we rolled over,
 it was certainly not pleasant.
 
-That day we passed 88° S., and camped in 88° 9' S. A great surprise
+That day we passed 88ï¿½ S., and camped in 88ï¿½ 9' S. A great surprise
 awaited us in the tent that evening. I expected to find, as on the
 previous evening, that the boiling-point had fallen somewhat; in
 other words, that it would show a continued rise of the ground, but
@@ -3069,7 +3069,7 @@ had become so accustomed to the grey twilight that this positively
 dazzled us. Meanwhile, the upper layer of air seemed obstinately
 to remain the same and to be doing its best to prevent the sun
 from showing itself. We badly wanted to get a meridian altitude,
-so that we could determine our latitude. Since 86° 47' S. we had
+so that we could determine our latitude. Since 86ï¿½ 47' S. we had
 had no observation, and it was not easy to say when we should get
 one. Hitherto, the weather conditions on the high ground had not
 been particularly favourable. Although the prospects were not very
@@ -3096,7 +3096,7 @@ result be, after marching blindly for so long and over such impossible
 ground, as we had been doing? We added and subtracted, and at last
 there was the result. We looked at each other in sheer incredulity:
 the result was as astonishing as the most consummate conjuring trick
--- 88° 16' S., precisely to a minute the same as our reckoning, 88°
+-- 88ï¿½ 16' S., precisely to a minute the same as our reckoning, 88ï¿½
 16' S. If we were forced to go to the Pole on dead reckoning, then
 surely the most exacting would admit our right to do so. We put away
 our observation books, ate one or two biscuits, and went at it again.
@@ -3105,7 +3105,7 @@ We had a great piece of work before us that day nothing less than
 carrying our flag farther south than the foot of man had trod. We
 had our silk flag ready; it was made fast to two ski-sticks and laid
 on Hanssen's sledge. I had given him orders that as soon as we had
-covered the distance to 88°S., which was Shackleton's farthest south,
+covered the distance to 88ï¿½S., which was Shackleton's farthest south,
 the flag was to be hoisted on his sledge. It was my turn as forerunner,
 and I pushed on. There was no longer any difficulty in holding one's
 course; I had the grandest cloud-formations to steer by, and everything
@@ -3124,7 +3124,7 @@ I find it impossible to express the feelings that possessed me at
 this moment. All the sledges had stopped, and from the foremost of
 them the Norwegian flag was flying. It shook itself out, waved and
 flapped so that the silk rustled; it looked wonderfully well in the
-pure, clear air and the shining white surroundings. 88° 23' was past;
+pure, clear air and the shining white surroundings. 88ï¿½ 23' was past;
 we were farther south than any human being had been. No other moment
 of the whole trip affected me like this. The tears forced their way
 to my eyes; by no effort of will could I keep them back. It was the
@@ -3144,10 +3144,10 @@ example of this than what that man has accomplished.
 
 The cameras of course had to come out, and we got an excellent
 photograph of the scene which none of us will ever forget. We went
-on a couple of miles more, to 88° 25', and then camped. The weather
+on a couple of miles more, to 88ï¿½ 25', and then camped. The weather
 had improved, and kept on improving all the time. It was now almost
 perfectly calm, radiantly clear, and, under the circumstances, quite
-summer-like: -0.4° F. Inside the tent it was quite sultry. This was
+summer-like: -0.4ï¿½ F. Inside the tent it was quite sultry. This was
 more than we had expected.
 
 After much consideration and discussion we had come to the conclusion
@@ -3172,7 +3172,7 @@ monument all the same. It was dogs' pemmican and biscuits that
 were left behind; we carried with us on the sledges provisions for
 about a month. If, therefore, contrary to expectation, we should be
 so unlucky as to miss this depot, we should nevertheless be fairly
-sure of reaching our depot in 86° 21' before supplies ran short. The
+sure of reaching our depot in 86ï¿½ 21' before supplies ran short. The
 cross-marking of the depot was done with sixty splinters of black
 packing-case on each side, with 100 paces between each. Every other
 one had a shred of black cloth on the top. The splinters on the east
@@ -3195,7 +3195,7 @@ all at once, and we had an excellent opportunity of taking some good
 azimuth observations, the last of any use that we got on the journey.
 
 December 9 arrived with the same fine weather and sunshine. True,
-we felt our frost-sores rather sharply that day, with -18.4° F. and
+we felt our frost-sores rather sharply that day, with -18.4ï¿½ F. and
 a little breeze dead against us, but that could not be helped. We
 at once began to put up beacons -- a work which was continued with
 great regularity right up to the Pole. These beacons were not so big
@@ -3204,7 +3204,7 @@ would be quite large enough with a height of about 3 feet, as it
 was, very easy to see the slightest irregularity on this perfectly
 flat surface. While thus engaged we had an opportunity of becoming
 thoroughly acquainted with the nature of the snow. Often -- very often
-indeed -- on this part of the plateau, to the south of 88° 25', we had
+indeed -- on this part of the plateau, to the south of 88ï¿½ 25', we had
 difficulty in getting snow good enough -- that is, solid enough for
 cutting blocks. The snow up here seemed to have fallen very quietly,
 in light breezes or calms. We could thrust the tent-pole, which was
@@ -3232,7 +3232,7 @@ to see how they raised their heads, with every sign of curiosity,
 put their noses in the air, and sniffed due south. One would really
 have thought there was something remarkable to be found there.
 
-From 88° 25' S. the barometer and hypsometer indicated slowly but
+From 88ï¿½ 25' S. the barometer and hypsometer indicated slowly but
 surely that the plateau was beginning to descend towards the other
 side. This was a pleasant surprise to us; we had thus not only found
 the very summit of the plateau, but also the slope down on the far
@@ -3241,15 +3241,15 @@ of the construction of the whole plateau. On December 9 observations
 and dead reckoning agreed within a mile. The same result again on
 the 10th: observation 2 kilometres behind reckoning. The weather
 and going remained about the same as on the preceding days: light
-south-easterly breeze, temperature -18.4° F. The snow surface was
+south-easterly breeze, temperature -18.4ï¿½ F. The snow surface was
 loose, but ski and sledges glided over it well. On the 11th, the same
-weather conditions. Temperature -13° F. Observation and reckoning
-again agreed exactly. Our latitude was 89° 15' S. On the 12th we
-reached 89° 30', reckoning 1 kilometre behind observation. Going and
+weather conditions. Temperature -13ï¿½ F. Observation and reckoning
+again agreed exactly. Our latitude was 89ï¿½ 15' S. On the 12th we
+reached 89ï¿½ 30', reckoning 1 kilometre behind observation. Going and
 surface as good as ever. Weather splendid -- calm with sunshine. The
-noon observation on the 13th gave 89° 37' S. Reckoning 89° 38.5'
+noon observation on the 13th gave 89ï¿½ 37' S. Reckoning 89ï¿½ 38.5'
 S. We halted in the afternoon, after going eight geographical miles,
-and camped in 89° 45', according to reckoning.
+and camped in 89ï¿½ 45', according to reckoning.
 
 The weather during the forenoon had been just as fine as before;
 in the afternoon we had some snow-showers from the south-east. It
@@ -3268,7 +3268,7 @@ but I believe we despatched our breakfast rather more quickly than
 usual and were out of the tent sooner, though I must admit that we
 always accomplished this with all reasonable haste. We went in the
 usual order -- the forerunner, Hanssen, Wisting, Bjaaland, and the
-reserve forerunner. By noon we had reached 89° 53' by dead reckoning,
+reserve forerunner. By noon we had reached 89ï¿½ 53' by dead reckoning,
 and made ready to take the rest in one stage. At 10 a.m. a light
 breeze had sprung up from the south-east, and it had clouded over,
 so that we got no noon altitude; but the clouds were not thick, and
@@ -3388,7 +3388,7 @@ great interest, as it clearly shows how unreliable and valueless a
 single observation like this is in these regions. At 12.30 a.m. we
 put our instruments away, well satisfied with our work, and quite
 convinced that it was the midnight altitude that we had observed. The
-calculations which were carried out immediately afterwards gave us 89°
+calculations which were carried out immediately afterwards gave us 89ï¿½
 56' S. We were all well pleased with this result.
 
 The arrangement now was that we should encircle this camp with a
@@ -3470,7 +3470,7 @@ out the first black dot on the horizon, and not long after the second
 and third appeared. We both gave a sigh of relief as they came on;
 almost simultaneously the three arrived at the tent. We told them
 the result of our observations up to that time; it looked as if our
-camp was in about 89° 54' 30'' S., and that with our encircling we
+camp was in about 89ï¿½ 54' 30'' S., and that with our encircling we
 had therefore included the actual Pole. With this result we might
 very well have been content, but as the weather was so good and gave
 the impression that it would continue so, and our store of provisions
@@ -3587,9 +3587,9 @@ tent-pole. On this occasion we received the congratulations of our
 companions on the successful result, for the following messages were
 written on a couple of strips of leather, sewed to the tent
 
-"Good luck," and "Welcome to 90°." These good wishes, which we
+"Good luck," and "Welcome to 90ï¿½." These good wishes, which we
 suddenly discovered, put us in very good spirits. They were signed
-by Beck and Rönne. They had good faith in us. When we had finished
+by Beck and Rï¿½nne. They had good faith in us. When we had finished
 this we came out, and the tent-door was securely laced together,
 so that there was no danger of the wind getting a hold on that side.
 
@@ -3611,7 +3611,7 @@ The Return to Framheim
 
 The going was splendid and all were in good spirits, so we went along
 at a great pace. One would almost have thought the dogs knew they were
-homeward bound. A mild, summer-like wind, with a temperature of -22°
+homeward bound. A mild, summer-like wind, with a temperature of -22ï¿½
 F., was our last greeting from the Pole.
 
 When we came to our last camp, where the sledge was left, we stopped
@@ -3671,7 +3671,7 @@ off everything -- nearly -- and still the sweat poured off us. It was
 not for long that we were uncertain of the way: our excellent beacons
 did us brilliant service, and one after another they came up on the
 horizon, flashed and shone, and drew us on to our all-important depot
-in 88° 25' S. We were now going slightly uphill, but so slightly that
+in 88ï¿½ 25' S. We were now going slightly uphill, but so slightly that
 it was unnoticeable. The hypsometer and barometer, however, were
 not to be deceived, and both fell in precisely the same degree as
 they had risen before. Even if we had not exactly noticed the rise,
@@ -3759,11 +3759,11 @@ best, after all, and it seemed as if the dogs did the same. As a rule
 it was hard to begin the march again after the rest; one got rather
 stiff lazy, too, perhaps -- and had to become supple again.
 
-On the 26th we passed 88° S., going well. The surface appeared to have
+On the 26th we passed 88ï¿½ S., going well. The surface appeared to have
 been exposed to powerful sunshine since we left it, as it had become
 quite polished. Going over these polished levels was like crossing
 smooth ice, but with the important difference that here the dogs had
-a good foothold. This time we sighted high land even in 88°, and it
+a good foothold. This time we sighted high land even in 88ï¿½, and it
 had great surprises in store for us. It was clear that this was the
 same mighty range running to the south-east as we had seen before,
 but this time it stretched considerably farther to the south. The
@@ -3774,8 +3774,8 @@ the atmosphere, it was continued beyond our range of vision in the
 same direction. That this chain traverses the Antarctic continent I
 therefore consider beyond a doubt. Here we had a very good example
 of how deceptive the atmosphere is in these regions. On a day that
-appeared perfectly clear we had lost sight of the mountains in 87°,
-and now we saw them as far as the eye could reach in 88°. That we
+appeared perfectly clear we had lost sight of the mountains in 87ï¿½,
+and now we saw them as far as the eye could reach in 88ï¿½. That we
 were astonished is a mild expression. We looked and looked, entirely
 unable to recognize our position; little did we guess that the huge
 mountain-mass that stood up so high and clear on the horizon was Mount
@@ -3831,9 +3831,9 @@ have said, it was only then that we made sure of being on the right
 course; all the rest of the land that we saw was so entirely strange
 to us. We recognized absolutely nothing.
 
-On the 30th we passed 87° S., and were thus rapidly nearing the Devil's
+On the 30th we passed 87ï¿½ S., and were thus rapidly nearing the Devil's
 Ballroom and Glacier. The next day was brilliantly fine-temperature
--2.2° F. -- with a good breeze right aft. To our great joy, we got
+-2.2ï¿½ F. -- with a good breeze right aft. To our great joy, we got
 sight of the land around the Butcher's Shop. It was still a long way
 off, of course, but was miraged up in the warm, sunny air. We were
 extraordinarily lucky on our homeward trip; we escaped the Devil's
@@ -3950,7 +3950,7 @@ Splendid weather it was when we turned out on the morning of January
 or night; for some time past we had all been sick of the long hours
 of rest, and wanted to break them up at any price. As I have said,
 the weather could not have been finer brilliantly clear and a dead
-calm. The temperature of -2.2° F. felt altogether like summer in
+calm. The temperature of -2.2ï¿½ F. felt altogether like summer in
 this bright, still air. Before we began our march all unnecessary
 clothes were taken off and put on the sledges. It almost looked as
 if everything would be considered superfluous, and the costume in
@@ -4063,7 +4063,7 @@ had not been accustomed to such rations. We threw three carcasses
 on to the sledges, so as to have a little extra food for them on
 the way down. The Butcher's was not a very friendly spot this time,
 either. True, it was not the same awful weather as on our first visit,
-but it was blowing a fresh breeze with a temperature of -9.4° F.,
+but it was blowing a fresh breeze with a temperature of -9.4ï¿½ F.,
 which, after the heat of the last few days, seemed to go to one's
 marrow, and did not invite us to stay longer than was absolutely
 necessary. Therefore, as soon as we had finished feeding the dogs
@@ -4152,7 +4152,7 @@ January 6 we halted at the angle of land that forms the entrance to
 the Heiberg Glacier, and thence extends northward. We had not yet
 recognized any of the land we lay under, but that was quite natural,
 as we now saw it from the opposite side. We knew, though, that we
-were not far away from our main depot in 85° 5' S. On the afternoon
+were not far away from our Indexer.main depot in 85ï¿½ 5' S. On the afternoon
 of the same day we were off again.
 
 From a little ridge we crossed immediately after starting, Bjaaland
@@ -4194,7 +4194,7 @@ twelve dogs, as we had reckoned on doing, and left it with eleven. I
 see in my diary the following remark: "The dogs look just as well
 as when we left Framheim." On leaving the place a few hours later
 we had provisions for thirty-five days on the sledges. Besides this,
-of course, we had a depot at every degree of latitude up to 80°.
+of course, we had a depot at every degree of latitude up to 80ï¿½.
 
 It looked as though we had found our depot at the right moment, for
 when we came out to continue our journey the whole Barrier was in a
@@ -4227,7 +4227,7 @@ than ever. Mount Betty was the last to send us its farewell. South
 Victoria Land had gone into hiding, and did not show itself again. As
 soon as we came into the sunshine, we ran upon one of our beacons;
 our course lay straight towards it. That was not bad steering in the
-dark. At 9 p.m. we reached the depot in 85° S. Now we could begin to be
+dark. At 9 p.m. we reached the depot in 85ï¿½ S. Now we could begin to be
 liberal with the dogs' food, too; they had double pemmican rations,
 besides as many oatmeal biscuits as they would eat. We had such
 masses of biscuits now that we could positively throw them about. Of
@@ -4252,7 +4252,7 @@ without an object; if we should be visited with scurvy, this fresh meat
 would be invaluable. As we were -- sound and healthy as we had never
 been before -- the seal-beef was a pleasant distraction in our menu,
 nothing more. The temperature had risen greatly since we came down
-on to the Barrier, and kept steady at about + 14° F. We were so warm
+on to the Barrier, and kept steady at about + 14ï¿½ F. We were so warm
 in our sleeping-bags that we had to turn them with the hair out. That
 was better; we breathed more freely and felt happier. "Just like going
 into an ice-cellar," somebody remarked. The same feeling as when on
@@ -4260,7 +4260,7 @@ a really warm summer day one comes out of the hot sun into cool shade.
 
 January 9. -- "Same beastly weather; snow, snow, snow, nothing but
 snow. Is there no end to it? Thick too, so that we have not been able
-to see ten yards ahead. Temperature + 17.6° F. Thawing everywhere
+to see ten yards ahead. Temperature + 17.6ï¿½ F. Thawing everywhere
 on the sledges. Everything getting wet. Have not found a single
 beacon in this blind man's weather. The snow was very deep to begin
 with and the going exceedingly heavy, but in spite of this the dogs
@@ -4271,7 +4271,7 @@ lay to the west, about 200 yards away. We were thus not far out of
 our course; we turned aside and went up to it, as it was interesting
 to see whether our reckoning was in order. The beacon was somewhat
 damaged by sunshine and storms, but we found the paper left in it,
-which told us that this beacon was erected on November 14, in 84° 26'
+which told us that this beacon was erected on November 14, in 84ï¿½ 26'
 S. It also told us what course to steer by compass to reach the next
 beacon, which lay five kilometres from this one.
 
@@ -4289,7 +4289,7 @@ south. Mysterious creatures! they were now exactly half-way between
 Framheim and the Pole, and yet they were going farther inland. Were
 they going over to the other side?
 
-Our march ended this time at one of our beacons, in 84° 15'. It
+Our march ended this time at one of our beacons, in 84ï¿½ 15'. It
 felt so good and safe to lie beside one of these; it always gave
 us a sure starting-point for the following stage. We were up at
 4 a.m. and left the place a few hours later, with the result that
@@ -4306,7 +4306,7 @@ meat we had so laboriously transported with us and spread all over the
 plain in our depots. It is incredible what a flock of these birds of
 prey can get rid of; it would not matter if the meat were frozen as
 hard as iron, they would have managed it, even if it had been a good
-deal harder than iron. Of the seals' carcasses we had lying in 80°,
+deal harder than iron. Of the seals' carcasses we had lying in 80ï¿½,
 I saw in my thoughts nothing but the bones. Of the various dogs we
 had killed on our way south and laid on the tops of beacons I did not
 see even so much as that. Well, it was possible that my thoughts had
@@ -4341,13 +4341,13 @@ useful to us more than once, and we gradually became so familiar with
 Bjaaland's right-handed tendencies that we actually counted on them.
 
 On January 13, according to our reckoning, we ought to reach the depot
-in 83° S. This was the last of our depots that was not marked at right
+in 83ï¿½ S. This was the last of our depots that was not marked at right
 angles to the route, and therefore the last critical point. The day
 was not altogether suited for finding the needle in the haystack. It
 was calm with a thick fog, so thick that we could only see a few yards
 in front of us. We did not see a single beacon on the whole march. At
 4 p.m. we had completed the distance, according to the sledge-meters,
-and reckoned that we ought to be in 83° S., by the depot; but there
+and reckoned that we ought to be in 83ï¿½ S., by the depot; but there
 was nothing to be seen. We decided, therefore, to set our tent and
 wait till it cleared. While we were at work with this, there was a
 rift in the thick mass of fog, and there, not many yards away -- to
@@ -4368,21 +4368,21 @@ eating up all the food. Meanwhile the dogs had left the place again,
 as shown by the fresh trail, which pointed to the north. We examined
 the tracks very closely, and agreed that they were not more than
 two days old. They went northward, and we followed them from time to
-time on our next stage. At the beacon in 82° 45', where we halted,
-we saw them still going to the north. In 82° 24' the trail began to
+time on our next stage. At the beacon in 82ï¿½ 45', where we halted,
+we saw them still going to the north. In 82ï¿½ 24' the trail began to
 be much confused, and ended by pointing due west. That was the last
 we saw of the tracks; but we had not done with these dogs, or rather
-with their deeds. We stopped at the beacon in 82° 20'. Else, who
+with their deeds. We stopped at the beacon in 82ï¿½ 20'. Else, who
 had been laid on the top of it, had fallen down and lay by the side;
 the sun had thawed away the lower part of the beacon. So the roving
 dogs had not been here; so much was certain, for otherwise we should
 not have found Else as we did. We camped at the end of that stage by
-the beacon in 82° 15', and shared out Else's body. Although she had
+the beacon in 82ï¿½ 15', and shared out Else's body. Although she had
 been lying in the strong sunshine, the flesh was quite good, when we
 had scraped away a little mouldiness. It smelt rather old, perhaps,
 but our dogs were not fastidious when it was a question of meat.
 
-On January 16 we arrived at the depot in 82° S. We could see
+On January 16 we arrived at the depot in 82ï¿½ S. We could see
 from a long way off that the order in which we had left it no
 longer prevailed. When we came up to it, we saw at once what had
 happened. The innumerable dog-tracks that had trampled the snow quite
@@ -4395,44 +4395,44 @@ was left; but that made no difference to us now, as we had food in
 abundance. The two dogs' carcasses that we had placed on the top of
 the depot -- Uranus and Jaala -- were gone, not even the teeth were to
 be seen. Yet they had left the teeth of Lucy, whom they had eaten in
-82° 3'. Jaala's eight puppies were still lying on the top of a case;
+82ï¿½ 3'. Jaala's eight puppies were still lying on the top of a case;
 curiously enough, they had not fallen down. In addition to all the
 rest, the beasts had devoured some ski-bindings and things of that
 sort. It was no loss to us, as it happened; but who could tell which
 way these creatures had gone? If they had succeeded in finding the
-depot in 80° S., they would probably by this time have finished our
+depot in 80ï¿½ S., they would probably by this time have finished our
 supply of seal meat there. Of course it would be regrettable if this
 had happened, although it would entail no danger either to ourselves
-or our animals. If we got as far as 80°, we should come through all
+or our animals. If we got as far as 80ï¿½, we should come through all
 right. For the time being, we had to console ourselves with the fact
 that we could see no continuation of the trail northward.
 
-We permitted ourselves a little feast here in 82°. The "chocolate
+We permitted ourselves a little feast here in 82ï¿½. The "chocolate
 pudding" that Wisting served as dessert is still fresh in my memory;
 we all agreed that it came nearer perfection than anything it had
 hitherto fallen to our lot to taste. I may disclose the receipt:
 biscuit-crumbs, dried milk and chocolate are put into a kettle of
 boiling water. What happens afterwards, I don't know; for further
-information apply to Wisting. Between 82° and 81° we came into our
+information apply to Wisting. Between 82ï¿½ and 81ï¿½ we came into our
 old marks of the second depot journey; on that trip we had marked
 this distance with splinters of packing-case at every geographical
 mile. That was in March, 1911, and now we were following these
 splinters in the second half of January, 1912. Apparently they stood
-exactly as they had been put in. This marking stopped in 81° 33' S.,
+exactly as they had been put in. This marking stopped in 81ï¿½ 33' S.,
 with two pieces of case on a snow pedestal. The pedestal was still
 intact and good.
 
 I shall let my diary describe what we saw on January 18: "Unusually
 fine weather to-day. Light south-south-west breeze, which in the
-course of our march cleared the whole sky. In 81° 20' we came abreast
+course of our march cleared the whole sky. In 81ï¿½ 20' we came abreast
 of our old big pressure ridges. We now saw far more of them than ever
 before. They extended as far as the eye could see, running north-east
 to south-west, in ridges and peaks. Great was our surprise when, a
 short time after, we made out high, bare land in the same direction,
 and not long after that two lofty, white summits to the south-east,
-probably in about 82° S. It could be seen by the look of the sky
+probably in about 82ï¿½ S. It could be seen by the look of the sky
 that the land extended from north-east to south-west. This must be
-the same land that we saw lose itself in the horizon in about 84°S.,
+the same land that we saw lose itself in the horizon in about 84ï¿½S.,
 when we stood at a height of about 4,000 feet and looked out over
 the Barrier, during our ascent. We now have sufficient indications to
 enable us without hesitation to draw this land as continuous -- Carmen
@@ -4440,10 +4440,10 @@ Land. The surface against the land is violently disturbed -- crevasses
 and pressure ridges, waves and valleys, in all directions. We shall
 no doubt feel the effect of it to-morrow." Although what we have seen
 apparently justifies us in concluding that Carmen Land extends from
-86° S. to this position -- about 81° 30' S. -- and possibly farther
+86ï¿½ S. to this position -- about 81ï¿½ 30' S. -- and possibly farther
 to the north-east, I have not ventured to lay it down thus on the
 map. I have contented myself with giving the name of Carmen Land to
-the land between 86° and 84°, and have called the rest "Appearance
+the land between 86ï¿½ and 84ï¿½, and have called the rest "Appearance
 of Land." It will be a profitable task for an explorer to investigate
 this district more closely.
 
@@ -4451,7 +4451,7 @@ As we had expected, on our next stage we were made to feel the effect
 of the disturbances. Three times we had now gone over this stretch of
 the Barrier without having really clear weather. This time we had it,
 and were able to see what it actually looked like. The irregularities
-began in 81° 12' S., and did not extend very far from north to
+began in 81ï¿½ 12' S., and did not extend very far from north to
 south-possibly about five kilometres (three and a quarter miles). How
 far they extended from east to west it is difficult to say, but at any
 rate as far as the eye could reach. Immense pieces of the surface had
@@ -4463,18 +4463,18 @@ of all was that we had passed over here unharmed. We went across as
 light-footedly as possible, and at top speed. Hanssen went halfway
 into a crevasse, but luckily got out of it again without difficulty.
 
-The depot in 81° S. was in perfect order; no dog-tracks to be
-seen there. Our hopes that the depot in 80° S. would be intact rose
-considerably. In 80° 45' S. lay the first dog we had killed -- Bone. He
+The depot in 81ï¿½ S. was in perfect order; no dog-tracks to be
+seen there. Our hopes that the depot in 80ï¿½ S. would be intact rose
+considerably. In 80ï¿½ 45' S. lay the first dog we had killed -- Bone. He
 was particularly fat, and was immensely appreciated. The dogs no
 longer cared very much for pemmican. On January 21 we passed our last
-beacon, which stood in 80° 23' S. Glad as we were to leave it behind,
+beacon, which stood in 80ï¿½ 23' S. Glad as we were to leave it behind,
 I cannot deny that it was with a certain feeling of melancholy that
 we saw it vanish. We had grown so fond of our beacons, and whenever
 we met them we greeted them as old friends. Many and great were the
 services these silent watchers did us on our long and lonely way.
 
-On the same day we reached our big depot in 80° S., and now we
+On the same day we reached our big depot in 80ï¿½ S., and now we
 considered that we were back. We could see at once that others had
 been at the depot since we had left it, and we found a message from
 Lieutenant Prestrud, the leader of the eastern party, saying that he,
@@ -4489,10 +4489,10 @@ they really had something to fight about. They went round the seals'
 carcasses a few times, looked askance at the food and at each other,
 and then flung themselves into the wildest scrimmage. When this had
 been duly brought to a conclusion, they went away and lay round their
-sledges. The depot in 80° S. is still large, well supplied and well
+sledges. The depot in 80ï¿½ S. is still large, well supplied and well
 marked, so it is not impossible that it may be found useful later.
 
-The journey from 80° S. to Framheim has been so often described that
+The journey from 80ï¿½ S. to Framheim has been so often described that
 there is nothing new to say about it. On January 25, at 4 a.m., we
 reached our good little house again, with two sledges and eleven dogs;
 men and animals all hale and hearty. We stood and waited for each other
@@ -4611,7 +4611,7 @@ true. Those who have read this narrative through will, in any case,
 have received the impression that unemployment was an evil that was
 utterly unknown in our little community.
 
-At the stage where we now found ourselves, with the main object of
+At the stage where we now found ourselves, with the Indexer.main object of
 our enterprise achieved, there might have been reason to expect
 a certain degree of relaxation of interest. This, however, was
 not the case. The fact was that what we had done would have no
@@ -4820,7 +4820,7 @@ of us had counted on the possibility of getting fresh meat before we
 were back again in civilization.
 
 On her arrival at the Bay of Whales there were eleven men on board
-the Fram, all included. Instead of Kutschin and Nödtvedt, who had gone
+the Fram, all included. Instead of Kutschin and Nï¿½dtvedt, who had gone
 home from Buenos Aires while the ship was there in the autumn of 1911,
 three new men were engaged -- namely, Halvorsen, Olsen and Steller;
 the two first-named were from Bergen; Steller was a German, who had
@@ -4935,7 +4935,7 @@ The winter -- well, it wasn't long, we had so much to do.
 There was digging snow, and sleeping -- you can bet we're good at
 that -- And eating, too -- no wonder that we're all a little fat.
 We had hot cakes for our breakfast and "hermetik" each day,
-Mutton pies, ragouts and curries, for that is Lindström's way.
+Mutton pies, ragouts and curries, for that is Lindstrï¿½m's way.
 But all I'll say is this -- that 'twas in our country's cause,
 If we stuffed ourselves with dainties, it was in our country's cause.
 
@@ -5145,8 +5145,8 @@ again as fresh as when new. When this had been seen to, the outward
 appearance of the men also began to undergo a striking change. The
 Iceland jackets and "blanket costumes" from Horten gave way to "shore
 clothes" of the most varied cut, hauled out after a two years' rest;
-razors and scissors had made a rich harvest, and sailmaker Rönne's
-fashionable Burberry caps figured on most heads. Even Lindström,
+razors and scissors had made a rich harvest, and sailmaker Rï¿½nne's
+fashionable Burberry caps figured on most heads. Even Lindstrï¿½m,
 who up to date had held the position among the land party of being
 its heaviest, fattest, and blackest member, showed unmistakable signs
 of having been in close contact with water.
@@ -5221,27 +5221,27 @@ was very little to be gained by indulging in speculations of that
 sort. The immediate facts first claimed attention. One fact, amongst
 others, was that Framheim was a good three miles away; another was
 that the cinematograph apparatus weighed a good many pounds; and a
-third that Lindström would be mightily put out if I arrived too late
+third that Lindstrï¿½m would be mightily put out if I arrived too late
 for dinner. Our chef insisted on a high standard of punctuality in the
 matter of meal-times. Homeward, then, at the best speed possible. The
 speed, however, was not particularly good, and I began to prepare for
 the consequences of a long delay. On the other side of the bay I could
 just make out a little black speck, that seemed to be in motion towards
 me. I thought at first it was a seal, but, fortunately, it turned
-out to be Jörgen Stubberud with six dogs and a sledge. This was quite
+out to be Jï¿½rgen Stubberud with six dogs and a sledge. This was quite
 encouraging: in the first place, I should get rid of my unmanageable
 burden, and in the second I might expect to get on faster. Stubberud's
 team consisted, however, of four intractable puppies, besides Puss and
 another courser of similar breed; the result was that our pace was a
 modest one and our course anything but straight, so that we arrived
 at Framheim two hours after the time appointed for dinner. Those who
-know anything of Master Lindström and his disposition will easily be
+know anything of Master Lindstrï¿½m and his disposition will easily be
 able from this explanation to form an idea of his state of mind at
 the moment when we entered the door. Yes, he was undoubtedly angry,
 but we were at least equally hungry; and if anything can soften the
 heart of a Norwegian caterer, it is a ravenous appetite in those he
 has to feed, provided, of course, that he have enough to offer them,
-and Lindström's supplies were practically unlimited.
+and Lindstrï¿½m's supplies were practically unlimited.
 
 I remember that dinner well: at the same table where eight of us had
 sat for so many months, there were now only three left -- Johansen,
@@ -5305,7 +5305,7 @@ on the east side of the entrance door was now entirely buried in
 the snow-drift. It had given us good protection; now the drift had
 unimpeded access, and the opening, like the descent into a cellar,
 that led down to the door, was filled up in the course of a few hours
-when the wind was in the right quarter. Lindström shook his head when
+when the wind was in the right quarter. Lindstrï¿½m shook his head when
 we sometimes asked him how he would get on by himself if the weather
 continued in this way. "So long as there's nothing but snow in the
 way, I'll manage to get out," said he. One day he came and told us
@@ -5338,7 +5338,7 @@ soon as November arrived we took the first opportunity of disappearing.
 
 On account of getting on the right course, we preferred that the
 start should take place in clear weather. The fact was that we were
-obliged to go round by the depot in 80° S. As King Edward Land lies to
+obliged to go round by the depot in 80ï¿½ S. As King Edward Land lies to
 the east, or rather north-east, of Framheim, this was a considerable
 detour; it had to be made, because in September we had left at this
 depot all the packed sledging provisions, a good deal of our personal
@@ -5366,13 +5366,13 @@ safe ground under our feet until the ugly place was passed.
 
 In the opening days of November the weather conditions began to
 improve somewhat; in any case, there was not the continual driving
-snow. Lindström asked us before we left to bring up a sufficient
+snow. Lindstrï¿½m asked us before we left to bring up a sufficient
 quantity of seals, to save him that work as long as possible. The
 supply we had had during the winter was almost exhausted; there was
 only a certain amount of blubber left. We thought it only fair to
 accede to his wish, as it is an awkward business to transport those
 heavy beasts alone, especially when one has only a pack of unbroken
-puppies to drive. We afterwards heard that Lindström had some amusing
+puppies to drive. We afterwards heard that Lindstrï¿½m had some amusing
 experiences with them during the time he was left alone.
 
 Leaving the transport out of the question, this seal-hunting is a
@@ -5389,13 +5389,13 @@ safe ground under our feet until the ugly place was passed.
 
 In the opening days of November the weather conditions began to
 improve somewhat; in any case, there was not the continual driving
-snow. Lindström asked us before we left to bring up a sufficient
+snow. Lindstrï¿½m asked us before we left to bring up a sufficient
 quantity of seals, to save him that work as long as possible. The
 supply we had had during the winter was almost exhausted; there was
 only a certain amount of blubber left. We thought it only fair to
 accede to his wish, as it is an awkward business to transport those
 heavy beasts alone, especially when one has only a pack of unbroken
-puppies to drive. We afterwards heard that Lindström had some amusing
+puppies to drive. We afterwards heard that Lindstrï¿½m had some amusing
 experiences with them during the time he was left alone.
 
 Leaving the transport out of the question, this seal-hunting is a
@@ -5436,7 +5436,7 @@ scoundrels only killed for the sake of killing; they were not at all
 hungry, as they had as much food as they liked. Of course, we did all
 we could to put a stop to this state of things, and so long as there
 were several of us at the hut, we saw that the whole pack was tied up;
-but when Lindström was left by himself, he could not manage to hold
+but when Lindstrï¿½m was left by himself, he could not manage to hold
 them fast. His tents were altogether snowed under in the weather that
 prevailed on the seaboard in December. There were not many dogs left
 in his charge, but I am afraid those few wrought great havoc among the
@@ -5454,7 +5454,7 @@ careful in their behaviour.
 
 After we had brought up to the house enough seals' carcasses to keep
 the ten or twelve dogs that would be left supplied for a good while,
-and had cut up a sufficient quantity for our own use on the way to 80°
+and had cut up a sufficient quantity for our own use on the way to 80ï¿½
 S., we took the first opportunity of getting away. Before I pass on
 to give an account of our trip, I wish to say a few words about my
 companions -- Johansen and Stubberud. It goes without saying that it
@@ -5477,19 +5477,19 @@ previously shown signs of being rather quickly tired. True, this
 happened under very severe conditions. As it turned out, our dogs
 exceeded all our expectations in the easier conditions of work that
 prevailed during the summer. On the first part of the way -- as far as
-the depot in 80° S. -- the loads were quite modest. Besides the tent,
+the depot in 80ï¿½ S. -- the loads were quite modest. Besides the tent,
 the sleeping-bags, our personal outfit, and instruments, we only had
 provisions for eight days-seals' flesh for the dogs, and tinned food
 for ourselves. Our real supplies were to be taken from the depot,
 where there was enough of everything.
 
-On November 8 we left Framheim, where in future Lindström was to
+On November 8 we left Framheim, where in future Lindstrï¿½m was to
 reside as monarch of all he surveyed. The weather was as fine as
 could be wished. I was out with the cinematograph apparatus, in
 order if possible to immortalize the start. To complete the series
-of pictures, Lindström was to take the forerunner, who was now, be it
+of pictures, Lindstrï¿½m was to take the forerunner, who was now, be it
 said, a good way behind those he was supposed to be leading. With all
-possible emphasis I enjoined Lindström only to give the crank five
+possible emphasis I enjoined Lindstrï¿½m only to give the crank five
 or six turns, and then started off to catch up the drivers. When
 I had nearly reached the provision store I pulled up, struck by a
 sudden apprehension. Yes, I was right on looking back I discovered
@@ -5526,7 +5526,7 @@ bare hands and still preserving our finger-tips unharmed. As I had
 no dog-team to look after, I undertook the duty of attending to our
 own needs; that is to say, I acted as cook. This occupation also was
 considerably easier now than it had been when the temperature was
-below -60° F. At that time it took half an hour to turn the snow in
+below -60ï¿½ F. At that time it took half an hour to turn the snow in
 the cooker into water; now it was done in ten minutes, and the cook
 ran no risk whatever of getting his fingers frozen in the process.
 
@@ -5635,13 +5635,13 @@ of bad luck for man and ski to fall through.
 
 November 11. -- In weather like this, going on the march is like
 going to a dance: tent, sleeping-bags, and clothes keep soft and dry
-as a bone. The thermometer is about -4° F. A fellow-man suddenly put
+as a bone. The thermometer is about -4ï¿½ F. A fellow-man suddenly put
 down in our midst from civilized surroundings would possibly shake
 his head at so many degrees of frost, but it must be remembered that
 we have long ago abandoned the ordinary ideas of civilized people as
 to what is endurable in the way of temperature. We are enthusiastic
 about the spring-like weather, especially when we remember what it
-was like down here two months ago, when the thermometer showed -76°
+was like down here two months ago, when the thermometer showed -76ï¿½
 F., and the rime hung an inch thick inside the tent, ready to drop
 on everything and everybody at the slightest movement. Now there is
 no rime to be seen; the sun clears it away. For now there is a sun;
@@ -5672,7 +5672,7 @@ in September. Sara's lean and frozen body did not seem particularly
 adapted for making anyone fat, and yet our newly-found friend Peary
 looked as if he had been feasting for weeks. Possibly he had begun
 by devouring Neptune, another of his companions, who had also given
-the southern party the slip on the way to the depot in 80° S. However
+the southern party the slip on the way to the depot in 80ï¿½ S. However
 this may be, Peary's rest cure came to an abrupt conclusion. Stubberud
 took him and put him in his team.
 
@@ -5830,7 +5830,7 @@ follow. The bill of fare was identically the same every day, perhaps
 a fault in the eyes of many; variety of diet is supposed to be the
 thing. Hang variety, say I; appetite is what matters. To a man who
 is really hungry it is a very subordinate matter what he shall eat;
-the main thing is to have something to satisfy his hunger.
+the Indexer.main thing is to have something to satisfy his hunger.
 
 After going north for seven days, we found that according to
 observations and sledge-meter we ought to be in the neighbourhood of
@@ -5974,7 +5974,7 @@ but, at the same time, very good tot of aquavit, served in enamelled
 iron mugs. Carrying alcohol was, of course, against regulations,
 strictly speaking; but, as everyone knows, prohibition is not an
 easy thing to put into practice. Even in Antarctica this proved to be
-the case. Lindström had a habit of sending a little surprise packet
+the case. Lindstrï¿½m had a habit of sending a little surprise packet
 with each sledging party that went out, and on our departure he had
 handed us one of these, with the injunction that the packet was only
 to be opened on some festive occasion; we chose as such Her Majesty's
@@ -6028,7 +6028,7 @@ camp this morning; before us we had a level plateau, which appeared
 to be quite free from unpleasant obstructions. When we halted for the
 noon observation the sledge-meter showed ten geographical miles, and
 before evening we had brought the day's distance up to twenty. The
-latitude was then 77° 32'. The distance to the Barrier edge on the
+latitude was then 77ï¿½ 32'. The distance to the Barrier edge on the
 north was, at a guess, about twenty geographical miles. We were now
 a good way along the peninsula, the northern point of which Captain
 Scott named Cape Colbeck, and at the same time a good way to the
@@ -6165,7 +6165,7 @@ The hill was farther off and higher than it appeared at first; the
 aneroid showed a rise of 700 feet when we reached the top. As our
 camp lay at a height of 1,000 feet, this gave us 1,700 feet as the
 height of this hill above the sea. The side we went up was covered
-by névé, which, to judge from the depth of the cracks, must have been
+by nï¿½vï¿½, which, to judge from the depth of the cracks, must have been
 immense. As we approached the summit and our view over the surrounding
 ground became wider, the belief that we should see so much as a crag
 of this King Edward Land grew weaker and weaker. There was nothing
@@ -6262,7 +6262,7 @@ in this respect. From finds that have been made in other parts of
 Antarctica it is known that in former geological periods -- the
 Jurassic epoch -- even this desolate continent possessed a rich and
 luxurious vegetation. The leader of the Swedish expedition to Graham
-Land, Dr. Nordenskjöld, and his companion, Gunnar Andersson, were
+Land, Dr. Nordenskjï¿½ld, and his companion, Gunnar Andersson, were
 the first to make this exceedingly interesting and important discovery.
 
 While it did not fall to our lot to furnish any proof of the existence
@@ -6325,7 +6325,7 @@ it appears in the neighbourhood of our winter-quarters at Framheim.
 Monday, December 4. -- The gale kept on at full force all night,
 and increased rather than moderated as the day advanced. As usual,
 the storm was accompanied by a very marked rise of temperature. At the
-noon observation to-day the reading was + 26.6° F. This is the highest
+noon observation to-day the reading was + 26.6ï¿½ F. This is the highest
 temperature we have had so far on this trip, and a good deal higher
 than we care about. When the mercury comes so near freezing-point as
 this, the floor of the tent is always damp.
@@ -6363,7 +6363,7 @@ would have none left on their return. Supposing their return were
 delayed so long as to involve spending another winter on the Barrier,
 the transport of supplies from the ship could hardly be carried out
 in the necessary time with the ten untrained puppies that were left
-with Lindström. We had picked out the useful ones, and I thought that,
+with Lindstrï¿½m. We had picked out the useful ones, and I thought that,
 should the necessity arise, they could be used with greater advantage
 for this work than we should derive from slaughtering them here, and
 thereby somewhat prolonging the distance covered; the more so as, to
@@ -6384,7 +6384,7 @@ squalls of hurricane-like violence occur. Fortunately the big
 snow-drift keeps us comfortable, and we are under the lee of a hill,
 otherwise it would look badly for our tent. Hitherto it has held well,
 but it is beginning to be rather damp inside. The temperature remains
-very high (+ 27.2° F. at noon to-day), and the mass of snow pressing
+very high (+ 27.2ï¿½ F. at noon to-day), and the mass of snow pressing
 against the tent causes the formation of rime.
 
 In order to while away the time to some extent under depressing
@@ -6421,7 +6421,7 @@ it. The heavy snowfall continues. Big, wet flakes come dancing down
 through the opening in the drift in which the peak of the tent still
 manages to show itself. In the course of three days we have had more
 snowfall here than we had at Framheim in ten whole months. It will
-be interesting to compare our meteorological log with Lindström's;
+be interesting to compare our meteorological log with Lindstrï¿½m's;
 probably he has had his share of the storm, and in that case it will
 have given him some exercise in snow-shovelling.
 
@@ -6440,7 +6440,7 @@ we are on the eve of the change we have been longing for. Stubberud is
 certain of fair weather to-morrow, he says. I am by no means so sure,
 and offer to bet pretty heavily that there will be no change. Two
 inches of Norwegian plug tobacco is the stake, and with a heartfelt
-desire that Jörgen may win I await the morrow.
+desire that Jï¿½rgen may win I await the morrow.
 
 Thursday, December 7. -- Early this morning I owned to having lost my
 bet, as the weather, so far as I could tell, was no longer of the same
@@ -6546,20 +6546,20 @@ when in the afternoon we came in sight of our winter home. Quiet and
 peaceful it lay there, if possible more deeply covered in snow than
 when we had left it. At first we could see no sign of life, but soon
 the glasses discovered a lonely wanderer on his way from the house
-to the "meteorological institute." So Lindström was still alive and
+to the "meteorological institute." So Lindstrï¿½m was still alive and
 performing his duties.
 
 When we left, our friend had expressed his satisfaction at "getting
 us out of the way"; but I have a suspicion that he was quite as
 pleased to see us back again. I am not quite certain, though, that
 he did see us for the moment, as he was about as snow-blind as a
-man can be. Lindström was the last person we should have suspected
+man can be. Lindstrï¿½m was the last person we should have suspected
 of that malady. On our asking him how it came about, he seemed at
 first unwilling to give any explanation; but by degrees it came out
 that the misfortune had happened a couple of days before, when he
 had gone out after seals. His team, composed of nothing but puppies,
 had run away and pulled up at a big hummock out by the western cape,
-ten miles from the station. But Lindström, who is a determined man,
+ten miles from the station. But Lindstrï¿½m, who is a determined man,
 would not give up before he had caught the runaways; and this was
 too much for his eyes, as he had no goggles with him. "When I got
 home I couldn't see what the time was," he said; "but it must have
@@ -6573,7 +6573,7 @@ through the snow-wall outside the door; but during the last three
 fine days he had managed to clear a passage, not only to the door,
 but to the window as well. Daylight came down into the room through
 a well nine feet deep. This had been a tremendous piece of work;
-but, as already hinted, nothing can stop Lindström when he makes up
+but, as already hinted, nothing can stop Lindstrï¿½m when he makes up
 his mind. His stock of seals' flesh was down to a minimum; the little
 there was vanished on the appearance of our ravenous dogs. We ourselves
 were in no such straits; sweets were the only things in special demand.
@@ -6586,7 +6586,7 @@ existence had become rather uncomfortable on account of constant
 dripping from the ceiling. In the course of the winter a quantity
 of ice had formed in the loft. As the kitchen fire was always going
 after our return, the temperature became high enough to melt the ice,
-and the water streamed down. Lindström was annoyed and undertook
+and the water streamed down. Lindstrï¿½m was annoyed and undertook
 to put a stop to it. He disappeared into the loft, and sent down a
 hail of ice, bottle-straw, broken cases, and other treasures through
 the trap-door. We fled before the storm and drove away. This time
@@ -6611,7 +6611,7 @@ was a disappointment, it was nevertheless very interesting to observe
 the effects of the mighty forces that had here been at work, the
 disruption of the solid ice-sheath by the still more solid rock.
 
-The day before Christmas Eve we were back at Framheim. Lindström had
+The day before Christmas Eve we were back at Framheim. Lindstrï¿½m had
 made good use of his time in our absence. The ice had disappeared
 from the loft, and therewith the rain from the ceiling. New linoleum
 had been laid down over half the floor, and marks of the paint-brush
@@ -6624,7 +6624,7 @@ Christmas. And for that reason we had kept the festival six months
 before. Christmas Eve fell on a Sunday, and it passed just like any
 ordinary Sunday. Perhaps the only difference was that we used a razor
 that day instead of the usual beard-clipper. On Christmas Day we took
-a holiday, and Lindström prepared a banquet of skua gulls. Despise
+a holiday, and Lindstrï¿½m prepared a banquet of skua gulls. Despise
 this dish as one may, it tasted undeniably of -- bird.
 
 The numerous snow-houses were now in a sad way. Under the weight
@@ -6697,10 +6697,10 @@ We had still fourteen long miles to Framheim and an obstinate
 wind right in our faces, but that part of the way was covered in a
 remarkably short time. On arriving at home at two in the afternoon
 we had some expectation of finding a crowd of people in front of the
-house; but there was not a living soul to be seen. Even Lindström
+house; but there was not a living soul to be seen. Even Lindstrï¿½m
 remained concealed, though as a rule he was always about when anyone
 arrived. Thinking that perhaps our friend had had a relapse of
-snow-blindness, I went in to announce our return. Lindström was
+snow-blindness, I went in to announce our return. Lindstrï¿½m was
 standing before his range in the best of health when I entered
 the kitchen. "The Fram's come!" he shouted, before I had shut the
 door. "Tell me something I don't know," said I, "and be so kind as to
@@ -6708,23 +6708,23 @@ give me a cup of water with a little syrup in it if you can." I thought
 somehow that the cook had a sly grin on his face when he brought
 what I asked for, but with the thirst I had after the stiff march,
 I gave a great part of my attention to the drink. I had consumed
-the best part of a quart, when Lindström went off to his bunk and
+the best part of a quart, when Lindstrï¿½m went off to his bunk and
 asked if I could guess what he had hidden there. There was no time to
 guess anything before the blankets were thrown on to the floor, and
 after them bounded a bearded ruffian clad in a jersey and a pair of
 overalls of indeterminable age and colour. "Hullo!" said the ruffian,
-and the voice was that of Lieutenant Gjertsen. Lindström was shaking
+and the voice was that of Lieutenant Gjertsen. Lindstrï¿½m was shaking
 with laughter while I stood open-mouthed before this apparition;
 I had been given a good surprise. We agreed to treat Johansen and
 Stubberud in the same way, and as soon as they were heard outside,
 Gjertsen hid himself again among the blankets. But Stubberud had smelt
 a rat in some way or other. "There are more than two in this room,"
 he said, as soon as he came in. It was no surprise to him to find a
-man from the Fram in Lindström's bunk.
+man from the Fram in Lindstrï¿½m's bunk.
 
 When we heard that the visitor had been under our roof for a whole day,
 we assumed that in the course of that time he had heard all about our
-own concerns from Lindström. We were therefore not inclined to talk
+own concerns from Lindstrï¿½m. We were therefore not inclined to talk
 about ourselves; we wanted news from without, and Gjertsen was more
 than ready to give us them. The Fram had arrived two days before,
 all well. After lying at the ice edge for a day and a night, keeping
@@ -6744,8 +6744,8 @@ the eager explorer felt his heart sink. Where our new house had
 made such a brave show a year before on the surface of the Barrier,
 there was now no house at all to be seen. All that met the eyes of the
 visitor was a sombre pile of ruins. But his anxiety quickly vanished
-when a man emerged from the confusion. The man was Lindström, and the
-supposed ruin was the most ingenious of all winter-quarters. Lindström
+when a man emerged from the confusion. The man was Lindstrï¿½m, and the
+supposed ruin was the most ingenious of all winter-quarters. Lindstrï¿½m
 was ignorant of the Fram's arrival, and the face he showed on seeing
 Gjertsen must have been worth some money to look at.
 
@@ -6944,7 +6944,7 @@ The little Adelie is always comic. On meeting a flock of these
 little busybodies the most ill-humoured observer is forced to burst
 into laughter. During the first weeks of our stay in the Bay of
 Whales, while we were still unloading stores, it was always a welcome
-distraction to see a flock of Adélie penguins, to the number of a dozen
+distraction to see a flock of Adï¿½lie penguins, to the number of a dozen
 or so, suddenly jump out of the water, as though at a word of command,
 and then sit still for some moments, stiff with astonishment at the
 extraordinary things they saw. When they had recovered from the first
@@ -7048,7 +7048,7 @@ and arrived at Madeira on September 6.
 
 At 9 p.m. on September 9 we weighed anchor for the last time, and left
 Madeira. As soon as we were clear of the land we got the north-east
-trade again, and it held more or less fresh till about lat. 11° N.
+trade again, and it held more or less fresh till about lat. 11ï¿½ N.
 
 After our departure from Madeira I took over the morning watch,
 from 4 to 8 a.m.; Prestrud and Gjertsen divided the remainder of the
@@ -7058,12 +7058,12 @@ In order if possible to get a little more way on the ship, a
 studding-sail and a skysail were rigged up with two awnings; it did
 not increase our speed very much, but no doubt it helped a little.
 
-The highest temperature we observed was 84° F. In the trade winds we
+The highest temperature we observed was 84ï¿½ F. In the trade winds we
 constantly saw flying-fish, but as far as I know not one was ever
 found on deck; those that came on board were of course instantly
 snapped up by the dogs.
 
-In about lat. 11° N. we lost the north-east trade, and thus came into
+In about lat. 11ï¿½ N. we lost the north-east trade, and thus came into
 the "belt of calms," a belt that extends on each side of the Equator,
 between the north-east and south-east trades. Here, as a rule, one
 encounters violent rain-squalls; to sailing ships in general and
@@ -7104,7 +7104,7 @@ kept constantly ready, in case of our being so unlucky as to come
 too near an iceberg. Fortunately, however, we did not meet any of
 these until early on the morning of January 1, 1911, when we saw
 some typical Antarctic bergs; that is to say, entirely tabular. Our
-latitude was then a little over 60° S., and we were not far off the
+latitude was then a little over 60ï¿½ S., and we were not far off the
 pack. On the 1st and 2nd we sailed southward without seeing anything
 but scattered bergs and a constantly increasing number of lumps of
 ice, which showed us we were getting near. By 10 p.m. on the 2nd we
@@ -7122,7 +7122,7 @@ nearly half a year had been living on nothing but tinned meat. With
 the steak whortleberries were always served, which of course helped
 to make it appreciated. The biggest seal we got in the pack-ice was
 about 12 feet long, and weighed nearly half a ton. A few penguins were
-also shot, mostly Adélie penguins; these are extraordinarily amusing,
+also shot, mostly Adï¿½lie penguins; these are extraordinarily amusing,
 and as inquisitive as an animal can be. When any of them saw us, they
 at once came nearer to get a better view of the unbidden guests. If
 they became too impertinent, we did not hesitate to take them, for
@@ -7151,7 +7151,7 @@ very easily through the ice.
 
 After coming out of the pack, our course was continued through the open
 Ross Sea to the Bay of Whales, which from the previous description
-was to be found in about long. 164° W. On the afternoon of the 11th
+was to be found in about long. 164ï¿½ W. On the afternoon of the 11th
 we had strong ice-blink ahead, by which is meant the luminous stripe
 that is seen above a considerable accumulation of ice; the nearest
 thing one can compare it to is the glare that is always seen over
@@ -7165,7 +7165,7 @@ imagined it. Possibly this was because I had become familiar with it,
 in a way, from the many descriptions of it. From these descriptions we
 had expected to find a comparatively narrow opening into Balloon Bight,
 as shown in the photographs we had before us; but as we went along
-the Barrier, on the 12th, we could find no opening. In long. 164° W.,
+the Barrier, on the 12th, we could find no opening. In long. 164ï¿½ W.,
 on the other hand, there was a great break in the wall, forming a cape
 (West Cape); from here to the other side of the Barrier was about eight
 geographical miles, and southward, as far as we could see, lay loose
@@ -7333,8 +7333,8 @@ the evening of the 14th.
 From the Bay of Whales to Buenos Aires.
 
 The sea party consisted of the following ten men Thorvald Nilsen,
-L. Hansen, H. Kristensen and J. Nödtvedt; H. F. Gjertsen, A. Beck,
-M. Rönne, A. Kutschin and O. K. Sundbeck. The first four formed one
+L. Hansen, H. Kristensen and J. Nï¿½dtvedt; H. F. Gjertsen, A. Beck,
+M. Rï¿½nne, A. Kutschin and O. K. Sundbeck. The first four formed one
 watch, from eight to two, and the last five the other, from two to
 eight. Last, but not least, comes K. Olsen, cook.
 
@@ -7347,8 +7347,8 @@ fathoms (285 metres). The bay ended in a ridge of ice on the east,
 which was continued in a northerly direction, so that at the spot
 where we were stopped by the Barrier, we reached the most southerly
 point that a vessel can attain, so long as the Barrier remains as
-it is now. Highest latitude 78° 41' S. When the Terra Nova was here,
-her latitude and ours was 78° 38' S.
+it is now. Highest latitude 78ï¿½ 41' S. When the Terra Nova was here,
+her latitude and ours was 78ï¿½ 38' S.
 
 The last two days before our departure had been calm, and a thick,
 dense sludge lay over the whole bay; so dense was it that the Fram
@@ -7404,7 +7404,7 @@ that when we meet again we shall have reached our respective goals,
 "Roald Amundsen."
 
 When Sir James Ross was in these waters for the first time, in 1842,
-he marked "Appearance of land" in long. 160° W., and lat. about 78°
+he marked "Appearance of land" in long. 160ï¿½ W., and lat. about 78ï¿½
 S. Afterwards, in 1902, Captain Scott named this land "King Edward
 VII. Land." One of the Terra Nova's objects was to explore this land;
 but when we met the ship on February 4, they told us on board that
@@ -7481,8 +7481,8 @@ to have dark nights on land, but at sea it ought always to be light,
 especially in these waters, which are more or less unknown, and full
 of drifting icebergs.
 
-At 4 p.m. on the 22nd we entered the drift-ice in lat. 70.5° S.,
-long. 177.5° E. The ice was much higher and uglier than when we were
+At 4 p.m. on the 22nd we entered the drift-ice in lat. 70.5ï¿½ S.,
+long. 177.5ï¿½ E. The ice was much higher and uglier than when we were
 going south, but as there was nothing but ice as far as we could
 see both east and west, and it was fairly loose, we had to make the
 attempt where there seemed to be the best chance of getting through.
@@ -7504,7 +7504,7 @@ coming out into a bay. This was formed by over a hundred icebergs,
 many of which lay in contact with each other and had packed the ice
 close together. On the west was the outlet, which we steered for,
 and by 10 p.m. on February 23 we were already out of the ice and in
-open water. Our latitude was then 69° S., longitude 175.5° E.
+open water. Our latitude was then 69ï¿½ S., longitude 175.5ï¿½ E.
 
 It is very curious to find such calm weather in Ross Sea; in the two
 months we have been here we have hardly had a strong breeze. Thus, when
@@ -7520,7 +7520,7 @@ all round glow the splendid southern lights, and in the darkness can
 be seen the gleaming outline of an iceberg. . . ."
 
 On the 26th we crossed the Antarctic Circle, and the same day the
-temperature both of air and water rose above 32° F.
+temperature both of air and water rose above 32ï¿½ F.
 
 It was with sorrow in our hearts that we ate our last piece of
 "crocodile beef," but I hoped we should get a good many albatrosses,
@@ -7533,8 +7533,8 @@ because they were the souls of ungodly clergymen, who had to wait
 down here till doomsday without rest.
 
 More or less in our course to Cape Horn there are supposed to be
-two groups of islands, the Nimrod group in about long. 158° W., and
-Dougherty Island in about long. 120° W. They are both marked "D"
+two groups of islands, the Nimrod group in about long. 158ï¿½ W., and
+Dougherty Island in about long. 120ï¿½ W. They are both marked "D"
 (Doubtful) on the English charts. Lieutenant Shackleton's vessel,
 the Nimrod, Captain Davis, searched for both, but found neither;
 Dougherty Island, however, is said to have been twice sighted. The
@@ -7630,8 +7630,8 @@ afternoon we passed no less than about a hundred bergs. They were
 big tabular bergs, all of the same height, about 100 feet, or about
 as high as the crow's-nest of the Fram. The bergs were not the least
 worn, but looked as if they had calved quite recently. As I said, it
-was clear enough, we even got an observation that day (lat. 61° S.,
-long. 150° W.), and as we had a west wind, we twisted quite elegantly
+was clear enough, we even got an observation that day (lat. 61ï¿½ S.,
+long. 150ï¿½ W.), and as we had a west wind, we twisted quite elegantly
 past one iceberg after another. The sea, which during the morning had
 been high enough for the spray to dash over the tops of the bergs,
 gradually went down, and in the evening, when we were well to leeward
@@ -7645,21 +7645,21 @@ of icebergs. That it falls steadily as one approaches the pack-ice
 is certain enough, but whether it falls for one or a few scattered
 icebergs, no doubt depends on circumstances.
 
-One night at 12 o'clock we had a temperature in the water of 34.1°
-F., at 4 a.m. 33.8° F., and at 8 a.m. 33.6° F.; at 6 a.m. we passed
-an iceberg. At 12 noon the temperature had risen to 33.9° F. In this
+One night at 12 o'clock we had a temperature in the water of 34.1ï¿½
+F., at 4 a.m. 33.8ï¿½ F., and at 8 a.m. 33.6ï¿½ F.; at 6 a.m. we passed
+an iceberg. At 12 noon the temperature had risen to 33.9ï¿½ F. In this
 case one might say that the temperature gave warning, but, as a rule,
 in high latitudes it has been constant both before and after passing
 an iceberg.
 
 On Christmas Eve, 1911, when on our second trip southward we saw the
 first real iceberg, the temperature of the water fell in four hours
-from 35.6° F. to 32.7° F., which was the temperature when the bergs
-were passed, after which it rose rather rapidly to 35° F.
+from 35.6ï¿½ F. to 32.7ï¿½ F., which was the temperature when the bergs
+were passed, after which it rose rather rapidly to 35ï¿½ F.
 
 In the west wind belt I believe one can tell with some degree of
 certainty when one is approaching ice. In the middle of November, 1911,
-between Prince Edward Island and the Crozet Islands (about lat. 47°
+between Prince Edward Island and the Crozet Islands (about lat. 47ï¿½
 S.) the temperature fell. Towards morning I remarked to someone:
 "The temperature of the water is falling as if we were getting near
 the ice." On the forenoon of the same day we sailed past a very small
@@ -7667,14 +7667,14 @@ berg; the temperature again rose to the normal, and we met no more
 ice until Christmas Eve.
 
 On Saturday, March 4, the day before we met that large collection
-of bergs, the temperature fell pretty rapidly from 33.9° F. to 32.5°
+of bergs, the temperature fell pretty rapidly from 33.9ï¿½ F. to 32.5ï¿½
 F. We had not then seen ice for nearly twenty-four hours. At the same
 time the colour of the water became unusually green, and it is possible
 that we had come into a cold current. The temperature remained as low
-as this till Sunday morning, when at 8 a. m. it rose to 32.7° F.;
-at 12 noon, close to a berg, to 32.9° F., and a mile to lee of it,
-to 33° F. It continued to rise, and at 4 p.m., when the bergs were
-thickest, it was 33.4° F.; at 8 p.m. 33.6° F., and at midnight 33.8°
+as this till Sunday morning, when at 8 a. m. it rose to 32.7ï¿½ F.;
+at 12 noon, close to a berg, to 32.9ï¿½ F., and a mile to lee of it,
+to 33ï¿½ F. It continued to rise, and at 4 p.m., when the bergs were
+thickest, it was 33.4ï¿½ F.; at 8 p.m. 33.6ï¿½ F., and at midnight 33.8ï¿½
 F. If there had been a fog, we should certainly have thought we were
 leaving the ice instead of approaching it; it is very curious, too,
 that the temperature of the water should not be more constant in
@@ -7742,7 +7742,7 @@ had not had to keep a lookout for ice. And fortune willed it that the
 day of the hurricane was the first since we had left the Barrier that
 we did not see ice -- whether this was because the spray was so high
 that it hid our view, or because there really was none. Be that as it
-may, the main thing was that we saw no ice. During the night we had
+may, the Indexer.main thing was that we saw no ice. During the night we had
 a glimpse of the full moon, which gave the man at the wheel occasion
 to call out 'Hurrah!' -- and with good reason, as we had been waiting
 a long time for the moon to help us in looking out for ice.
@@ -7802,7 +7802,7 @@ By way of comparison a third curve is given from the north-east trade,
 where there is an almost constant breeze and fine weather.
 
 On this trip the fore-saloon was converted into a sail-loft, where
-Rönne and Hansen carried on their work, each in his watch. The
+Rï¿½nne and Hansen carried on their work, each in his watch. The
 after-saloon was used as a common mess-room, as it is warmer, and
 the motion is far less felt than forward.
 
@@ -8052,7 +8052,7 @@ soundings on the weather side, so that the sounding-line should not
 foul the bottom of the vessel and smash the apparatus. And we did
 not lose more than one thermometer in about nine hundred soundings.
 
-On account of all this wear and tear of sails Rönne was occupied the
+On account of all this wear and tear of sails Rï¿½nne was occupied the
 whole time, both at sea and in Buenos Aires, in making and patching
 sails, as there was not much more than the leeches left of those
 that had been used, and on the approaching trip (to the Ice Barrier)
@@ -8100,7 +8100,7 @@ strong enough to give vent to one's annoyance at such a discovery. We
 set traps, but what was the use of that, when the cargo consisted
 exclusively of provisions?
 
-One morning, as Rönne was sitting at work making sails, he observed
+One morning, as Rï¿½nne was sitting at work making sails, he observed
 a "shadow" flying past his feet, and, according to his account,
 into the fore-saloon. The cook came roaring: "There's a rat in the
 fore-saloon!" Then there was a lively scene; the door was shut, and
@@ -8218,7 +8218,7 @@ circumnavigation of the globe.
 In Buenos Aires we lay at the same quay as the Deutschland, the German
 Antarctic Expedition's ship.
 
-A. Kutschin and the second engineer, J. Nödtvedt, went home, and
+A. Kutschin and the second engineer, J. Nï¿½dtvedt, went home, and
 seaman J. Andersen was discharged.
 
 
@@ -8226,7 +8226,7 @@ From Buenos Aires to the Ross Barrier.
 
 On the trip from Buenos Aires to the Barrier the watches were divided
 as follows: From eight to two: T. Nilsen, L. Hansen, H. Halvorsen,
-and A. Olsen. From two to eight: H. Gjertsen, A. Beck, M. Rönne, and
+and A. Olsen. From two to eight: H. Gjertsen, A. Beck, M. Rï¿½nne, and
 F. Steller. In the engine-room: K. Sundbeck and H. Kristensen. Lastly,
 K. Olsen, cook. In all eleven men.
 
@@ -8368,7 +8368,7 @@ approach the island because of the wind's direction. In no respect
 can the second trip be compared with the first; I should never have
 dreamed that there could be so much difference in the "Roaring Forties"
 in two different years at the same season. In the "Foggy Fifties"
-the weather was calm and fine, and we had no fog until lat. 58° S.
+the weather was calm and fine, and we had no fog until lat. 58ï¿½ S.
 
 As regards the distance sailed, November, 1911, is the best month
 the Fram has had.
@@ -8377,9 +8377,9 @@ In December, which began with a speed of one and a half knots, calm,
 swell against us, and the engine at full speed, we had a fair wind for
 three days, all the rest calms and head winds; the first part of the
 month from the north-east and east, so that we came much too far south;
-even in long. 150 E. we were in lat. 60° S. In Christmas week we had
+even in long. 150 E. we were in lat. 60ï¿½ S. In Christmas week we had
 calms and light winds from the south-east, so that we managed to steal
-eastward to long. 170° E. and lat. 65° S., where, on the edge of the
+eastward to long. 170ï¿½ E. and lat. 65ï¿½ S., where, on the edge of the
 pack-ice, we had a stiff breeze from the north-north-east, that is,
 straight on to the ice.
 
@@ -8418,7 +8418,7 @@ half-way in several times, and will immediately take the bait again.
 On the night of December 11 an unusually beautiful aurora was seen;
 it lasted over an hour, and moved in a direction from west to east.
 
-On the 14th all the white paint was washed; the temperature was 43°
+On the 14th all the white paint was washed; the temperature was 43ï¿½
 F., and we were in shirt-sleeves.
 
 For a whole week before Christmas the cook was busy baking Christmas
@@ -8448,7 +8448,7 @@ and the Fram were drunk.
 I had decorated the saloon in a small way with artificial flowers,
 embroideries, and flags, to give a little colour. Dinner was followed
 by cigars and the distribution of Christmas presents. L. Hansen
-played the accordion, and Lieutenant Gjertsen and Rönne danced "folk
+played the accordion, and Lieutenant Gjertsen and Rï¿½nne danced "folk
 dances"; the latter was, as usual, so amusing that he kept us in fits
 of laughter.
 
@@ -8470,9 +8470,9 @@ at which he encountered the ice, and that he only sailed in clear
 weather. We had no time to spare, however, but had to make use of
 whatever wind there was, even if we could not see very far.
 
-As early as December 28, at 5 p.m., in lat. 65° S. and long. 171.5°
+As early as December 28, at 5 p.m., in lat. 65ï¿½ S. and long. 171.5ï¿½
 E., it was reported that we were off the pack. I was a good deal
-surprised, as recent expeditions had not met the pack until 66.5°
+surprised, as recent expeditions had not met the pack until 66.5ï¿½
 S., or about one hundred nautical miles farther south, nor had there
 been any sign of our being so near the ice. The wind for the last
 few days had been south-easterly, but for the moment it was calm; we
@@ -8490,7 +8490,7 @@ scattered lumps, which become more frequent as one nears the pack. For
 two days we sailed simply by the lumps of ice; the more of them we saw,
 the more easterly was our course, until they began to decrease, when we
 steered more to the south. In this way we went in forty-eight hours
-from lat. 65° S. and long. 174° E. to lat. 69° S. and long. 178°
+from lat. 65ï¿½ S. and long. 174ï¿½ E. to lat. 69ï¿½ S. and long. 178ï¿½
 E., a distance of about two hundred and fifty nautical miles,
 without entering the pack. Once we very nearly went into the trap,
 but fortunately got out again. The wind was so fresh that we did as
@@ -8511,9 +8511,9 @@ dead reckoning was not very correct in such circumstances goes without
 saying, and an observation on January 2 showed us that we were somewhat
 farther to the east than we had reckoned. On the evening of December 31
 the fog lifted for a while, and we saw nothing but ice all round. Our
-course was then set due south. We had come right down in lat. 69.5°
+course was then set due south. We had come right down in lat. 69.5ï¿½
 S., and I hoped soon to be clear altogether; in 1910 we got out of
-the ice in 70°S., and were then in the same longitude as now.
+the ice in 70ï¿½S., and were then in the same longitude as now.
 
 Now, indeed, our progress began to be slow, and the old year went out
 in a far from pleasant fashion. The fog was so thick that I may safely
@@ -8528,7 +8528,7 @@ called real ice, however, but was rather a snow-sludge, about two feet
 thick, and as tough as dough; it looked as if it had all just been
 broken off a single thick mass. The floes lay close together, and we
 could see how one floe fitted into the other. The ice remained more
-or less close until we were right down in lat. 73°S. and long. 179°
+or less close until we were right down in lat. 73ï¿½S. and long. 179ï¿½
 W.; the last part of it was old drift-ice.
 
 From here to the Bay of Whales we saw a few scattered streams of
@@ -8540,16 +8540,16 @@ board. I was sure they would appreciate fresh roast pork.
 
 The chart of Ross Sea has been drawn chiefly as a guide to future
 expeditions. It may be taken as certain that the best place to go
-through the ice is between long. 176° E. and 180°, and that the best
+through the ice is between long. 176ï¿½ E. and 180ï¿½, and that the best
 time is about the beginning of February.
 
 Take, for instance, our southward route in 1911 -- 1912: as has been
-said, the ice was met with as early as in 65° S., and we were not
-clear of it till about 73° S.; between 68° S. and 69° S. the line
+said, the ice was met with as early as in 65ï¿½ S., and we were not
+clear of it till about 73ï¿½ S.; between 68ï¿½ S. and 69ï¿½ S. the line
 is interrupted, and it was there that I ought to have steered to
 the south.
 
-Now follow the course from the Bay of Whales in 1912. Only in about 75°
+Now follow the course from the Bay of Whales in 1912. Only in about 75ï¿½
 S. was ice seen (almost as in 1911), and we followed it. After that
 time we saw absolutely no more ice, as the chart shows; therefore in
 the course of about a month and a half all the ice that we met when
@@ -8559,7 +8559,7 @@ The stippled line shows how I assume the ice to have lain; the heavy
 broken line shows what our course ought to have been.
 
 The midnight sun was not seen till the night of January 7, 1912,
-to the south of lat. 77° S.; it was already 9.5° above the horizon.
+to the south of lat. 77ï¿½ S.; it was already 9.5ï¿½ above the horizon.
 
 On the night of January 8 we arrived off the Barrier in extremely
 bitter weather. South-westerly and southerly winds had held for a
@@ -8587,7 +8587,7 @@ The ice lay right out to West Cape, and we sailed across the mouth
 of the bay and up under the lee of the eastern Barrier, in order,
 if possible, to find slack ice or open water; but no, the fast ice
 came just as far on that side. It turned out that we could not get
-farther south than 78°30' -- that is, eleven nautical miles farther
+farther south than 78ï¿½30' -- that is, eleven nautical miles farther
 north than the previous year, and no less than fifteen nautical miles
 from Framheim, taking into consideration the turn in the bay.
 
@@ -8675,7 +8675,7 @@ On the 19th we had a fresh south-westerly wind and a lot of ice
 went out. The Japanese were occupied most of the night in going
 round among the floes and picking up men, dogs, cases, and so on, as
 they had put a good deal on to the ice in the course of the day. As
-the ice came out, so the Fram went in, right up to fat. 78°35' S.,
+the ice came out, so the Fram went in, right up to fat. 78ï¿½35' S.,
 while the Kainan Maru drifted farther and farther out, till at last
 she disappeared. Nor did we see the vessel again, but a couple of
 men with a tent stayed on the Barrier as long as we were in the bay.
@@ -8684,7 +8684,7 @@ On the night of the 24th there was a stiff breeze from the west,
 and we drifted so far out in the thick snow that it was only on the
 afternoon of the 27th that we could make our way in again through a
 mass of ice. In the course of these two days so much ice had broken
-up that we came right in to fat. 78°39' S., or almost to Framheim, and
+up that we came right in to fat. 78ï¿½39' S., or almost to Framheim, and
 that was very lucky. As we stood in over the Bay of Whales, we caught
 sight of a big Norwegian naval ensign flying on the Barrier at Cape
 Man's Head, and I then knew that the southern party had arrived. We
@@ -8725,8 +8725,8 @@ quickly, though the voyage was fearfully long.
 
 As regards the pack-ice we were extremely lucky. It lay in exactly
 the same spot where we had met with it in 1911 -- that is, in about
-lat. 75° S. We went along the edge of it for a very short time, and
-then it was done with. To the north of 75° we saw nothing but a few
+lat. 75ï¿½ S. We went along the edge of it for a very short time, and
+then it was done with. To the north of 75ï¿½ we saw nothing but a few
 small icebergs.
 
 We made terribly slow progress to the northward, how slow may perhaps
@@ -8736,7 +8736,7 @@ be understood if I quote my diary for February 27:
 we manage an average rate of two knots an hour in a day's run. In
 the last four days we have covered a distance that before would have
 been too little for a single day. We have been at it now for nearly
-a month, and are still only between lat. 52° and 53° S. Gales from
+a month, and are still only between lat. 52ï¿½ and 53ï¿½ S. Gales from
 the north are almost the order of the day," etc. However, it is an
 ill wind that blows nobody any good, and the time was well employed
 with all we had to do.
@@ -8787,7 +8787,7 @@ was why we went so well.
 On April 1 Mrs. Snuppesen gave birth to eight pups; four of these
 were killed, while the rest, two of each sex, were allowed to live.
 
-On Maundy Thursday, April 4, we were in long. 180° and changed the
+On Maundy Thursday, April 4, we were in long. 180ï¿½ and changed the
 date, so that we had two Maundy Thursdays in one week; this gave us a
 good many holidays running, and I cannot say the effect is altogether
 cheerful; it was a good thing when Easter Tuesday came round as an
@@ -8814,7 +8814,7 @@ great good-humour. "This is just like a fairy tale," he said; and it
 could not be denied that it was an amusing coincidence. The Chief,
 of course, was equally pleased.
 
-On the 25th, the Argentine National Fête, the Fram was moored at the
+On the 25th, the Argentine National Fï¿½te, the Fram was moored at the
 same quay that we had left on October 5, 1911. At our departure there
 were exactly seven people on board to say good-bye, but, as far as I
 could see, there were more than this when we arrived; and I was able
@@ -8968,9 +8968,9 @@ lengths and of varying thickness from 4 to 6 inches. The keelson is
 also of pitch-pine, in two layers, one above the other; each layer 15
 inches square from the stem to the engine-room. Under the boiler and
 engine there was only room for one keelson. There are two decks. The
-beams of the main-deck are of American or German oak, those of the
+beams of the Indexer.main-deck are of American or German oak, those of the
 lower deck and half-deck of pitch-pine and Norwegian fir. All the deck
-planks are of Norwegian fir, 4 inches in the main-deck and 3 inches
+planks are of Norwegian fir, 4 inches in the Indexer.main-deck and 3 inches
 elsewhere. The beams are fastened to the ship's sides by knees of
 Norwegian spruce, of which about 450 were used. Wooden knees were,
 as a rule, preferred to iron ones, as they are more elastic. A good
@@ -9117,11 +9117,11 @@ between the frame-timbers in the cabins were damaged by fungus, while
 the frame-timbers themselves, which were of oak, were good. The outer
 lining outside the insulated parts was also somewhat damaged by fungus.
 
-In the coal-bunkers over the main-deck the spruce knees were partly
+In the coal-bunkers over the Indexer.main-deck the spruce knees were partly
 rotten, as were some of the beams, while the lining was here fairly
 good.
 
-The masts and main-topmast were somewhat attacked by decay, while
+The masts and Indexer.main-topmast were somewhat attacked by decay, while
 the rest of the spars were good.
 
 During and after the examination all the panelling and insulation
@@ -9171,27 +9171,27 @@ in the engine-room (marked O); the other tanks shown in the engine-room
 (marked 9) serve for storing lubricating oil. The existing engine-room
 was formerly the engine and boiler room, with coal-bunkers on both
 sides in the forward part. Forward of the watertight bulkhead of the
-engine-room we have, in the lower hold, the main store of oil-fuel,
+engine-room we have, in the lower hold, the Indexer.main store of oil-fuel,
 contained in tanks (marked O) of various sizes, on account of their
 having to be placed among the numerous diagonal stays. The tanks are
 filled and emptied by means of a pump and a petroleum hose through a
 manhole in the top, over which, again, are hatches in the deck above;
 no connecting pipes are fitted between the different tanks, for fear
 they might be damaged by frost or shock, thus involving a risk of
-losing oil. The main supply tank for fuel is placed over the forward
+losing oil. The Indexer.main supply tank for fuel is placed over the forward
 side of the engine-room, where it is supported on strong steel girders;
 inside this tank, again, there are two smaller ones -- settling tanks
 -- from which the oil is conveyed in pipes to the engine-pumps. The
-main tank is of irregular shape -- as will be seen from the drawing
+Indexer.main tank is of irregular shape -- as will be seen from the drawing
 -- since a square piece is taken out of its starboard after-corner
 for a way down into the engine-room. Besides this way down, an
 emergency way leads up from the engine-room, right aft, to one of the
 after-cabins. The oil hold is closed forward by a watertight bulkhead,
-which goes up to the main-deck. The hold forward of the oil-supply
+which goes up to the Indexer.main-deck. The hold forward of the oil-supply
 is unaltered, and serves for stowing cargo (mainly provisions),
-as does the hold above the oil-supply and below the main-deck.
+as does the hold above the oil-supply and below the Indexer.main-deck.
 
-On the main-deck right aft we now find a space arranged on each side
+On the Indexer.main-deck right aft we now find a space arranged on each side
 of the well for the propeller and rudder; the lower part of this
 space is occupied by two tanks for lamp-oil, and above the tanks is
 a thin partition, which forms the floor of two small sail-rooms, with
@@ -9205,7 +9205,7 @@ door leads to the engine-room companion. In the after-part of the
 large workroom is the galley. This room is entirely lined with zinc,
 both on walls and ceiling (on account of the danger of fire), while the
 deck is covered with lead, on which tiles are laid in cement. Forward
-of the galley is the main hatch, and two large water-tanks are fitted
+of the galley is the Indexer.main hatch, and two large water-tanks are fitted
 here, one on each side. The remainder of the workroom affords space
 for carpenter's benches, turning-lathes, a forge, vices, etc. From
 the workroom two doors lead into the fore-saloon with its adjoining
@@ -9213,11 +9213,11 @@ cabins. Amundsen's cabin is the farthest forward on the starboard side,
 and communicates with an instrument-room. From the fore-saloon a door
 leads out forward, past a sixth cabin.
 
-In the space forward on the main-deck we have the fore-hatch, and
+In the space forward on the Indexer.main-deck we have the fore-hatch, and
 by the side of this a room entirely lined with zinc plates, which
 serves for storing furs. Forward of the fur store is fitted a 15
 horse-power one-cylinder Bolinder motor for working the capstan; the
-main features of its working will be seen in the drawing. There are
+Indexer.main features of its working will be seen in the drawing. There are
 two independent transmissions: by belt and by chain. The former is
 usually employed. The chain transmission was provided as a reserve,
 since it was feared that belt-driving might prove unserviceable in
@@ -9236,7 +9236,7 @@ in the same position formerly occupied by the only steering-gear; the
 ordinary steering-gear is now moved to the bridge. The old engine-room
 companion aft is now removed, and forward of the after-wheel is only
 the skylight of the after-saloon. Up through the latter comes the
-exhaust-pipe of the main engine. Forward of and round the mizzenmast
+exhaust-pipe of the Indexer.main engine. Forward of and round the mizzenmast
 is the bridge, which is partly formed by the roofs of the large
 chart-house and laboratory amidships and the two houses on each
 side. The chart-house occupies the place of the old boiler-room
@@ -9249,13 +9249,13 @@ is filled with finely-divided cork. Floor and roof are insulated in
 a similar way, as is also the door; the windows are double, of thick
 plate-glass. Inside the chart-house, besides the usual fittings for
 its use as such, there is a companion-way to the engine-room, and
-a hatch over the manhole to the main supply tank for oil-fuel. The
+a hatch over the manhole to the Indexer.main supply tank for oil-fuel. The
 opening in the deck has a hatch, made like the rest of the deck (in
 two thicknesses, with cork insulation between); the intention is to
 cut off the engine-room altogether, and remove the entrance of this
 companion during the drift in the ice through the Polar sea. The side
 houses are constructed of iron, and are not panelled; they are intended
-for w.c. and lamp-room. On the roof of the chart-house are the main
+for w.c. and lamp-room. On the roof of the chart-house are the Indexer.main
 steering-gear and the engine-room telegraph. On the port side, on the
 forward part of the after-deck, a Downton pump is fitted, which can
 either be worked by hand or by a small motor, which also serves to
@@ -9271,7 +9271,7 @@ and the piston of wood, with a leather covering. The pump-action is
 the usual nickel action, that was formerly general on our ships, and
 is still widely used on smacks. These simple pumps have been shown by
 experience to work better than any others in severe cold. The fore-deck
-also has skylights over the fore-saloon, the main and fore hatches,
+also has skylights over the fore-saloon, the Indexer.main and fore hatches,
 and finally the capstan. This is of the ordinary horizontal type,
 from Pusnes Engineering Works; it is driven by the motor below, as
 already mentioned. The capstan can also be used as a winch, and it
@@ -9367,7 +9367,7 @@ large valve on the bridge; from this valve two horizontal pipes run
 along the after side of the bridge, one to each side: By means of the
 valve the gases can be diverted to one side or the other, according
 to the direction of the wind, Besides the usual auxiliary engines,
-the main engine drives a large centrifugal bilge-pump, an ordinary
+the Indexer.main engine drives a large centrifugal bilge-pump, an ordinary
 machine bilge-pump, and a fan for use in the tropics.
 
 When the Fram left Christiania in the spring of 1910, after taking
@@ -9532,7 +9532,7 @@ anemometer. At the end of September the screen had to be moved a few
 yards to the east; the snow had drifted about it until it was only 2
 1/2 feet above the surface, whereas it ought to stand at the height
 of a man. At the same time the wind-vane was moved. The screen was
-constructed by Lindström from his recollection of the old Fram screen.
+constructed by Lindstrï¿½m from his recollection of the old Fram screen.
 
 The two mercury barometers, the Fuess normal, and the Adie standard
 barometer, reached Framheim in good condition; as has been said, they
@@ -9563,8 +9563,8 @@ however, have been experimentally reduced for the first and last
 months, April and January. The readings have been corrected for the
 temperature of the mercury, the constant error of the instrument,
 and the variation of the force of gravity from the normal in latitude
-45°. The reduction to sea-level, on the other hand, has not been made;
-it amounts to 1.1 millimetre at an air temperature of -10° Centigrade.
+45ï¿½. The reduction to sea-level, on the other hand, has not been made;
+it amounts to 1.1 millimetre at an air temperature of -10ï¿½ Centigrade.
 
 The observations show that the pressure of the atmosphere is
 throughout low, the mean for the ten months being 29.07 inches
@@ -9602,23 +9602,23 @@ been included here.
 It was due to a misunderstanding that mercury thermometers were
 not also used in the first half-year, during those periods when
 the temperature did not go below the freezing-point of mercury
-(-89° C.). But the toluene thermometers in use were old and good
+(-89ï¿½ C.). But the toluene thermometers in use were old and good
 instruments, so that the observations for this period may also be
 regarded as perfectly reliable. Of course, all the thermometers had
 been carefully examined at the Norwegian Meteorological Institute, and
 at Framheim the freezing-point was regularly tested in melting snow.
 
-The results show that the winter on the Barrier was about 19.°
-C. (21.6° F.) colder than it usually is in McMurdo Sound, where
+The results show that the winter on the Barrier was about 19.ï¿½
+C. (21.6ï¿½ F.) colder than it usually is in McMurdo Sound, where
 the British expeditions winter. The coldest month is August, with a
-mean temperature of -44.5° C. (-48.1° F.); on fourteen days during
-this month the temperature was below -50° C. (-58° F.). The lowest
-temperature occurred on August 13: -58.5° C. (-73.3° F.); the warmest
-day in that month had a temperature of -24° C. (-11.2° F.).
+mean temperature of -44.5ï¿½ C. (-48.1ï¿½ F.); on fourteen days during
+this month the temperature was below -50ï¿½ C. (-58ï¿½ F.). The lowest
+temperature occurred on August 13: -58.5ï¿½ C. (-73.3ï¿½ F.); the warmest
+day in that month had a temperature of -24ï¿½ C. (-11.2ï¿½ F.).
 
 In October spring begins to approach, and in December the temperature
-culminates with a mean for the month of -6.6° C. (+2O.l° F.), and a
-highest maximum temperature of -0.2° C. (+31.6° F.). The temperature
+culminates with a mean for the month of -6.6ï¿½ C. (+2O.lï¿½ F.), and a
+highest maximum temperature of -0.2ï¿½ C. (+31.6ï¿½ F.). The temperature
 was thus never above freezing-point, even in the warmest part of
 the summer.
 
@@ -9626,7 +9626,7 @@ The daily course of the temperature -- warmest at noon and coldest
 towards morning -- is, of course, not noticeable in winter, as the
 sun is always below the horizon. But in April there is a sign of it,
 and from September onward it is fairly marked, although the difference
-between 2 p.m. and the mean of 8 a.m. and 8 p.m. only amounts to 2°
+between 2 p.m. and the mean of 8 a.m. and 8 p.m. only amounts to 2ï¿½
 C. in the monthly mean.
 
 Humidity of the Air.
@@ -9670,7 +9670,7 @@ temperature, and does not show itself very markedly, except in January.
 
 The absolute humidity, or partial pressure of aqueous vapour in the
 air, expressed in millimetres in the height of the mercury in the
-same way as the pressure of the atmosphere, follows in the main the
+same way as the pressure of the atmosphere, follows in the Indexer.main the
 temperature of the air. The mean value for the whole period is only 0.8
 millimetre (0.031 inch); December has the highest monthly mean with
 2.5 millimetres (0.097 inch), August the lowest with 0.1 millimetre
@@ -9843,7 +9843,7 @@ Meteorological Record from Framheim.
 April, 1911 -- January, 1912.
 
 Height above sea-level, 36 feet. Gravity correction, .072 inch at
-29.89 inches. Latitude, 78° 38' S. Longitude, 163° 37' W.
+29.89 inches. Latitude, 78ï¿½ 38' S. Longitude, 163ï¿½ 37' W.
 
 Explanation of Signs in the Tables.
 
@@ -9867,7 +9867,7 @@ p. ,, p.m.
 
 I., II, III., signify respectively 8 a.m., 2 p.m., and 8 p.m.
 
-° (e.g., SNOW°) signifies slight.
+ï¿½ (e.g., SNOWï¿½) signifies slight.
 
 2 (e.g., SNOW2) ,, heavy.
 
@@ -9893,12 +9893,12 @@ University
 The collection of specimens of rocks brought back by Mr. Roald
 Amundsen from his South Polar expedition has been sent by him to the
 Mineralogical Institute of the University, the Director of which,
-Professor W. C. Brögger, has been good enough to entrust to me the
+Professor W. C. Brï¿½gger, has been good enough to entrust to me the
 work of examining this rare and valuable material, which gives us
 information of the structure of hitherto untrodden regions.
 
 Roald Amundsen himself brought back altogether about twenty specimens
-of various kinds of rock from Mount Betty, which lies in lat. 85° 8'
+of various kinds of rock from Mount Betty, which lies in lat. 85ï¿½ 8'
 S. Lieutenant Prestrud's expedition to King Edward VII. Land collected
 in all about thirty specimens from Scott's Nunatak, which was the only
 mountain bare of snow that this expedition met with on its route. A
@@ -9950,13 +9950,13 @@ Ferrar), on the whole horizontally bedded, which is at least 1,500 feet
 thick, and in which Shackleton found seams of coal and fossil wood (a
 coniferous tree). This, as it belongs to the Upper Devonian or Lower
 Carboniferous, determines a lower limit for the age of the sandstone
-formation. Shackleton also found in lat. 85° 15' S. beds of limestone,
+formation. Shackleton also found in lat. 85ï¿½ 15' S. beds of limestone,
 which he regards as underlying and being older than the sandstone. In
 the limestone, which is also on the whole horizontally bedded,
 only radiolaria have been found. The limestone is probably of older
-Palæozoic age (? Silurian). It is, therefore, tolerably certain that
+Palï¿½ozoic age (? Silurian). It is, therefore, tolerably certain that
 the underlying older formation of gneisses, crystalline schists and
-granites, etc., is of Archæan age, and belongs to the foundation rocks.
+granites, etc., is of Archï¿½an age, and belongs to the foundation rocks.
 
 Volcanic rocks are only found along the coast of Ross Sea and on
 a range of islands parallel to the coast. Shackleton did not find
@@ -9983,7 +9983,7 @@ From the exhaustive investigations carried out by Scott's and
 Shackleton's expeditions it appears that South Victoria Land is a
 plateau land, consisting of a foundation platform, of great thickness
 and prominence, above which lie remains, of greater or less extent,
-of Palæozoic formations, horizontally bedded. From the specimens of
+of Palï¿½ozoic formations, horizontally bedded. From the specimens of
 rock brought home by Roald Amundsen's expedition it is established that
 the plateau of foundation rocks is continued eastward to Amundsen's
 route to the South Pole, and that King Edward VII. Land is probably
@@ -10014,7 +10014,7 @@ indicating the manner in which the materials could be best dealt
 with. As Mr. Alexander had in a very efficient manner participated in
 the working out of the observations from Nansen's Fram Expedition,
 and since then had calculated the astronomical observations from
-Amundsen's Gjöa Expedition, and from Captain Isachsen's expeditions
+Amundsen's Gjï¿½a Expedition, and from Captain Isachsen's expeditions
 to Spitzbergen, I knew by experience that he was not only a reliable
 and painstaking calculator, but that he also has so full an insight
 into the theoretical basis, that he is capable of working without
@@ -10038,7 +10038,7 @@ Captain Roald Amundsen,
 At your request I shall here give briefly the result of my examination
 of the observations from your South Pole Expedition. My calculations
 are based on the longitude for Framheim given to me by Lieutenant
-Prestrud, 163° 37' W. of Greenwich. He describes this longitude
+Prestrud, 163ï¿½ 37' W. of Greenwich. He describes this longitude
 as provisional, but only to such an extent that the final result
 cannot differ appreciably from it. My own results may also be somewhat
 modified on a final treatment of the material. But these modifications,
@@ -10049,12 +10049,12 @@ the two Polar stations.
 At the first Polar station, on December 15, 1911, eighteen altitudes of
 the sun were taken in all with each of the expedition's sextants. The
 latitude calculated from these altitudes is, on an average of both
-sextants, very near 89° 54', with a mean error of +-2'. The
+sextants, very near 89ï¿½ 54', with a mean error of +-2'. The
 longitude calculated from the altitudes is about
-7t (105°) E.; but, as might be expected in this high latitude,
+7t (105ï¿½) E.; but, as might be expected in this high latitude,
 the aberrations are very considerable. We may, however, assume with
-great certainty that this station lies between lat. 89° 52' and 89°
-56' S., and between long. 90° and 120° E.
+great certainty that this station lies between lat. 89ï¿½ 52' and 89ï¿½
+56' S., and between long. 90ï¿½ and 120ï¿½ E.
 
 The variation of the compass at the first Polar station was determined
 by a series of bearings of the sun. This gives us the absolute
@@ -10065,31 +10065,31 @@ and extent as that within which the first Polar station must lie.
 
 At Polheim, during a period of twenty-four hours (December 16 --
 17), observations were taken every hour with one of the sextants. The
-observations show an upper culmination altitude of 28° 19.2', and a
-resulting lower culmination altitude of 23° 174'. These combining the
+observations show an upper culmination altitude of 28ï¿½ 19.2', and a
+resulting lower culmination altitude of 23ï¿½ 174'. These combining the
 above two altitudes, an equal error on the same side in each will
 have no influence on the result. The combination gives a latitude
-of 89° 58.6'. That this result must be nearly correct is confirmed
+of 89ï¿½ 58.6'. That this result must be nearly correct is confirmed
 by the considerable displacement of the periods of culmination
 which is indicated by the series of observations, and which in the
 immediate neighbourhood of the Pole is caused by the change in the
 sun's declination. On the day of the observations this displacement
-amounted to thirty minutes in 89° 57', forty-six minutes in 89° 58',
-and over an hour and a half in 89° 59'. The upper culmination occurred
+amounted to thirty minutes in 89ï¿½ 57', forty-six minutes in 89ï¿½ 58',
+and over an hour and a half in 89ï¿½ 59'. The upper culmination occurred
 so much too late, and the lower culmination so much too early. The
 interval between these two periods was thus diminished by double the
 amount of the displacements given. Now the series of observations
 shows that the interval between the upper and the lower culmination
 amounted at the most to eleven hours; the displacement of the periods
 of culmination was thus at least half an hour. It results that Polheim
-must lie south of 89° 57', while at the same time we may assume that
-it cannot lie south of 89° 59'. The moments of culmination could,
+must lie south of 89ï¿½ 57', while at the same time we may assume that
+it cannot lie south of 89ï¿½ 59'. The moments of culmination could,
 of course, only be determined very approximately, and in the same way
 the observations as a whole are unserviceable for the determination
 of longitude. It may, however, be stated with some certainty that
-the longitude must be between 30° and 75° E. The latitude, as already
-mentioned, is between 89° 57' and 89° 59', and the probable position
-of Polheim may be given roughly as lat. 89° 58.5' S., and long. 60° E.
+the longitude must be between 30ï¿½ and 75ï¿½ E. The latitude, as already
+mentioned, is between 89ï¿½ 57' and 89ï¿½ 59', and the probable position
+of Polheim may be given roughly as lat. 89ï¿½ 58.5' S., and long. 60ï¿½ E.
 
 On the accompanying sketch-chart the letters abcd indicate the field
 within which the first Polar station must lie; ABCD is the field which
@@ -10131,7 +10131,7 @@ Oceanography
 
 Remarks of the Oceanographical Investigation carried out by the "Fram"
 in the North Atlantic in 1910 and in the South Atlantic in 1911. By
-Professor Björn Helland-Hansen and Professor Fridtjof Nansen
+Professor Bjï¿½rn Helland-Hansen and Professor Fridtjof Nansen
 
 In the earliest ages of the human race the sea formed an absolute
 barrier. Men looked out upon its immense surface, now calm and
@@ -10210,7 +10210,7 @@ Labrador prevent any richer development of civilization in these
 regions. But it is only recently that modern investigation of the
 ocean has begun to show the intimate interaction between sea and
 air; an interaction which makes it probable that we shall be able to
-forecast the main variations in climate from year to year, as soon
+forecast the Indexer.main variations in climate from year to year, as soon
 as we have a sufficiently large material in the shape of soundings.
 
 In order to provide new oceanographical material by modern methods,
@@ -10250,12 +10250,12 @@ closes the valves, so that the tube is filled with a hermetically
 enclosed sample of water. These water samples were put into small
 bottles, which were afterwards sent to Bergen, where the salinity of
 each sample was determined. On the first cruise, in June and July,
-1910, the observations on board were carried out by Mr. Adolf Schröer,
+1910, the observations on board were carried out by Mr. Adolf Schrï¿½er,
 besides the permanent members of the expedition. The observations
 in the South Atlantic in the following year were for the most part
 carried out by Lieutenant Gjertsen and Kutschin.
 
-The Atlantic Ocean is traversed by a series of main currents, which
+The Atlantic Ocean is traversed by a series of Indexer.main currents, which
 are of great importance on account of their powerful influence
 on the physical conditions of the surrounding regions of sea and
 atmosphere. By its oceanographical investigations in 1910 and 1911
@@ -10266,8 +10266,8 @@ Atlantic in 1911.
 
 Investigations in the North Atlantic in June and July, 1910.
 
-The waters of the Northern Atlantic Ocean, to the north of lats. 80°
-and 40° N., are to a great extent in drifting motion north-eastward
+The waters of the Northern Atlantic Ocean, to the north of lats. 80ï¿½
+and 40ï¿½ N., are to a great extent in drifting motion north-eastward
 and eastward from the American to the European side. This drift is
 what is popularly called the Gulf Stream. To the west of the Bay
 of Biscay the eastward flow of water divides into two branches, one
@@ -10334,13 +10334,13 @@ material for comparison.
 
 After sailing from Norway over the North Sea, the Fram passed through
 the English Channel in June, 1910, and the first station was taken on
-June 20, to the south of Ireland, in lat. 50° 50' N. and long. 10°
+June 20, to the south of Ireland, in lat. 50ï¿½ 50' N. and long. 10ï¿½
 15' W., after which thirteen stations were taken to the westward,
-to lat. 58° 16' N. and long. 17° 50' W., where the ship was on June
-27. Her course then went in a northerly direction to lat. 57° 59'
-N. and long. 15° 8' W., from which point a section of eleven stations
+to lat. 58ï¿½ 16' N. and long. 17ï¿½ 50' W., where the ship was on June
+27. Her course then went in a northerly direction to lat. 57ï¿½ 59'
+N. and long. 15ï¿½ 8' W., from which point a section of eleven stations
 (Nos. 15 -- 25) was made straight across the Gulf Stream to the bank
-on the north of Scotland, in lat. 59° 88' N. and long. 4° 44' W. The
+on the north of Scotland, in lat. 59ï¿½ 88' N. and long. 4ï¿½ 44' W. The
 voyage and the stations are represented in Fig. 2. Temperatures and
 samples of water were taken at all the twenty-four stations at the
 following depths: surface, 5, 10, 20, 30, 40, 50, 75, 100, 150, 200,
@@ -10364,7 +10364,7 @@ of the Michael Sars's stations.]
 In both parts of this section there are, as shown in Fig. 3, two great
 volumes of water, from the surface down to depths greater than 500
 metres, which have salinities between 35.4 and 35.5 per mille. They
-have also comparatively high temperatures; the isotherm for 10°
+have also comparatively high temperatures; the isotherm for 10ï¿½
 C. goes down to a depth of about 500 metres in both these parts.
 
 It is obvious that both these comparatively salt and warm volumes
@@ -10381,7 +10381,7 @@ British Isles -- where a corresponding volume of water, with a somewhat
 lower salinity, is found again in the section which was taken a few
 weeks later by the  Frithjof from Ireland to the west-north-west
 across the Rockall Bank. This volume of water has a special interest
-for us, since, as will be mentioned later, it forms the main part
+for us, since, as will be mentioned later, it forms the Indexer.main part
 of that arm of the Gulf Stream which enters the Norwegian Sea, but
 which is gradually cooled on its way and mixed with fresher water,
 so that its salinity is constantly decreasing. This fresher water
@@ -10454,29 +10454,29 @@ one, since in the course of their slow northward movement the waters
 are cooled, especially by the vertical circulation in winter already
 mentioned, and are mixed with water containing less salt, especially
 precipitated water. While in the southern section the isotherm for
-10° C. went down to 500 metres, it here lies at a depth of between
+10ï¿½ C. went down to 500 metres, it here lies at a depth of between
 50 and 25 metres. In the comparatively short distance between the two
-sections, the whole volume of water has been cooled between 1° and 2°
+sections, the whole volume of water has been cooled between 1ï¿½ and 2ï¿½
 C. This represents a great quantity of warmth, and it is chiefly given
 off to the air, which is thus warmed over a great area. Water contains
 more than 3,000 times as much warmth as the same volume of air at the
-same temperature. For example, if 1 cubic metre of water is cooled 1°,
+same temperature. For example, if 1 cubic metre of water is cooled 1ï¿½,
 and the whole quantity of warmth thus taken from the water is given
 
 [Fig. 4. -- Temperature and Salinity in the "Fram's" Northern Section,
 July 1910]
 
 to the air, it is sufficient to warm more than 3,000 cubic metres of
-air 1°, when subjected to the pressure of one atmosphere. In other
-words, if the surface water of a region of the sea is cooled 1° to a
+air 1ï¿½, when subjected to the pressure of one atmosphere. In other
+words, if the surface water of a region of the sea is cooled 1ï¿½ to a
 depth of 1 metre, the quantity of warmth thus taken from the sea is
-sufficient to warm the air of the same region 1° up to a height of much
+sufficient to warm the air of the same region 1ï¿½ up to a height of much
 more than 3,000 metres, since at high altitudes the air is subjected
 to less pressure, and consequently a cubic metre there contains
 less air than at the sea-level. But it is not a depth of 1 metre of
-the Gulf Stream that has been cooled 1° between these two sections;
+the Gulf Stream that has been cooled 1ï¿½ between these two sections;
 it is a depth of about 500 metres or more, and it has been cooled
-between 1° and 2° C. It will thus be easily understood that this loss
+between 1ï¿½ and 2ï¿½ C. It will thus be easily understood that this loss
 of warmth from the Gulf Stream must have a profound influence on the
 temperature of the air over a wide area; we see how it comes about
 that warm currents like this are capable of rendering the climate
@@ -10500,7 +10500,7 @@ quite so warm as on the east. From the Frithjof section, a little
 farther south, it appears that this western volume of Gulf Stream
 water is comparatively small. The investigations of the Fram and the
 Frithjof show that the part of the Gulf Stream which penetrates into
-the Norwegian Sea comes in the main through the Rockall Channel,
+the Norwegian Sea comes in the Indexer.main through the Rockall Channel,
 between the Rockall Bank and the bank to the west of the British
 Isles; its width in this region is thus considerably less than was
 usually supposed. Evidently this is largely due to the influence of
@@ -10542,17 +10542,17 @@ Atlantic by all previous expeditions put together.
 
 When the Fram left Buenos Aires in June, 1911, the expedition went
 eastward through the Brazil Current. The first station was taken
-in lat. 36° 18' S. and long. 43° 15' W.; this was on June 17. Her
-course was then north-east or east until Station 32 in lat. 20° 30'
-S. and long. 8° 10' E.; this station lay in the Benguela Current,
+in lat. 36ï¿½ 18' S. and long. 43ï¿½ 15' W.; this was on June 17. Her
+course was then north-east or east until Station 32 in lat. 20ï¿½ 30'
+S. and long. 8ï¿½ 10' E.; this station lay in the Benguela Current,
 about 800 miles from the coast of Africa, and it was taken on July
 22. From there she went in a gentle curve
 
 [Fig. 5 and caption]
 
 past St. Helena and Trinidad back to America. The last station (No. 60)
-was taken on August 19 in the Brazil Current in lat. 24° 39' S. and
-about long. 40° W.; this station lay about 200 miles south-east of
+was taken on August 19 in the Brazil Current in lat. 24ï¿½ 39' S. and
+about long. 40ï¿½ W.; this station lay about 200 miles south-east of
 Rio de Janeiro.
 
 There was an average distance of 100 nautical miles between one station
@@ -10581,8 +10581,8 @@ the Benguela Current, flowing from south to north; on the American
 side the Brazil Current flows from the tropics southward. The former
 current is therefore comparatively cold and the latter comparatively
 warm. This is clearly seen on the chart, which shows the distribution
-of temperatures and salinities on the surface. In lat. 20° S. it
-was only about 17° C. off the African coast, while it was about 23°
+of temperatures and salinities on the surface. In lat. 20ï¿½ S. it
+was only about 17ï¿½ C. off the African coast, while it was about 23ï¿½
 C. off the coast of Brazil.
 
 The salinity depends on the relation between evaporation and the
@@ -10636,9 +10636,9 @@ Between the two long lines of section there is a distance of
 between ten and fifteen degrees of latitude. There is, therefore,
 a considerable difference in temperature. In the southern section
 the average surface temperature at Stations 1 to 26 (June 17 to
-July 17) was 17.9° C.; in the northern section at Stations 36 to 60
-(July 26 to August 19) it was 21.6° C. There was thus a difference
-of 3.7° C. If all the stations had been taken simultaneously, the
+July 17) was 17.9ï¿½ C.; in the northern section at Stations 36 to 60
+(July 26 to August 19) it was 21.6ï¿½ C. There was thus a difference
+of 3.7ï¿½ C. If all the stations had been taken simultaneously, the
 difference would have been somewhat greater; the northern section
 was, of course, taken later in the winter, and the temperatures were
 therefore proportionally lower than in the southern section. The
@@ -10666,14 +10666,14 @@ soundings, but are much more detailed.
 The chart shows clearly that it is much warmer at 400 metres (218
 fathoms) in the central part of the South Atlantic than either farther
 north -- nearer the Equator -- or farther south. On the Equator
-there is a fairly large area where the temperature is only 7° or 8°
-C. at 400 metres, whereas in lats. 2O° to 30° S. there are large
-regions where it is above 12° C.; sometimes above 13° C., or even
-14°C. South of lat. 30° S. the temperature decreases again rapidly;
-in the chart no lines are drawn for temperatures below 8° C., as we
+there is a fairly large area where the temperature is only 7ï¿½ or 8ï¿½
+C. at 400 metres, whereas in lats. 2Oï¿½ to 30ï¿½ S. there are large
+regions where it is above 12ï¿½ C.; sometimes above 13ï¿½ C., or even
+14ï¿½C. South of lat. 30ï¿½ S. the temperature decreases again rapidly;
+in the chart no lines are drawn for temperatures below 8ï¿½ C., as we
 have not sufficient observations to show the course of these lines
 properly. But we know that the temperature at 400 metres sinks to
-about 0° C. in the Antarctic Ocean.
+about 0ï¿½ C. in the Antarctic Ocean.
 
 [Fig. 8]
 
@@ -10711,26 +10711,26 @@ in any case, very few tenths of a degree.
 
 It is known from previous investigations in the South Atlantic, that
 the waters at the greatest depths, several thousand metres below the
-surface, have a temperature of between 0° and 3° C. Along the whole
+surface, have a temperature of between 0ï¿½ and 3ï¿½ C. Along the whole
 Atlantic, from the extreme north (near Iceland) to the extreme south,
 there runs a ridge about half-way between Europe and Africa on the
 one side, and the two American continents on the other. A little
 to the north of the Equator there is a slight elevation across the
 ocean floor between South America and Africa. Farther south (between
-lats. 25° and 35° S.) another irregular ridge runs across between these
+lats. 25ï¿½ and 35ï¿½ S.) another irregular ridge runs across between these
 continents. We therefore have four deep regions in the South Atlantic,
 two on the west (the Brazilian Deep and the Argentine Deep) and two
 on the east (the West African Deep and the South African Deep). Now
 it has been found that the "bottom water" in these great deeps -- the
 bottom lies more than 5,000 metres (2,725 fathoms) below the surface --
 is not always the same. In the two western deeps, off South America,
-the temperature is only a little above 0° C. We find about the same
+the temperature is only a little above 0ï¿½ C. We find about the same
 temperatures in the South African Deep, and farther eastward in a
 belt that is continued round the whole earth. To the south, between
 this belt and Antarctica, the temperature of the great deeps is much
-lower, below 0° C. But in the West African Deep the temperature is
-about 2° C. higher; we find there the same temperatures of between 2°
-and 2.5° C. as are found everywhere in the deepest parts of the North
+lower, below 0ï¿½ C. But in the West African Deep the temperature is
+about 2ï¿½ C. higher; we find there the same temperatures of between 2ï¿½
+and 2.5ï¿½ C. as are found everywhere in the deepest parts of the North
 Atlantic. The explanation of this must be that the bottom water in
 the western part of the South Atlantic comes from the south, while
 in the north-eastern part it comes from the north. This is connected
@@ -10751,8 +10751,8 @@ surface than the Brazil Current. The same thing is found in those parts
 of the currents that lie below the surface. This is clearly shown in
 Fig. 9, which gives the distribution of temperature at Station 32 in
 the Benguela Current, and at Station 60 in the Brazil Current; at the
-various depths down to 500 metres (272.5 fathoms) it was between 5°
-and 7° C. colder in the former than in the latter. Deeper down the
+various depths down to 500 metres (272.5 fathoms) it was between 5ï¿½
+and 7ï¿½ C. colder in the former than in the latter. Deeper down the
 difference becomes less, and at 1,000 metres (545 fathoms) there was
 only a difference of one or two tenths of a degree.
 
@@ -10772,7 +10772,7 @@ metres. Below the two currents the conditions are fairly homogeneous,
 and there is no difference worth mentioning in the salinities.
 
 The conditions between the surface and a depth of 1,000 metres along
-the two main lines of course are clearly shown in the two sections
+the two Indexer.main lines of course are clearly shown in the two sections
 (Figs. 11 and l2). In these the isotherms for every second degree are
 drawn in broken lines. Lines connecting points with the same salinity
 (isohalins) are drawn unbroken, and, in addition, salinities above
@@ -10790,8 +10790,8 @@ of about 100 metres at each station; the decrease of temperature and
 salinity as the depth increases; the high values both of temperature
 and salinity in the western part as compared with the eastern. We
 see from the sections how nearly the isotherms and isohalins follow
-each other. Thus, where the temperature is 12° C., the water almost
-invariably has a salinity very near 35 per mille. This water at 12°
+each other. Thus, where the temperature is 12ï¿½ C., the water almost
+invariably has a salinity very near 35 per mille. This water at 12ï¿½
 C., with a salinity of 35 per mille, is found in the western part
 of the area (in the Brazil Current) at a depth of 500 to 600 metres,
 but in the eastern part (in the Benguela Current) no deeper than 200
@@ -10802,7 +10802,7 @@ that the isotherms and isohalins often have an undulating course,
 since the conditions at one station may be different from those at the
 neighbouring stations. To point to one or two examples: at Station 19
 the water a few hundred metres down was comparatively warm; it was,
-for instance, 12° C. at about 470 metres (256 fathoms) at this station;
+for instance, 12ï¿½ C. at about 470 metres (256 fathoms) at this station;
 while the same temperature was found at about 340 metres (185 fathoms)
 at both the neighbouring stations, 18 and 20. At Station 2 it was
 relatively cold, as cold as it was a few hundred metres deeper down
@@ -10852,7 +10852,7 @@ for instance, by wind. The periodical variations caused by the tides
 will hardly be an adequate explanation of what happens here, although
 during Murray and Hjort's Atlantic Expedition in the Michael Sars (in
 1910), and recently during Nansen's voyage to the Arctic Ocean in the
-Veslemöy (in 1912), the existence of tidal currents in the open ocean
+Veslemï¿½y (in 1912), the existence of tidal currents in the open ocean
 was proved. It may be hoped that the further examination of the Fram
 material will make these matters clearer. But however this may be, it
 is interesting to establish the fact that in so great and deep an ocean
@@ -10885,18 +10885,18 @@ the Fram's investigations were made. And if we are to judge from the
 general appearance of the station curves, and from the form they
 usually assume in summer in these regions, we shall arrive at the
 conclusion that the whole volume of water from the surface down to
-a depth of 100 metres must be cooled on an average about 2° C.
+a depth of 100 metres must be cooled on an average about 2ï¿½ C.
 
 As already pointed out, a simple calculation gives the following:
-if a cubic metre of water is cooled 1° C., and the whole quantity
+if a cubic metre of water is cooled 1ï¿½ C., and the whole quantity
 of warmth thus taken from the water is given to the air, it will be
-sufficient to warm more than 3,000 cubic metres of air 1° C. A few
+sufficient to warm more than 3,000 cubic metres of air 1ï¿½ C. A few
 figures will give an impression of what this means. The region lying
-between lats. 15° and 35° S. and between South America and Africa --
+between lats. 15ï¿½ and 35ï¿½ S. and between South America and Africa --
 roughly speaking, the region investigated by the Fram Expedition --
 has an area of 13,000,000 square kilometres. We may now assume that
 this part of the ocean gave off so much warmth to the air that a
-zone of water 100 metres in depth was thereby cooled on an average 2°
+zone of water 100 metres in depth was thereby cooled on an average 2ï¿½
 C. This zone of water weighs about 1.5 trillion kilogrammes, and the
 quantity of warmth given off thus corresponds to about 2.5 trillion
 great calories.
@@ -10904,10 +10904,10 @@ great calories.
 It has been calculated that the whole atmosphere of the earth
 weighs 5.27 trillion kilogrammes, and it will require something
 over 1 trillion great calories to warm the whole of this mass of
-air 1°C. From this it follows that the quantity of warmth which,
+air 1ï¿½C. From this it follows that the quantity of warmth which,
 according to our calculation, is given off to the air from that part
-of the South Atlantic lying between lats. 15° and 35° S., will be
-sufficient to warm the whole atmosphere of the earth about 2° C., and
+of the South Atlantic lying between lats. 15ï¿½ and 35ï¿½ S., will be
+sufficient to warm the whole atmosphere of the earth about 2ï¿½ C., and
 this is only a comparatively small part of the ocean. These figures
 give one a powerful impression of the important part played by the
 sea in relation to the air. The sea stores up warmth when it absorbs
@@ -10949,13 +10949,13 @@ We can now make similar comparisons as regards the South Atlantic. In
 as was investigated by the Fram. The Challenger's Station 339 at the
 end of March, 1876, lies near the point where the Fram's Station 44
 was taken at the beginning of August, 1911. Both these stations lay in
-about lat. 17.5° S., approximately half-way between Africa and South
+about lat. 17.5ï¿½ S., approximately half-way between Africa and South
 America -- that is, in the region where a relatively slack current
 runs westward, to the south of the South Equatorial Current. We
 can note the difference in Fig. 13, which shows the distribution
 of temperature at the two stations. The Challenger's station was
 taken during the autumn and the Fram's during the winter. It was
-therefore over 3° C. warmer at the surface in March, 1876, than in
+therefore over 3ï¿½ C. warmer at the surface in March, 1876, than in
 August, 1911. The curve for the Challenger station shows the usual
 distribution of temperature immediately below the surface in summer;
 the temperature falls constantly from the surface downward. At the
@@ -10966,7 +10966,7 @@ the year 1911, the temperature curve for the Fram's station would
 have taken about the same form as the other curve; but it would have
 shown higher temperatures, as it does in the deeper zones, from 100
 metres down to about 500 metres. For we see that in these zones it
-was throughout 1° C. or so warmer in 1911 than in 1876; that is to
+was throughout 1ï¿½ C. or so warmer in 1911 than in 1876; that is to
 say, there was a much greater store of warmth in this part of the
 ocean in 1911 than in 1876. May not the result of this have been
 that the air in this region, and also in the east of South America
@@ -10997,7 +10997,7 @@ as if there may be considerable variations even in the deeper zones
 below 500 metres (272 fathoms). During the Valdivia Expedition in 1898
 a station (No. 82) was taken in the Benguela Current in the middle of
 October, not far from the point at which the Fram's Station 31 lay. The
-temperature curves from here show that it was much warmer (over 1.5°
+temperature curves from here show that it was much warmer (over 1.5ï¿½
 C.) in 1898 than in 1911 in the zones between 500 and 800 metres
 (272 and 486 fathoms). Probably the currents may vary considerably
 here. But in the upper waters of the Benguela Current itself, from the
@@ -11014,11 +11014,11 @@ taken (No. 25) not far from St. Helena and in the neighbourhood of the
 Fram's Station 39, at the end of July, 1911. Here, also, we find great
 variations; it was much warmer in 1911 than in 1906, apart from the
 winter cooling by vertical circulation of the sub-surface waters. At
-a depth of only 100 metres (54.5 fathoms) it was 2° C. warmer in 1911
-than in 1906; at 400 metres (218 fathoms) the difference was over 1°,
-and even at 800 metres (486 fathoms) it was about 0.75° C. warmer in
+a depth of only 100 metres (54.5 fathoms) it was 2ï¿½ C. warmer in 1911
+than in 1906; at 400 metres (218 fathoms) the difference was over 1ï¿½,
+and even at 800 metres (486 fathoms) it was about 0.75ï¿½ C. warmer in
 1911 than in 1906. At 1,000 metres (545 fathoms) the difference was
-only 0.3°.
+only 0.3ï¿½.
 
 From the Planet's station we also have problems of salinity,
 determined by modern methods. It appears that the salinities at the
@@ -11081,7 +11081,7 @@ NOTES
 
 [2] -- A vessel sailing continuously to the eastward puts the clock
 on every day, one hour for every fifteen degrees of longitude; one
-sailing westward puts it back in the same way. In long. 180° one
+sailing westward puts it back in the same way. In long. 180ï¿½ one
 of them has gone twelve hours forward, the other twelve hours back;
 the difference is thus twenty-four hours. In changing the longitude,
 therefore, one has to change the date, so that, in passing from east

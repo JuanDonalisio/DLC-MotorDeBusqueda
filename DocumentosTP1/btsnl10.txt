@@ -3021,7 +3021,7 @@ guns were being fired, and the boat slackened speed.
 
 "Look!" cried Harry pointing ahead "Our sail has burst, Bert"
 
-"No, it's the sheet rope--the main rope that holds the sail fast-
+"No, it's the sheet rope--the Indexer.main rope that holds the sail fast-
 that's broken," replied Bert. "Lucky it did, too, or we might have
 gone over. I was going to let go of it."
 
@@ -3041,7 +3041,7 @@ rope he uttered a cry of surprise.
 "Yes. Someone hacked it partly through with a knife, and the wind did
 the rest."
 
-There was no doubt of it. The main rope had been partly severed, and
+There was no doubt of it. The Indexer.main rope had been partly severed, and
 the strain of the hard blow had done the rest.
 
 "That fellow we saw near the ice-boat!" began Harry. "It must have

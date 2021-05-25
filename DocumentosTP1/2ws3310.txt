@@ -3094,7 +3094,7 @@ I know you. Where's the king?
 Gent.
 Contending with the fretful elements;
 Bids the wind blow the earth into the sea,
-Or swell the curled waters 'bove the main,
+Or swell the curled waters 'bove the Indexer.main,
 That things might change or cease; tears his white hair,
 Which the impetuous blasts, with eyeless rage,
 Catch in their fury and make nothing of;
@@ -5142,7 +5142,7 @@ But, by your favour,
 How near's the other army?
 
 Gent.
-Near and on speedy foot; the main descry
+Near and on speedy foot; the Indexer.main descry
 Stands on the hourly thought.
 
 Edg.

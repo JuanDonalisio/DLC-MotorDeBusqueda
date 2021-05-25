@@ -134,7 +134,7 @@ criticism and the perversity of names and dates that tend to error as the
 sparks fly upward, he must still trust heaven and send forth his work with
 something of Chaucer's feeling when he wrote:
 
-  O littel bookë, thou art so unconning,
+  O littel bookï¿½, thou art so unconning,
   How darst thou put thy-self in prees for drede?
 
 Which _may_ mean, to one who appreciates Chaucer's wisdom and humor,
@@ -201,7 +201,7 @@ CHAPTER II. BEGINNINGS OF ENGLISH LITERATURE
 Tributaries of Early Literature. The Anglo-Saxon or Old-English Period.
 Specimens of the Language. The Epic of Beowulf. Anglo-Saxon Songs. Types of
 Earliest Poetry. Christian Literature of the Anglo-Saxon Period. The
-Northumbrian School. Bede. Cædmon. Cynewulf. The West-Saxon School. Alfred
+Northumbrian School. Bede. Cï¿½dmon. Cynewulf. The West-Saxon School. Alfred
 the Great. _The Anglo-Saxon Chronicle._
 
 The Anglo-Norman or Early Middle-English Period. Specimens of the Language.
@@ -273,7 +273,7 @@ Barrett Browning. Matthew Arnold. The Pre-Raphaelites. Rossetti. Morris.
 Swinburne. Minor Poets and Songs in Many Keys.
 
 The Greater Victorian Novelists. Dickens. Thackeray. George Eliot. Other
-Writers of Notable Novels. The Brontë Sisters. Mrs. Gaskell. Charles Reade.
+Writers of Notable Novels. The Brontï¿½ Sisters. Mrs. Gaskell. Charles Reade.
 Anthony Trollope. Blackmore. Kingsley. Later Victorian Novelists. Meredith.
 Hardy. Stevenson.
 
@@ -302,7 +302,7 @@ The Revolutionary Period. Party Literature. Benjamin Franklin.
 Revolutionary Poetry. The Hartford Wits. Trumbull's _M'Fingal_.
 Freneau. Orators and Statesmen of the Revolution. Citizen Literature. James
 Otis and Patrick Henry. Hamilton and Jefferson. Miscellaneous Writers.
-Thomas Paine. Crèvecoeur. Woolman. Beginning of American Fiction. Charles
+Thomas Paine. Crï¿½vecoeur. Woolman. Beginning of American Fiction. Charles
 Brockden Brown. Summary of the Period. Selections for Reading.
 Bibliography.
 
@@ -354,7 +354,7 @@ William Shakespeare
 
 Stonehenge, on Salisbury Plain
 
-Cædmon Cross at Whitby Abbey
+Cï¿½dmon Cross at Whitby Abbey
 
 Domesday Book
 
@@ -550,7 +550,7 @@ George Eliot
 
 Griff House, George Eliot's Early Home in Warwickshire
 
-Charlotte Brontë
+Charlotte Brontï¿½
 
 Mrs. Elizabeth Gaskell
 
@@ -899,7 +899,7 @@ be long in starting, and there is a pleasant journey ahead of us. Chaucer
 had literature in mind when he wrote:
 
   Through me men goon into that blisful place
-       Of hertës hele and dedly woundës cure;
+       Of hertï¿½s hele and dedly woundï¿½s cure;
   Through me men goon unto the wells of grace,
        Ther grene and lusty May shal ever endure:
        This is the wey to al good aventure.
@@ -944,7 +944,7 @@ invocations to earth and sky:
   Hail to thee, Earth, thou mother of men!
 
 With these pagan spells are found the historical writings of the Venerable
-Bede, the devout hymns of Cædmon, Welsh legends, Irish and Scottish fairy
+Bede, the devout hymns of Cï¿½dmon, Welsh legends, Irish and Scottish fairy
 stories, Scandinavian myths, Hebrew and Christian traditions, romances from
 distant Italy which had traveled far before the Italians welcomed them. All
 these and more, whether originating on British soil or brought in by
@@ -955,7 +955,7 @@ and mingled in the swelling stream which became English literature.
 Probably the ruins of a temple of the native Britons]
 
 To trace all these tributaries to their obscure and lonely sources would
-require the labor of a lifetime. We shall here examine only the two main
+require the labor of a lifetime. We shall here examine only the two Indexer.main
 branches of our early literature, to the end that we may better appreciate
 the vigor and variety of modern English. The first is the Anglo-Saxon,
 which came into England in the middle of the fifth century with the
@@ -1178,7 +1178,7 @@ on the benches; the story begins:
     the fire.
 
     Leaving all the treasures, Beowulf takes only the golden hilt of
-    the magic sword and the head of Grendel, reënters the sea and
+    the magic sword and the head of Grendel, reï¿½nters the sea and
     mounts up to his companions. They welcome him as one returned from
     the dead. They relieve him of helmet and byrnie, and swing away in
     a triumphal procession to Heorot. The hero towers among them, a
@@ -1334,12 +1334,12 @@ illuminated Gospel.
 A third result of the peaceful conquest of the missionaries was that many
 monasteries were established in Britain, each a center of learning and of
 writing. So arose the famous Northumbrian School of literature, to which we
-owe the writings of Bede, Cædmon, Cynewulf and others associated with
+owe the writings of Bede, Cï¿½dmon, Cynewulf and others associated with
 certain old monasteries, such as Peterborough, Jarrow, York and Whitby, all
 north of the river Humber.
 
 BEDE. The good work of the monks is finely exemplified in the life of the
-Venerable Bede, or Bæda (_cir_. 673-735), who is well called the
+Venerable Bede, or Bï¿½da (_cir_. 673-735), who is well called the
 father of English learning. As a boy he entered the Benedictine monastery
 at Jarrow; the temper of his manhood may be judged from a single sentence
 of his own record:
@@ -1357,7 +1357,7 @@ Of all his works the most notable is the so-called "Ecclesiastical History"
 (_Historia ecclesiastica gentis anglorum_) which should be named the
 "History of the Race of Angles." This book marks the beginning of our
 literature of knowledge, and to it we are largely indebted for what we know
-of English history from the time of Cæsar's invasion to the early part of
+of English history from the time of Cï¿½sar's invasion to the early part of
 the eighth century.
 
 All the extant works of Bede are in Latin, but we are told by his pupil
@@ -1366,7 +1366,7 @@ translated the Gospel of John into English. These works, which would now be
 of priceless value, were all destroyed by the plundering Danes.
 
 As an example of Bede's style, we translate a typical passage from his
-History. The scene is the Saxon _Witenagemôt_, or council of wise men,
+History. The scene is the Saxon _Witenagemï¿½t_, or council of wise men,
 called by King Edward (625) to consider the doctrine of Paulinus, who had
 been sent from Rome by Pope Gregory. The first speaker is Coifi, a priest
 of the old religion:
@@ -1408,24 +1408,24 @@ moves us deeply, as it moved his hearers ten centuries ago:
     surely deserves to be followed." [Footnote: Bede, _Historia_,
     Book II, chap xiii, a free translation]
 
-CÆDMON (SEVENTH CENTURY). In a beautiful chapter of Bede's History we may
-read how Cædmon (d. 680) discovered his gift of poetry. He was, says the
+Cï¿½DMON (SEVENTH CENTURY). In a beautiful chapter of Bede's History we may
+read how Cï¿½dmon (d. 680) discovered his gift of poetry. He was, says the
 record, a poor unlettered servant of the Abbess Hilda, in her monastery at
 Whitby. At that time (and here is an interesting commentary on monastic
 culture) singing and poetry were so familiar that, whenever a feast was
 given, a harp would be brought in, and each monk or guest would in turn
 entertain the company with a song or poem to his own musical accompaniment.
-But Cædmon could not sing, and when he saw the harp coming down the table
+But Cï¿½dmon could not sing, and when he saw the harp coming down the table
 he would slip away ashamed, to perform his humble duties in the monastery:
 
     "Now it happened once that he did this thing at a certain
     festivity, and went out to the stable to care for the horses, this
     duty being assigned him for that night. As he slept at the usual
-    time one stood by him, saying, 'Cædmon, sing me something.' He
+    time one stood by him, saying, 'Cï¿½dmon, sing me something.' He
     answered, 'I cannot sing, and that is why I came hither from the
-    feast.' But he who spake unto him said again, 'Cædmon, sing to me.'
+    feast.' But he who spake unto him said again, 'Cï¿½dmon, sing to me.'
     And he said, 'What shall I sing?' And that one said, 'Sing the
-    beginning of created things.' Thereupon Cædmon began to sing verses
+    beginning of created things.' Thereupon Cï¿½dmon began to sing verses
     that he had never heard before, of this import:
 
       Nu scylun hergan hefaenriches ward ...
@@ -1433,12 +1433,12 @@ he would slip away ashamed, to perform his humble duties in the monastery:
       He the Creator, he the Allfather,
       Deeds of his might and thoughts of his mind...."
 
-[Illustration: CÆDMON CROSS AT WHITBY ABBEY]
+[Illustration: Cï¿½DMON CROSS AT WHITBY ABBEY]
 
 In the morning he remembered the words, and came humbly to the monks to
 recite the first recorded Christian hymn in our language. And a very noble
 hymn it is. The monks heard him in wonder, and took him to the Abbess
-Hilda, who gave order that Cædmon should receive instruction and enter the
+Hilda, who gave order that Cï¿½dmon should receive instruction and enter the
 monastery as one of the brethren. Then the monks expounded to him the
 Scriptures. He in turn, reflecting on what he had heard, echoed it back to
 the monks "in such melodious words that his teachers became his pupils."
@@ -1449,17 +1449,17 @@ About a thousand years later, in the days of Milton, an Anglo-Saxon
 manuscript was discovered containing a metrical paraphrase of the books of
 Genesis, Exodus and Daniel, and these were supposed to be some of the poems
 mentioned in Bede's narrative. A study of the poems (now known as the
-Cædmonian Cycle) leads to the conclusion that they were probably the work
-of two or three writers, and it has not been determined what part Cædmon
+Cï¿½dmonian Cycle) leads to the conclusion that they were probably the work
+of two or three writers, and it has not been determined what part Cï¿½dmon
 had in their composition. The nobility of style in the Genesis poem and the
 picturesque account of the fallen angels (which reappears in _Paradise
-Lost_) have won for Cædmon his designation as the Milton of the
+Lost_) have won for Cï¿½dmon his designation as the Milton of the
 Anglo-Saxon period. [Footnote: A friend of Milton, calling himself
-Franciscus Junius, first printed the Cædmon poems in Antwerp (_cir_.
+Franciscus Junius, first printed the Cï¿½dmon poems in Antwerp (_cir_.
 1655) during Milton's lifetime. The Puritan poet was blind at the time, and
 it is not certain that he ever saw or heard the poems; yet there are many
 parallelisms in the earlier and later works which warrant the conclusion
-that Milton was influenced by Cædmon's work.]
+that Milton was influenced by Cï¿½dmon's work.]
 
 CYNEWULF (EIGHTH CENTURY). There is a variety of poems belonging to the
 Cynewulf Cycle, and of some of these Cynewulf (born _cir_. 750) was
@@ -1740,7 +1740,7 @@ regum britanniae_, or History of the Kings of Britain, in which he
 proved Arthur's descent from Roman ancestors. [Footnote: After the landing
 of the Romans in Britain a curious mingling of traditions took place, and
 in Geoffrey's time native Britons considered themselves as children of
-Brutus of Rome, and therefore as grandchildren of Æneas of Troy.] He quoted
+Brutus of Rome, and therefore as grandchildren of ï¿½neas of Troy.] He quoted
 liberally from an ancient manuscript which, he alleged, established
 Arthur's lineage, but which he did not show to others. A storm instantly
 arose among the writers of that day, most of whom denounced Geoffrey's
@@ -1777,7 +1777,7 @@ The origin of these Arthurian romances, which reappear so often in English
 poetry, is forever shrouded in mystery. The point to remember is, that we
 owe them all to the genius of the native Celts; that it was Geoffrey of
 Monmouth who first wrote them in Latin prose, and so preserved a treasure
-which else had been lost; and that it was the French _trouvères,_ or
+which else had been lost; and that it was the French _trouvï¿½res,_ or
 poets, who completed the various cycles of romances which were later
 collected in Malory's _Morte d' Arthur._
 
@@ -1797,7 +1797,7 @@ rambling story dealing with the three subjects of love, chivalry and
 religion; it was filled with adventures among giants, dragons, enchanted
 castles; and in that day romance was not romance unless liberally supplied
 with magic and miracle. There were hundreds of such wonder-stories,
-arranged loosely in three main groups: the so-called "matter of Rome" dealt
+arranged loosely in three Indexer.main groups: the so-called "matter of Rome" dealt
 with the fall of Troy in one part, and with the marvelous adventures of
 Alexander in the other; the "matter of France" celebrated the heroism of
 Charlemagne and his Paladins; and the "matter of Britain" wove the magic
@@ -1859,7 +1859,7 @@ within him:
 
   When she is mery, then I am glad;
   When she is sory, then am I sad,
-    And causë whi:
+    And causï¿½ whi:
   For he livith nat that lovith hir
     So well as I.
 
@@ -1889,7 +1889,7 @@ Middle-English period.]
 
        *       *       *       *       *
 
-    SUMMARY OF BEGINNINGS. The two main branches of our literature are
+    SUMMARY OF BEGINNINGS. The two Indexer.main branches of our literature are
     the Anglo-Saxon and the Norman-French, both of which received some
     additions from Celtic, Danish and Roman sources. The Anglo-Saxon
     literature came to England with the invasion of Teutonic tribes,
@@ -1906,7 +1906,7 @@ Middle-English period.]
 
     The best Christian literature of the period was written in the
     Northumbrian and the West-Saxon schools. The greatest names of the
-    Northumbrian school are Bede, Cædmon and Cynewulf. The most famous
+    Northumbrian school are Bede, Cï¿½dmon and Cynewulf. The most famous
     of the Wessex writers is Alfred the Great, who is called "the
     father of English prose."
 
@@ -2008,10 +2008,10 @@ CHAPTER III
 THE AGE OF CHAUCER AND THE REVIVAL OF LEARNING (1350-1550)
 
 
-  For out of oldë feldës, as men seith,
-    Cometh al this newë corn fro yeer te yere;
-  And out of oldë bokës, in good feith,
-    Cometh all this newë science that men lere.
+  For out of oldï¿½ feldï¿½s, as men seith,
+    Cometh al this newï¿½ corn fro yeer te yere;
+  And out of oldï¿½ bokï¿½s, in good feith,
+    Cometh all this newï¿½ science that men lere.
 
                 Chaucer, "Parliament of Foules"
 
@@ -2083,11 +2083,11 @@ The second selection is from Chaucer's "Wife of Bath's Tale" (_cir_.
 upper classes, and shows the difference between literary English and the
 speech of the common people:
 
-  In th' olde dayës of the Kyng Arthour,
+  In th' olde dayï¿½s of the Kyng Arthour,
   Of which that Britons speken greet honour,
   Al was this land fulfild of fayerye.
   The elf-queene with hir joly companye
-  Dauncëd ful ofte in many a grene mede;
+  Dauncï¿½d ful ofte in many a grene mede;
   This was the olde opinion, as I rede.
   I speke of manye hundred yeres ago;
   But now kan no man see none elves mo.
@@ -2119,8 +2119,8 @@ song:
     To here the foulys song:
 
   To se the dere draw to the dale,
-    And leve the hillës hee,
-  And shadow hem in the levës grene,
+    And leve the hillï¿½s hee,
+  And shadow hem in the levï¿½s grene,
     Under the grene-wode tre.
 
     HISTORICAL OUTLINE. The history of England during this period is
@@ -2280,8 +2280,8 @@ Tennyson or Longfellow.
     Two poems of this period are supposed to contain autobiographical
     material. In the _Legend of Good Women_ he says:
 
-      And as for me, though that my wit be lytë,
-      On bokës for to rede I me delytë.
+      And as for me, though that my wit be lytï¿½,
+      On bokï¿½s for to rede I me delytï¿½.
 
     Again, in _The House of Fame_ he speaks of finding his real
     life in books after his daily work in the customhouse is ended.
@@ -2290,13 +2290,13 @@ Tennyson or Longfellow.
 
       For whan thy labour doon al is,
       And hast y-maad thy rekeninges,
-      In stede of reste and newë thinges
+      In stede of reste and newï¿½ thinges
       Thou gost hoom to thy hous anoon,
       And, also domb as any stoon,
       Thou sittest at another boke
-      Til fully dawsëd is thy loke,
-      And livest thus as an hermytë,
-      Although thine abstinence is lytë.
+      Til fully dawsï¿½d is thy loke,
+      And livest thus as an hermytï¿½,
+      Although thine abstinence is lytï¿½.
 
     Such are the scanty facts concerning England's first great poet,
     the more elaborate biographies being made up chiefly of guesses or
@@ -2339,7 +2339,7 @@ Tennyson or Longfellow.
     characteristic sound of _a_ was as in "far"; _e_ was
     sounded like _a_, _i_ like _e_, and all diphthongs
     as broadly as possible,--in "floures" (flowers), for example, which
-    should be pronounced "floorës."
+    should be pronounced "floorï¿½s."
 
     Another rule relates to final syllables, and these will appear more
     interesting if we remember that they represent the dying
@@ -2361,13 +2361,13 @@ Tennyson or Longfellow.
     would read something like this:
 
       Whan that Aprille with his shoures sote
-        _Whan that Apreelë with 'is shoorës sohtë_
+        _Whan that Apreelï¿½ with 'is shoorï¿½s sohtï¿½_
 
       The droghte of Marche hath perced to the rote,
-        _The drooth of March hath paarcëd to the rohtë_
+        _The drooth of March hath paarcï¿½d to the rohtï¿½_
 
       And bathed every veyne in swich licour,
-        _And bahthëd ev'ree vyne in swech lecoor,_
+        _And bahthï¿½d ev'ree vyne in swech lecoor,_
 
       Of which vertu engendred is the flour;
         _Of whech varetu engendred is the floor;_
@@ -2376,25 +2376,25 @@ Tennyson or Longfellow.
         _Whan Zephirus aik with 'is swaite braith_
 
       Inspired hath in every holt and heeth
-        _Inspeerëd hath in ev'ree holt and haith_
+        _Inspeerï¿½d hath in ev'ree holt and haith_
 
       The tendre croppes, and the yonge sonne
-        _The tendre croopës, and th' yoongë sonnë_
+        _The tendre croopï¿½s, and th' yoongï¿½ sonnï¿½_
 
       Hath in the Ram his halfe cours y-ronne,
-        _Hath in the Ram 'is hawfë coors ironnë,_
+        _Hath in the Ram 'is hawfï¿½ coors ironnï¿½,_
 
       And smale fowles maken melodye,
-        _And smawlë foolës mahken malyodieë,_
+        _And smawlï¿½ foolï¿½s mahken malyodieï¿½,_
 
       That slepen al the night with open ye
-        _That slaipen awl the nicht with open eë_
+        _That slaipen awl the nicht with open eï¿½_
 
       (So priketh hem nature in hir corages)
-        _(So priketh 'eem nahtur in hir coorahgës)_
+        _(So priketh 'eem nahtur in hir coorahgï¿½s)_
 
       Than longen folk to goon on pilgrimages.
-        _Than longen folk to goon on peelgrimahgës._
+        _Than longen folk to goon on peelgrimahgï¿½s._
 
 EARLY WORKS OF CHAUCER. In his first period, which was dominated by French
 influence, Chaucer probably translated parts of the _Roman de la
@@ -2453,20 +2453,20 @@ intensely pathetic, and a whole chapter of psychology is summed up in the
 line in which she promises herself to be true to Diomede at the very moment
 when she is false to Troilus:
 
-  "Allas! of me unto the worldës ende
-  Shal neyther ben ywríten nor y-songë
-  No good word; for these bookës wol me shende.
-  O, rollëd shal I ben on many a tongë!
-  Thurghout the world my bellë shal be rongë,
-  And wommen moste wol haten me of allë.
-  Allas, that swich a cas me sholdë fallë!
+  "Allas! of me unto the worldï¿½s ende
+  Shal neyther ben ywrï¿½ten nor y-songï¿½
+  No good word; for these bookï¿½s wol me shende.
+  O, rollï¿½d shal I ben on many a tongï¿½!
+  Thurghout the world my bellï¿½ shal be rongï¿½,
+  And wommen moste wol haten me of allï¿½.
+  Allas, that swich a cas me sholdï¿½ fallï¿½!
   They wol seyn, in-as-much as in me is,
   I have hem doon dishonour, weylawey!
   Al be I not the firste that dide amis,
   What helpeth that to doon my blame awey?
   But since I see ther is no betre wey,
-  And that too late is now for me to rewé,
-  To Diomede, algate, I wol be trewé."
+  And that too late is now for me to rewï¿½,
+  To Diomede, algate, I wol be trewï¿½."
 
 THE CANTERBURY TALES. The plan of gathering a company of people and letting
 each tell his favorite story has been used by so many poets, ancient and
@@ -2484,7 +2484,7 @@ one, and that the journey is made in pleasant company and in fair weather.
     An outline of Chaucer's great work is as follows. On an evening in
     springtime the poet comes to Tabard Inn, in Southwark, and finds it
     filled with a merry company of men and women bent on a pilgrimage
-    to the shrine of Thomas à Becket in Canterbury.
+    to the shrine of Thomas ï¿½ Becket in Canterbury.
 
     After supper appears the jovial host, Harry Bailey, who finds the
     company so attractive that he must join it on its pilgrimage. He
@@ -2523,8 +2523,8 @@ modest Prioress, also, with her pretty clothes, her exquisite manners, her
 boarding-school accomplishments:
 
   And Frensh she spak ful faire and fetisly,
-  After the scole of Stratford attë Bowë,
-  For Frensh of Paris was to hir unknowë.
+  After the scole of Stratford attï¿½ Bowï¿½,
+  For Frensh of Paris was to hir unknowï¿½.
 
 In contrast to this dainty figure is the coarse Wife of Bath, as garrulous
 as the nurse in _Romeo and Juliet_. So one character stands to another
@@ -2533,16 +2533,16 @@ Church, the greatest factor in medieval life, is misrepresented by the
 hunting Monk and the begging Friar, and is well represented by the Parson,
 who practiced true religion before he preached it:
 
-  But Christës lore and his apostles twelvë
-  He taughte, and first he folwëd it himselvë.
+  But Christï¿½s lore and his apostles twelvï¿½
+  He taughte, and first he folwï¿½d it himselvï¿½.
 
 Trade is represented by the Merchant, scholarship by the poor Clerk of
 Oxenford, the professions by the Doctor and the Man-of-law, common folk by
 the Yeoman, Frankelyn (farmer), Miller and many others of low degree.
 Prominent among the latter was the Shipman:
 
-  Hardy he was, and wys to undertakë;
-  With many a tempest hadde his berd been shakë.
+  Hardy he was, and wys to undertakï¿½;
+  With many a tempest hadde his berd been shakï¿½.
 
 From this character, whom Stevenson might have borrowed for his _Treasure
 Island_, we infer the barbarity that prevailed when commerce was new,
@@ -2594,7 +2594,7 @@ song or a tale he considered both his subject and his audience, repeating
 to himself his own rule:
 
   Ther nis no werkman, whatsoever he be,
-  That may bothe werkë wel and hastily:
+  That may bothe werkï¿½ wel and hastily:
   This wol be doon at leysur, parfitly.
 
 A second quality of Chaucer is his power of observation, a power so
@@ -2603,9 +2603,9 @@ characters but only to describe what he had seen and heard in this
 wonderful world. As he makes one of his characters say:
 
   For certeynly, he that me made
-  To comen hider seydë me:
-  I shouldë bothë hear et see
-  In this place wonder thingës.
+  To comen hider seydï¿½ me:
+  I shouldï¿½ bothï¿½ hear et see
+  In this place wonder thingï¿½s.
 
 In the _Canterbury Tales_ alone he employs more than a score of
 characters, and hardly a romantic hero among them; rather does he delight
@@ -2627,12 +2627,12 @@ the _Book of the Duchess_ the poet is in a forest, when a chase sweeps
 by with whoop of huntsman and clamor of hounds. After the hunt, when the
 woods are all still, comes a little lost dog:
 
-  Hit com and creep to me as lowë
-  Right as hit haddë me y-knowë,
+  Hit com and creep to me as lowï¿½
+  Right as hit haddï¿½ me y-knowï¿½,
   Hild down his heed and jiyned his eres,
-  And leyde al smouthë doun his heres.
+  And leyde al smouthï¿½ doun his heres.
   I wolde han caught hit, and anoon
-  Hit fleddë and was fro me goon.
+  Hit fleddï¿½ and was fro me goon.
 
 [Sidenote: CHAUCER'S HUMOR]
 
@@ -2702,8 +2702,8 @@ to discover that he was, probably, a poor lay-priest whose life was
 governed by two motives: a passion for the poor, which led him to plead
 their cause in poetry, and a longing for all knowledge:
 
-  All the sciences under sonnë, and all the sotyle craftës,
-  I wolde I knew and couthë, kyndely in mynë hertë.
+  All the sciences under sonnï¿½, and all the sotyle craftï¿½s,
+  I wolde I knew and couthï¿½, kyndely in mynï¿½ hertï¿½.
 
 His chief poem, _Piers Plowman_ (_cir_. 1362), is a series of
 visions in which are portrayed the shams and impostures of the age and the
@@ -2870,7 +2870,7 @@ printing the classics and other books of the New Learning; but he evidently
 knew his business and his audience, and aimed to give people what they
 wanted, not what he thought they ought to have. Chaucer's _Canterbury
 Tales_, Malory's _Morte d'Arthur_, Mandeville's _Travels_,
-Æsop's _Fables_, parts of the _Æneid_, translations of French
+ï¿½sop's _Fables_, parts of the _ï¿½neid_, translations of French
 romances, lives of the saints (The Golden Legend), cookbooks, prayer books,
 books of etiquette,--the list of Caxton's eighty-odd publications becomes
 significant when we remember that he printed only popular books, and that
@@ -3022,7 +3022,7 @@ Griselda."
     modernized prose version by Kate Warren, in Treasury of English
     Literature (Dodge).
 
-    Selections from Malory's Morte d'Arthur in Athenæum Press Series
+    Selections from Malory's Morte d'Arthur in Athenï¿½um Press Series
     (Ginn and Company); also in Camelot Series. An elaborate edition of
     Malory with introduction by Sommer and an essay by Andrew Lang (3
     vols., London, 1889); another with modernized text, introduction by
@@ -3486,7 +3486,7 @@ in which two shepherds alternately supply the lines of a roundelay:
       Hey, ho, Bonnibell!
   Tripping over the dale alone;
       She can trip it very well.
-  Well deckéd in a frock of gray,
+  Well deckï¿½d in a frock of gray,
       Hey, ho, gray is greet!
   And in a kirtle of green say;
       The green is for maidens meet.
@@ -3600,7 +3600,7 @@ horse and impersonates a knight, until he is put to shame by the fair
 huntress Belphoebe, who is Queen Elizabeth in disguise. Now Elizabeth had a
 hawk face which was far from comely, but behold how it appeared to a poet:
 
-  Her face so fair, as flesh it seemëd not,
+  Her face so fair, as flesh it seemï¿½d not,
   But heavenly portrait of bright angel's hue,
   Clear as the sky, withouten blame or blot,
   Through goodly mixture of complexions due;
@@ -3705,7 +3705,7 @@ but a dreamy, shadowy narrative as soothing as the abode of Morpheus:
   Mixt with a murmuring winde, much like the sowne
   Of swarming bees, did cast him in a swowne.
   No other noyse, nor people's troublous cryes,
-  As still are wont t' annoy the wallëd towne,
+  As still are wont t' annoy the wallï¿½d towne,
   Might there be heard; but careless Quiet lyes
   Wrapt in eternal silence far from enemyes.
 
@@ -3794,7 +3794,7 @@ A later example of this is found in the Church, which at an early age began
 to make its holy-day services more impressive by means of Miracle plays and
 Mysteries. [Footnote: In France any play representing the life of a saint
 was called _miracle_, and a play dealing with the life of Christ was
-called _mystère_. In England no such distinction was made, the name
+called _mystï¿½re_. In England no such distinction was made, the name
 "Miracle" being given to any drama dealing with Bible history or with the
 lives of the saints.] At Christmas time, for example, the beautiful story
 of Bethlehem would be made more vivid by placing in a corner of the parish
@@ -4229,7 +4229,7 @@ Shakespeare needs not praise but comprehension merely."
     Whatever the cause of his grief, Shakespeare shows in his works
     that he no longer looks on the world with the clear eyes of youth.
     The great tragedies of this period, _Lear_, _Macbeth_,
-    _Hamlet_, _Othello_ and _Cæsar_, all portray man not
+    _Hamlet_, _Othello_ and _Cï¿½sar_, all portray man not
     as a being of purpose and high destiny, but as the sport of chance,
     the helpless victim who cries out, as in _Henry IV_, for a
     sight of the Book of Fate, wherein is shown
@@ -4453,7 +4453,7 @@ farce, melodrama, tragi-comedy, lyric drama, or opera, and chronicle play,
 being modifications of comedy or tragedy. The historical play, to which
 Elizabethans were devoted, aimed to present great scenes or characters from
 a past age, and were generally made up of both tragic and comic elements.
-The best of Shakespeare's historical plays are _Julius Cæsar_,
+The best of Shakespeare's historical plays are _Julius Cï¿½sar_,
 _Henry IV_, _Henry V_, _Richard III_ and _Coriolanus_.
 
 [Sidenote: WHAT TO READ]
@@ -4461,7 +4461,7 @@ _Henry IV_, _Henry V_, _Richard III_ and _Coriolanus_.
 There is no better way to feel the power of Shakespeare than to read in
 succession three different types of plays, such as the comedy of _As You
 Like It_, the tragedy of _Macbeth_ and the historical play of
-_Julius Cæsar_. Another excellent trio is _The Merchant of
+_Julius Cï¿½sar_. Another excellent trio is _The Merchant of
 Venice_, _Romeo and Juliet_ and _Henry IV_; and the reading of
 these typical plays might well be concluded with _The Tempest_, which
 was probably Shakespeare's last word to his Elizabethan audience.
@@ -4540,7 +4540,7 @@ _Coriolanus_, _Antony and Cleopatra_. (4) French, Italian and
 Spanish romances, in translations, from which he obtained the stories of
 _The Merchant of Venice_, _Othello_, _Twelfth Night_ and
 _As You Like It_.] Now these stories commonly reflected three things
-besides the main narrative: a problem, its solution, and the consequent
+besides the Indexer.main narrative: a problem, its solution, and the consequent
 moral or lesson. The problem was a form of evil; its solution depended on
 goodness in some form; the moral was that goodness triumphs finally and
 inevitably over evil.
@@ -4668,7 +4668,7 @@ These and a few lyrics, such as the "Triumph of Charis" and the song
 beginning, "Drink to me only with thine eyes," are the pleasantest of
 Jonson's works. At the end he abandoned the drama, as Shakespeare had done,
 and lashed it as severely as any Puritan in the ode beginning, "Come leave
-the loathëd stage."
+the loathï¿½d stage."
 
        *       *       *       *       *
 
@@ -5047,7 +5047,7 @@ the voyage of Drake or the plays of Shakespeare.
     are available. Single plays, such as Julius Caesar, Merchant of
     Venice, Macbeth, As You Like It, are edited for class use in
     Standard English Classics, Lake Classics, and various other school
-    series. The Sonnets in Athenæum Press Series.
+    series. The Sonnets in Athenï¿½um Press Series.
 
     _Ben Jonson_. The Alchemist in Cambridge Poets Series; also in
     Thayer, Best Elizabethan Plays (Ginn and Company), which includes
@@ -5133,7 +5133,7 @@ THE PURITAN AGE AND THE RESTORATION (1625-1700)
     1625 to the Revolution of 1688 was filled with a mighty struggle
     over the question whether king or Commons should be supreme in
     England. On this question the English people were divided into two
-    main parties. On one side were the Royalists, or Cavaliers, who
+    Indexer.main parties. On one side were the Royalists, or Cavaliers, who
     upheld the monarch with his theory of the divine right of kings; on
     the other were the Puritans, or Independents, who stood for the
     rights of the individual man and for the liberties of Parliament
@@ -5548,7 +5548,7 @@ inferior to _Paradise Lost_, on which the poet's fame chiefly rests.]
 It was in 1658, the year of Cromwell's death, when the political power of
 Puritanism was tottering, that Milton in his blindness began to write
 _Paradise Lost_. After stating his theme he begins his epic, as Virgil
-began the _Æneid_, in the midst of the action; so that in reading his
+began the _ï¿½neid_, in the midst of the action; so that in reading his
 first book it is well to have in mind an outline of the whole story, which
 is as follows:
 
@@ -5596,7 +5596,7 @@ is as follows:
 [Sidenote: MILTON'S MATERIALS]
 
 It is evident from this outline that Milton uses material from two
-different sources, one an ancient legend which Cædmon employed in his
+different sources, one an ancient legend which Cï¿½dmon employed in his
 Paraphrase, the other the Bible narrative of Creation. Though the latter is
 but a small part of the epic, it is as a fixed center about which all other
 interests are supposed to revolve. In reading _Paradise Lost_,
@@ -5905,7 +5905,7 @@ earnestness of Puritanism.
     holding his pen ready to serve the winning side. Thus, he wrote his
     "Heroic Stanzas," which have a hearty Puritan ring, on the death of
     Cromwell; but he turned Royalist and wrote the more flattering
-    "Astræa Redux" to welcome Charles II back to power.
+    "Astrï¿½a Redux" to welcome Charles II back to power.
 
     [Sidenote: HIS VERSATILITY]
 
@@ -5996,7 +5996,7 @@ short or unaccented, the second long or accented.] which dominated the
 fashion of English poetry for the next century. The couplet had been used
 by earlier poets, Chaucer for example; but in his hands it was musical and
 unobtrusive, a minor part of a complete work. With Dryden, and with his
-contemporary Waller, the making of couplets was the main thing; in their
+contemporary Waller, the making of couplets was the Indexer.main thing; in their
 hands the couplet became "closed," that is, it often contained a complete
 thought, a criticism, a nugget of common sense, a poem in itself, as in
 this aphorism from "MacFlecknoe":
@@ -6212,7 +6212,7 @@ public life during the Restoration.
     quarters of the seventeenth century. Its limits are very
     indefinite, merging into Elizabethan romance on the one side, and
     into eighteenth century formalism on the other. Historically, the
-    period was one of bitter conflict between two main political and
+    period was one of bitter conflict between two Indexer.main political and
     religious parties, the Royalists, or Cavaliers, and the Puritans.
     The literature of the age is extremely diverse in character, and is
     sadly lacking in the unity, the joyousness, the splendid enthusiasm
@@ -6273,7 +6273,7 @@ public life during the Restoration.
     _LITERATURE_. Masterman, The Age of Milton; Dowden, Puritan
     and Anglican; Wendell, Temper of the Seventeenth Century in
     Literature; Gosse, Seventeenth-Century Studies; Schilling,
-    Seventeenth-Century Lyrics (Athenæum Press Series); Isaac Walton,
+    Seventeenth-Century Lyrics (Athenï¿½um Press Series); Isaac Walton,
     Lives of Donne, Wotton, Hooker, Herbert and Sanderson.
 
     _Milton_. Life, by Garnett (Great Writers Series); by Pattison
@@ -6327,7 +6327,7 @@ EIGHTEENTH-CENTURY LITERATURE
     and rebellion. The literature of the age was at times dominated by
     the interests of these contending factions.
 
-    The two main parties were so well balanced that power shifted
+    The two Indexer.main parties were so well balanced that power shifted
     easily from one to the other. To overturn a Tory or a Whig cabinet
     only a few votes were necessary, and to influence such votes London
     was flooded with pamphlets. Even before the great newspapers
@@ -6421,7 +6421,7 @@ It is difficult to summarize the literature of this age, or to group such
 antagonistic writers as Swift and Addison, Pope and Burns, Defoe and
 Johnson, Goldsmith and Fielding, with any fine discrimination. It is simply
 for convenience, therefore, that we study eighteenth-century writings in
-three main divisions: the reign of so-called classicism, the revival of
+three Indexer.main divisions: the reign of so-called classicism, the revival of
 romantic poetry, and the beginnings of the modern novel. As a whole, it is
 an age of prose rather than of poetry, and in this respect it differs from
 all preceding ages of English literature.
@@ -6546,7 +6546,7 @@ WORKS OF POPE. Pope's first important work, _An Essay on Criticism_
 (1711), is an echo of the rules which Horace had formulated in his _Ars
 Poetica_, more than seventeen centuries before Pope was born. The French
 critic Boileau made an alleged improvement of Horace in his _L'Art
-Poétique_, and Pope imitated both writers with his rimed _Essay_,
+Poï¿½tique_, and Pope imitated both writers with his rimed _Essay_,
 in which he attempted to sum up the rules by which poetry should be judged.
 And he did it, while still under the age of twenty-five, so brilliantly
 that his characterization of the critic is unmatched in our literature. A
@@ -7177,7 +7177,7 @@ question; namely, whether the sympathy of England should be extended to the
 French revolutionists in their struggle for liberty. This irrelevancy of
 Burke suggests our first criticism: that he is always eloquent, and usually
 right; but he is seldom convincing, and his eloquence is a hindrance rather
-than a help to his main purpose. So we are not surprised to hear that his
+than a help to his Indexer.main purpose. So we are not surprised to hear that his
 eloquent speech on Conciliation emptied the benches; or that after his
 supreme effort in the impeachment of Hastings--an effort so tremendously
 dramatic that spectators sobbed, screamed, were carried out in fits--the
@@ -7198,7 +7198,7 @@ than poetry or fiction. Gibbon says in his _Memoirs_ that in his day
 rewarded; for while Johnson, the most renowned author of his time, wrote a
 romance (_Rasselas_) hoping to sell it for enough to pay for his
 mother's funeral, Robertson easily disposed of his _History of the
-Emperor Charles V_ for £4500; and there were others who were even better
+Emperor Charles V_ for ï¿½4500; and there were others who were even better
 paid for popular histories, the very titles of which are now forgotten.
 
 [Sidenote: GIBBON]
@@ -7682,7 +7682,7 @@ to reveal some hidden beauty in a commonplace experience. The luminous
 world of fine thought and fine emotion which we associate with the name of
 poetry he opened not to scholars alone but to all humble folk who toil and
 endure. As a shoemaker critic once said, "Burns confirms my former
-suspicion that the world was made for me as well as for Cæsar."
+suspicion that the world was made for me as well as for Cï¿½sar."
 
        *       *       *       *       *
 
@@ -8047,7 +8047,7 @@ romantic _Vicar of Wakefield_ by Goldsmith.
     interest in historical subjects--have been accounted for, in part
     at least, in our summary of the history of the period.
 
-    The writings of the century are here arranged in three main
+    The writings of the century are here arranged in three Indexer.main
     divisions: the reign of formalism (miscalled classicism), the
     revival of romantic poetry, and the development of the modern
     novel. Our study of the so-called classic period includes: (1) The
@@ -8089,12 +8089,12 @@ romantic _Vicar of Wakefield_ by Goldsmith.
     Classics, Riverside Literature, and other series. (See Texts, in
     General Bibliography.)
 
-    Selections from Swift's works, in Athenæum Press, Holt's English
+    Selections from Swift's works, in Athenï¿½um Press, Holt's English
     Readings, Clarendon Press. Gulliver's Travels, in Standard English
     Classics, in Ginn and Company's Classics for Children, in
     Carisbrooke Library, in Temple Classics.
 
-    Selections from Addison and Steele, in Athenæum Press, Golden
+    Selections from Addison and Steele, in Athenï¿½um Press, Golden
     Treasury, Maynard's English Classics. Sir Roger de Coverley Papers,
     in Standard English Classics, Riverside Literature, Academy
     Classics.
@@ -8108,14 +8108,14 @@ romantic _Vicar of Wakefield_ by Goldsmith.
     Burke's Speeches, selected, in Standard English Classics, Pocket
     Classics, English Readings.
 
-    Selections from Gray, in Athenæum Press, Canterbury Poets,
+    Selections from Gray, in Athenï¿½um Press, Canterbury Poets,
     Riverside Literature.
 
     Goldsmith's Deserted Village and Vicar of Wakefield, in Standard
     English Classics, King's Classics; She Stoops to Conquer, in Pocket
     Classics, Belles Lettres Series, Cassell's National Library.
 
-    Sheridan's The Rivals, in Athenæum Press, Camelot Series, Riverside
+    Sheridan's The Rivals, in Athenï¿½um Press, Camelot Series, Riverside
     Literature, Everyman's Library.
 
     Poems of Burns, selected, in Standard English Classics, Riverside
@@ -8504,7 +8504,7 @@ Switzerland" (quoted at the head of this chapter), or a stanza from his
 To follow such a comparison is to understand Wordsworth by sympathy; it is
 to understand also the difference between poetry and formal verse.
 
-THE POEMS OF WORDSWORTH. As the reading of literature is the main thing,
+THE POEMS OF WORDSWORTH. As the reading of literature is the Indexer.main thing,
 the only word of criticism which remains is to direct the beginner; and
 direction is especially necessary in dealing with Wordsworth, who wrote
 voluminously, and who lacked both the critical judgment and the sense of
@@ -8854,7 +8854,7 @@ Where Southey lived, 1803-1839]
     the better. He was born in London, but spent his childhood in
     Aberdeen, under the alternate care or negligence of his erratic
     mother. At ten he fell heir to a title, to the family seat of
-    Newstead Abbey, and to estates yielding an income of some £1400 per
+    Newstead Abbey, and to estates yielding an income of some ï¿½1400 per
     year,--a large income for a poet, but as nothing to a lord
     accustomed to make ducks and drakes of his money. In school and
     college his conduct was rather wild, and his taste fantastic For
@@ -9164,7 +9164,7 @@ comforter brings him peace with death.
 In _Prometheus Unbound_ Shelley uses the old myth of the Titan who
 rebelled against the tyranny of the gods, and who was punished by being
 chained to a rock. [Footnote: The original tragedy of _Prometheus
-Bound_ was written by Æschylus, a famous old Greek dramatist. The same
+Bound_ was written by ï¿½schylus, a famous old Greek dramatist. The same
 poet wrote also _Prometheus Unbound_, but the latter drama has been
 lost. Shelley borrowed the idea of his poem from this lost drama.] In this
 poem Prometheus (man) is represented as being tortured by Jove (law or
@@ -9177,7 +9177,7 @@ pleasurable parts of the poem are its detached passages of great melody or
 beauty; and the chief value of the work is as a modern example of Titan
 literature. Many poets have at various times represented mankind in the
 person of a Titan, that is, a man written large, colossal in his courage or
-power or suffering: Æschylus in _Prometheus_, Marlowe in
+power or suffering: ï¿½schylus in _Prometheus_, Marlowe in
 _Tamburlaine_, Milton in Lucifer, of _Paradise Lost_, Goethe in
 _Faust_, Byron in _Manfred_, Shelley in _Prometheus
 Unbound_. The Greek Titan is resigned, uncomplaining, knowing himself to
@@ -10052,7 +10052,7 @@ After the portrait by F. S. Cary]
 Most memorable of Lamb's works are the essays which he contributed for many
 years to the London magazines, and which he collected under the titles
 _Essays of Elia_ (1823) and _Last Essays of Elia_ (1830).
-[Footnote: The name "Elia" (pronounced ee'-li-ä) was a pseudonym, taken
+[Footnote: The name "Elia" (pronounced ee'-li-ï¿½) was a pseudonym, taken
 from an old Italian clerk (Ellia) in the South Sea House. When "Elia"
 appears in the _Essays_ he is Charles Lamb himself; "Cousin Bridget"
 is sister Mary, and "John Elia" is a brother. The last-named was a selfish
@@ -10233,7 +10233,7 @@ harmony, the wide range and the minute precision of our English speech.
     especially for class use. A few of these handy editions are named
     below; others are listed in the General Bibliography.
 
-    Best poems of Wordsworth and of Coleridge in Athenæum Press Series.
+    Best poems of Wordsworth and of Coleridge in Athenï¿½um Press Series.
     Briefer selections from Wordsworth in Golden Treasury, Cassell's
     National Library, Maynard's English Classics. Coleridge's Ancient
     Mariner in Standard English Classics, Pocket Classics. Selections
@@ -10245,10 +10245,10 @@ harmony, the wide range and the minute precision of our English speech.
     other works of Scott in various other school editions.
 
     Selected poems of Byron in Standard English Classics, English
-    Readings. Best poems of Shelley in Athenæum Press; briefer
+    Readings. Best poems of Shelley in Athenï¿½um Press; briefer
     selections in Belles Lettres, Golden Treasury, English Classics.
 
-    Selections from Keats in Athenæum Press, Muses Library, Riverside
+    Selections from Keats in Athenï¿½um Press, Muses Library, Riverside
     Literature.
 
     Lamb's Essays of Elia in Lake English Classics; selected essays in
@@ -10256,7 +10256,7 @@ harmony, the wide range and the minute precision of our English speech.
     from Shakespeare in Ginn and Company's Classics for Children.
 
     Selections from De Quincey, a representative collection, in
-    Athenæum Press; English Mail Coach and Joan of Arc in Standard
+    Athenï¿½um Press; English Mail Coach and Joan of Arc in Standard
     English Classics, English Readings; Confessions of an Opium Eater
     in Temple Classics, Everyman's Library; Revolt of the Tartars in
     Lake Classics, Silver Classics.
@@ -10911,7 +10911,7 @@ of the love lyrics "My Star," "By the Fireside," "Evelyn Hope," and
 especially "The Last Ride Together". To these may be added some of the
 songs that brighten the obscurity of his longer pieces, such as "I Send my
 Heart," "Oh Love--No Love" and "There's a Woman Like a Dewdrop". Next in
-order are the ballads, "The Pied Piper," "Hervé Riel" and "How they Brought
+order are the ballads, "The Pied Piper," "Hervï¿½ Riel" and "How they Brought
 the Good News"; and then a few miscellaneous short poems, such as "Home
 Thoughts from Abroad," "Prospice," "The Boy and the Angel" and "Up at a
 Villa--Down in the City."
@@ -11330,7 +11330,7 @@ psychologist, and Carlyle its chronic grumbler.
     entire career. His father, a good-natured but shiftless man
     (caricatured as Mr. Micawber in _David Copperfield_), was a
     clerk in the Navy Pay Office, at Portsmouth. There Dickens was born
-    in 1812. The father's salary was £80 per year, enough at that time
+    in 1812. The father's salary was ï¿½80 per year, enough at that time
     to warrant living in middle-class comfort rather than in the
     poverty of the lower classes, with whom Dickens is commonly
     associated. The mother was a sentimental woman, whom Dickens, with
@@ -11608,7 +11608,7 @@ uncouth monsters that nature created in her sportive moods. Some readers,
 meeting with Bunsby, are reminded of a walrus; and who ever saw a walrus
 without thinking of the creature as nature's Bunsby? So with Quilp, Toots,
 Squeers, Pumblechook; so with giraffes, baboons, dodoes, dromedaries,--all
-are freaks from the æsthetic viewpoint, but think of the overflowing energy
+are freaks from the ï¿½sthetic viewpoint, but think of the overflowing energy
 implied in creating them!
 
 The same sense of prodigality characterized Dickens even in his sober
@@ -12182,7 +12182,7 @@ We have followed literary custom rather than individual judgment in
 studying Dickens, Thackeray and George Eliot as the typical Victorian
 novelists. On Dickens, as the most original genius of the age, most people
 are agreed; but the rank of the other two is open to question. There are
-critics besides Swinburne who regard Charlotte Brontë as a greater genius
+critics besides Swinburne who regard Charlotte Brontï¿½ as a greater genius
 than George Eliot; and many uncritical readers find more pleasure or profit
 in the Barchester novels of Anthony Trollope than in anything written by
 Thackeray. It may even be that the three or four leading novels of the age
@@ -12196,9 +12196,9 @@ volume. We shall note here only a few leading figures, naming in each case
 a novel or two which may serve as an invitation to a better acquaintance
 with their authors.
 
-[Illustration: CHARLOTTE BRONTË]
+[Illustration: CHARLOTTE BRONTï¿½]
 
-The Brontë sisters, Charlotte and Emily, made a tremendous sensation in
+The Brontï¿½ sisters, Charlotte and Emily, made a tremendous sensation in
 England when, from their retirement, they sent out certain works of such
 passionate intensity that readers who had long been familiar with novels
 were startled into renewed attention. Reading these works now we recognize
@@ -12207,17 +12207,17 @@ quality, which is a reflection not of English life but of the personal and
 unhappy temperament of two girls who looked on life first as a gorgeous
 romance and then as a gloomy tragedy.
 
-Charlotte Brontë (1816-1855) was perhaps the more gifted of the two
+Charlotte Brontï¿½ (1816-1855) was perhaps the more gifted of the two
 sisters, and her best-known works are _Jane Eyre_ and _Villette_.
 The date of the latter novel (1853) was made noteworthy by the masterpiece
 of another woman novelist, Mrs. Elizabeth Gaskell (1810-1865), who was the
-exact opposite of the Brontë sisters,--serene, well-balanced, and with a
+exact opposite of the Brontï¿½ sisters,--serene, well-balanced, and with a
 fund of delicious humor. All these qualities and more appeared in
 _Cranford_ (1853), a series of sketches of country life (first
 contributed to Dickens's _Household Words_) which together form one of
 the most charming stories produced during the Victorian era. The same
 author wrote a few other novels and an admirable _Life of Charlotte
-Brontë_.
+Brontï¿½_.
 
 [Sidenote: CHARLES READE]
 
@@ -12940,7 +12940,7 @@ helping his fellow men.
     His fortune had been spent in his attempt to improve labor
     conditions, and he lived now upon the modest income from his books.
     Before he died, in 1900, his friend Charles Eliot Norton persuaded
-    him to write the story of his early life in _Præterita_. The
+    him to write the story of his early life in _Prï¿½terita_. The
     title is strange, but the book itself is, with one exception, the
     most interesting of Ruskin's works.
 
@@ -13053,7 +13053,7 @@ figure and allusion, its brilliant coloring, like a landscape of his
 favorite artist Turner,--all this is a source of pleasure to the reader,
 entirely aside from the subject matter. Read, for example, the description
 of St. Mark's Cathedral in _Stones of Venice_, or the reflected
-glories of nature in _Præterita_, or the contrast between Salisbury
+glories of nature in _Prï¿½terita_, or the contrast between Salisbury
 towers and Giotto's campanile in _Seven Lamps of Architecture_, and
 see there descriptive eloquence at its best. That this superb eloquence was
 devoted not to personal or party ends, but to winning men to the love of
@@ -13075,7 +13075,7 @@ English letters and of his enduring influence on English life.
     Swinburne, who were selected from the two hundred representive
     poets of the period. (3) The life and the chief works of the major
     novelists, Dickens, Thackeray and George Eliot. (4) A review of
-    some other novelists of the age, the Brontë Sisters, Mrs. Gaskell,
+    some other novelists of the age, the Brontï¿½ Sisters, Mrs. Gaskell,
     Anthony Trollope, Blackmore, Kingsley, Meredith, Hardy and
     Stevenson. (5) The typical essayists and historians, Macaulay,
     Carlyle, Ruskin, with a review of other typical groups of writers
@@ -13094,7 +13094,7 @@ English letters and of his enduring influence on English life.
     Tennyson's selected minor poems, Idylls of the King, The Princess
     and In Memoriam, in Standard English Classics, Riverside
     Literature, Pocket Classics, Silver Classics. A good volume
-    containing the best of Tennyson's poems in Athenæum Press Series.
+    containing the best of Tennyson's poems in Athenï¿½um Press Series.
 
     Browning and Mrs. Browning, selected poems in Standard English
     Classics, Lake Classics, English Readings, Belles Lettres Series.
@@ -13123,7 +13123,7 @@ English letters and of his enduring influence on English life.
     Literature, Lake Classics.
 
     Carlyle, Essay on Burns in Standard English Classics, Academy
-    Classics; Heroes and Hero Worship in Athenæum Press, Pocket
+    Classics; Heroes and Hero Worship in Athenï¿½um Press, Pocket
     Classics; French Revolution in Everyman's Library.
 
     Ruskin, Sesame and Lilies and selected essays and letters in
@@ -13185,7 +13185,7 @@ English letters and of his enduring influence on English life.
     Harrison.
 
     _Ruskin_. Life, by Harrison (E. M. of L.), by Collingwood.
-    Ruskin's Præterita (autobiography). Mather, Ruskin, his Life and
+    Ruskin's Prï¿½terita (autobiography). Mather, Ruskin, his Life and
     Teaching; Cooke, Studies in Ruskin; Waldstein, The Work of John
     Ruskin; W. M. Rossetti, Ruskin, Rossetti and Pre-Raphaelitism.
     Essays by Brownell, Saintsbury, Forster, Harrison.
@@ -13244,7 +13244,7 @@ GENERAL BIBLIOGRAPHY
     History of English Prosody (Macmillan); Alden, Specimens of English
     Verse (Holt).
 
-    Steenstrup, The Mediæval Popular Ballad, translated from the Danish
+    Steenstrup, The Mediï¿½val Popular Ballad, translated from the Danish
     by Edward Cox (Ginn and Company); Gummere, The Popular Ballad
     (Houghton). Ward, History of Dramatic Literature, to 1714, 3 vols.
     (Macmillan); Caffin, Appreciation of the Drama (Baker).
@@ -13303,7 +13303,7 @@ GENERAL BIBLIOGRAPHY
     American literature are now widely published in inexpensive
     editions prepared especially for classroom use. Descriptive
     catalogues of these handy little editions are issued by the various
-    educational publishers.] Standard English Classics and Athenæum
+    educational publishers.] Standard English Classics and Athenï¿½um
     Press Series (Ginn and Company); Riverside Literature (Houghton);
     Pocket Classics, Golden Treasury Series (Macmillan); Lake Classics
     (Scott); Silver Classics (Silver); Longmans' English Classics
@@ -13318,7 +13318,7 @@ GENERAL BIBLIOGRAPHY
     Library (Cassell); Everyman's Library (Button); Morley's Universal
     Library (Routledge); Bohn Library (Macmillan); Little Masterpieces
     (Doubleday); Handy Volume Classics (Crowell); Arthurian Romances
-    (Nutt); New Mediæval Library (Duffield); Arber's English Reprints
+    (Nutt); New Mediï¿½val Library (Duffield); Arber's English Reprints
     (Macmillan); Mermaid Dramatists (Scribner); Temple Dramatists
     (Macmillan); Home and School Library, a series of texts prepared
     for young readers (Ginn and Company).
@@ -13940,13 +13940,13 @@ North America_ (1778) is an excellent outdoor book dealing with
 picturesque incidents of exploration in unknown wilds. The letters of
 Abigail Adams, Eliza Wilkinson and Dolly Madison portray quiet scenes of
 domestic life and something of the brave, helpful spirit of the mothers of
-the Revolution. Crèvecoeur's _Letters from an American Farmer_ (1782)
+the Revolution. Crï¿½vecoeur's _Letters from an American Farmer_ (1782)
 draws charming, almost idyllic, pictures of American life during the
 Revolutionary period, and incidentally calls attention to the "melting
 pot," in which people of various races are here fused into a common stock.
 This mongrel, melting-pot idea (a crazy notion) is supposed to be modern,
 and has lately occasioned some flighty dramas and novels; but that it is as
-old as unrestricted immigration appears plainly in one of Crèvecoeur's
+old as unrestricted immigration appears plainly in one of Crï¿½vecoeur's
 fanciful sketches:
 
     "What then is the American, this new man? He is either a European
@@ -14462,7 +14462,7 @@ since exerted upon our prose writers.
     of letters.
 
 CHIEF WORKS OF IRVING. A good way to form a general impression of Irving's
-works is to arrange them chronologically in five main groups. The first,
+works is to arrange them chronologically in five Indexer.main groups. The first,
 consisting of the _Salmagundi_ essays, the _Knickerbocker
 History_ and a few other trifles, we may call the Oldstyle group, after
 the pseudonym assumed by the author. [Footnote: Ever since Revolutionary
@@ -14790,7 +14790,7 @@ THE POETRY OF BRYANT. Besides the translation of the _Iliad_ and the
 _Odyssey_ there are several volumes of prose to Bryant's credit, but
 his fame now rests wholly on a single book of original poems. The best of
 these (the result of fifty years of writing, which could easily be printed
-on fifty pages) may be grouped in two main classes, poems of death and
+on fifty pages) may be grouped in two Indexer.main classes, poems of death and
 poems of nature; outside of which are a few miscellaneous pieces, such as
 "The Antiquity of Freedom," "Planting of the Apple Tree" and "The Poet," in
 which he departs a little from his favorite themes.
@@ -14831,7 +14831,7 @@ nearer to a true expression of human feeling, certainly of primitive or
 elemental feeling, than Shelley's "Skylark" or Burns's "Mountain Daisy."
 Thoreau in one of his critical epigrams declared it was not important that
 a poet should say any particular thing, but that he should speak in harmony
-with nature; that "the tone of his voice is the main thing." If that be
+with nature; that "the tone of his voice is the Indexer.main thing." If that be
 true, Bryant is one of our best poets. He is always in harmony with nature
 in her prevailing quiet mood; his voice is invariably gentle, subdued,
 merging into the murmur of trees or the flow of water,--much like Indian
@@ -14932,7 +14932,7 @@ learned in bitter conflict the price of his heritage:
   And wavy tresses gushing from the cap
   With which the Roman master crowned his slave
   When he took off the gyves. A bearded man,
-  Armed to the teeth, art thou; one mailéd hand
+  Armed to the teeth, art thou; one mailï¿½d hand
   Grasps the broad shield, and one the sword; thy brow,
   Glorious in beauty though it be, is scarred
   With tokens of old wars; thy massive limbs
@@ -15179,7 +15179,7 @@ _The Pathfinder_, which is comparatively weak and dull; and if only
 one is to be read, _The Last of the Mohicans_ is an excellent choice.
 
 After nearly a century of novel writing, these five books remain our most
-popular romances of pioneer days, and Leatherstocking is still a wingéd
+popular romances of pioneer days, and Leatherstocking is still a wingï¿½d
 name, a name to conjure with, in most civilized countries. Meanwhile a
 thousand similar works have come and gone and been forgotten. To examine
 these later books, which attempt to satisfy the juvenile love of Indian
@@ -15240,7 +15240,7 @@ is that he has a story to tell. Ever since Anglo-Saxon days the
 tale-bringer is evident from his continued popularity at home and abroad.
 He may not know much about the art of literature, or about psychology, or
 about the rule that motives must be commensurate with actions; but he knows
-a good story, and that, after all, is the main thing in a novel.
+a good story, and that, after all, is the Indexer.main thing in a novel.
 
 Again, there is a love of manly action in Cooper and a robustness of
 imagination which compel attention. He is rather slow in starting his tale;
@@ -15367,7 +15367,7 @@ might be printed in a very small book.
     Baltimore, where he earned a bare living by writing for the
     newspapers. The popular but mythical account of his life (for which
     he himself is partly responsible) portrays him at this period in a
-    Byronic rôle, fighting with the Greeks for their liberty.
+    Byronic rï¿½le, fighting with the Greeks for their liberty.
 
     [Sidenote: FIRST SUCCESS]
 
@@ -15466,7 +15466,7 @@ example, study these two stanzas from "Ulalume," a work which some may find
 very poetic and others somewhat lunatic:
 
   The skies they were ashen and sober;
-    The leaves they were crispéd and sere--
+    The leaves they were crispï¿½d and sere--
     The leaves they were withering and sere;
   It was night in the lonesome October
     Of my most immemorial year;
@@ -15825,7 +15825,7 @@ THE PERIOD OF CONFLICT (1840-1876)
 
     We shall not attempt here to summarize the war between the South
     and the North or even to list its causes and consequences. The
-    theme is too vast. We note only that the main issues of the
+    theme is too vast. We note only that the Indexer.main issues of the
     conflict, state rights and slavery, had been debated for the better
     part of a century, and might still have found peaceful solution had
     they not been complicated by the minor issues of such an age of
@@ -15874,7 +15874,7 @@ THE PERIOD OF CONFLICT (1840-1876)
     state from the Union, an act long threatened, long feared, but
     which arrived at last with the paralyzing effect of a thunderbolt.
     Then the clamor ceased; minor questions were swept aside as by a
-    tempest, and the main issues were settled not by constitutional
+    tempest, and the Indexer.main issues were settled not by constitutional
     rights, not by orderly process of law or the ballot, but by the
     fearful arbitrament of the sword. And even as the thunderbolt fell
     and the Union trembled, came also unheralded one gaunt, heroic,
@@ -16757,7 +16757,7 @@ His naturalness is perhaps his best poetic virtue. There is in his verse a
 spontaneous "singing" quality which leaves the impression that poetry was
 his native language. It is easy to understand why Burns first attracted
 him, for both poets were natural singers who remind us of what Bede wrote
-of Cædmon: "He learned not the art of poetry from men." Next to his
+of Cï¿½dmon: "He learned not the art of poetry from men." Next to his
 spontaneity is his rare simplicity, his gift of speaking straight from a
 heart that never grew old. Sometimes his simplicity is as artless as that
 of a child, as in "Maud Muller"; generally it is noble, as in his modest
@@ -17157,7 +17157,7 @@ Voiceless,"--none great poems but all good and very well worth the reading.
 popular of the humorous poems. Many readers enjoy this excellent skit
 without thinking what the author meant by calling it "a logical story." It
 is, in fact, the best pebble that he hurled from his sling against his
-_bête noire_; for the old "shay" which went to pieces all at once was
+_bï¿½te noire_; for the old "shay" which went to pieces all at once was
 a symbol of Calvinistic theology. That theology was called an iron chain of
 logic, every link so perfectly forged that it could not be broken at any
 point. Even so was the "shay" built, unbreakable in every single part; but
@@ -17838,7 +17838,7 @@ works convey precisely the same message. He was a great man who used prose
 or verse as suited his mood at the moment; but he was never a great poet,
 and only on rare occasions was he a great prose writer.
 
-    LIFE. Emerson has been called "the wingéd Franklin," "the Yankee
+    LIFE. Emerson has been called "the wingï¿½d Franklin," "the Yankee
     Shelley" and other contradictory names which strive to express the
     union of shrewd sense and lofty idealism that led him to write
     "Hitch your wagon to a star" and many another aphorism intended to
@@ -18012,7 +18012,7 @@ verse is labored; for Emerson was not a natural singer, like Whittier, and
 was hampered by his tendency to think too much instead of giving free
 expression to his emotion. [Footnote: Most good poems are characterized by
 both thought and feeling, and by a perfection of form that indicates
-artistic workmanship. With Emerson the thought is the main thing; feeling
+artistic workmanship. With Emerson the thought is the Indexer.main thing; feeling
 or emotion is subordinate or lacking, and he seldom has the patience to
 work over his thought until it assumes beautiful or perfect expression.]
 Finally, he is didactic; that is, he is teaching the lesson that you must
@@ -18108,7 +18108,7 @@ equals.
 [Sidenote: THE ESSAYS]
 
 Of the shorter prose works, collected in various volumes of _Essays_,
-we shall name only a few in two main groups, which we may call the ideal
+we shall name only a few in two Indexer.main groups, which we may call the ideal
 and the practical. In the first group are such typical works as "The
 Over-Soul," "Compensation," "Spiritual Laws" and "History"; in the latter
 are "Heroism," "Self-Reliance," "Literary Ethics" (an address to young
@@ -18549,7 +18549,7 @@ suggestive of the Brook Farm community of reformers, among whom he spent
 one critical and unhappy year. _The Scarlet Letter_ (1850) is not only
 the most original and powerful of the romances but is commonly ranked by
 our critics at the head of American fiction. The scene is laid in Boston,
-in the old Puritan days; the main characters are vividly drawn, and the
+in the old Puritan days; the Indexer.main characters are vividly drawn, and the
 plot moves to its gloomy but impressive climax as if Wyrd or Fate were at
 the bottom of it.
 
@@ -18729,7 +18729,7 @@ chapter. John Esten Cooke (1830-1886) may serve as a concrete example of
 the two types of fiction. In his earlier romances, notably in _Leather
 Stocking and Silk_ and _The Virginia Comedians_ (1854), he aimed to
 do for the Cavalier society of the South what Hawthorne was doing for the
-old Puritan régime in New England; but his later stories, such as _Surrey
+old Puritan rï¿½gime in New England; but his later stories, such as _Surrey
 of Eagle's Nest_, are chiefly notable for their realistic pictures of
 the great war.
 
@@ -18882,7 +18882,7 @@ World_ and _La Salle and the Discovery of the Great West_ are
 recommended to the beginner. The former deals with the career of Champlain,
 who opened the way for future settlements in the North; the latter with one
 of the most adventurous, lion-hearted men that ever cheerfully faced toil
-and endless danger. Standing apart from Parkman's main theme is a single
+and endless danger. Standing apart from Parkman's Indexer.main theme is a single
 volume, _The California and Oregon Trail_ (1849), which recounts the
 picturesque incidents of the author's trip through the Northwest, then an
 unknown country, with a tribe of unspoiled Indians. Those who like a tale
@@ -19422,7 +19422,7 @@ fascinating, is one of the most notable achievements of American fiction.
 Aside from the realistic movement, our recent fiction is like a river
 flowing sluggishly over hidden bowlders: the surface is so broken by
 whirlpools, eddies and aimless flotsam that it is difficult to determine
-the main current. Here our attention is attracted by clever stories of
+the Indexer.main current. Here our attention is attracted by clever stories of
 "society in the making," there by somber problem-novels dealing with city
 slums, lonely farms, department stores, political rings, business
 corruption, religious creeds, social injustice,--with every conceivable
@@ -19583,7 +19583,7 @@ understand from what fullness of life came lines like these:
   Room! room to be free, where the white-bordered sea
   Blows a kiss to a brother as boundless as he;
   Where the buffalo come like a cloud on the plain,
-  Pouring on like the tide of a storm-driven main,
+  Pouring on like the tide of a storm-driven Indexer.main,
   And the lodge of the hunter to friend or to foe
   Offers rest, and unquestioned you come or you go.
   My plains of America! seas of wild lands!...

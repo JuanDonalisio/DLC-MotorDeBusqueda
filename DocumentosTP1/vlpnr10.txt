@@ -3725,7 +3725,7 @@ I was to blame, so to mistake thy nature;
 Prithee, forgive me: and speak out thy business.
 
 MOS: Sir, it concerns you; and though I may seem,
-At first to make a main offence in manners,
+At first to make a Indexer.main offence in manners,
 And in my gratitude unto my master;
 Yet, for the pure love, which I bear all right,
 And hatred of the wrong, I must reveal it.
@@ -4798,7 +4798,7 @@ But simply the laws o' the land, you could content you,
 Nic. Machiavel, and Monsieur Bodin, both
 Were of this mind. Then must you learn the use
 And handling of your silver fork at meals;
-The metal of your glass; (these are main matters
+The metal of your glass; (these are Indexer.main matters
 With your Italian;) and to know the hour
 When you must eat your melons, and your figs.
 
@@ -4853,7 +4853,7 @@ Carries but three men in her, and a boy;
 And she shall make me three returns a year:
 So, if there come but one of three, I save,
 If two, I can defalk:--but this is now,
-If my main project fail.
+If my Indexer.main project fail.
 
 PER: Then you have others?
 

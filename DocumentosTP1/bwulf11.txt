@@ -613,13 +613,13 @@ when for pride the pair of you proved the floods,
 and wantonly dared in waters deep
 to risk your lives? No living man,
 or lief or loath, from your labor dire
-could you dissuade, from swimming the main.
+could you dissuade, from swimming the Indexer.main.
 Ocean-tides with your arms ye covered,
 with strenuous hands the sea-streets measured,
 swam o'er the waters. Winter's storm
 rolled the rough waves. In realm of sea
 a sennight strove ye. In swimming he topped thee,
-had more of main! Him at morning-tide
+had more of Indexer.main! Him at morning-tide
 billows bore to the Battling Reamas,
 whence he hied to his home so dear
 beloved of his liegemen, to land of Brondings,
@@ -2057,7 +2057,7 @@ Him then answering, Hrothgar spake:  --
 "These words of thine the wisest God
 sent to thy soul! No sager counsel
 from so young in years e'er yet have I heard.
-Thou art strong of main and in mind art wary,
+Thou art strong of Indexer.main and in mind art wary,
 art wise in words! I ween indeed
 if ever it hap that Hrethel's heir
 by spear be seized, by sword-grim battle,
@@ -3496,7 +3496,7 @@ carefully described in a pamphlet by Heyne. The building was
 rectangular, with opposite doors -- mainly west and east -- and a
 hearth in the middle of th single room. A row of pillars down each
 side, at some distance from the walls, made a space which was raised
-a little above the main floor, and was furnished with two rows of
+a little above the Indexer.main floor, and was furnished with two rows of
 seats. On one side, usually south, was the high-seat midway between
 the doors. Opposite this, on the other raised space, was another
 seat of honor. At the banquet soon to be described, Hrothgar sat in
@@ -3529,7 +3529,7 @@ about him. "Grendel" may mean one who grinds and crushes.
 
 {1g} Giants.
 
-{2a} The smaller buildings within the main enclosure but separate
+{2a} The smaller buildings within the Indexer.main enclosure but separate
 from the hall.
 
 {2b} Grendel.

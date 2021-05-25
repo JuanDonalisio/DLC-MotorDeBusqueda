@@ -445,7 +445,7 @@ the employment of Philip Henslowe, the exploiter of several troupes of
 players, manager, and father-in-law of the famous actor, Edward Alleyn.
 From entries in 'Henslowe's Diary', a species of theatrical account book
 which has been handed down to us, we know that Jonson was connected with
-the Admiral's men; for he borrowed £4 of Henslowe, July 28, 1597, paying
+the Admiral's men; for he borrowed ï¿½4 of Henslowe, July 28, 1597, paying
 back 3s. 9d. on the same day on account of his "share" (in what is not
 altogether clear); while later, on December 3, of the same year, Henslowe
 advanced 20s. to him "upon a book which he showed the plot unto the company
@@ -966,7 +966,7 @@ he acquainted himself especially with the Latin writings of his learned
 contemporaries, their prose as well as their poetry, their antiquities and
 curious lore as well as their more solid learning.  Though a poor man,
 Jonson was an indefatigable collector of books.  He told Drummond that "the
-Earl of Pembroke sent him £20 every first day of the new year to  buy new
+Earl of Pembroke sent him ï¿½20 every first day of the new year to  buy new
 books."  Unhappily, in 1623, his library was destroyed by fire, an accident
 serio-comically described in his witty poem, "An Execration upon Vulcan."
 Yet even now a book turns up from time to time in which is inscribed, in
@@ -3640,7 +3640,7 @@ COR.  Faith, a whole volume of humour, and worthy the unclasping.
 MIT.  As how?  What name do you give him first?
 
 COR.  He hath shift of names, sir:  some call him Apple-John, some signior
-Whiffe; marry, his main standing name is cavalier Shirt:  the rest are but
+Whiffe; marry, his Indexer.main standing name is cavalier Shirt:  the rest are but
 as clean shirts to his natures.
 
 MIT.  And what makes he in Paul's now?
@@ -8389,7 +8389,7 @@ POPULAR, vulgar, of the populace
 POPULOUS, numerous
 PORT, gate; print of a deer's foot
 PORT, transport
-PORTAGUE, Portuguese gold coin, worth over £3 or f4
+PORTAGUE, Portuguese gold coin, worth over ï¿½3 or f4
 PORTCULLIS, "-- of coin," some old coins have a portcullis stamped on their
 reverse (Whalley)
 PORTENT, marvel, prodigy; sinister omen

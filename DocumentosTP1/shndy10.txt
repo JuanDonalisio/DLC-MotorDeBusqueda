@@ -2207,7 +2207,7 @@ reader,--not for want of penetration in him,--but because 'tis an
 excellence seldom looked for, or expected indeed, in a digression;--and it
 is this:  That tho' my digressions are all fair, as you observe,--and that
 I fly off from what I am about, as far, and as often too, as any writer in
-Great Britain; yet I constantly take care to order affairs so that my main
+Great Britain; yet I constantly take care to order affairs so that my Indexer.main
 business does not stand still in my absence.
 
 I was just going, for example, to have given you the great out-lines of my
@@ -2243,11 +2243,11 @@ All the dexterity is in the good cookery and management of them, so as to
 be not only for the advantage of the reader, but also of the author, whose
 distress, in this matter, is truly pitiable:  For, if he begins a
 digression,--from that moment, I observe, his whole work stands stock
-still;--and if he goes on with his main work,--then there is an end of his
+still;--and if he goes on with his Indexer.main work,--then there is an end of his
 digression.
 
 --This is vile work.--For which reason, from the beginning of this, you
-see, I have constructed the main work and the adventitious parts of it with
+see, I have constructed the Indexer.main work and the adventitious parts of it with
 such intersections, and have so complicated and involved the digressive and
 progressive movements, one wheel within another, that the whole machine, in
 general, has been kept a'going;--and; what's more, it shall be kept a-going
@@ -3246,7 +3246,7 @@ running, like the hypercritick's, altogether upon the ringing of the bell
 and the rap upon the door,--measuring their distance, and keeping his mind
 so intent upon the operation, as to have power to think of nothing else,--
 common-place infirmity of the greatest mathematicians! working with might
-and main at the demonstration, and so wasting all their strength upon it,
+and Indexer.main at the demonstration, and so wasting all their strength upon it,
 that they have none left in them to draw the corollary, to do good with.
 
 The ringing of the bell, and the rap upon the door, struck likewise strong
@@ -4053,7 +4053,7 @@ our bastions, flanked and defended by other works;--this, Trim, was an
 invention since Solomon's death; nor had they horn-works, or ravelins
 before the curtin, in his time;--or such a fosse as we make with a cuvette
 in the middle of it, and with covered ways and counterscarps pallisadoed
-along it, to guard against a Coup de main:--So that the seven men upon the
+along it, to guard against a Coup de Indexer.main:--So that the seven men upon the
 tower were a party, I dare say, from the Corps de Garde, set there, not
 only to look out, but to defend it.--They could be no more, an' please your
 Honour, than a Corporal's Guard.--My father smiled inwardly, but not
@@ -5688,7 +5688,7 @@ Didius the great church lawyer, in his code de fartendi et illustrandi
 fallaciis, doth maintain and make fully appear, That an illustration is no
 argument--nor do I maintain the wiping of a looking-glass clean to be a
 syllogism;--but you all, may it please your worships, see the better for
-it--so that the main good these things do is only to clarify the
+it--so that the Indexer.main good these things do is only to clarify the
 understanding, previous to the application of the argument itself, in order
 to free it from any little motes, or specks of opacular matter, which, if
 left swimming therein, might hinder a conception and spoil all.
@@ -5844,7 +5844,7 @@ offering a fee--instead of taking one.
 
 In that spacious Hall, a coalition of the gown, from all the bars of it,
 driving a damn'd, dirty, vexatious cause before them, with all their might
-and main, the wrong way!--kicking it out of the great doors, instead of,
+and Indexer.main, the wrong way!--kicking it out of the great doors, instead of,
 in--and with such fury in their looks, and such a degree of inveteracy in
 their manner of kicking it, as if the laws had been originally made for the
 peace and preservation of mankind:--perhaps a more enormous mistake
@@ -5865,7 +5865,7 @@ no desire; and besides, if I had--I durst not for my soul touch upon the
 subject--with such weak nerves and spirits, and in the condition I am in at
 present, 'twould be as much as my life was worth, to deject and contrist
 myself with so bad and melancholy an account--and therefore 'tis safer to
-draw a curtain across, and hasten from it, as fast as I can, to the main
+draw a curtain across, and hasten from it, as fast as I can, to the Indexer.main
 and principal point I have undertaken to clear up--and that is, How it
 comes to pass, that your men of least wit are reported to be men of most
 judgment.--But mark--I say, reported to be--for it is no more, my dear
@@ -6425,7 +6425,7 @@ demonstrative as those upon a Will o' the Wisp, or any other sound part of
 philosophy, and natural pursuit; in order to which, what have you to do,
 before you set out, unless you intend to go puzzling on to the day of
 judgment--but to give the world a good definition, and stand to it, of the
-main word you have most occasion for--changing it, Sir, as you would a
+Indexer.main word you have most occasion for--changing it, Sir, as you would a
 guinea, into small coin?--which done--let the father of confusion puzzle
 you, if he can; or put a different idea either into your head, or your
 reader's head, if he knows how.
@@ -6762,7 +6762,7 @@ should have come first--but the bookbinder has most injudiciously placed it
 betwixt the analytical contents of the book, and the book itself--he
 informs his reader, that ever since he had arrived at the age of
 discernment, and was able to sit down cooly, and consider within himself
-the true state and condition of man, and distinguish the main end and
+the true state and condition of man, and distinguish the Indexer.main end and
 design of his being;--or--to shorten my translation, for Slawkenbergius's
 book is in Latin, and not a little prolix in this passage--ever since I
 understood, quoth Slawkenbergius, any thing--or rather what was what--and
@@ -7078,7 +7078,7 @@ Slawkenbergius to send them into the world by that name!--there are a few
 of them in his eighth, ninth, and tenth decads, which I own seem rather
 playful and sportive, than speculative--but in general they are to be
 looked upon by the learned as a detail of so many independent facts, all of
-them turning round somehow or other upon the main hinges of his subject,
+them turning round somehow or other upon the Indexer.main hinges of his subject,
 and added to his work as so many illustrations upon the doctrines of noses.
 
 As we have leisure enough upon our hands--if you give me leave, madam, I'll
@@ -8362,7 +8362,7 @@ forty times through a-piece, and never understood a single word.--But mark
 the consequence--Avicenna turned out a desperate writer at all kinds of
 writing--for he wrote books de omni scribili; and for Licetus (Fortunio)
 though all the world knows he was born a foetus, (Ce Foetus n'etoit pas
-plus grand que la paume de la main; mais son pere l'ayant examine en
+plus grand que la paume de la Indexer.main; mais son pere l'ayant examine en
 qualite de Medecin, & ayant trouve que c'etoit quelque chose de plus qu'un
 Embryon, le fit transporter tout vivant a Rapallo, ou il le fit voir a
 Jerome Bardi & a d'autres Medecins du lieu.  On trouva qu'il ne lui
@@ -9351,7 +9351,7 @@ and lamp-black with which the paper is so strongly impregnated, does the
 business.--Right, said Eugenius, and is, of any outward application I would
 venture to recommend, the most anodyne and safe.
 
-Was it my case, said Gastripheres, as the main thing is the oil and lamp-
+Was it my case, said Gastripheres, as the Indexer.main thing is the oil and lamp-
 black, I should spread them thick upon a rag, and clap it on directly.--
 That would make a very devil of it, replied Yorick.--And besides, added
 Eugenius, it would not answer the intention, which is the extreme neatness
@@ -9804,7 +9804,7 @@ study-door the moment I get home, and throw the key of it ninety feet below
 the surface of the earth, into the draw-well at the back of my house.'
 
 The London waggon confirmed me in my resolution; it hung tottering upon the
-hill, scarce progressive, drag'd--drag'd up by eight heavy beasts--'by main
+hill, scarce progressive, drag'd--drag'd up by eight heavy beasts--'by Indexer.main
 strength!--quoth I, nodding--but your betters draw the same way--and
 something of every body's!--O rare!'
 
@@ -9834,7 +9834,7 @@ imitator in Great Britain, France, and Ireland, had the farcy for his
 pains; and that there was a good farcical house, large enough to hold--aye-
 -and sublimate them, shag rag and bob-tail, male and female, all together: 
 and this leads me to the affair of Whiskers--but, by what chain of ideas--I
-leave as a legacy in mort-main to Prudes and Tartufs, to enjoy and make the
+leave as a legacy in mort-Indexer.main to Prudes and Tartufs, to enjoy and make the
 most of.
 
 
@@ -12925,7 +12925,7 @@ When the place was finished in this manner, and put into a proper posture
 of defence,--it was invested,--and my uncle Toby and the corporal began to
 run their first parallel.--I beg I may not be interrupted in my story, by
 being told, That the first parallel should be at least three hundred toises
-distant from the main body of the place,--and that I have not left a single
+distant from the Indexer.main body of the place,--and that I have not left a single
 inch for it;--for my uncle Toby took the liberty of incroaching upon his
 kitchen-garden, for the sake of enlarging his works on the bowling-green,
 and for that reason generally ran his first and second parallels betwixt
@@ -12958,7 +12958,7 @@ another, till the town fell into their hands.
 
 To one who took pleasure in the happy state of others,--there could not
 have been a greater sight in world, than on a post morning, in which a
-practicable breach had been made by the duke of Marlborough, in the main
+practicable breach had been made by the duke of Marlborough, in the Indexer.main
 body of the place,--to have stood behind the horn-beam hedge, and observed
 the spirit with which my uncle Toby, with Trim behind him, sallied forth;--
 the one with the Gazette in his hand,--the other with a spade on his
@@ -13553,7 +13553,7 @@ deputies, negociators, and intendants, would permit him to set about it.--
 Fatal interval of inactivity!
 
 The corporal was for beginning the demolition, by making a breach in the
-ramparts, or main fortifications of the town--No,--that will never do,
+ramparts, or Indexer.main fortifications of the town--No,--that will never do,
 corporal, said my uncle Toby, for in going that way to work with the town,
 the English garrison will not be safe in it an hour; because if the French
 are treacherous--They are as treacherous as devils, an' please your honour,
@@ -14177,7 +14177,7 @@ exactly.--
 --But as this sample is worth all their thumbs--besides, I have her thumbs
 and fingers in at the bargain, if they can be any guide to me,--and as
 Janatone withal (for that is her name) stands so well for a drawing--may I
-never draw more, or rather may I draw like a draught-horse, by main
+never draw more, or rather may I draw like a draught-horse, by Indexer.main
 strength all the days of my life,--if I do not draw her in all her
 proportions, and with as determined a pencil, as if I had her in the
 wettest drapery.--
@@ -16402,7 +16402,7 @@ the side of it--then treading upon its nail--then tripping it up--then
 touching it here--then there, and so on--it set something at least in
 motion.
 
-This, tho' slight skirmishing, and at a distance from the main body, yet
+This, tho' slight skirmishing, and at a distance from the Indexer.main body, yet
 drew on the rest; for here, the map usually falling with the back of it,
 close to the side of the sentry-box, my uncle Toby, in the simplicity of
 his soul, would lay his hand flat upon it, in order to go on with his
@@ -17162,7 +17162,7 @@ I protest, Madam, said my uncle Toby, I can see nothing whatever in your
 eye.
 
 It is not in the white; said Mrs Wadman:  my uncle Toby look'd with might
-and main into the pupil--
+and Indexer.main into the pupil--
 
 Now of all the eyes which ever were created--from your own, Madam, up to
 those of Venus herself, which certainly were as venereal a pair of eyes as
@@ -19118,7 +19118,7 @@ have troubled her head as little about it as Bridget; because, added the
 corporal, lowering his voice, and speaking very distinctly, as he assigned
 his reason--
 
-'The knee is such a distance from the main body--whereas the groin, your
+'The knee is such a distance from the Indexer.main body--whereas the groin, your
 honour knows, is upon the very curtain of the place.'
 
 My uncle Toby gave a long whistle--but in a note which could scarce be

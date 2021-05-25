@@ -1146,7 +1146,7 @@ him.
 Iberville.  "But I have other ends in view."
 
 "I have only one end in view," retorted Gering.  "But wait," he said, as
-they neared the door leading into the main hall; "we may be seen.  There
+they neared the door leading into the Indexer.main hall; "we may be seen.  There
 is another way into the grounds through a little hall here."  He turned
 and opened a door almost as small as a panel.  "I was shown this secret
 door the other day, and since ours is a secret mission let us use it."
@@ -1446,7 +1446,7 @@ ours in the house.  Out by this hall door-through the grounds--to the
 beach--the boat in waiting--and so, up anchor and away!  Both risky, as
 you see, but the bolder the game the sweeter the spoil.  You're sure her
 chamber is above the hallway, and that there's a staircase to it from the
-main hall?"
+Indexer.main hall?"
 
 "I am very well sure.  I know the house up-stairs and down."
 
@@ -5288,7 +5288,7 @@ snatched a musket from Maurice Joval, took steady aim and fired.  The
 distance was too great, the wind too strong; he only carried away an
 epaulet.  But Perrot, who was not far from the fallen brothers, suddenly
 made a dash within easy range of the rifles of the British, and cut
-Gering and two of his companions off from the main body.  It was done so
+Gering and two of his companions off from the Indexer.main body.  It was done so
 suddenly that Gering found himself between two fires.  His companions
 drew close to him, prepared to sell their lives dearly, but Perrot called
 to them to surrender.  Gering saw the fruitlessness of resistance and, to

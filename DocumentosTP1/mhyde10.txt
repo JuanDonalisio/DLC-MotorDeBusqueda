@@ -1884,7 +1884,7 @@ oranges, so near to the hold in which they were stored, was
 overpowering, mixed, as it was, with the horrible ship-smell of
 decaying water (known as bilge-water) which flopped about at each
 roll a few feet below me. My hammock was slung in a draught from
-the main hatchway. People came down the hatchway during the night
+the Indexer.main hatchway. People came down the hatchway during the night
 to fetch coils of rope or tackles. Tired as I was, I slept very
 badly that first night on board ship. The schooner seemed to be
 full of queer, unrelated movements. The noise (f the water
@@ -2579,7 +2579,7 @@ this cabin. I mustn't let the captain see me." So they went on
 deck again, leaving me alone. When the gentlemen came in to
 breakfast, I had to go on deck for the dishes. As I passed to the
 galley, I noticed the stranger talking to the carpenter by the
-main-rigging. They gave me a meaning look, which I did not at all
+Indexer.main-rigging. They gave me a meaning look, which I did not at all
 relish. Then, as I stood in the galley, while the cook dished up,
 I noticed that the stranger raised his hand to a tall, lanky,
 ill-favoured man who was loafing about on the wharf, carrying a
@@ -4053,7 +4053,7 @@ me. I've got men in this ship, who can mend a cut leather strap
 as neat as you've no idea of. They'd sew up a cut like them so as
 you'd hardly know it had been cut."
 
-I really feared that he would have the bag away from me by main
+I really feared that he would have the bag away from me by Indexer.main
 force. But I rallied all my forces to save it. "I'm lagged now,"
 I said. "I haven't undone my things. I'll give it to you in the
 morning."
@@ -5106,7 +5106,7 @@ Sidmouth that morning.
 "Well," he said to Mr. Blick, "I thought you were going to
 Dorchester. What brings you here?" "Sir," said Mr. Blick, "we've
 been so much interrupted by soldiers that we hoped to travel away
-from the main-roads."
+from the Indexer.main-roads."
 
 "Well, sir," said the captain, "I've had you watched. Since you
 left Sidmouth, you've been into every inn upon the road,
@@ -5314,7 +5314,7 @@ that they did so at the Duke's orders. The streets were full of
 people, nearly all of them men, the green boughs in their hats.
 On the beach two long lines of men with green scarves on their
 arms were being drilled by an officer. Horses were picketed in a
-long line up the main street; they were mostly very poor
+long line up the Indexer.main street; they were mostly very poor
 cart-stock, ill-provided, as I learned afterwards, with harness.
 Men were bringing hay to them from whatever haystack was nearest.
 From time to time, there came a loud booming of guns, above the
@@ -5774,7 +5774,7 @@ Duke says, "Lend me all your ready money, together with your
 horses, or rather give them to me, since I am the King," his
 politeness leaves him; he gets away to London to warn the police
 as fast as his horse will take him. Thus it was with the Duke's
-friends scattered about along the main-road from Lyme to Bristol.
+friends scattered about along the Indexer.main-road from Lyme to Bristol.
 
 I know not who persuaded the Duke to march; probably it was Grey;
 it may have been Venner; it may have been a momentary mad
@@ -6326,7 +6326,7 @@ noise-maker was a man. If I had been wise I should have stopped
 there; for I had learned all that I came out to learn. But I was
 excited now. I wished to see everything, before creeping away
 unseen to make my report. Perhaps I wished to see something which
-had nothing to do with the club men, a private main of cocks,
+had nothing to do with the club men, a private Indexer.main of cocks,
 say, or a dog, or bull-baiting, carried on with some of the
 squire's creatures, but without his knowledge. I had a half wish
 that I might have something of the kind to report; because in my
@@ -7304,11 +7304,11 @@ crowbar. The other openings in the walls were mere loophole
 slits, about four feet long but only a few inches broad. There
 were enough of these to make the place light. By their light I
 could see that there was no way of escape for me except by the
-main door. I was almost despairing of escape from this prison of
+Indexer.main door. I was almost despairing of escape from this prison of
 mine, when I saw that the loft had a hayshoot, leading downwards.
 When I saw it I fondly hoped that it led to some outer stable or
 cart-shed, separated from that in which the carter slept. A
-glance down its smooth shaft showed me that it led to the main
+glance down its smooth shaft showed me that it led to the Indexer.main
 stable. I could see the heads of the meditative horses, bent over
 the empty mangers exactly as if they were saying grace. Beyond
 them I saw the boots of the carter dangling over the edge of the

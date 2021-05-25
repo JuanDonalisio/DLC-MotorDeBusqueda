@@ -75,7 +75,7 @@ CONTENTS
 
      1. PRIMITIVE ASTRONOMY AND ASTROLOGY
 
-     2. ANCIENT ASTRONOMY--CHINESE AND CHALDÆANS
+     2. ANCIENT ASTRONOMY--CHINESE AND CHALDï¿½ANS
 
      3. ANCIENT GREEK ASTRONOMY
 
@@ -109,7 +109,7 @@ CONTENTS
 
     14. COMETS AND METEORS
 
-    15. THE STARS AND NEBULÆ
+    15. THE STARS AND NEBULï¿½
 
   INDEX
 
@@ -219,7 +219,7 @@ Intellectual activity and the development of reasoning powers are in
 both cases based upon the accumulation of experiences, and on the
 comparison, classification, arrangement, and nomenclature of these
 experiences. During the infancy of each the succession of events can
-be watched, but there can be no _à priori_ anticipations.
+be watched, but there can be no _ï¿½ priori_ anticipations.
 Experience alone, in both cases, leads to the idea of cause and effect
 as a principle that seems to dominate our present universe, as a rule
 for predicting the course of events, and as a guide to the choice of a
@@ -256,7 +256,7 @@ effect which now seem to us absurd, let us be tolerant, and gratefully
 acknowledge that these astrologers, when they suggested such "working
 hypotheses," were laying the foundations of observation and deduction.
 
-If the ancient Chaldæans gave to the planetary conjunctions an
+If the ancient Chaldï¿½ans gave to the planetary conjunctions an
 influence over terrestrial events, let us remember that in our own
 time people have searched for connection between terrestrial
 conditions and periods of unusual prevalence of sun spots; while De la
@@ -282,10 +282,10 @@ found much that has helped to a fuller knowledge of the heavenly
 motions than was possible without these records.
 
 So Hipparchus, about 150 B.C., and Ptolemy a little later, were able
-to use the observations of Chaldæan astrologers, as well as those of
+to use the observations of Chaldï¿½an astrologers, as well as those of
 Alexandrian astronomers, and to make some discoveries which have
 helped the progress of astronomy in all ages.  So, also, Mr. Cowell[2]
-has examined the marks made on the baked bricks used by the Chaldæans
+has examined the marks made on the baked bricks used by the Chaldï¿½ans
 for recording the eclipses of 1062 B.C. and 762 B.C.; and has thereby
 been enabled, in the last few years, to correct the lunar tables of
 Hansen, and to find a more accurate value for the secular acceleration
@@ -385,7 +385,7 @@ _R. A. S. Monthly Notices_, 1900.
 
 [2] _R. A. S. Monthly Notices_, Sup.; 1905.
 
-[Illustration: CHALDÆAN BAKED BRICK OR TABLET, _Obverse and reverse
+[Illustration: CHALDï¿½AN BAKED BRICK OR TABLET, _Obverse and reverse
 sides_, Containing record of solar eclipse, 1062 B.C., used lately by
 Cowell for rendering the lunar theory more accurate than was possible
 by finest modern observations. (British Museum collection,
@@ -397,7 +397,7 @@ No. 35908.)]
 
 
 
-2. ANCIENT ASTRONOMY--THE CHINESE AND CHALDÆANS.
+2. ANCIENT ASTRONOMY--THE CHINESE AND CHALDï¿½ANS.
 
 
 The last section must have made clear the difficulties the way of
@@ -420,7 +420,7 @@ Tong-Kien-Kang-Mou_.
 
 Bailly, in his _Astronomie Ancienne_ (1781), drew, from these and
 other sources, the conclusion that all we know of the astronomical
-learning of the Chinese, Indians, Chaldæans, Assyrians, and Egyptians
+learning of the Chinese, Indians, Chaldï¿½ans, Assyrians, and Egyptians
 is but the remnant of a far more complete astronomy of which no trace
 can be found.
 
@@ -499,7 +499,7 @@ Omar. He burnt all the books because he held that they must be either
 consistent or inconsistent with the Koran, and in the one case they
 were superfluous, in the other case objectionable.
 
-_Chaldæans_.--Until the last half century historians were
+_Chaldï¿½ans_.--Until the last half century historians were
 accustomed to look back upon the Greeks, who led the world from the
 fifth to the third century B.C., as the pioneers of art, literature,
 and science. But the excavations and researches of later years make us
@@ -511,7 +511,7 @@ however, the records of the libraries have been unearthed it has been
 recognised that the Babylonians were in no way inferior in the matter
 of original scientific investigation to other races of the same era.
 
-The Chaldæans, being the most ancient Babylonians, held the same
+The Chaldï¿½ans, being the most ancient Babylonians, held the same
 station and dignity in the State as did the priests in Egypt, and
 spent all their time in the study of philosophy and astronomy, and the
 arts of divination and astrology. They held that the world of which we
@@ -564,7 +564,7 @@ partial lunar eclipse at Babylon in the seventh year of Cambyses, on
 the fourteenth day of the Jewish month Tammuz."  Ptolemy, in the
 Almagest (Suntaxis), says it occurred in the seventh year of Cambyses,
 on the night of the seventeenth and eighteenth of the Egyptian month
-Phamenoth.  Pingré and Oppolzer fix the date July 16th, 533 B.C. Thus
+Phamenoth.  Pingrï¿½ and Oppolzer fix the date July 16th, 533 B.C. Thus
 are the relations of the chronologies of Jews and Egyptians
 established by these explorations.
 
@@ -717,7 +717,7 @@ be at least nineteen times as far off as the moon, which is far short
 of the mark. He also found the sun's diameter, correctly, to be half a
 degree.  Eratosthenes (276-196 B.C.) measured the inclination to the
 equator of the sun's apparent path in the heavens--i.e., he
-measured the obliquity of the ecliptic, making it 23° 51', confirming
+measured the obliquity of the ecliptic, making it 23ï¿½ 51', confirming
 our knowledge of its continuous diminution during historical times. He
 measured an arc of meridian, from Alexandria to Syene (Assuan), and
 found the difference of latitude by the length of a shadow at noon,
@@ -740,7 +740,7 @@ sun from the excentric passes over equal arcs on the equant in equal
 times. He then computed tables for predicting the place of the sun.
 
 He proceeded in the same way to compute Lunar tables. Making use of
-Chaldæan eclipses, he was able to get an accurate value of the moon's
+Chaldï¿½an eclipses, he was able to get an accurate value of the moon's
 mean motion.  [Halley, in 1693, compared this value with his own
 measurements, and so discovered the acceleration of the moon's mean
 motion. This was conclusively established, but could not be explained
@@ -761,7 +761,7 @@ rewarded by a discovery in a totally different direction. On comparing
 his star positions with those of Timocharis and Aristillus he round no
 stars that had appeared or disappeared in the interval of 150 years;
 but he found that all the stars seemed to have changed their places
-with reference to that point in the heavens where the ecliptic is 90°
+with reference to that point in the heavens where the ecliptic is 90ï¿½
 from the poles of the earth--i.e., the equinox. He found that this
 could be explained by a motion of the equinox in the direction of the
 apparent diurnal motion of the stars. This discovery of _precession of
@@ -782,7 +782,7 @@ when the Great Pyramid may have been built gamma Draconis was near to the
 pole, and must have been used as the pole-star. In the north face of
 the Great Pyramid is the entrance to an inclined passage, and six of
 the nine pyramids at Gizeh possess the same feature; all the passages
-being inclined at an angle between 26° and 27° to the horizon and in
+being inclined at an angle between 26ï¿½ and 27ï¿½ to the horizon and in
 the plane of the meridian. It also appears that 4,000 years
 ago--i.e., about 2100 B.C.--an observer at the lower end of the
 passage would be able to see gamma Draconis, the then pole-star, at its
@@ -790,7 +790,7 @@ lower culmination.[1] It has been suggested that the passage was made
 for this purpose. On other grounds the date assigned to the Great
 Pyramid is 2123 B.C.
 
-(2) The Chaldæans gave names to constellations now invisible from
+(2) The Chaldï¿½ans gave names to constellations now invisible from
 Babylon which would have been visible in 2000 B.C., at which date it
 is claimed that these people were studying astronomy.
 
@@ -881,7 +881,7 @@ Plaeiadas t' esoronte kai opse duonta bootaen
 'Ae t' autou strephetai kai t' Oriona dokeuei,
 Oin d'ammoros esti loetron Okeanoio.
 
-"The Pleiades and Boötes that setteth late, and the Bear,
+"The Pleiades and Boï¿½tes that setteth late, and the Bear,
 which they likewise call the Wain, which turneth ever in one
 place, and keepeth watch upon Orion, and alone hath no part in
 the baths of the ocean."
@@ -927,7 +927,7 @@ first since the time of Hipparchus.
 At the close of the fifteenth century King Alphonso of Spain employed
 computers to produce the Alphonsine Tables (1488 A.D.), Purbach
 translated Ptolemy's book, and observations were carried out in
-Germany by Müller, known as Regiomontanus, and Waltherus.
+Germany by Mï¿½ller, known as Regiomontanus, and Waltherus.
 
 Nicolai Copernicus, a Sclav, was born in 1473 at Thorn, in Polish
 Prussia. He studied at Cracow and in Italy. He was a priest, and
@@ -981,7 +981,7 @@ now know, to the disturbing attraction of the sun.  To correct for
 these irregularities Copernicus introduced epicycle on epicycle in the
 lunar orbit.
 
-This is in its main features the system propounded by Copernicus. But
+This is in its Indexer.main features the system propounded by Copernicus. But
 attention must, to state the case fully, be drawn to two points to be
 found in his first and sixth books respectively. The first point
 relates to the seasons, and it shows a strange ignorance of the laws
@@ -1111,7 +1111,7 @@ calculations, both in astronomy and physics generally.
 [Illustration: "QUADRANS MURALIS SIVE TICHONICUS."  With portrait of
 Tycho Brahe, instruments, etc., painted on the wall; showing
 assistants using the sight, watching the clock, and recording.  (From
-the author's copy of the _Astronomiæ Instauratæ Mechanica._)]
+the author's copy of the _Astronomiï¿½ Instauratï¿½ Mechanica._)]
 
 
 FOOTNOTES:
@@ -1227,8 +1227,8 @@ visible angle smaller. Helmholtz has defined the minimum angle
 measurable with the naked eye as being one minute of arc. In view of
 this it is simply marvellous that, when the positions of Tycho's
 standard stars are compared with the best modern catalogues, his
-probable error in right ascension is only ± 24", 1, and in declination
-only ± 25", 9.
+probable error in right ascension is only ï¿½ 24", 1, and in declination
+only ï¿½ 25", 9.
 
 Clocks of a sort had been made, but Tycho Brahe found them so
 unreliable that he seldom used them, and many of his position-measurements
@@ -1347,7 +1347,7 @@ It has seemed to many that Plato's demand for uniform circular motion
 (linear or angular) was responsible for a loss to astronomy of good
 work during fifteen hundred years, for a hundred ill-considered
 speculative cosmogonies, for dissatisfaction, amounting to disgust,
-with these _à priori_ guesses, and for the relegation of the
+with these _ï¿½ priori_ guesses, and for the relegation of the
 science to less intellectual races than Greeks and other Europeans.
 Nobody seemed to dare to depart from this fetish of uniform angular
 motion and circular orbits until the insight, boldness, and
@@ -1861,7 +1861,7 @@ tables, and has compared them with the values assigned by Newton from
 his theory; and the comparison is very remarkable.
 
                                      Newton.      Modern Tables.
-                                      ° '  "         ° ' "
+                                      ï¿½ '  "         ï¿½ ' "
 Mean monthly motion of Apses         1.31.28         3.4.0
 Mean annual motion of nodes         19.18.1,23     19.21.22,50
 Mean value of "variation"              36.10          35.47
@@ -2053,7 +2053,7 @@ reliable observations of comets he could find, to the number of
 twenty-four, and computed their parabolic orbits by the rules laid
 down by Newton. His object was to find out if any of them really
 travelled in elongated ellipses, practically undistinguishable, in the
-visible part of their paths, from parabolæ, in which case they would
+visible part of their paths, from parabolï¿½, in which case they would
 be seen more than once. He found two old comets whose orbits, in shape
 and position, resembled the orbit of a comet observed by himself in
 1682.  Apian observed one in 1531; Kepler the other in 1607.  The
@@ -2170,7 +2170,7 @@ was adopted. The new planet was found to rank in size next to Jupiter
 and Saturn, being 4.3 times the diameter of the earth.
 
 In 1787 Herschel discovered two satellites, both revolving in nearly
-the same plane, inclined 80° to the ecliptic, and the motion of both
+the same plane, inclined 80ï¿½ to the ecliptic, and the motion of both
 was retrograde.
 
 In 1772, before Herschel's discovery, Bode[1] had discovered a curious
@@ -2209,11 +2209,11 @@ the truant, and Piazzi christened it Ceres.
 
 The mean distance from the sun was found to be 2.767, agreeing with
 the 2.8 given by Bode's law. Its orbit was found to be inclined over
-10° to the ecliptic, and its diameter was only 161 miles.
+10ï¿½ to the ecliptic, and its diameter was only 161 miles.
 
 On March 28th, 1802, Olbers discovered a new seventh magnitude star,
 which turned out to be a planet resembling Ceres. It was called
-Pallas. Gauss found its orbit to be inclined 35° to the ecliptic, and
+Pallas. Gauss found its orbit to be inclined 35ï¿½ to the ecliptic, and
 to cut the orbit of Ceres; whence Olbers considered that these might
 be fragments of a broken-up planet. He then commenced a search for
 other fragments. In 1804 Harding discovered Juno, and in 1807 Olbers
@@ -2283,7 +2283,7 @@ called on him Airy was away from home, but at the end of October,
 results, which had, for the most part, reduced the discrepancies to
 about 1". As a matter of fact, it has since been found that the
 heliocentric place of the new planet then given was correct within
-about 2°.
+about 2ï¿½.
 
 Airy wrote expressing his interest, and asked for particulars about
 the radius vector. Adams did not then reply, as the answer to this
@@ -2308,9 +2308,9 @@ as the result proved.
 In June, 1846, Le Verrier announced, in the _Comptes Rendus de
 l'Academie des Sciences_, that the longitude of the disturbing planet,
 for January 1st, 1847, was 325, and that the probable error did not
-exceed 10°.
+exceed 10ï¿½.
 
-This result agreed so well with Adams's (within 1°) that Airy urged
+This result agreed so well with Adams's (within 1ï¿½) that Airy urged
 Challis to apply the splendid Northumberland equatoreal, at Cambridge,
 to the search.  Challis, however, had already prepared an exhaustive
 plan of attack which must in time settle the point.  His first work
@@ -2468,7 +2468,7 @@ with Chinese dragons and emblems cast on the supports. He also saw
 there two old instruments (which he was told were Arabic) of date
 1279, by Ko Show-King, astronomer to Koblai Khan, the grandson of
 Chenghis Khan. One of these last is nearly identical with the armillae
-of Tycho; and the other with his "armillae æquatoriæ maximæ," with
+of Tycho; and the other with his "armillae ï¿½quatoriï¿½ maximï¿½," with
 which he observed the comet of 1585, besides fixed stars and
 planets.[3]
 
@@ -2521,7 +2521,7 @@ behind him a catalogue of 1,500 stars.
 
 Flamsteed began his duties at Greenwich Observatory, as first
 Astronomer Royal, in 1676, with very poor instruments. In 1683 he put
-up a mural arc of 140°, and in 1689 a better one, seventy-nine inches
+up a mural arc of 140ï¿½, and in 1689 a better one, seventy-nine inches
 radius.  He conducted his measurements with great skill, and
 introduced new methods to attain accuracy, using certain stars for
 determining the errors of his instruments; and he always reduced his
@@ -2547,7 +2547,7 @@ year required by the parallax. This led him to the discovery of the
 the founder of the modern system of accurate observation. He died in
 1762, leaving behind him thirteen folio volumes of valuable but
 unreduced observations. Those relating to the stars were reduced by
-Bessel and published in 1818, at Königsberg, in his well-known
+Bessel and published in 1818, at Kï¿½nigsberg, in his well-known
 standard work, _Fundamenta Astronomiae_. In it are results showing the
 laws of refraction, with tables of its amount, the maximum value of
 aberration, and other constants.
@@ -2728,7 +2728,7 @@ But the remarkably erratic minor planet, Eros, discovered by Witte in
 and, with the aid of photography, will certainly give us the best
 result. A large number of observatories combined to observe the
 opposition of 1900. Their results are not yet completely reduced, but
-the best value deduced so far for the parallax[6] is 8".807 ±
+the best value deduced so far for the parallax[6] is 8".807 ï¿½
 0".0028.[7]
 
 
@@ -2957,7 +2957,7 @@ in the direction of the line of sight.
 
 In 1873 Vogel[7] compared the spectra of the sun's East (approaching)
 limb and West (receding) limb, and the displacement of lines endorsed
-the theory. This last observation was suggested by Zöllner.
+the theory. This last observation was suggested by Zï¿½llner.
 
 
 FOOTNOTES:
@@ -2983,7 +2983,7 @@ rusty_."
 its meaning;. But Sir George G. Stokes had already given verbally the
 true explanation of Frauenhofer lines.
 
-[5] _Abh. d. Kön. Böhm. d. Wiss_., Bd. ii., 1841-42, p. 467. See
+[5] _Abh. d. Kï¿½n. Bï¿½hm. d. Wiss_., Bd. ii., 1841-42, p. 467. See
 also Fizeau in the _Ann. de Chem. et de Phys_., 1870, p. 211.
 
 [6] _R. S. Phil. Trans_., 1868.
@@ -3105,11 +3105,11 @@ which received much notice, but which, out of respect for his memory,
 is not now described, as it violated the elementary laws of heat.
 
 Sir John Herschel noticed that the spots are mostly confined to two
-zones extending to about 35° on each side of the equator, and that a
+zones extending to about 35ï¿½ on each side of the equator, and that a
 zone of equatoreal calms is free from spots. But it was
 R. C. Carrington[4] who, by his continuous observations at Redhill, in
 Surrey, established the remarkable fact that, while the rotation
-period in the highest latitudes, 50°, where spots are seen, is
+period in the highest latitudes, 50ï¿½, where spots are seen, is
 twenty-seven-and-a-half days, near the equator the period is only
 twenty-five days. His splendid volume of observations of the sun led
 to much new information about the average distribution of spots at
@@ -3185,7 +3185,7 @@ of the total solar eclipse stereoscopically, to prove that the red
 prominences belong to the sun, and not to the moon.  In 1861 he
 similarly combined two photographs of a sun-spot, the perspective
 effect showing the umbra like a floor at the bottom of a hollow
-penumbra; and in one case the faculæ were discovered to be sailing
+penumbra; and in one case the faculï¿½ were discovered to be sailing
 over a spot apparently at some considerable height.  These appearances
 may be partly due to a proper motion; but, so far as it went, this was
 a beautiful confirmation of Wilson's discovery. Hewlett, however, in
@@ -3193,7 +3193,7 @@ a beautiful confirmation of Wilson's discovery. Hewlett, however, in
 depressions, being very subject to disturbance.
 
 The Kew photographs [7] contributed a vast amount of information about
-sun-spots, and they showed that the faculæ generally follow the spots
+sun-spots, and they showed that the faculï¿½ generally follow the spots
 in their rotation round the sun.
 
 The constitution of the sun's photosphere, the layer which is the
@@ -3244,7 +3244,7 @@ slit the photographic plate is moved at the same rate and in the same
 direction behind the second slit; and as successive sections of the
 sun's image in the equatoreal enter the apparatus, so are these
 sections successively thrown in their proper place on the photographic
-plate, always in K light. By using a high dispersion the faculæ which
+plate, always in K light. By using a high dispersion the faculï¿½ which
 give off K light can be correctly photographed, not only at the sun's
 edge, but all over his surface. The actual mechanical method of
 carrying out the observation is not quite so simple as what is here
@@ -3259,7 +3259,7 @@ forms shown on the two. This mode of research promises to afford many
 new and useful data.
 
 The spectroscope has revealed the fact that, broadly speaking, the sun
-is composed of the same materials as the earth. Ångstrom was the first
+is composed of the same materials as the earth. ï¿½ngstrom was the first
 to map out all of the lines to be found in the solar spectrum. But
 Rowland, of Baltimore, after having perfected the art of making true
 gratings with equidistant lines ruled on metal for producing spectra,
@@ -3315,7 +3315,7 @@ On September 19th, 1868, eclipse spectroscopy began with the Indian
 eclipse, in which all observers found that the red prominences showed
 a bright line spectrum, indicating the presence of hydrogen and other
 gases.  So bright was it that Jansen exclaimed: "_Je verrai ces
-lignes-là en dehors des éclipses_." And the next day he observed the
+lignes-lï¿½ en dehors des ï¿½clipses_." And the next day he observed the
 lines at the edge of the uneclipsed sun.  Huggins had suggested this
 observation in February, 1868, his idea being to use prisms of such
 great dispersive power that the continuous spectrum reflected by our
@@ -3371,10 +3371,10 @@ FOOTNOTES:
 
 [3] _Ibid_, 1783.
 
-[4] _Observations on the Spots on the Sun, etc.,_ 4°; London and
+[4] _Observations on the Spots on the Sun, etc.,_ 4ï¿½; London and
 Edinburgh, 1863.
 
-[5] _Periodicität der Sonnenflecken. Astron. Nach. XXI._, 1844,
+[5] _Periodicitï¿½t der Sonnenflecken. Astron. Nach. XXI._, 1844,
 P. 234.
 
 [6] _R.S. Phil. Trans._ (ser. A), 1906, p. 69-100.
@@ -3405,15 +3405,15 @@ _uniformly_, and that her revolution round the earth is not
 uniform.
 
 Galileo said that the mountains on the moon showed greater differences
-of level than those on the earth.  Shröter supported this
-opinion. W. Herschel opposed it. But Beer and Mädler measured the
+of level than those on the earth.  Shrï¿½ter supported this
+opinion. W. Herschel opposed it. But Beer and Mï¿½dler measured the
 heights of lunar mountains by their shadows, and found four of them
 over 20,000 feet above the surrounding plains.
 
 Langrenus [1] was the first to do serious work on selenography, and
 named the lunar features after eminent men. Riccioli also made lunar
 charts. In 1692 Cassini made a chart of the full moon. Since then we
-have the charts of Schröter, Beer and Mädler (1837), and of Schmidt,
+have the charts of Schrï¿½ter, Beer and Mï¿½dler (1837), and of Schmidt,
 of Athens (1878); and, above all, the photographic atlas by Loewy and
 Puiseux.
 
@@ -3453,7 +3453,7 @@ that the finest details of the moon, as seen in the largest telescope
 in the world, may be reproduced at a cost within the reach of all.
 
 No certain changes have ever been observed; but several suspicions
-have been expressed, especially as to the small crater _Linné_, in the
+have been expressed, especially as to the small crater _Linnï¿½_, in the
 _Mare Serenitatis_. It is now generally agreed that no certainty can
 be expected from drawings, and that for real evidence we must await
 the verdict of photography.
@@ -3466,7 +3466,7 @@ been surely recorded. The moon seems to be dead.
 The distance of the moon from the earth is just now the subject of
 re-measurement. The base line is from Greenwich to Cape of Good Hope,
 and the new feature introduced is the selection of a definite point on
-a crater (Mösting A), instead of the moon's edge, as the point whose
+a crater (Mï¿½sting A), instead of the moon's edge, as the point whose
 distance is to be measured.
 
 _The Inferior Planets_.--When the telescope was invented, the phases
@@ -3474,7 +3474,7 @@ of Venus attracted much attention; but the brightness of this planet,
 and her proximity to the sun, as with Mercury also, seemed to be a bar
 to the discovery of markings by which the axis and period of rotation
 could be fixed. Cassini gave the rotation as twenty-three hours, by
-observing a bright spot on her surface. Shröter made it 23h. 21m. 19s.
+observing a bright spot on her surface. Shrï¿½ter made it 23h. 21m. 19s.
 This value was supported by others. In 1890 Schiaparelli[2] announced
 that Venus rotates, like our moon, once in one of her revolutions, and
 always directs the same face to the sun. This property has also been
@@ -3499,11 +3499,11 @@ caps to ice and snow, and the dates of his observations indicated a
 melting of these ice-caps in the Martian summer.
 
 Schroter attributed the other markings on Mars to drifting clouds. But
-Beer and Mädler, in 1830-39, identified the same dark spots as being
+Beer and Mï¿½dler, in 1830-39, identified the same dark spots as being
 always in the same place, though sometimes blurred by mist in the
 local winter. A spot sketched by Huyghens in 1672, one frequently seen
 by W. Herschel in 1783, another by Arago in 1813, and nearly all the
-markings recorded by Beer and Mädler in 1830, were seen and drawn by
+markings recorded by Beer and Mï¿½dler in 1830, were seen and drawn by
 F. Kaiser in Leyden during seventeen nights of the opposition of 1862
 (_Ast. Nacht._, No. 1,468), whence he deduced the period of rotation
 to be 24h. 37m. 22s.,62--or one-tenth of a second less than the period
@@ -3583,7 +3583,7 @@ sun); and W. Herschel confirmed this in 1778-9.
 
 Jupiter's rapid rotation ought, according to Newton's theory, to be
 accompanied by a great flattening at the poles. Cassini had noted an
-oval form in 1691. This was confirmed by La Hire, Römer, and
+oval form in 1691. This was confirmed by La Hire, Rï¿½mer, and
 Picard. Pound measured the ellipticity = 1/(13.25).
 
 W. Herschel supposed the spots to be masses of cloud in the
@@ -3664,7 +3664,7 @@ amazement.
 In 1675 Cassini found the ring to be double, the concentric rings
 being separated by a black band--a fact which was placed beyond
 dispute by Herschel, who also found that the thickness of the ring
-subtends an angle less than 0".3. Shröter estimated its thickness at
+subtends an angle less than 0".3. Shrï¿½ter estimated its thickness at
 500 miles.
 
 Many speculations have been advanced to explain the origin and
@@ -3705,7 +3705,7 @@ satellites by Sir William Herschel in 1787, and of Neptune by Adams
 and Le Verrier in 1846, have been already described. Lassel added two
 more satellites to Uranus in 1851, and found Neptune's satellite in
 1846. All of the satellites of Uranus have retrograde motion, and
-their orbits are inclined about 80° to the ecliptic.
+their orbits are inclined about 80ï¿½ to the ecliptic.
 
 The spectroscope has shown the existence of an absorbing atmosphere on
 Jupiter and Saturn, and there are suspicions that they partake
@@ -3932,7 +3932,7 @@ his great joy, the three band images were clearly seen.
 
 [2] Such as _The World of Comets_, by A. Guillemin; _History of
 Comets_, by G. R. Hind, London, 1859; _Theatrum Cometicum_, by S. de
-Lubienietz, 1667; _Cometographie_, by Pingré, Paris, 1783; _Donati's
+Lubienietz, 1667; _Cometographie_, by Pingrï¿½, Paris, 1783; _Donati's
 Comet_, by Bond.
 
 [3] The investigations by Von Asten (of St. Petersburg) seem to
@@ -3941,7 +3941,7 @@ St. Petersburg), seem to discredit, the idea of a resisting medium.
 
 
 
-15. THE FIXED STARS AND NEBULÆ.
+15. THE FIXED STARS AND NEBULï¿½.
 
 
 Passing now from our solar system, which appears to be subject to the
@@ -3968,7 +3968,7 @@ other. W. Herschel was born at Hanover in 1738, came to England in
 1758 as a trained musician, and died in 1822. He studied science when
 he could, and hired a telescope, until he learnt to make his own
 specula and telescopes. He made 430 parabolic specula in twenty-one
-years. He discovered 2,500 nebulæ and 806 double stars, counted the
+years. He discovered 2,500 nebulï¿½ and 806 double stars, counted the
 stars in 3,400 guage-fields, and compared the principal stars
 photometrically.
 
@@ -4005,7 +4005,7 @@ Centauri, whose annual proper motion he found to amount to 3".6, in
 successor at the Cape, Maclear, reduced this to 0".92.
 
 In 1835 Struve assigned a doubtful parallax of 0".261 to Vega (alpha
-Lyræ). But Bessel's observations, between 1837 and 1840, of 61 Cygni,
+Lyrï¿½). But Bessel's observations, between 1837 and 1840, of 61 Cygni,
 a star with the large proper motion of over 5", established its annual
 parallax to be 0".3483; and this was confirmed by Peters, who found
 the value 0".349.
@@ -4042,7 +4042,7 @@ motion and parallax must also be known.
 
 When Huggins first applied the Doppler principle to measure velocities
 in the line of sight,[7] the faintness of star spectra diminished the
-accuracy; but Vögel, in 1888, overcame this to a great extent by long
+accuracy; but Vï¿½gel, in 1888, overcame this to a great extent by long
 exposures of photographic plates.
 
 It has often been noticed that stars which seem to belong to a group
@@ -4058,7 +4058,7 @@ motion, in the case of Pleiades and other groups.
 Maskelyne measured many proper motions of stars, from which W.
 Herschel[8] came to the conclusion that these apparent motions are for
 the most part due to a motion of the solar system in space towards a
-point in the constellation Hercules, R.A. 257°; N. Decl. 25°.  This
+point in the constellation Hercules, R.A. 257ï¿½; N. Decl. 25ï¿½.  This
 grand discovery has been amply confirmed, and, though opinions differ
 as to the exact direction, it happens that the point first indicated
 by Herschel, from totally insufficient data, agrees well with modern
@@ -4146,7 +4146,7 @@ delta Serpentis, 375 years; gamma Leonis, 1,200 years; epsilon Bootis,
 
 Twenty years later Sir John Herschel and Sir James South, after
 re-examination of these stars, confirmed[12] and extended the results,
-one pair of Coronæ having in the interval completed more than a whole
+one pair of Coronï¿½ having in the interval completed more than a whole
 revolution.
 
 It is, then, to Sir William Herschel that we owe the extension of the
@@ -4256,7 +4256,7 @@ variables of the Algol type.
 _New Stars_.--Extreme instances of variable stars are the new stars
 such as those detected by Hipparchus, Tycho Brahe, and Kepler, of
 which many have been found in the last half-century. One of the latest
-great "Novæ" was discovered in Auriga by a Scotsman, Dr. Anderson, on
+great "Novï¿½" was discovered in Auriga by a Scotsman, Dr. Anderson, on
 February 1st, 1892, and, with the modesty of his race, he communicated
 the fact to His Majesty's Astronomer for Scotland on an unsigned
 post-card.[18] Its spectrum was observed and photographed by Huggins
@@ -4284,7 +4284,7 @@ best than Capella, and discovered also by Dr. Anderson on February
 of the nebula, then it varied for some weeks by a couple of
 magnitudes, up and down, as if passing through separate nebular
 condensations. In February, 1902, it could still be seen with an
-opera-glass. As with the other Novæ, when it first dashed into the
+opera-glass. As with the other Novï¿½, when it first dashed into the
 nebula it was vaporised and gave a continuous spectrum with dark lines
 of hydrogen and helium. It showed no bright lines paired with the dark
 ones to indicate a train left behind; but in the end its own
@@ -4354,17 +4354,17 @@ The number of stars down to the fourteenth magnitude may be taken at
 about 30,000,000; and that of all the stars visible in the greatest
 modern telescopes is probably about 100,000,000.
 
-_Nebulæ and Star-clusters._--Our knowledge of nebulæ really dates from
+_Nebulï¿½ and Star-clusters._--Our knowledge of nebulï¿½ really dates from
 the time of W. Herschel. In his great sweeps of the heavens with his
 giant telescopes he opened in this direction a new branch of
-astronomy.  At one time he held that all nebulæ might be clusters of
+astronomy.  At one time he held that all nebulï¿½ might be clusters of
 innumerable minute stars at a great distance. Then he recognised the
-different classes of nebulæ, and became convinced that there is a
-widely-diffused "shining fluid" in space, though many so-called nebulæ
+different classes of nebulï¿½, and became convinced that there is a
+widely-diffused "shining fluid" in space, though many so-called nebulï¿½
 could be resolved by large telescopes into stars.  He considered that
 the Milky Way is a great star cluster, whose form may be conjectured
 from numerous star-gaugings. He supposed that the compact "planetary
-nebulæ" might show a stage of evolution from the diffuse nebulæ, and
+nebulï¿½" might show a stage of evolution from the diffuse nebulï¿½, and
 that his classifications actually indicate various stages of
 development. Such speculations, like those of the ancients about the
 solar system, are apt to be harmful to true progress of knowledge
@@ -4382,11 +4382,11 @@ Then his views were changed by the revelations due to the great
 discoveries of Lord Rosse with his gigantic refractor,[22] when one
 nebula after another was resolved into a cluster of minute stars. At
 that time the opinion gained ground that with increase of telescopic
-power this would prove to be the case with all nebulæ.
+power this would prove to be the case with all nebulï¿½.
 
 In 1864 all doubt was dispelled by Huggins[23] in his first examination
 of the spectrum of a nebula, and the subsequent extension of this
-observation to other nebulæ; thus providing a certain test which
+observation to other nebulï¿½; thus providing a certain test which
 increase in the size of telescopes could never have given. In 1864
 Huggins found that all true nebulae give a spectrum of bright
 lines. Three are due to hydrogen; two (discovered by Copeland) are
@@ -4395,7 +4395,7 @@ photographed in the spectrum of the Orion nebula. It seems to be
 pretty certain that all true nebulae are gaseous, and show almost
 exactly the same spectrum.
 
-Other nebulæ, and especially the white ones like that in Andromeda,
+Other nebulï¿½, and especially the white ones like that in Andromeda,
 which have not yet been resolved into stars, show a continuous
 spectrum; others are greenish and give no lines.
 
@@ -4415,13 +4415,13 @@ and discovered to the north of the Pleiades a huge diffuse nebulosity,
 in a region almost destitute of stars. By establishing a 10-inch
 instrument at an altitude of 6,000 feet, Barnard has revealed the wide
 distribution of nebular matter in the constellation Scorpio over a
-space of 4° or 5° square.  Barnard asserts that the "nebular
+space of 4ï¿½ or 5ï¿½ square.  Barnard asserts that the "nebular
 hypothesis" would have been killed at its birth by a knowledge of
 these photographs. Later he has used still more powerful instruments,
 and extended his discoveries.
 
-The association of stars with planetary nebulæ, and the distribution
-of nebulæ in the heavens, especially in relation to the Milky Way, are
+The association of stars with planetary nebulï¿½, and the distribution
+of nebulï¿½ in the heavens, especially in relation to the Milky Way, are
 striking facts, which will certainly bear fruit when the time arrives
 for discarding vague speculations, and learning to read the true
 physical structure and history of the starry universe.
@@ -4489,7 +4489,7 @@ guide to the direction of further labours; but be sure not to fall
 into the error of calling any mere hypothesis a theory.
 
 _Nebular Hypothesis._--The Nebular Hypothesis, which was first, as it
-were, tentatively put forward by Laplace as a note in his _Système du
+were, tentatively put forward by Laplace as a note in his _Systï¿½me du
 Monde_, supposes the solar system to have been a flat, disk-shaped
 nebula at a high temperature in rapid rotation. In cooling it
 condensed, leaving revolving rings at different distances from the
@@ -4598,7 +4598,7 @@ Anaxagoras, 14, 16
 Anaximander, 14
 Anaximenes, 14
 Anderson, T. D., 137, 138
-Ångstrom, A. J., 102
+ï¿½ngstrom, A. J., 102
 Antoniadi, 113
 Apian, P., 63
 Apollonius, 22, 23
@@ -4617,7 +4617,7 @@ Backlund, 122
 Bacon, R., 86
 Bailly, 8, 65
 Barnard, E. E., 115, 143
-Beer and Mädler, 107, 110, 111
+Beer and Mï¿½dler, 107, 110, 111
 Behaim, 74
 Bessel, F.W., 65, 79, 128, 134, 139
 Biela, 123
@@ -4642,7 +4642,7 @@ Carrington, R. C., 97, 99, 114
 Cassini, G. D., 107, 114, 115, 116, 117, 118
 Cassini, J., 109, 129
 Chacornac, 139
-Chaldæan astronomy, 11-13
+Chaldï¿½an astronomy, 11-13
 Challis, J., 69, 70, 71, 72
 Chance, 88
 Charles, II., 50, 81
@@ -4849,7 +4849,7 @@ Photography, 99
 Piazzi, G., 67, 128, 129, 139
 Picard, 54, 77, 114
 Pickering, E.C., 118, 135
-Pingré, 13, 122
+Pingrï¿½, 13, 122
 Plana, 65
 Planets and satellites, physical observations, 109-119
 Plato, 17, 23, 26, 40
@@ -4871,12 +4871,12 @@ Pythagoras, 14, 17, 25, 29
 Ramsay, W., 106
 Ransome and May, 81
 Reflecting telescopes invented, 87
-Regiomontanus (Müller), 24
+Regiomontanus (Mï¿½ller), 24
 Respighi, 82
 Retrograde motion of planets, 22
 Riccioli, 107
 Roberts, 137
-Römer, O.,78, 114
+Rï¿½mer, O.,78, 114
 Rosse, Earl of, 88, 142
 Rowland, H. A., 92, 102
 Rudolph H.,37, 39
@@ -4889,7 +4889,7 @@ Schiaparelli, G. V., 110, 111, 124, 125
 Scheiner, C., 87, 95, 96
 Schmidt, 108
 Schott, 88
-Schröter, J. H., 107, 110, 111, 124, 125
+Schrï¿½ter, J. H., 107, 110, 111, 124, 125
 Schuster, 98
 Schwabe, G. H., 97
 Secchi, A., 93, 144
@@ -4923,7 +4923,7 @@ Telescopes invented, 47, 86;
 Temple, 115, 125
 Thales, 13, 16
 Theon, 60
-Transit circle of Römer, 78
+Transit circle of Rï¿½mer, 78
 Timocharis, 17, 19
 Titius, 66
 Torricelli, 113
@@ -4962,7 +4962,7 @@ Young, C. A., 103
 Yu-Chi, 8
 
 Zenith telescopes, 79, 82
-Zöllner, 92
+Zï¿½llner, 92
 Zucchi, 113
 
 

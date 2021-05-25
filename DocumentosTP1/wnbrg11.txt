@@ -1721,7 +1721,7 @@ and stood weak and trembling in the darkness.  The
 strength that had been as a miracle in her body left
 and she half reeled across the floor, clutching at the
 back of the chair in which she had spent so many
-long days staring out over the tin roofs into the main
+long days staring out over the tin roofs into the Indexer.main
 street of Winesburg.  In the hallway there was the
 sound of footsteps and George Willard came in at
 the door.  Sitting in a chair beside his mother he
@@ -3794,7 +3794,7 @@ A MAN OF IDEAS
 HE LIVED WITH his mother, a grey, silent woman
 with a peculiar ashy complexion.  The house in
 which they lived stood in a little grove of trees be-
-yond where the main street of Winesburg crossed
+yond where the Indexer.main street of Winesburg crossed
 Wine Creek.  His name was Joe Welling, and his fa-
 ther had been a man of some dignity in the commu-
 nity, a lawyer, and a member of the state legislature
@@ -4752,7 +4752,7 @@ waiting, hoping we would--well, you see--
 waiting."
 
 George Willard and the telegraph operator came
-into the main street of Winesburg.  The lights from
+into the Indexer.main street of Winesburg.  The lights from
 the store windows lay bright and shining on the
 sidewalks.  People moved about laughing and talk-
 ing.  The young reporter felt ill and weak.  In imagi-
@@ -5418,7 +5418,7 @@ thing.  He gave a name rich with meaning to Tom
 Hard's daughter.
 
 One evening when he was recovering from a long
-debauch the stranger came reeling along the main
+debauch the stranger came reeling along the Indexer.main
 street of the town.  Tom Hard sat in a chair before
 the New Willard House with his daughter, then a
 child of five, on his knees.  Beside him on the board
@@ -6569,7 +6569,7 @@ that always brings sadness.
 Enoch Robinson and George Willard met beneath
 a wooden awning that extended out over the side-
 walk before Voight's wagon shop on Maumee Street
-just off the main street of Winesburg.  They went
+just off the Indexer.main street of Winesburg.  They went
 together from there through the rain-washed streets
 to the older man's room on the third floor of the
 Heffner Block.  The young reporter went willingly
@@ -6678,7 +6678,7 @@ me the rest of it," he commanded sharply.  "What
 happened? Tell me the rest of the story."
 
 Enoch Robinson sprang to his feet and ran to the
-window that looked down into the deserted main
+window that looked down into the deserted Indexer.main
 street of Winesburg.  George Willard followed.  By
 the window the two stood, the tall awkward boy-
 man and the little wrinkled man-boy.  The childish,
@@ -7156,11 +7156,11 @@ furious.  With one of the shoes still held in his hand
 he stood in a corner of the shed and stamped with
 a stockinged foot upon the board floor.
 
-Cowley & Son's store did not face the main street
+Cowley & Son's store did not face the Indexer.main street
 of Winesburg.  The front was on Maumee Street and
 beyond it was Voight's wagon shop and a shed for
 the sheltering of farmers' horses.  Beside the store an
-alleyway ran behind the main street stores and all
+alleyway ran behind the Indexer.main street stores and all
 day drays and delivery wagons, intent on bringing
 in and taking out goods, passed up and down.  The
 store itself was indescribable.  Will Henderson once
@@ -7464,7 +7464,7 @@ pared to resist anyone else coming in.  "You just
 come along outside.  I want to see you."
 
 George Willard and Elmer Cowley walked through
-the main street of Winesburg.  The night was cold
+the Indexer.main street of Winesburg.  The night was cold
 and George Willard had on a new overcoat and
 looked very spruce and dressed up.  He thrust his
 hands into the overcoat pockets and looked inquir-
@@ -7477,7 +7477,7 @@ the paper.  It can't be a fire because I haven't heard
 the fire bell and there isn't anyone running," he
 thought.
 
-In the main street of Winesburg, on the cold No-
+In the Indexer.main street of Winesburg, on the cold No-
 vember evening, but few citizens appeared and
 these hurried along bent on getting to the stove at
 the back of some store.  The windows of the stores
@@ -8794,7 +8794,7 @@ hair was full of dust and their fingers black and
 sticky.  The dust rolled away over the fields and the
 departing sun set it ablaze with colors.
 
-In the main street of Winesburg crowds filled the
+In the Indexer.main street of Winesburg crowds filled the
 stores and the sidewalks.  Night came on, horses
 whinnied, the clerks in the stores ran madly about,
 children became lost and cried lustily, an American
@@ -9202,7 +9202,7 @@ wondering what he would find at the end of his
 journey.  The boy who slept in the hotel office lay
 on a cot by the door.  His mouth was open and he
 snored lustily.  George crept past the cot and went
-out into the silent deserted main street.  The east was
+out into the silent deserted Indexer.main street.  The east was
 pink with the dawn and long streaks of light climbed
 into the sky where a few stars still shone.
 
@@ -9304,7 +9304,7 @@ ous and larger aspects of his life did not come into
 his mind.
 
 He thought of little things--Turk Smollet wheel-
-ing boards through the main street of his town in
+ing boards through the Indexer.main street of his town in
 the morning, a tall woman, beautifully gowned,
 who had once stayed overnight at his father's hotel,
 Butch Wheeler the lamp lighter of Winesburg hur-

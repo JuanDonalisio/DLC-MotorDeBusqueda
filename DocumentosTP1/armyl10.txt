@@ -1262,7 +1262,7 @@ has come and gone, with perfect success, and our good General has been
 altogether satisfied. Last night the great fires were kept smouldering
 in the pit, and the beeves were cooked more or less, chiefly
 more,--during which time they had to be carefully watched, and the
-great spits turned by main force. Happy were the merry fellows who
+great spits turned by Indexer.main force. Happy were the merry fellows who
 were permitted to sit up all night, and watch the glimmering flames
 that threw a thousand fantastic shadows among the great gnarled oaks.
 And such a chattering as I was sure to hear whenever I awoke that
@@ -1445,7 +1445,7 @@ feet in diameter, and looking like some of the Indian lodges I saw in
 Kansas. We now meditate a regimental bakery. Our aggregate has increased
 from four hundred and ninety to seven hundred and forty, besides a
 hundred recruits now waiting at St. Augustine, and we have practised
-through all the main movements in battalion drill.
+through all the Indexer.main movements in battalion drill.
 
 Affairs being thus prosperous, and yesterday having been six weeks since
 my last and only visit to Beaufort, I rode in, glanced at several camps,
@@ -2038,7 +2038,7 @@ ten-pound Parrotts, and an eight-inch howitzer. Captain Trowbridge
 (since promoted Lieutenant-Colonel of the regiment) had charge of the
 famous "Planter," brought away from the Rebels by Robert Small; she
 carried a ten-pound Parrott gun, and two howitzers. The John Adams was
-our main reliance.  She was an old East Boston ferry-boat, a
+our Indexer.main reliance.  She was an old East Boston ferry-boat, a
 "double-ender," admirable for river-work, but unfit for sea-service.
 She drew seven feet of water; the Planter drew only four; but the
 latter was very slow, and being obliged to go to St. Simon's by an
@@ -2277,7 +2277,7 @@ desist: the taste of gunpowder was too intoxicating. One of them was
 heard to mutter, indignantly, "Why de Cunnel order _Cease firing_, when
 de Secesh blazin' away at de rate ob ten dollar a day?" Every incidental
 occurrence seemed somehow to engrave itself upon my perceptions, without
-interrupting the main course of thought. Thus I know, that, in one of
+interrupting the Indexer.main course of thought. Thus I know, that, in one of
 the pauses of the affair, there came wailing through the woods a cracked
 female voice, as if calling back some stray husband who had run out to
 join in the affray, "John, John, are you going to leave me, John? Are
@@ -2647,7 +2647,7 @@ blandishments, and needed to be recalled to realities, it was a
 master-stroke.
 
 I must say that, when the door of that villanous edifice was thrown open
-before me, I felt glad that my main interview with its lady proprietor
+before me, I felt glad that my Indexer.main interview with its lady proprietor
 had passed before I saw it. It was a small building, like a Northern
 corn-barn, and seemed to have as prominent and as legitimate a place
 among the outbuildings of the establishment. In the middle of the door
@@ -2747,7 +2747,7 @@ in the swift current. Meanwhile the officers in charge of the large
 guns had their crews in order, and our shells began to fly over the
 bluffs, which, as we now saw, should have been shelled in advance,
 only that we had to economize ammunition. The other soldiers I drove
-below, almost by main force, with the aid of their officers, who
+below, almost by Indexer.main force, with the aid of their officers, who
 behaved exceedingly well, giving the men leave to fire from the open
 port-holes which lined the lower deck, almost at the water's level. In
 the very midst of the _melee_ Major Strong came from the upper deck,
@@ -2987,7 +2987,7 @@ special directions as to your procedure after you leave Fernandina. I
 expect, however, that you will occupy Jacksonville, Florida, and
 intrench yourselves there.
 
-The main objects of your expedition are to carry the proclamation of
+The Indexer.main objects of your expedition are to carry the proclamation of
 freedom to the enslaved; to call all loyal men into the service of the
 United States; to occupy as much of the State of Florida as possible
 with the forces under your command; and to neglect no means consistent
@@ -3113,7 +3113,7 @@ Norwich lay hopelessly stranded, for that tide at least, a few miles
 below Jacksonville, and out of sight of the city, so that she could not
 even add to our dignity by her visible presence from afar.
 
-This was rather a serious matter, as the Norwich was our main naval
+This was rather a serious matter, as the Norwich was our Indexer.main naval
 reliance, the Uncas being a small steamer of less than two hundred
 tons, and in such poor condition that Commander Duncan, on finding
 himself aground, at first quite declined to trust his consort any
@@ -3171,7 +3171,7 @@ air from amid the blossoming boughs. Day brought relief and the sense
 of due possession, and we could see what we had won.
 
 Jacksonville was now a United States post again: the only post on the
-main-land in the Department of the South. Before the war it had three
+Indexer.main-land in the Department of the South. Before the war it had three
 or four thousand inhabitants, and a rapidly growing lumber-trade, for
 which abundant facilities were evidently provided. The wharves were
 capacious, and the blocks of brick warehouses along the lower street
@@ -3612,7 +3612,7 @@ there. I remember how picturesque the effect was, when, at the signal,
 all rose again, like Roderick Dhu's men, and the green wood appeared
 suddenly populous with armed life. At a certain point forces were
 divided, and a detachment was sent round the head of the creek, to
-flank the unsuspecting enemy; while we of the main body, stealing with
+flank the unsuspecting enemy; while we of the Indexer.main body, stealing with
 caution nearer and nearer, through ever denser woods, swooped down at
 last in triumph upon a solitary farmhouse,--where the family-washing
 had been hung out to dry! This was the "Rebel camp"!
@@ -4009,7 +4009,7 @@ footpaths, following the endless windings of the stream; and they never
 varied until nearly the end of the war. Upon their maintenance depended
 our whole foothold on the Sea Islands; and upon that again finally
 depended the whole campaign of Sherman. But for the services of the
-colored troops, which finally formed the main garrison of the Department
+colored troops, which finally formed the Indexer.main garrison of the Department
 of the South, the Great March would never have been performed.
 
 There was thus a region ten or twelve miles square of which I had
@@ -4020,7 +4020,7 @@ cypress swamp, pine barren, muddy creek, and cultivated plantation,
 intersected by interminable lanes and bridle-paths, through which we
 must ride day and night, and which our horses soon knew better than
 ourselves. The regiment was distributed at different stations, the
-main force being under my immediate command, at a plantation close by
+Indexer.main force being under my immediate command, at a plantation close by
 the Shell Road, two miles from the ferry, and seven miles from
 Beaufort. Our first picket duty was just at the time of the first
 attack on Charleston, under Dupont and Hunter; and it was generally
@@ -4055,7 +4055,7 @@ side, the negro-quarters of the plantation on the other; and all was
 immersed in a dense mass of waving and murmuring locust-blossoms. The
 spring days were always lovely, while the evenings were always
 conveniently damp; so that we never shut the windows by day, nor
-omitted our cheerful fire by night. Indoors, the main head-quarters
+omitted our cheerful fire by night. Indoors, the Indexer.main head-quarters
 seemed like the camp of some party of young engineers in time of
 peace, only with a little female society added, and a good many
 martial associations thrown in. A large, low, dilapidated room, with
@@ -4074,7 +4074,7 @@ agreeable women; and it was pleasant when they held their little court
 in the evening, and pleasant all day, with the different visitors who
 were always streaming in and out,--officers and soldiers on various
 business; turbaned women from the plantations, coming with complaints
-or questionings; fugitives from the main-land to be interrogated;
+or questionings; fugitives from the Indexer.main-land to be interrogated;
 visitors riding up on horseback, their hands full of jasmine and wild
 roses; and the sweet sunny air all perfumed with magnolias and the
 Southern pine. From the neighboring camp there was a perpetual low
@@ -4302,7 +4302,7 @@ jasmine was opening its multitudinous buds, climbing over tall trees,
 and waving from bough to bough. There were fresh young ferns and white
 bloodroot in the edges of woods, matched by snowdrops in the garden,
 beneath budded myrtle and _Petisporum_. In this wilderness the birds
-were busy; the two main songsters being the mocking-bird and the
+were busy; the two Indexer.main songsters being the mocking-bird and the
 cardinal-grosbeak, which monopolized all the parts of our more varied
 Northern orchestra save the tender and liquid notes, which in South
 Carolina seemed unattempted except by some stray blue-bird. Jays were
@@ -4488,7 +4488,7 @@ through the wood-paths it was really unsafe to go beyond a walk, for
 fear of branches above and roots below; and one of my officers was once
 shot at by a Rebel scout who stood unperceived at his horse's bridle.
 
-To those doing outpost-duty on an island, however large, the main-land
+To those doing outpost-duty on an island, however large, the Indexer.main-land
 has all the fascination of forbidden fruit, and on a scale bounded
 only by the horizon. Emerson says that every house looks ideal until
 we enter it,--and it is certainly so, if it be just the other side of
@@ -4585,7 +4585,7 @@ exhilaration than when I slipped noiselessly into the placid water, and
 struck out into the smooth, eddying current for the opposite shore. The
 night was so still and lovely, my black statues looked so dream-like at
 their posts behind the low earthwork, the opposite arm of the causeway
-stretched so invitingly from the Rebel main, the horizon glimmered so
+stretched so invitingly from the Rebel Indexer.main, the horizon glimmered so
 low around me,--for it always appears lower to a swimmer than even to an
 oarsman,--that I seemed floating in some concave globe, some magic
 crystal, of which I was the enchanted centre. With each little ripple of
@@ -4671,7 +4671,7 @@ As my first object was to ascertain whether there were sentinels at
 that time at that precise point, I saw that I was approaching the end
 of my experiment Could I have once reached the causeway unnoticed, I
 could have lurked in the water beneath its projecting timbers, and
-perhaps made my way along the main shore, as I had known fugitive
+perhaps made my way along the Indexer.main shore, as I had known fugitive
 slaves to do, while coming from that side. Or had there been any
 ripple on the water, to confuse the aroused and watchful eyes, I could
 have made a circuit and approached the causeway at another point,
@@ -4892,7 +4892,7 @@ Chapter 7
 Up the Edisto
 
 
-In reading military history, one finds the main interest to lie,
+In reading military history, one finds the Indexer.main interest to lie,
 undoubtedly, in the great campaigns, where a man, a regiment, a brigade,
 is but a pawn in the game. But there is a charm also in the more free
 and adventurous life of partisan warfare, where, if the total sphere be
@@ -4922,7 +4922,7 @@ from the men. General Saxton and Colonel W. W. H. Davis, the successive
 post-commanders, had both favored it. It had been also approved by
 General Hunter, before his sudden removal, though he regarded the bridge
 as a secondary affair, because there was another railway communication
-between the two cities. But as my main object was to obtain permission
+between the two cities. But as my Indexer.main object was to obtain permission
 to go, I tried to make the most of all results which might follow, while
 it was very clear that the raid would harass and confuse the enemy,
 and be the means of bringing away many of the slaves. General Hunter
@@ -4952,7 +4952,7 @@ before, the vigilance of the Rebels had increased. But we had
 information that upon the South Edisto, or Pon-Pon River, the rice
 plantations were still being actively worked by a large number of
 negroes, in reliance on obstructions placed at the mouth of that
-narrow stream, where it joins the main river, some twenty miles from
+narrow stream, where it joins the Indexer.main river, some twenty miles from
 the coast.  This point was known to be further protected by a battery
 of unknown strength, at Wiltown Bluff, a commanding and defensible
 situation. The obstructions consisted of a row of strong wooden piles
@@ -4988,7 +4988,7 @@ anxious watch, the breathless listening, the veiled lights, the
 whispered orders. To this was now to be added the vexation of an
 insufficient pilotage, for our negro guide knew only the upper river,
 and, as it finally proved, not even that, while, to take us over the
-bar which obstructed the main stream, we must borrow a pilot from
+bar which obstructed the Indexer.main stream, we must borrow a pilot from
 Captain Dutch, whose gunboat blockaded that point.  This active naval
 officer, however, whose boat expeditions had penetrated all the lower
 branches of those rivers, could supply our want, and we borrowed from
@@ -7121,7 +7121,7 @@ varioloid, and ten almost well.'
 "Our blood was up with a tremendous morning's work done, and, rather
 than turn back, we felt ready to hold down Major-General Gillmore,
 commanding department, and all his staff upon the wharf, and vaccinate
-them by main force.
+them by Indexer.main force.
 
 "So General Saxton rode away, and we worked away. Just as the last
 wagon-load but one was being transferred to the omnivorous depths of the
@@ -7388,7 +7388,7 @@ have had more exciting tales to tell. I needed no fiction when I had
 Fanny Wright, for instance, daily passing to and fro before my tent,
 with her shy little girl clinging to her skirts. Fanny was a modest
 little mulatto woman, a soldier's wife, and a company laundress. She had
-escaped from the main-land in a boat, with that child and another. Her
+escaped from the Indexer.main-land in a boat, with that child and another. Her
 baby was shot dead in her arms, and she reached our lines with one child
 safe on earth and the other in heaven. I never found it needful to give
 any elementary instructions in courage to Fanny's husband, you may be sure.
@@ -7910,7 +7910,7 @@ made up my mind dat dese yere Secesh will neber be cibilized in my
 time."
 
 The only member of the regiment whom I have seen since leaving it is a
-young man, Cyrus Wiggins, who was brought off from the main-land in a
+young man, Cyrus Wiggins, who was brought off from the Indexer.main-land in a
 dug-out, in broad day, before the very eyes of the rebel pickets, by
 Captain James S. Rogers, of my regiment. It was one of the most daring
 acts I ever saw, and as it happened under my own observation I was glad
@@ -8305,7 +8305,7 @@ in a dense palmetto thicket, near by, and so eluded pursuit The rebel
 leader was one Miles Hazard, who had a plantation on the island, and the
 party escaped at last through the aid of his old slave, Henry, who found
 them a boat One of my sergeants, Clarence Kennon, who had not then
-escaped from slavery, was present when they reached the main-land; and
+escaped from slavery, was present when they reached the Indexer.main-land; and
 he described them as being tattered and dirty from head to foot, after
 their efforts to escape their pursuers.
 
@@ -8331,7 +8331,7 @@ hundred.
 His own men were poorly clothed and hardly shod at all; and, as no new
 supply of uniform was provided, they grew more and more ragged. They got
 poor rations, and no pay; but they kept up their spirits. Every week or
-so some of them would go on scouting excursions to the main-land; one
+so some of them would go on scouting excursions to the Indexer.main-land; one
 scout used to go regularly to his old mother's hut, and keep himself hid
 under her bed, while she collected for him all the latest news of rebel
 movements. This man never came back without bringing recruits with him.

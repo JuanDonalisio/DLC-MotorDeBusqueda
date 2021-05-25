@@ -857,7 +857,7 @@ Literature," which is so much to the purpose of my argument,
 that I venture to quote it in full:--
 
 <quote>
-The main and certain results of this review are that the
+The Indexer.main and certain results of this review are that the
 teraphim were rude human images; that the use of them was an
 antique Aramaic custom; that there is reason to suppose them to
 have been images of deceased ancestors; that they were consulted
@@ -2660,7 +2660,7 @@ orthodox Christians.
 mastication of Brutus, Cassius, and Judas Iscariot--
    "Da ogni bocca dirompea co' denti
       Un peccatore, a guisa di maciulla,
-      Si che tre ne facea così dolenti.
+      Si che tre ne facea cosï¿½ dolenti.
     A quel dinanzi il mordere era nulla,
       Verso 'l graffiar, che tal volta la schiena
       Rimanea della pelle tutta brulla"--

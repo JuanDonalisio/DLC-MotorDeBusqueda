@@ -3978,7 +3978,7 @@ intended to guard was precisely the same danger which afterwards
 was made the ground of war. It will be difficult to prove that a
 danger which was sufficient to justify the war was insufficient
 to justify the provisions of the treaty. If, as Lord Mahon
-contends, it was better that Spain should be subjugated by main
+contends, it was better that Spain should be subjugated by Indexer.main
 force than that she should be governed by a Bourbon, it was
 surely better that she should be deprived of Sicily and the
 Milanese than that she should be governed by a Bourbon.
@@ -4774,7 +4774,7 @@ and the conquerors marched towards the capital.
 Philip was earnestly pressed by his advisers to remove the seat
 of government to Burgos. The advance guard of the allied army was
 already seen on the heights above Madrid. It was known that the
-main body was at hand. The unfortunate Prince fled with his Queen
+Indexer.main body was at hand. The unfortunate Prince fled with his Queen
 and his household. The royal wanderers, after travelling eight
 days on bad roads, under a burning sun, and sleeping eight nights
 in miserable hovels, one of which fell down and nearly crushed
@@ -4856,7 +4856,7 @@ reserved all their energy for what appeared to be a season of
 despair. Castile, Leon, Andalusia, Estremadura, rose at once;
 every peasant procured a firelock or a pike; the Allies were
 masters only of the ground on which they trod. No soldier could
-wander a hundred yards from the main body of the invading army
+wander a hundred yards from the Indexer.main body of the invading army
 without imminent risk of being poniarded. The country through
 which the conquerors had passed to Madrid, and which, as they
 thought, they had subdued, was all in arms behind them. Their
@@ -5436,7 +5436,7 @@ the country gentry; two classes of men who were then inferior in
 intelligence to decent shopkeepers or farmers of our time. Parson
 Barnabas, Parson Trulliber, Sir Wilful Witwould, Sir Francis
 Wronghead, Squire Western, Squire Sullen, such were the people
-who composed the main strength of the Tory party during the sixty
+who composed the Indexer.main strength of the Tory party during the sixty
 years which followed the Revolution. It is true that the means by
 which the Tories came into power in 1710 were most disreputable.
 It is true that the manner in which they used their power was
@@ -5576,7 +5576,7 @@ much more valuable soldier. But to Frederic William, this huge
 Irishman was what a brass Otho, or a Vinegar Bible, is to a
 collector of a different kind.
 
-It is remarkable, that though the main end of Frederic William's
+It is remarkable, that though the Indexer.main end of Frederic William's
 administration was to have a great military force, though his
 reign forms an important epoch in the history of military
 discipline, and though his dominant passion was the love of
@@ -5988,7 +5988,7 @@ war; and, if it were set aside, the effect would be, that the
 equilibrium of Europe would be deranged, that the loyal and
 patriotic feelings of millions would be cruelly outraged, and
 that great provinces which had been united for centuries would be
-torn from each other by main force.
+torn from each other by Indexer.main force.
 
 The sovereigns of Europe were, therefore, bound by every
 obligation which those who are intrusted with power over their
@@ -12694,7 +12694,7 @@ protection of the persons and property of men.
 
 We think that Government, like every other contrivance of human
 wisdom, from the highest to the lowest, is likely to answer its
-main end best when it is constructed with a single view to that
+Indexer.main end best when it is constructed with a single view to that
 end. Mr. Gladstone, who loves Plato, will not quarrel with us for
 illustrating our proposition, after Plato's fashion, from the
 most familiar objects. Take cutlery, for example. A blade which
@@ -12705,15 +12705,15 @@ probability, exhibit very bad pictures and discount very bad
 bills. A gas company, which should also be an infant school
 society, would, we apprehend, light the streets ill, and teach
 the children ill. On this principle, we think that Government
-should be organised solely with a view to its main end; and that
+should be organised solely with a view to its Indexer.main end; and that
 no part of its efficiency for that end should be sacrificed in
 order to promote any other end however excellent.
 
 But does it follow from hence that Governments ought never to
-pursue any end other than their main end? In no wise. Though it
-is desirable that every institution should have a main end, and
+pursue any end other than their Indexer.main end? In no wise. Though it
+is desirable that every institution should have a Indexer.main end, and
 should be so formed as to be in the highest degree efficient for
-that main end; yet if, without any sacrifice of its efficiency
+that Indexer.main end; yet if, without any sacrifice of its efficiency
 for that end, it can pursue any other good end, it ought to do
 so. Thus, the end for which a hospital is built is the relief of
 the sick, not the beautifying of the street. To sacrifice the
@@ -12727,9 +12727,9 @@ hospital can be made an ornament to the metropolis, it would be
 absurd not to make it so.
 
 In the same manner, if a Government can, without any sacrifice of
-its main end, promote any other good work, it ought to do so. The
+its Indexer.main end, promote any other good work, it ought to do so. The
 encouragement of the fine arts, for example, is by no means the
-main end of Government; and it would be absurd, in constituting a
+Indexer.main end of Government; and it would be absurd, in constituting a
 Government, to bestow a thought on the question, whether it would
 be a Government likely to train Raphaels or Domenichinos. But it
 by no means follows that it is improper for a Government to form
@@ -12740,14 +12740,14 @@ of journeys and voyages for purposes of geographical discovery or
 astronomical observation. It is not for these ends that
 Government is constituted. But it may well happen that a
 Government may have at its command resources which will enable
-it, without any injury to its main end, to pursue these
+it, without any injury to its Indexer.main end, to pursue these
 collateral ends far more effectually than any individual or any
 voluntary association could do. If so, Government ought to pursue
 these collateral ends.
 
 It is still more evidently the duty of Government to promote,
-always in subordination to its main end, everything which is
-useful as a means for the attaining of that main end. The
+always in subordination to its Indexer.main end, everything which is
+useful as a means for the attaining of that Indexer.main end. The
 improvement of steam navigation, for example, is by no means a
 primary object of Government. But as steam vessels are useful for
 the purpose of national defence, and for the purpose of
@@ -12764,7 +12764,7 @@ ought therefore to promote this object, if it can do so without
 any sacrifice of its primary object. The education of the people,
 conducted on those principles of morality which are common to all
 the forms of Christianity, is highly valuable as a means of
-promoting the main object for which Government exists, and is on
+promoting the Indexer.main object for which Government exists, and is on
 this ground well deserving the attention of rulers. We will not
 at present go into the general question of education; but will
 confine our remarks to the subject which is more immediately
@@ -12772,7 +12772,7 @@ before us, namely, the religious instruction of the people.
 
 We may illustrate our view of the policy which Governments ought
 to pursue with respect to religious instruction, by recurring to
-the analogy of a hospital. Religious instruction is not the main
+the analogy of a hospital. Religious instruction is not the Indexer.main
 end for which a hospital is built; and to introduce into a
 hospital any regulations prejudicial to the health of the
 patients, on the plea of promoting their spiritual improvement,
@@ -12832,7 +12832,7 @@ them fester.
 
 Again, on our principles, all civil disabilities on account of
 religious opinions are indefensible. For all such disabilities
-make Government less efficient for its main end: they limit its
+make Government less efficient for its Indexer.main end: they limit its
 choice of able men for the administration and defence of the
 State; they alienate from it the hearts of the sufferers; they
 deprive it of a part of its effective strength in all contests
@@ -15187,7 +15187,7 @@ opportunities of paying little civilities, and by avoiding all
 that could produce collision, to tame the untameable ferocity of
 his old enemy.
 
-In the main, however, Bacon's life, while he held the Great Seal,
+In the Indexer.main, however, Bacon's life, while he held the Great Seal,
 was, in outward appearance, most enviable. In London he lived
 with great dignity at York House, the venerable mansion of his
 father. Here it was that, in January 1620, he celebrated his
@@ -29172,7 +29172,7 @@ Fierce through the air and flutter on the deep.
 Till from their caverns rush the maniac blasts,
 Tear the loose sails, and split the creaking masts,
 And the lash'd billows, rolling in a train,
-Rear their white heads, and race along the main"
+Rear their white heads, and race along the Indexer.main"
 
 What, we should like to know, is the difference between the two
 operations which Mr. Robert Montgomery so accurately

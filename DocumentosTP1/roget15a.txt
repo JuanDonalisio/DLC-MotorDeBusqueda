@@ -313,7 +313,7 @@ represent common words, prefixes or suffixes, have been expanded into the
 full words or phrases.
   (2) the side-by-side format for words and their opposites has been
 abandoned.  Words are listed in order of their entry number.
-  (3)  each main entry (1035 entries) has a pound sign "#" in front of the
+  (3)  each Indexer.main entry (1035 entries) has a pound sign "#" in front of the
 number to facilitate computerized search.
   (4) greek words and phrases are transliterated and included between
 brackets in the format <gr/greek word/gr>.
@@ -338,7 +338,7 @@ dictionary, or is noted there as being "ARCHAIC".
 1911 printed book is indicated by a comment of the form: <--  p.  23 -->.
 To search for a page, note that there are two spaces between the "p." and
 the page number.
-  (8)  This file contains only the main body of the thesaurus.  Neither
+  (8)  This file contains only the Indexer.main body of the thesaurus.  Neither
 outline nor index are contained here.  The outline with an overview of the
 organization of the concepts is contained in a separate file,
 "outline.doc", on the distribution disk.
@@ -512,7 +512,7 @@ bred in the bone, instinctive; inward, internal &c. 221; to the manner
 born; virtual.
      characteristic &c. (special) 79, (indicative) 550; invariable,
 incurable, incorrigible, ineradicable, fixed.
-     Adv. intrinsically &c. adj.; at bottom, in the main, in effect,
+     Adv. intrinsically &c. adj.; at bottom, in the Indexer.main, in effect,
 practically, virtually, substantially, au fond; fairly.
      Phr. " character is higher than intellect " [Emerson]; "come give us a
 taste of your quality "  magnos homines virtute metimur non fortuna [Lat][
@@ -1146,7 +1146,7 @@ saepe creat molles aspera spina rosas [Lat][Ovid].
 mass, heap &c. (assemblage) 72; stock &c. (store) 636; peck, bushel, load,
 cargo; cartload[obs3], wagonload, shipload; flood, spring tide; abundance
 &c. (sufficiency) 639.
-     principal part, chief part, main part, greater part, major part, best
+     principal part, chief part, Indexer.main part, greater part, major part, best
 part, essential part ; bulk, mass &c. (whole) 50.
      V. be great &c. adj.; run high, soar, tower, transcend; rise to a
 great height, carry  to a great height; know no bounds; ascend, mount.
@@ -1176,7 +1176,7 @@ finished.
      remarkable, of mark, marked, pointed, veriest; noteworthy; renowned.
      Adv.  truly &c. (truth) 494[in a positive degree]; decidedly,
 unequivocally, purely, absolutely, seriously, essentially, fundamentally,
-radically, downright, in all conscience; for the most part, in the main.
+radically, downright, in all conscience; for the most part, in the Indexer.main.
      [in a complete degree] entirely &c. (completely) 52; abundantly &c.
 (sufficiently) 639; widely, far and wide.
      [in a great or high degree] greatly &c. adj.; much, muckle[obs3],
@@ -1712,7 +1712,7 @@ Alpha and Omega, " be all and end all "; complex, complexus [obs3]; lock
 stock and barrel.
      bulk, mass, lump, tissue, staple, body, compages[obs3]; trunk, torso,
 bole, hull, hulk, skeleton greater part,  major part, best part, principal
-part, main part; essential part &c. (importance). 642; lion's share,
+part, Indexer.main part; essential part &c. (importance). 642; lion's share,
 Benjamin's mess; the long and the short; nearly, all, almost all.
      V. form a whole, constitute a whole; integrate, embody, amass;
 aggregate &c. (assemble) 72; amount to, come to.
@@ -1725,7 +1725,7 @@ undestroyed, unbruised.
      Adv. wholly, altogether; totally &c. (completely) 52; entirely, all,
 all in all, as a whole, wholesale, in a body, collectively, all put
 together; in the aggregate, in the lump, in the mass, in the gross, in the
-main, in the long run; en masse, as a body, on the whole, bodily|!, en
+Indexer.main, in the long run; en masse, as a body, on the whole, bodily|!, en
 bloc, in extenso[Lat], throughout, every inch; substantially.
      Phr. tout bien ou rien[Fr].
 
@@ -4133,7 +4133,7 @@ accidents, fickle finger of fate; cast of the dice, throw of the dice;
 heads or tails, flip of a coin, wheel of Fortune; sortes[obs3], sortes
 Virgilianae[obs3].
      probability, possibility, odds; long odds, run of luck;
-accidentalness; main chance, odds on, favorable odds.
+accidentalness; Indexer.main chance, odds on, favorable odds.
      contingency, dependence (uncertainty) 475; situation (circumstance) 8.
      statistics, theory of Probabilities, theory of Chances; bookmaking;
 assurance; speculation, gaming &c. 621.
@@ -4238,7 +4238,7 @@ combat[Fr], laid on the shelf.
 <--  p.  47  -->
 
      #159. [Degree of power.] Strength.-- N. strength; power &c. 157;
-energy &c. 171; vigor, force; main force, physical force, brute force;
+energy &c. 171; vigor, force; Indexer.main force, physical force, brute force;
 spring, elasticity, tone, tension, tonicity.
      stoutness &c. adj.; lustihood[obs3], stamina, nerve, muscle, sinew,
 thews and sinews, physique; pith, pithiness; virtility, vitality.
@@ -4270,7 +4270,7 @@ unexhausted[obs3]; in full force, in full swing; in the plenitude of power.
 strong as a horse, strong as an ox, strong as brandy; sound as a roach; in
 fine feather, in high feather; built like a brick shithouse; like a giant
 refreshed.
-     Adv. strongly &c. adj.; by force &c. n.; by main force &c. (by
+     Adv. strongly &c. adj.; by force &c. n.; by Indexer.main force &c. (by
 compulsion) 744.
      Phr. "our withers are unwrung" [Hamlet].
      Blut und Eisen[Ger]; coelitus mihi vires[Lat]; du fort au diable[Fr];
@@ -4567,7 +4567,7 @@ turbulence, bluster; uproar, callithump [obs3][U. S.], riot, row, rumpus,
 le diable a quatre[Fr], devil to pay, all the fat in the fire.
      severity &c. 739; ferocity, rage, fury; exacerbation, exasperation,
 malignity; fit, paroxysm; orgasm, climax, aphrodisia[obs3]; force, brute
-force; outrage; coup de main; strain, shock, shog[obs3]; spasm, convulsion,
+force; outrage; coup de Indexer.main; strain, shock, shog[obs3]; spasm, convulsion,
 throe; hysterics, passion &c. (state of excitability) 825.
      outbreak, outburst; debacle; burst, bounce, dissilience[obs3],
 discharge, volley, explosion, blow up, blast, detonation, rush, eruption,
@@ -4613,8 +4613,8 @@ immitigable, unmitigable[obs3]; uncontrollable, incontrollable[obs3];
 insuppressible, irrepressible; orgastic, orgasmatic, orgasmic.
      spasmodic, convulsive, explosive; detonating &c. v.; volcanic,
 meteoric; stormy &c. (wind) 349.
-     Adv. violently &c. adj.; amain[obs3]; by storm, by force, by main
-force; with might and main; tooth and nail, vi et armis[Lat], at the point
+     Adv. violently &c. adj.; amain[obs3]; by storm, by force, by Indexer.main
+force; with might and Indexer.main; tooth and nail, vi et armis[Lat], at the point
 of the sword, at the point of the bayonet; at one fell swoop; with a high
 hand, through thick and thin; in desperation, with a vengeance; a
 outrance[obs3], a toute outrance[Fr][obs3]; headlong, head foremost.
@@ -6623,7 +6623,7 @@ lich gate[obs3].
      way, path &c. 627; thoroughfare; channel; passage, passageway; tube,
 pipe; water pipe &c. 350; air pipe &c. 351; vessel, tubule, canal, gut,
 fistula; adjutage[obs3], ajutage[obs3]; ostium[obs3]; smokestack; chimney,
-flue, tap, funnel, gully, tunnel, main; mine, pit, adit[obs3], shaft;
+flue, tap, funnel, gully, tunnel, Indexer.main; mine, pit, adit[obs3], shaft;
 gallery.
      alley, aisle, glade, vista.
      bore, caliber; pore; blind orifice; fulgurite[obs3],
@@ -6812,7 +6812,7 @@ headway, sternway, leeway; fairway.
      flight, trip; shuttle, run, airlift.
      V. sail; put to sea &c. (depart) 293; take ship, get under way; set
 sail, spread sail, spread canvas; gather way, have way on; make sail, carry
-sail; plow the waves, plow the deep, plow the main, plow the ocean; walk
+sail; plow the waves, plow the deep, plow the Indexer.main, plow the ocean; walk
 the waters.
      navigate, warp, luff[obs3], scud, boom, kedge; drift, course, cruise,
 coast; hug the shore, hug the land; circumnavigate.
@@ -7588,7 +7588,7 @@ potage[obs3], broth, soup, consomme, puree, spoonmeat[obs3]; pie, pasty,
 volauvent[obs3]; pudding, omelet; pastry; sweets &c. 296; kickshaws[obs3];
 condiment &c. 393.
      appetizer, hors d'oeuvre[Fr].
-     main course,  entree.
+     Indexer.main course,  entree.
      alligator pear, apple &c., apple slump; artichoke; ashcake[obs3],
 griddlecake, pancake, flapjack; atole[obs3], avocado, banana, beche de
 mer[Fr], barbecue, beefsteak; beet root; blackberry, blancmange, bloater,
@@ -8403,7 +8403,7 @@ biscuit.
 
 <--  p.  99  -->
 
-     #341. Ocean -- N. sea, ocean, main, deep, brine, salt water, waves,
+     #341. Ocean -- N. sea, ocean, Indexer.main, deep, brine, salt water, waves,
 billows, high seas, offing, great waters, watery waste, "vasty deep"; wave,
 tide, &c. (water in motion) 348.
      hydrography, hydrographer; Neptune, Poseidon, Thetis, Triton, Naiad,
@@ -8565,7 +8565,7 @@ channel, duct, watercourse, race; head race, tail race; abito[obs3],
 aboideau[obs3], aboiteau[Fr], bito[obs3]; acequia[obs3], acequiador[obs3],
 acequiamadre[obs3]; arroyo; adit[obs3], aqueduct, canal, trough, gutter,
 pantile; flume, ingate[obs3], runner; lock-weir, tedge[obs3]; vena[obs3];
-dike, main, gully, moat, ditch, drain, sewer, culvert, cloaca, sough,
+dike, Indexer.main, gully, moat, ditch, drain, sewer, culvert, cloaca, sough,
 kennel, siphon; piscina[obs3]; pipe &c. (tube) 260; funnel; tunnel &c.
 (passage) 627; water pipe, waste pipe; emunctory[obs3], gully hole, artery,
 aorta, pore, spout, scupper; adjutage[obs3], ajutage[obs3]; hose; gargoyle;
@@ -13082,7 +13082,7 @@ afar; look into the future, pry into the future, peer into the future.
 the wind blows, test the waters, see how the cat jumps.
      anticipate; expect &c. 507; be beforehand &c. (early) 132; predict &c.
 511; foreknow, forejudge, forecast; presurmise[obs3]; have an eye to the
-future, have an eye to the main chance; respicere finem[Lat]; keep a sharp
+future, have an eye to the Indexer.main chance; respicere finem[Lat]; keep a sharp
 lookout &c. (vigilance) 459; forewarn &c. 668.
      Adj. foreseeing &c. v.; prescient; farseeing, farsighted; sagacious
 &c. (intelligent) 498; weatherwise[obs3]; provident &c. (prepared) 673;
@@ -16196,7 +16196,7 @@ under the guise of.
 %
 
      #618. Good. -- N. good, benefit, advantage; improvement &c. 658;
-greatest good, supreme good; interest, service, behoof, behalf; weal; main
+greatest good, supreme good; interest, service, behoof, behalf; weal; Indexer.main
 chance, summum bonum[Lat], common weal; "consummation devoutly to be
 wished"; gain, boot; profit, harvest.
      boon &c. (gift) 784; good turn; blessing; world of good; piece of good
@@ -16855,7 +16855,7 @@ weight &c. (influence) 175; value &c. (goodness) 648; usefulness &c. 644.
      gravity, seriousness, solemnity; no joke, no laughing matter;
 pressure, urgency, stress; matter of life and death.
      memorabilia, notabilia[obs3], great doings; red-letter day.
-     great thing, great point; main chance, "the be all and the end all "
+     great thing, great point; Indexer.main chance, "the be all and the end all "
 [Macbeth]; cardinal point; substance, gist &c. (essence) 5; sum and
 substance, gravamen, head and front; important part, principal part,
 prominent part, essential part; half the battle; sine qua non; breath of
@@ -16887,12 +16887,12 @@ eventful.
 imposing.
      urgent, pressing, critical, instant.
      paramount, essential, vital, all-absorbing, radical, cardinal, chief,
-main, prime, primary, principal, leading, capital, foremost, overruling; of
+Indexer.main, prime, primary, principal, leading, capital, foremost, overruling; of
 vital &c. importance.
      in the front rank, first-rate; superior &c. 33; considerable &c.
 (great) 31; marked &c. v.; rare &c. 137.
      significant, telling, trenchant, emphatic, pregnant; tanti[Lat].
-     Adv. materially &c. adj.; in the main; above all, <gr/kat'
+     Adv. materially &c. adj.; in the Indexer.main; above all, <gr/kat'
 exochin/gr>, par excellence, to crown all, to beat all.
      Phr. expende Hannibalem![Lat] [Juvenal].
 
@@ -18252,7 +18252,7 @@ exercise, excitation; movement, operation, evolution, work; labor &c.
 business &c. 625; agency &c. (power at work) 170.
      deed, act, overt act, stitch, touch, gest transaction[obs3], job,
 doings, dealings, proceeding, measure, step, maneuver, bout, passage, move,
-stroke, blow; coup, coup de main, coup d'etat[Fr]; tour de force &c.
+stroke, blow; coup, coup de Indexer.main, coup d'etat[Fr]; tour de force &c.
 (display) 882; feat, exploit; achievement &c. (completion) 729; handiwork,
 workmanship; manufacture; stroke of policy &c. (plan) 626.
      actor &c. (doer) 690.
@@ -18393,7 +18393,7 @@ business, busy as a bee, busy as a one-armed paperhanger.
 intrigant[obs3].
      astir, stirring; agoing[obs3], afoot; on foot; in full swing;
 eventful; on the alert, &c. (vigilant) 459.
-     Adv. actively &c. adj.; with life and spirit, with might and main &c.
+     Adv. actively &c. adj.; with life and spirit, with might and Indexer.main &c.
 686,with haste &c. 684, with wings; full tilt, in mediis rebus[Lat].
      Int. be alive, look alive, look sharp! move on, push on! keep moving!
 go ahead! stir your stumps! age quod agis[Lat]! jaldi[obs3]!  karo[obs3]!
@@ -18572,7 +18572,7 @@ wearisome; uphill; herculean, gymnastic, palestric[obs3].
      hard-working, painstaking; strenuous, energetic.
      hard at work, on the stretch.
      Adv. laboriously &c. adj.; lustily; pugnis et calcibus[Lat]; with
-might and main, with all one's might, with a strong hand, with a sledge
+might and Indexer.main, with all one's might, with a strong hand, with a sledge
 hammer, with much ado; to the best of one's abilities, totis viribus[Lat],
 vi et armis[Lat], manibus pedibusque[Lat], tooth and nail, unguibus et
 rostro[Lat], hammer and tongs, heart and soul; through thick and thin &c.
@@ -18873,7 +18873,7 @@ one's eye teeth, have cut one's wisdom teeth.
      see one's way, see where the wind lies, see which way the wind blows;
 have all one's wits about one, have one's hand in; savoir vivre[Fr]; scire
 quid valeant humeri quid ferre recusent[Lat][obs3].
-     look after the main chance; cut one's coat according to one's cloth;
+     look after the Indexer.main chance; cut one's coat according to one's cloth;
 live by one's wits; exercise one's discretion, feather the oar, sail near
 the wind; stoop to conquer &c. (cunning) 702; play one's cards well, play
 one's best card; hit the right nail on the head, put the saddle on the
@@ -19559,7 +19559,7 @@ on me; don't you dare; don't even think of it; "Go ahead, make my day!"
      #716. Attack. -- N. attack; assault, assault and battery; onset,
 onslaught, charge.
      aggression, offense; incursion, inroad, invasion; irruption; outbreak;
-estrapade[obs3], ruade[obs3]; coupe de main, sally, sortie, camisade[obs3],
+estrapade[obs3], ruade[obs3]; coupe de Indexer.main, sally, sortie, camisade[obs3],
 raid, foray; run at, run against; dead set at.
      storm, storming; boarding, escalade[obs3]; siege, investment,
 obsession|!, bombardment, cannonade.
@@ -20693,7 +20693,7 @@ command; as you wish; no sooner said than done.
 
      #744. Compulsion.-- N. compulsion, coercion, coaction[obs3],
 constraint, duress, enforcement, press, conscription.
-     force; brute force, main force, physical force; the sword, ultima
+     force; brute force, Indexer.main force, physical force; the sword, ultima
 ratio[Lat]; club law, lynch law, mob law, arguementum baculinum[obs3], le
 droit du plus fort[Fr], martial law.
      restraint &c. 751; necessity &c. 601; force majeure[Fr]; Hobson's
@@ -21436,7 +21436,7 @@ procuration[obs3], procurement; purchase, descent, inheritance; gift &c.
 &c. 790; redemption, salvage, trover[Law].
      find, trouvaille[obs3], foundling.
      gain, thrift; money-making, money grubbing; lucre, filthy lucre, pelf;
-loaves and fishes, the main chance; emolument &c. (remuneration) 973.
+loaves and fishes, the Indexer.main chance; emolument &c. (remuneration) 973.
      profit, earnings, winnings, innings, pickings, net profit; avails;
 income &c. (receipt) 810; proceeds, produce, product; outcome, output;
 return, fruit, crop, harvest; second crop, aftermath; benefit &c. (good)
@@ -22529,7 +22529,7 @@ one's cloth, make both ends meet, keep within compass, meet one's expenses,
 pay one's way, pay as you go; husband &c. (lay by) 636.
      save money, invest money; put out to interest; provide for a rainy
 day, save for a rainy day, provide against a rainy day, save against a
-rainy day; feather one's nest; look after the main chance.
+rainy day; feather one's nest; look after the Indexer.main chance.
      cut costs.
      Adj. economical, frugal, careful, thrifty, saving, chary, spare,
 sparing; parsimonious &c.819.
@@ -24460,7 +24460,7 @@ sang froid[Fr]; well-regulated mind; worldly wisdom, Fabian policy.
 a care mind, what one is about; be on one's guard &c. (keep watch) 459;
 "make assurance doubly sure" [Macbeth].
      bespeak &c. (be early) 132.
-     think twice, look before one leaps, count the cost, look to the main
+     think twice, look before one leaps, count the cost, look to the Indexer.main
 chance, cut one's coat according to one's cloth; feel one's ground, feel
 one's way; see how the land lies &c. (foresight) 510; wait to see how the
 cat jumps; bridle one's tongue; reculer pour mieux sauter &c. (prepare)
@@ -27054,7 +27054,7 @@ temporizer, trimmer.
      V. be selfish &c. adj.; please oneself, indulge oneself, coddle
 oneself; consult one's own wishes, consult one's own pleasure; look after
 one's own interest; feather one's nest; take care of number one, have an
-eye to the main chance, know on which side one's bread is buttered; give an
+eye to the Indexer.main chance, know on which side one's bread is buttered; give an
 inch and take an ell.
      Adj. selfish; self-seeking, self-indulgent, self-interested, self-
 centered; wrapped up in self, wrapt up in self[obs3], centered in self;
@@ -27434,7 +27434,7 @@ take a glass too much; drink; tipple, tope, booze, bouse[Fr], guzzle,
 swill*, soak*, sot, bum* [U.S.], besot, have a jag on, have a buzz on,
 lush*, bib, swig, carouse; sacrifice at the shrine of Bacchus[obs3]; take
 to drinking; drink hard, drink deep, drink like a fish; have one's swill*,
-drain the cup, splice the main brace, take a hair of the dog that bit you.
+drain the cup, splice the Indexer.main brace, take a hair of the dog that bit you.
      liquor, liquor up; wet one's whistle, take a whet; crack a bottle,
 pass the bottle; toss off &c. (drink up) 2198; go to the alehouse, go to
 the public house.

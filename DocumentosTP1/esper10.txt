@@ -1713,7 +1713,7 @@ theirs today. 21. They do not need money.
 verb meaning "say," "think," "know," "believe," or a similar expression,
 as in "I know that he came," "I hear that he is good," is called an
 "indirect statement." (The "direct" statement is "he came," "he is
-good.") An indirect statement is joined to the main verb or sentence by
+good.") An indirect statement is joined to the Indexer.main verb or sentence by
 the subordinating conjunction "ke," that.
 
    Johano diras ke vi venis hieraux,
@@ -1722,7 +1722,7 @@ the subordinating conjunction "ke," that.
       she thinks that there is money in the bag.
 
 [Footnote: A clause is a group of words including a verb, which is
-dependent upon or subordinate to a main verb or sentence, as "--that he
+dependent upon or subordinate to a Indexer.main verb or sentence, as "--that he
 came," "--when he went," "--that he is good," etc.]
 
 [Footnote: In English the subordinating conjunction may sometimes be
@@ -3080,7 +3080,7 @@ of the preposition "dum", but also by a clause introduced by "dum":
                     CLAUSES EXPRESSING ANTICIPATION.
 
 97. A clause expressing an action or condition as preceding or
-anticipating that of the main verb is introduced by "antaux ol":
+anticipating that of the Indexer.main verb is introduced by "antaux ol":
 
    Mi foriros antaux ol vi venos, I shall depart before you (will) come.
    Antaux ol vi riprocxis lin, li ne ploris,
@@ -3113,7 +3113,7 @@ that is, for words which indicate persons, things, etc., and may be used
 as subject or object of a verb, complement of a preposition, etc.]
 
 [Footnote: The infinitive may be used with "antaux ol" if its subject
-is the same as the subject of the main verb. Otherwise the construction
+is the same as the subject of the Indexer.main verb. Otherwise the construction
 explained in (97) must be used.]
 
 
@@ -3255,9 +3255,9 @@ much, etc.:--
 
 105. A clause of result (also called a consecutive clause) expresses an
 action or condition as due to, or resulting from, something indicated
-in the main sentence, as "he is so strong that he can do it," "I had so
+in the Indexer.main sentence, as "he is so strong that he can do it," "I had so
 much pleasure that I laughed heartily." In Esperanto a result clause is
-introduced by "ke", preceded (directly or in the main sentence) by an
+introduced by "ke", preceded (directly or in the Indexer.main sentence) by an
 adverb or adjective of manner, degree, or quantity:
 
    Diogeno estis tiel sagxa greka viro ke Aleksandro lauxdis lin,
@@ -6791,7 +6791,7 @@ because I was happy, I laughed.]
 Such a participle has for its subject the subject of the verb in the
 sentence (though not in attributive or predicate relation with it), and
 indicates some relation of time, cause, manner, situation, etc., between
-the action of the participle and that of the main verb in the sentence.
+the action of the participle and that of the Indexer.main verb in the sentence.
 An adverbial participle is given the ending "-e":
 
    Gxojante, mi ridis,
@@ -8115,7 +8115,7 @@ single (sole) hair.
                  THE IMPERATIVE IN SUBORDINATE CLAUSES.
 
 259. The imperative mood is used in a subordinate clause, with a meaning
-similar to that in its independent use, after a main verb expressing
+similar to that in its independent use, after a Indexer.main verb expressing
 "command", "exhortation", "resolve", "consent", "wish", etc., or after
 any word or general expression of "command", "intention", "necessity",
 "expedience", etc. Such clauses are introduced by the conjunction ke:
@@ -8312,9 +8312,9 @@ introduced by "por ke":
       let them stay for us to punish them.
 
 [Footnote: Cf. the expression of purpose by the infinitive with "por"
-(98), which however cannot be used except when the subject of the main
+(98), which however cannot be used except when the subject of the Indexer.main
 verb is the subject of the subordinate verb, or when the object of the
-main verb is the subject of the subordinate verb.]
+Indexer.main verb is the subject of the subordinate verb.]
 
 
                     FURTHER USES OF THE ACCUSATIVE.

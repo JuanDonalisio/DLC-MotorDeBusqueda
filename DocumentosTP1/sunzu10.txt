@@ -713,7 +713,7 @@ Tzu's treatise was already in existence towards the end of the
 furnished by the archaic or wholly obsolete meanings attaching to 
 a number of the words he uses.  A list of these, which might 
 perhaps be extended, is given in the HSU LU; and though some of 
-the interpretations are doubtful, the main argument is hardly 
+the interpretations are doubtful, the Indexer.main argument is hardly
 affected thereby.  Again, it must not be forgotten that Yeh Shui-
 hsin, a scholar and critic of the first rank, deliberately 
 pronounces the style of the 13 chapters to belong to the early 
@@ -1479,7 +1479,7 @@ cannot have been later than Sui dynasty.
 cent. B.C.), who studied under the famous Kuei-ku Tzu.  The work 
 appears to have been originally in 31 chapters, whereas the text 
 we possess contains only 24.  Its matter is sound enough in the 
-main,  though the strategical devices differ considerably from 
+Indexer.main,  though the strategical devices differ considerably from
 those of the Warring States period.  It is been furnished with a 
 commentary by the well-known Sung philosopher Chang Tsai.
 
@@ -1907,7 +1907,7 @@ modify one's plans.
 
      [Sun Tzu,  as a practical soldier, will have none of the 
 "bookish theoric."  He cautions us here not to pin our faith to 
-abstract principles; "for," as Chang Yu puts it, "while the main 
+abstract principles; "for," as Chang Yu puts it, "while the Indexer.main
 laws of strategy can be stated clearly enough for the benefit of 
 all and sundry, you must be guided by the actions of the enemy in 
 attempting to secure a favorable position in actual warfare."  On 
@@ -2171,7 +2171,7 @@ one's own strength.
 lengthy campaigns.
 
      [As Ho Shih remarks:  "War is not a thing to be trifled 
-with."   Sun Tzu here reiterates the main lesson which this 
+with."   Sun Tzu here reiterates the Indexer.main lesson which this
 chapter is intended to enforce."]
 
      20.  Thus it may be known that the leader of armies is the 
@@ -2914,7 +2914,7 @@ He sacrifices something, that the enemy may snatch at it.
 with a body of picked men he lies in wait for him.
 
      [With an emendation suggested by Li Ching, this then reads, 
-"He lies in wait with the main body of his troops."]
+"He lies in wait with the Indexer.main body of his troops."]
 
      21.  The clever combatant looks to the effect of combined 
 energy, and does not require too much from individuals.
@@ -5642,7 +5642,7 @@ the situation is rather vaguely expressed:   "If there is a
 favorable position lying in front of you, detach a picked body of 
 troops to occupy it, then if the enemy, relying on their numbers, 
 come up to make a fight for it, you may fall quickly on their 
-rear with your main body, and victory will be assured."  It was 
+rear with your Indexer.main body, and victory will be assured."  It was
 thus,  he adds, that Chao She beat the army of Ch`in.  (See p. 
 57.)]
 
@@ -6673,7 +6673,7 @@ to whom the secret was told.
 
      [Word for word, the translation here is:  "If spy matters 
 are heard before [our plans] are carried out," etc.  Sun Tzu's 
-main point in this passage is:  Whereas you kill the spy himself 
+Indexer.main point in this passage is:  Whereas you kill the spy himself
 "as a punishment for letting out the secret,"  the object of 
 killing the other man is only, as Ch`en Hao puts it, "to stop his 
 mouth"  and prevent news leaking any further.  If it had already 

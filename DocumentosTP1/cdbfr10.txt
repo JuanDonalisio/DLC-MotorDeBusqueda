@@ -548,7 +548,7 @@ LE BOURGEOIS (eloignant vivement son fils):
 LE JEUNE HOMME:
   Et du Corneille!
 
-UNE BANDE DE PAGES (se tenant par la main, entre en farandole et chante):
+UNE BANDE DE PAGES (se tenant par la Indexer.main, entre en farandole et chante):
   Tra la la la la la la la la la la lere. . .
 
 LE PORTIER (severement aux pages):
@@ -1138,7 +1138,7 @@ Il se retourne et appelle):
 CHRISTIAN (qui les ecoute et les observe, tressaille en entendant ce nom):
   Le vicomte!
   Ah! je vais lui jeter a la face mon. . .
-(Il met la main dans sa poche, et y rencontre celle d'un tire-laine en train
+(Il met la Indexer.main dans sa poche, et y rencontre celle d'un tire-laine en train
 de le devaliser.  Il se retourne):
   Hein?
 
@@ -1149,7 +1149,7 @@ CHRISTIAN (sans le lacher):
   Je cherchais un gant!
 
 LE TIRE-LAINE (avec un sourire piteux):
-  Vous trouvez une main.
+  Vous trouvez une Indexer.main.
 (Changeant de ton, bas et vite):
   Lachez-moi.  Je vous livre un secret.
 
@@ -1252,7 +1252,7 @@ LA VOIX D'UN MARQUIS (dans le silence, derriere le rideau):
 UN AUTRE MARQUIS (passant la tete par la fente du rideau):
   Une chaise!
 
-(Une chaise est passee, de main en main, au-dessus des tetes.  Le marquis la
+(Une chaise est passee, de Indexer.main en Indexer.main, au-dessus des tetes.  Le marquis la
 prend et disparait, non sans avoir envoye quelques baisers aux loges.)
 
 UN SPECTATEUR:
@@ -1491,7 +1491,7 @@ CYRANO:
 (Se retournant vers la scene ou Montfleury attend avec angoisse):
   Donc, je desire voir le theatre gueri
   De cette fluxion.  Sinon. . .
-(La main a son epee):
+(La Indexer.main a son epee):
   le bistouri!
 
 MONTFLEURY:
@@ -1667,7 +1667,7 @@ LE FACHEUX:
 CYRANO (agace):
   Non, ai-je dit deux fois.  Faut-il donc que je trisse?
   Non, pas de protecteur. . .
-(La main a son epee):
+(La Indexer.main a son epee):
   mais une protectrice!
 
 LE FACHEUX:
@@ -1792,7 +1792,7 @@ CYRANO:
   Liberal, courageux, tel que je suis, et tel
   Qu'il vous est interdit a jamais de vous croire,
   Deplorable maraud! car la face sans gloire
-  Que va chercher ma main en haut de votre col,
+  Que va chercher ma Indexer.main en haut de votre col,
   Est aussi denuee. . .
 (Il le soufflette.)
 
@@ -2096,7 +2096,7 @@ BOUSCULADE (autour de Cyrano.  On entend):
 VOIX DE FEMME:
   C'est un heros!. . .
 
-UN MOUSQUETAIRE (s'avancant vivement vers Cyrano, la main tendue):
+UN MOUSQUETAIRE (s'avancant vivement vers Cyrano, la Indexer.main tendue):
   Monsieur, voulez-vous me permettre?. . .
   C'est tout a fait tres bien, et je crois m'y connaitre;
   J'ai du reste exprime ma joie en trepignant!. . .
@@ -2201,9 +2201,9 @@ LA DISTRIBUTRICE:
   Oh! quelque chose encor!
 
 CYRANO:
-  Oui.  La main a baiser.
+  Oui.  La Indexer.main a baiser.
 
-(Il baise, comme la main d'une princesse, la main qu'elle lui tend.)
+(Il baise, comme la Indexer.main d'une princesse, la Indexer.main qu'elle lui tend.)
 
 LA DISTRIBUTRICE:
   Merci, monsieur.
@@ -2388,7 +2388,7 @@ CYRANO:
   Mon ami, j'ai de mauvaises heures!
   De me sentir si laid, parfois, tout seul. . .
 
-LE BRET (vivement, lui prenant la main):
+LE BRET (vivement, lui prenant la Indexer.main):
   Tu pleures?
 
 CYRANO:
@@ -2661,7 +2661,7 @@ flambeaux):
   Moi, tout seul, sous la plume
   Que la gloire elle-meme a ce feutre piqua,
   Fier comme un Scipion triplement Nasica!. . .
-  --C'est compris?  Defendu de me preter main-forte!--
+  --C'est compris?  Defendu de me preter Indexer.main-forte!--
   On y est?. . .Un, deux, trois!  Portier, ouvre la porte!
 (Le portier ouvre a deux battants.  Un coin du vieux Paris pittoresque et
 lunaire parait):
@@ -2967,8 +2967,8 @@ RAGUENEAU (restant fendu pour regarder l'horloge):
   . . .Oh! faire une ballade!
 
 LISE (a Cyrano, qui en passant devant son comptoir lui a serre distraitement
-la main):
-  Qu'avez-vous a la main?
+la Indexer.main):
+  Qu'avez-vous a la Indexer.main?
 
 CYRANO:
   Rien.  Une estafilade.
@@ -3410,14 +3410,14 @@ CYRANO:
   Vous n'etiez pas vilaine.
 
 ROXANE:
-  Parfois, la main en sang de quelque grimpement,
+  Parfois, la Indexer.main en sang de quelque grimpement,
   Vous accouriez!--Alors, jouant a la maman,
   Je disais d'une voix qui tachait d'etre dure:
-(Elle lui prend la main):
+(Elle lui prend la Indexer.main):
   'Qu'est-ce que c'est encor que cette egratignure?'
 (Elle s'arrete stupefaite):
   Oh!  C'est trop fort!  Et celle-ci!
-(Cyrano veut retirer sa main):
+(Cyrano veut retirer sa Indexer.main):
   Non!  Montrez-la!
   Hein? a votre age, encor!--Ou t'es-tu fait cela?
 
@@ -3444,7 +3444,7 @@ CYRANO:
   Non.  Laissez.  Mais vous, dites la chose
   Que vous n'osiez tantot me dire. . .
 
-ROXANE (sans quitter sa main):
+ROXANE (sans quitter sa Indexer.main):
   A present, j'ose,
   Car le passe m'encouragea de son parfum!
   Oui, j'ose maintenant.  Voila.  J'aime quelqu'un.
@@ -3478,7 +3478,7 @@ CYRANO:
   Ah!. . .
 
 ROXANE:
-  Laissez-moi votre main, voyons, elle a la fievre.--
+  Laissez-moi votre Indexer.main, voyons, elle a la fievre.--
   Mais moi, j'ai vu trembler les aveux sur sa levre.
 
 CYRANO:
@@ -3509,7 +3509,7 @@ ROXANE:
 
 CYRANO:
   Moi, rien. . .C'est. . .c'est. . .
-(Il montre sa main, avec un sourire):
+(Il montre sa Indexer.main, avec un sourire):
   C'est ce bobo.
 
 ROXANE:
@@ -3636,7 +3636,7 @@ distraitement):
   Mais vous ne m'avez pas raconte la bataille
   De cette nuit.  Vraiment ce dut etre inoui!. . .
   --Dites-lui qu'il m'ecrive.
-(Elle lui envoie un petit baiser de la main):
+(Elle lui envoie un petit baiser de la Indexer.main):
   Oh! je vous aime!
 
 CYRANO:
@@ -4130,7 +4130,7 @@ CYRANO:
   Avoir un ventre use par la marche? une peau
   Qui plus vite, a l'endroit des genoux, devient sale?
   Executer des tours de souplesse dorsale?. . .
-  Non, merci.  D'une main flatter la chevre au cou
+  Non, merci.  D'une Indexer.main flatter la chevre au cou
   Cependant que, de l'autre, on arrose le chou,
   Et, donneur de sene par desir de rhubarbe,
   Avoir son encensoir, toujours, dans quelque barbe?
@@ -4221,7 +4221,7 @@ Scene 2.IX.
 
 Cyrano, Le Bret, les cadets, Christian de Neuvillette.
 
-UN CADET (assis a une table, le verre en main):
+UN CADET (assis a une table, le verre en Indexer.main):
   He!  Cyrano!
 (Cyrano se retourne):
   Le recit?
@@ -4276,7 +4276,7 @@ glisse a quatre pattes):
   On ne peut faire, sans defuncter avant l'age,
   La moindre allusion au fatal cartilage!
 
-UN AUTRE (lui posant la main sur l'epaule):
+UN AUTRE (lui posant la Indexer.main sur l'epaule):
   Un mot suffit!  Que dis-je, un mot?  Un geste, un seul!
   Et tirer son mouchoir, c'est tirer son linceul!
 
@@ -4528,7 +4528,7 @@ CYRANO:
 CHRISTIAN:
   Pardonnez-moi. . .
 
-CYRANO (le regardant, et lui mettant la main sur l'epaule):
+CYRANO (le regardant, et lui mettant la Indexer.main sur l'epaule):
   C'est vrai qu'il est beau, le gredin!
 
 CHRISTIAN:
@@ -5217,7 +5217,7 @@ ROXANE:
 
 DE GUICHE (transporte de joie):
   Ah! je pars!
-(Il lui baise la main):
+(Il lui baise la Indexer.main):
   Etes-vous contente?
 
 ROXANE:
@@ -5854,7 +5854,7 @@ CYRANO:
   Que je dis qu'elle tremble entre les bleus rameaux!
   Car vous tremblez, comme une feuille entre les feuilles!
   Car tu trembles! car j'ai senti, que tu le veuilles
-  Ou non, le tremblement adore de ta main
+  Ou non, le tremblement adore de ta Indexer.main
   Descendre tout le long des branches du jasmin!
 
 (Il baise eperdument l'extremite d'une branche pendante.)
@@ -5920,7 +5920,7 @@ folatre et l'autre un air lugubre):
   Air triste?  Air gai?. . .Quel est donc leur dessein?
   Est-ce un homme?  Une femme?--Ah! c'est un capucin!
 
-(Entre un capucin qui va de maison en maison, une lanterne a la main,
+(Entre un capucin qui va de maison en maison, une lanterne a la Indexer.main,
 regardant les portes.)
 
 
@@ -6279,7 +6279,7 @@ DE GUICHE (qui entre, masque, tatonnant dans la nuit):
 
 CYRANO:
   Diable! et ma voix?. . .S'il la reconnaissait?
-(Lachant d'une main, il a l'air de tourner une invisible clef):
+(Lachant d'une Indexer.main, il a l'air de tourner une invisible clef):
   Cric! crac!
 (Solennellement):
   Cyrano, reprenez l'accent de Bergerac!. . .
@@ -6367,7 +6367,7 @@ CYRANO (avec un cri de terreur qui fait reculer de Guiche):
   Ha! grand Dieu!. . .je crois voir
   Qu'on a dans ce pays le visage tout noir!
 
-DE GUICHE (portant la main a son visage):
+DE GUICHE (portant la Indexer.main a son visage):
   Comment?
 
 CYRANO (avec une peur emphatique):
@@ -6601,7 +6601,7 @@ CYRANO (saluant):
 DE GUICHE:
   Qui cela?
 (Il se retourne.--Tableau.  Derriere les laquais Roxane et Christian se 
-tiennent par la main.  Le capucin les suit en souriant.  Ragueneau eleve aussi
+tiennent par la Indexer.main.  Le capucin les suit en souriant.  Ragueneau eleve aussi
 un flambeau.  La duegne ferme la marche, ahurie, en petit saut de lit):
   Ciel!
 
@@ -6982,7 +6982,7 @@ Scene 4.III.
 Les memes, Cyrano.
 
 CYRANO (sortant de sa tente, tranquille, une plume a l'oreille, un livre a la
-main):
+Indexer.main):
   Hein?
 (Silence.  Au premier cadet):
   Pourquoi t'en vas-tu, toi, de ce pas qui traine?
@@ -7026,13 +7026,13 @@ CYRANO:
 UN AUTRE:
 Oh! manger quelque chose,--a l'huile!
 
-CYRANO (le decoiffant et lui mettant son casque dans la main):
+CYRANO (le decoiffant et lui mettant son casque dans la Indexer.main):
   Ta salade.
 
 UN AUTRE:
   Qu'est-ce qu'on pourrait bien devorer?
 
-CYRANO (lui jetant le livre qu'il tient a la main):
+CYRANO (lui jetant le livre qu'il tient a la Indexer.main):
   L''Iliade'.
 
 UN AUTRE:
@@ -7404,7 +7404,7 @@ CYRANO (aux cadets):
 ordres.  La resistance se prepare.  Cyrano va vers Christian qui est reste
 immobile, les bras croises.)
 
-CYRANO (lui mettant la main sur l'epaule):
+CYRANO (lui mettant la Indexer.main sur l'epaule):
   Christian?
 
 CHRISTIAN (secouant la tete):
@@ -7620,7 +7620,7 @@ ROXANE:
   Alors je repondais:  'Je vais voir mon amant.'
   --Aussitot l'Espagnol a l'air le plus feroce
   Refermait gravement la porte du carrosse,
-  D'un geste de la main a faire envie au Roi
+  D'un geste de la Indexer.main a faire envie au Roi
   Relevait les mousquets deja braques sur moi,
   Et superbe de grace, a la fois, et de morgue,
   L'ergot tendu sous la dentelle en tuyau d'orgue,
@@ -7793,9 +7793,9 @@ LE BARON HILLOT:
   Des foules!
 
 CARBON (a Roxane):
-  Ouvrez la main qui tient votre mouchoir.
+  Ouvrez la Indexer.main qui tient votre mouchoir.
 
-ROXANE (ouvre la main et le mouchoir tombe):
+ROXANE (ouvre la Indexer.main et le mouchoir tombe):
   Pourquoi?
 
 (Toute la compagnie fait le mouvement de s'elancer pour le ramasser.)
@@ -7850,7 +7850,7 @@ LES CADETS (se ruant vers le carrosse):
 ROXANE (les suivant des yeux):
   Pauvre gens!
 
-CYRANO (lui baisant la main):
+CYRANO (lui baisant la Indexer.main):
   Bonne fee!
 
 RAGUENEAU (debout sur le siege comme un charlatan en place publique):
@@ -8140,7 +8140,7 @@ reparaissant sur la crete):
 (Il montre une ligne de piques qui depasse la crete.)
 
 DE GUICHE (a Roxane, en s'inclinant):
-  Acceptez-vous ma main pour passer leur revue?. . .
+  Acceptez-vous ma Indexer.main pour passer leur revue?. . .
 
 (Elle la prend, ils remontent vers le talus.  Tous le monde se decouvre et les
 suit.)
@@ -8579,7 +8579,7 @@ ROXANE (vivement):
   Il a doute peut-etre
   De ce que j'ai dit la?. . .J'ai vu qu'il a doute!. . .
 
-CYRANO (lui prenant la main):
+CYRANO (lui prenant la Indexer.main):
   Mais avez-vous bien dit, d'ailleurs, la verite?
 
 ROXANE:
@@ -8643,7 +8643,7 @@ LE BRET:
 
 (Il lui dit un mot tout bas.)
 
-CYRANO (laissant echapper la main de Roxane, avec un cri):
+CYRANO (laissant echapper la Indexer.main de Roxane, avec un cri):
   Ah!. . .
 
 ROXANE:
@@ -8774,7 +8774,7 @@ CARBON:
 
 (Mousqueterie.  Cris.  Bruit de bataille.)
 
-CYRANO (voulant degager sa main que tient Roxane agenouillee):
+CYRANO (voulant degager sa Indexer.main que tient Roxane agenouillee):
   Mais, Roxane, on se bat!
 
 ROXANE (le retenant):
@@ -9206,7 +9206,7 @@ LE BRET (de meme):
 
 LE DUC (hautainement):
   Je sais, oui:  j'ai tout; il n'a rien. . .
-  Mais je lui serrerais bien volontiers la main.
+  Mais je lui serrerais bien volontiers la Indexer.main.
 (Saluant Roxane):
   Adieu.
 
@@ -9627,7 +9627,7 @@ CYRANO:
 ROXANE (debout pres de lui):
   Chacun de nous a sa blessure:  j'ai la mienne.
   Toujours vive, elle est la, cette blessure ancienne,
-(Elle met la main sur sa poitrine):
+(Elle met la Indexer.main sur sa poitrine):
   Elle est la, sous la lettre au papier jaunissant
   Ou l'on peut voir encor des larmes et du sang!
 
@@ -9711,7 +9711,7 @@ CYRANO:
   Et je suis et serai jusque dans l'autre monde
   Celui qui vous aima sans mesure, celui. . .'
 
-ROXANE (lui posant la main sur l'epaule):
+ROXANE (lui posant la Indexer.main sur l'epaule):
   Comment pouvez-vous lire a present?  Il fait nuit.
 (Il tressaille, se retourne, la voit la tout pres, fait un geste d'effroi,
 baisse la tete.  Un long silence.  Puis, dans l'ombre completement venue, 
@@ -9846,7 +9846,7 @@ RAGUENEAU:
 
 CYRANO:
   Ragueneau ne pleure pas si fort!. . .
-(Il lui tend la main):
+(Il lui tend la Indexer.main):
   Qu'est-ce que tu deviens, maintenant, mon confrere?
 
 RAGUENEAU (a travers ses larmes):
@@ -10005,7 +10005,7 @@ CYRANO (est secoue d'un grand frisson et se leve brusquement):
   Oh! mais!. . .puisqu'elle est en chemin,
   Je l'attendrai debout,
 (Il tire l'epee):
-  et l'epee a la main!
+  et l'epee a la Indexer.main!
 
 LE BRET:
   Cyrano!

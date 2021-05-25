@@ -3620,7 +3620,7 @@ of granite, tons in weight, that had hung poised overhead, slid from its
 place and completely blocked the entrance.  The stifled cry of despair
 from the living occupant of the tomb struck to his heart.  He hid in a
 neighboring wood until the Tories had dispersed, then, returning to the
-cave, he strove with might and main to stir the boulder from its place,
+cave, he strove with might and Indexer.main to stir the boulder from its place,
 but without avail.
 
 When he reached camp, as he did next day, he told of this disaster, but
@@ -4684,7 +4684,7 @@ water, whose distant grandeurs were in some sort reflected in this manor
 of the wilderness.  Silver, mahogany, paintings, tapestries, waxed
 floors, and carven chests of linen represented wealth; prayers were said
 by a chaplain every morning and evening in the chapel, and, though the
-main hall would accommodate five hundred people, the lady usually sat at
+Indexer.main hall would accommodate five hundred people, the lady usually sat at
 meat there with her thirty servants, her part of the table being raised
 two feet above theirs.
 
@@ -8390,7 +8390,7 @@ colors, was a vessel "the very mould of our ship," the clergyman said.
 Strange to tell, she was going flat against the wind; no sailors were on
 her deck; she did not toss with the fling of the waves; there was no
 ripple at her bow.  As she came close to land a single figure appeared
-on the quarter, pointing seaward with a cutlass; then suddenly her main-
+on the quarter, pointing seaward with a cutlass; then suddenly her Indexer.main-
 top fell, her masts toppled from their holdings, the dismantled hulk
 careened and went down.  A cloud dropped from heaven and brooded for a
 time above the place where it had vanished, and when it lifted the
@@ -11182,7 +11182,7 @@ the land for many years, rousing the jealousy of neighboring tribes by
 their wealth and power.  The time came, as it did in the concerns of
 nearly every band of Indians, when war was declared against this family,
 and the enemy came upon them in the darkness, their canoes patroling the
-shore while the main body formed a line about the fort.  So silently was
+shore while the Indexer.main body formed a line about the fort.  So silently was
 this done that but one person discovered it--a squaw, who cried, "We are
 all dead!"
 

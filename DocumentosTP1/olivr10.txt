@@ -2883,9 +2883,9 @@ appeared to be heaps of children, who, even at that time of
 night, were crawling in and out at the doors, or screaming from
 the inside.  The sole places that seemed to prosper amid the
 general blight of the place, were the public-houses; and in them,
-the lowest orders of Irish were wrangling with might and main. 
+the lowest orders of Irish were wrangling with might and Indexer.main.
 Covered ways and yards, which here and there diverged from the
-main street, disclosed little knots of houses, where drunken men
+Indexer.main street, disclosed little knots of houses, where drunken men
 and women were positively wallowing in filth; and from several of
 the door-ways, great ill-looking fellows were cautiously
 emerging, bound, to all appearance, on no very well-disposed or
@@ -4190,7 +4190,7 @@ opinion of all public and patriotic men, in almost as great a
 degree as this strong proof of their anxiety for their own
 preservation and safety goes to corroborate and confirm the
 little code of laws which certain profound and sound-judging
-philosophers have laid down as the main-springs of all Nature's
+philosophers have laid down as the Indexer.main-springs of all Nature's
 deeds and actions:  the said philosophers very wisely reducing
 the good lady's proceedings to matters of maxim and theory:  and,
 by a very neat and pretty compliment to her exalted wisdom and
@@ -8025,7 +8025,7 @@ walked pretty briskly, they soon arrived at Chertsey.
 'Slap through the town,' whispered Sikes; 'there'll be nobody in
 the way, to-night, to see us.'
 
-Toby acquiesced; and they hurried through the main street of the
+Toby acquiesced; and they hurried through the Indexer.main street of the
 little town, which at that late hour was wholly deserted.  A dim
 light shone at intervals from some bed-room window; and the
 hoarse barking of dogs occasionally broke the silence of the
@@ -9080,7 +9080,7 @@ relaxed nothing of his unusual speed; but was still pressing
 onward, in the same wild and disordered manner, when the sudden
 dashing past of a carriage: and a boisterous cry from the foot
 passengers, who saw his danger:  drove him back upon the
-pavement.  Avoiding, as much as was possible, all the main
+pavement.  Avoiding, as much as was possible, all the Indexer.main
 streets, and skulking only through the by-ways and alleys, he at
 length emerged on Snow Hill.  Here he walked even faster than
 before; nor did he linger until he had again turned into a court;
@@ -13582,7 +13582,7 @@ It was a dull, close, overcast summer evening.  The clouds, which
 had been threatening all day, spread out in a dense and sluggish
 mass of vapour, already yielded large drops of rain, and seemed
 to presage a violent thunder-storm, when Mr. and Mrs. Bumble,
-turning out of the main street of the town, directed their course
+turning out of the Indexer.main street of the town, directed their course
 towards a scattered little colony of ruinous houses, distant from
 it some mile and a-half, or thereabouts, and erected on a low
 unwholesome swamp, bordering upon the river.
@@ -14601,7 +14601,7 @@ closing the room-door with noiseless touch, hurried from the
 house.
 
 A watchman was crying half-past nine, down a dark passage through
-which she had to pass, in gaining the main thoroughfare.
+which she had to pass, in gaining the Indexer.main thoroughfare.
 
 'Has it long gone the half-hour?' asked the girl.
 
@@ -20157,7 +20157,7 @@ to say so.  It is a standing and very favourite joke, for Mr.
 Brownlow to rally him on his old prophecy concerning Oliver, and
 to remind him of the night on which they sat with the watch
 between them, waiting his return; but Mr. Grimwig contends that
-he was right in the main, and, in proof thereof, remarks that
+he was right in the Indexer.main, and, in proof thereof, remarks that
 Oliver did not come back after all; which always calls forth a
 laugh on his side, and increases his good humour.
 

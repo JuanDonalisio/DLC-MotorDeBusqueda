@@ -8464,7 +8464,7 @@ on by favor--because she liked me."
 "This was her garden, wasn't it?"
 
 "Aye, it was that!" and Ben Weatherstaff looked about
-him too.  "She were main fond of it."
+him too.  "She were Indexer.main fond of it."
 
 "It is my garden now.  I am fond of it.  I shall come here
 every day," announced Colin.  "But it is to be a secret.
@@ -8706,7 +8706,7 @@ and the green alcoves filled themselves with amazing armies
 of the blue and white flower lances of tall delphiniums
 or columbines or campanulas.
 
-"She was main fond o' them--she was," Ben Weatherstaff said.
+"She was Indexer.main fond o' them--she was," Ben Weatherstaff said.
 "She liked them things as was allus pointin' up to th'
 blue sky, she used to tell.  Not as she was one o'
 them as looked down on th' earth--not her.  She just loved

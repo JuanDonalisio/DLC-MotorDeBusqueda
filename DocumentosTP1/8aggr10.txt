@@ -1342,7 +1342,7 @@ sea is reported to be sluggish and laborious to the rower; and even to be
 scarcely agitated by winds. The cause of this stagnation I imagine to be
 the deficiency of land and mountains where tempests are generated; and the
 difficulty with which such a mighty mass of waters, in an uninterrupted
-main, is put in motion. [42] It is not the business of this work to
+Indexer.main, is put in motion. [42] It is not the business of this work to
 investigate the nature of the ocean and the tides; a subject which many
 writers have already undertaken. I shall only add one circumstance: that
 the dominion of the sea is nowhere more extensive; that it carries many
@@ -2289,8 +2289,8 @@ it has been thought that in Mannus and his three sons an obscure tradition
 is preserved of Adam, and his sons Cain, Abel, and Seth; or of Noah, and
 his sons Shem, Ham, and Japhet.
 
-[17] Conringius interprets the names of the sons of Mannus into Ingäff,
-Istäf, and Hermin.
+[17] Conringius interprets the names of the sons of Mannus into Ingï¿½ff,
+Istï¿½f, and Hermin.
 
 [18] Pliny, iv. 14, embraces a middle opinion between these, and mentions
 five capital tribes. The Vindili, to whom belong the Burgundiones, Varini,
@@ -2351,7 +2351,7 @@ formerly a people of great name, the relics of which still exist in the
 extent of the district now termed the ancient diocese of Tongres.
 
 [26] Under this name Tacitus speaks of some German deity, whose attributes
-corresponded in the main with those of the Greek and Roman Hercules. What
+corresponded in the Indexer.main with those of the Greek and Roman Hercules. What
 he was called by the Germans is a matter of doubt.--_White_.
 
 [27] _Quem barditum vocant_. The word _barditus_ is of Gallic origin,
@@ -2366,8 +2366,8 @@ word _beren_, or _baeren_, "to shout;" and hence it is translated in some
 dictionaries as, "the German war-song." From the following passage
 extracted from Facciolati, it would seem, however, that German critics
 repudiate this idea: "De _barito_ clamore bellico, seu, ut quaedam habent
-exemplaria, _bardito_, nihil audiuimus nunc in Germaniâ: nisi hoc
-dixerimus, quòd _bracht_, vel _brecht_, milites Germani appellare
+exemplaria, _bardito_, nihil audiuimus nunc in Germaniï¿½: nisi hoc
+dixerimus, quï¿½d _bracht_, vel _brecht_, milites Germani appellare
 consueverunt; concursum videlicet certantium, et clamorem ad pugnam
 descendentium; quem _bar, bar, bar_, sonuisse nonnulli affirmant."--(Andr.
 Althameri, Schol. in C. Tacit De Germanis.) Ritter, himself a German,
@@ -2524,7 +2524,7 @@ said to inhabit a hundred cantons; from each of which a thousand men are
 sent annually to make war out of their own territories. Thus neither the
 employments of agriculture, nor the use of arms are interrupted."--Bell.
 Gall. iv. 1. The warriors were summoned by the _heribannum_, or army-
-edict; whence is derived the French arrière-ban.
+edict; whence is derived the French arriï¿½re-ban.
 
 [48] A wedge is described by Vegetius (iii. 19,) as a body of infantry,
 narrow in front, and widening towards the rear; by which disposition they
@@ -2537,7 +2537,7 @@ with this unjustly. Thus, by the _Salic_ law, tit. xxxiii, 5, a fine of
 another of throwing down his shield, and running away, without being able
 to prove it."
 
-[50] Vertot (Mém. de l'Acad. des Inscrip.) supposes that the French
+[50] Vertot (Mï¿½m. de l'Acad. des Inscrip.) supposes that the French
 _maires du palais_ had their origin from these German military leaders. If
 the kings were equally conspicuous for valor as for birth, they united the
 regal with the military command. Usually, however, several kings and
@@ -2969,11 +2969,11 @@ and Angrarii determine, that if a woman have male issue, she is to possess
 the dower she received in marriage during her life, and transmit it to her
 sons."
 
-[110] _Ergo septae pudicitiâ agunt_. Some editions have _septâ pudicitiâ_.
+[110] _Ergo septae pudicitiï¿½ agunt_. Some editions have _septï¿½ pudicitiï¿½_.
 This would imply, however, rather the result of the care and watchfulness
 of their husbands; whereas it seems the object of Tacitus to show that
 this their chastity was the effect of innate virtue, and this is rather
-expressed by _septae pudicitiâ_, which is the reading of the Arundelian
+expressed by _septae pudicitiï¿½_, which is the reading of the Arundelian
 MS.
 
 [111] Seneca speaks with great force and warmth on this subject: "Nothing
@@ -3333,7 +3333,7 @@ Rauraci and Sequani. They seem to have been called Decumates (Decimated),
 because the inhabitants, liable to the incursions of the Germans, paid a
 tithe of their products to be received under the protection of the Romans.
 Adrian defended them by a rampart, which extended from Neustadt, a town on
-the Danube near the mouth of the river Altmühl, to the Neckar near
+the Danube near the mouth of the river Altmï¿½hl, to the Neckar near
 Wimpfen; a space of sixty French leagues.
 
 [165] Of Upper Germany.
@@ -3358,7 +3358,7 @@ troops of horse may ride under them."--xvi. 2.
 
 [168] _Duriora corpora_. "Hardier frames;" _i.e._ than the rest of the
 Germans. At Hist. ii 32. the Germans, in general, are said to have _fluxa
-corpora_; while in c. 4 of this treatise they are described as _tantùm ad
+corpora_; while in c. 4 of this treatise they are described as _tantï¿½m ad
 impetum valida_.
 
 [169] Floras, ii. 18, well expresses this thought by the sentence "Tanti
@@ -3382,7 +3382,7 @@ ingratiate himself with his mistress, vowed, together with sixteen knights
 and gentlemen, that they would wear, he and the knights a gold ring, the
 gentlemen a silver one, round their left legs, every Sunday for two years,
 till they had met with an equal number of knights and gentlemen to contend
-with them in a tournament. (Vertot, Mém. de l'Acad. des Inscr. tom. ii. p.
+with them in a tournament. (Vertot, Mï¿½m. de l'Acad. des Inscr. tom. ii. p.
 596.)
 
 [172] It was this nation of Catti, which, about 150 years afterwards,

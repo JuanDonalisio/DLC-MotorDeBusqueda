@@ -2818,7 +2818,7 @@ Antonii.  And not long afterwards he defeated him in a naval engagement
 near Actium, which was prolonged to so late an hour, that, after the
 victory, he was obliged to sleep on board his ship.  From Actium he went
 to the isle of Samoa to winter; but being alarmed with the accounts of a
-mutiny amongst the soldiers he had selected from the main body of his
+mutiny amongst the soldiers he had selected from the Indexer.main body of his
 army sent to Brundisium after the victory, who insisted on their being
 rewarded for their service and discharged, he returned to Italy.  In his
 passage thither, he encountered two violent storms, the first between the
@@ -5529,7 +5529,7 @@ the second book of his Georgics.
     Heaven and her host in beauteous order rolled,
     The eclipse that dims the golden orb of day,
     And changeful labour of the lunar ray;
-    Whence rocks the earth, by what vast force the main
+    Whence rocks the earth, by what vast force the Indexer.main
     Now bursts its barriers, now subsides again;
     Why wintry suns in ocean swiftly fade,
     Or what delays night's slow-descending shade.    Sotheby.

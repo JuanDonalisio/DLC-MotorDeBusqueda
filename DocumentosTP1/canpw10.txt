@@ -2752,7 +2752,7 @@ And now, it seem'd as if they thought
 The fisherman's wife stood on the beach,
  And still her eyes did strain,
 To catch of mast or sail, a glimpse,
- Upon the inland main.
+ Upon the inland Indexer.main.
 
 The woman turn'd her from the beach,
  Loose flow'd her streaming hair,
@@ -3052,7 +3052,7 @@ A queen on her domestic throne.
 MAN.
 
 One day I sat me down to write,
-And thought with might and main,
+And thought with might and Indexer.main,
 But neither subject fit, nor thoughts,
 Came to my barren brain.
 
@@ -3546,7 +3546,7 @@ Was this lone spot, in years gone by.
 
 The lofty bank, and level plain,
 With wide-mouth'd maitland stretch'd to view,
-Look'd out upon the inland main,
+Look'd out upon the inland Indexer.main,
 And back, where virgin forests grew.
 
 No harbor then, nor water-break,

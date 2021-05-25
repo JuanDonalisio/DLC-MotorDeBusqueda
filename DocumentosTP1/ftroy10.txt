@@ -7041,7 +7041,7 @@ If at thine best I left far-famous Troy
 For immortality with deathless Gods,
 O hear me now, whose soul is anguish-thrilled!
 I cannot bear to see my fathers' town
-In flames, my kindred in disastrous strife ú
+In flames, my kindred in disastrous strife ï¿½
 Perishing: bitterer sorrow is there none!
 Oh, if thine heart is fixed to do this thing,
 Let me be far hence!  Less shall be my grief
@@ -7315,7 +7315,7 @@ Foes numberless: the plain was heaped with dead.
 
 As when a woodman on the long-ridged hills
 Plunges amid the forest-depths, and hews
-With might and main, and fells sap-laden trees
+With might and Indexer.main, and fells sap-laden trees
 To make him store of charcoal from the heaps
 Of billets overturfed and set afire:
 The trunks on all sides fallen strew the slopes,
@@ -8840,7 +8840,7 @@ Into the town.  Above his head he raised
 
 The screening shield; up that dread path he went
 Hardening his heart from trembling, in his hand
-Now shook the threatening spear, now upward climbed ú
+Now shook the threatening spear, now upward climbed ï¿½
 Fast high in air he trod the perilous way.
 Now on the Trojans had disaster come,
 But, even as above the parapet
@@ -9536,7 +9536,7 @@ So scoffed a Trojan: others in like sort
 Cried shame on her, and said she spake but lies,
 Saying that ruin and Fate's heavy stroke
 Were hard at hand.  They knew not their own doom,
-And mocked, and thrust her back from that huge Horse ú
+And mocked, and thrust her back from that huge Horse ï¿½
 For fain she was to smite its beams apart,
 Or burn with ravening fire.  She snatched a brand
 Of blazing pine-wood from the hearth and ran

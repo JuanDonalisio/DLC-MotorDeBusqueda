@@ -158,7 +158,7 @@ East, at a very early day, by advancing tribes.  The Finlanders live in
 a land of marshes and mountains, lakes and rivers, seas, gulfs, 
 islands, and inlets, and they call themselves Suomilainen, 
 Fen-dwellers.  The climate is more severe than that of Sweden.  The 
-mean yearly temperature in the north is about 270ºF., and about 38ºF., at 
+mean yearly temperature in the north is about 270ï¿½F., and about 38ï¿½F., at 
 Helsingfors, the capital of Finland.  In the southern districts the 
 winter is seven months long, and in the northern provinces the sun 
 disappears entirely during the months of December and January.
@@ -879,7 +879,7 @@ Dr. Lonnrot, and in his second editions of the Kalevala, which appeared
 in 1849, the epic, embracing fifty runes and 22,793 lines, had reached 
 its mature form.  The Kalevala was no sooner published than it 
 attracted the attention of the leading scholars of Europe.  Men of such 
-world-wide fame as Jacob Grimm, Steinthal, Uhland, Carrière and Max Müller 
+world-wide fame as Jacob Grimm, Steinthal, Uhland, Carriï¿½re and Max Mï¿½ller 
 hastened to acknowledge its surpassing value and intrinsic beauty.  
 Jacob Grimm, in a separate treatise, published in his Kleinere 
 Schriften, said that the genuineness and extraordinary value of the 
@@ -890,7 +890,7 @@ their inability to clear up questions of old Saxon or German mythology.
  Grimm, furthermore, shows that both the Gothic and Icelandic 
 literatures display unmistakable features of Finnish influence.
 
-Max Müller places the Kalevala on a level with the greatest epics of the 
+Max Mï¿½ller places the Kalevala on a level with the greatest epics of the 
 world.  These are his words:
 
 
@@ -991,7 +991,7 @@ stream of esoteric interpretation.  The Kalevala, perhaps, more than
 any other, uses its lines on the surface in symbolism to point the 
 human mind to the brighter gems of truth beneath.
 
-The three main personages, Wainamoinen, the ancient singer, Ilmarinen, 
+The three Indexer.main personages, Wainamoinen, the ancient singer, Ilmarinen,
 the eternal forgeman, and Lemminkainen, the reckless wizard, as 
 mentioned above, are conceived as being of divine origin.  In fact, the 
 acting characters of the Kalevala are mostly superhuman, magic beings.  
@@ -1067,13 +1067,13 @@ Oman pihan rikkasille?"
 Sano wanha Wainamoinen:
 "Mitapa kysyt minulta,
 Kun saatat omille maille,
-Oman kaën kukkumille,
+Oman kaï¿½n kukkumille,
 Oman kukon kukkluwille,
 Oman saunan lampimille?"
 Sano Pohjolan emanta:
 "Ohoh wiisas Wainamoinen!
 Taiatko takoa sammon,
-Kirjokannen kirjaëlla,
+Kirjokannen kirjaï¿½lla,
 Yhen joukkosen sulasta,
 Yhen willan kylkyesta,
 Yhen otrasen jywasta,
@@ -1095,7 +1095,7 @@ time of Milton and the German classics.
 Acknowledgment is hereby made to the following sources of information 
 used in the preparation of this work: to E. Lenquist's De Superstitione 
 veterum Fennorum theoretica et practica; to Chr. Ganander's Mythologia 
-Fennica; to Becker's De Vainamoine; to Max Müller's Oxford Essays; to 
+Fennica; to Becker's De Vainamoine; to Max Mï¿½ller's Oxford Essays; to 
 Prof. John A. Porter's Selections from the Kalevala; to the writings of 
 the two Grimms; to Latham's Native Races of the Russian Empire; to the 
 translations of the Kalevala by Alex. Castren, Anton Schieffier, L. 
@@ -7936,7 +7936,7 @@ On the second thou canst rest thee
 On the shoulders of Otava;
 On the third day, flying higher,
 Rest upon the seven starlets,
-On the heads of Hetewanè;
+On the heads of Hetewanï¿½;
 Short the journey that is left thee,
 Inconsiderable the distance
 To the home of mighty Ukko,
@@ -7950,7 +7950,7 @@ Touches on the Moon's bright borders,
 Fans the brow of Kootamoinen,
 Rests upon Otava's shoulders,
 Hastens to the seven starlets.,
-To the heads of Hetewanè,
+To the heads of Hetewanï¿½,
 Flies to the Creator's castle,
 To the home of generous Ukko,
 Finds the remedy preparing,
@@ -8383,7 +8383,7 @@ I a boat with ancient wisdom,
 Fashioned with my powers of magic,
 Sang one day and then a second,
 Sang the third day until evening,
-When I broke the magic main-spring,
+When I broke the magic Indexer.main-spring,
 Broke my magic sledge in pieces,
 Of my song the fleetest runners;
 Then I come to Mana's kingdom,
@@ -8847,7 +8847,7 @@ Comfort bring and full assistance,
 That I guiltless may not suffer,
 May not perish prematurely.
 "Shouldst thou brave this invocation,
-Kapè, daughter of Creation,
+Kapï¿½, daughter of Creation,
 Come, thou beauteous, golden maiden,
 Oldest of the race of women,
 Come and witness my misfortunes,
@@ -20563,7 +20563,7 @@ Turn it on its magic hinges!"
 Lemminkainen finds the wonder,
 Finds the Sampo in the mountain,
 Labors long with strength heroic,
-Tugs with might and main to turn it;
+Tugs with might and Indexer.main to turn it;
 Motionless remains the treasure,
 Deeper sinks the lid in colors,
 For the roots have grown about it,

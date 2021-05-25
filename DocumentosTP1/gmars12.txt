@@ -4413,7 +4413,7 @@ The places of the outer world and the temples of the therns had
 been robbed of their princesses and goddesses that the blacks might
 have their slaves.
 
-Through this scene we moved toward the temple.  At the main
+Through this scene we moved toward the temple.  At the Indexer.main
 entrance we were halted by a cordon of armed guards.  Xodar spoke
 a few words to an officer who came forward to question us.  Together
 they entered the temple, where they remained for some time.
@@ -5778,7 +5778,7 @@ at his heels.
 Silently we dropped to the deserted deck, and on hands and knees
 crawled toward the hatchway.  A stealthy glance below revealed no
 guard in sight, and so with the quickness and the soundlessness
-of cats we dropped together into the main cabin of the submarine.
+of cats we dropped together into the Indexer.main cabin of the submarine.
 Even here was no sign of life.  Quickly we covered and secured the
 hatch.
 
@@ -5864,7 +5864,7 @@ follow another leader who inspired greater confidence than you.
 Come, let us put your ruse to the test."
 
 Boldly we emerged from the hatchway of the craft, leaving our swords
-behind us, and strode to the main exit which led to the sentry's
+behind us, and strode to the Indexer.main exit which led to the sentry's
 post and the office of the Dator of the guard.
 
 At sight of us the members of the guard sprang forward in surprise,
@@ -6996,7 +6996,7 @@ from a torch in the hand of one of a party of four green warriors,
 who were coming rapidly down the corridor toward me.  They had
 not yet seen me, and so I lost no time in slipping into the first
 intersecting corridor that I could find.  This time, however, I
-did not advance so far away from the main corridor as on the other
+did not advance so far away from the Indexer.main corridor as on the other
 occasion that had resulted in my losing Tars Tarkas and his guards.
 
 The party came rapidly toward the opening of the passageway in which
@@ -7944,7 +7944,7 @@ fastened upon me, as though waiting for a signal to attack.
 his officers.
 
 Fearing the result of an attempt to carry out this order by force,
-I stepped to the edge of the platform and, pointing toward the main
+I stepped to the edge of the platform and, pointing toward the Indexer.main
 entrance, bid them pass out.  As one man they turned at my request
 and filed, silent and threatening, past the soldiers of Zat Arras,
 Jed of Zodanga, who stood scowling in impotent rage.
@@ -8027,7 +8027,7 @@ shrieking as a madman.
 "Dejah Thoris is found!" he cried.  "A messenger from Dejah Thoris!"
 
 I waited to hear no more.  The great windows of the dining hall
-overlooked the avenue leading to the main gates--they were upon
+overlooked the avenue leading to the Indexer.main gates--they were upon
 the opposite side of the hall from me with the table intervening.
 I did not waste time in circling the great board--with a single
 leap I cleared table and diners and sprang upon the balcony beyond.
@@ -8747,7 +8747,7 @@ At the point where we left the pits of Zat Arras we found the body
 of the guard Carthoris had slain.  It had not yet been discovered,
 and, in order to still further delay search and mystify the jed's
 people, we carried the body with us for a short distance, hiding
-it in a tiny cell off the main corridor of the pits beneath an
+it in a tiny cell off the Indexer.main corridor of the pits beneath an
 adjoining estate.
 
 Some half-hour later we came to the pits beneath our own palace,
@@ -9010,7 +9010,7 @@ of the therns.
 
 "Here let them land and teach the Holy Therns such a lesson in
 ferocious warfare as they will not forget for countless ages.  It
-had not been my intention to be distracted from the main issue of
+had not been my intention to be distracted from the Indexer.main issue of
 the campaign, but we must settle this attack with the therns once
 and for all, or there will be no peace for us while our fleet
 remains near Dor, and our chances of ever returning to the outer
@@ -9363,7 +9363,7 @@ heard of the Temple of the Sun?  It is there that they will put
 her.  It lies far within the inner court of the Temple of Issus,
 a little temple that raises a thin spire far above the spires and
 minarets of the great temple that surrounds it.  Beneath it, in
-the ground, there lies the main body of the temple consisting in
+the ground, there lies the Indexer.main body of the temple consisting in
 six hundred and eighty-seven circular chambers, one below another.
 To each chamber a single corridor leads through solid rock from
 the pits of Issus.
@@ -9518,7 +9518,7 @@ would have drowned otherwise.
 Djor Kantos, son of Kantos Kan, and a padwar of the fifth utan
 joined us when his utan reached the opening through which the men
 were fleeing.  Thereafter not a man was lost of all the hundreds
-that remained to pass from the main corridor to the branch.
+that remained to pass from the Indexer.main corridor to the branch.
 
 As the last utan was filing past us the waters had risen until they
 surged about our necks, but we clasped hands and stood our ground
@@ -9607,9 +9607,9 @@ point where I must sink for ever to an unmarked grave.
 
 But to my surprise I ran against a blank wall before I reached a
 point where the waters came to the roof of the corridor.  Could I
-be mistaken?  I felt around.  No, I had come to the main corridor,
+be mistaken?  I felt around.  No, I had come to the Indexer.main corridor,
 and still there was a breathing space between the surface of the
-water and the rocky ceiling above.  And then I turned up the main
+water and the rocky ceiling above.  And then I turned up the Indexer.main
 corridor in the direction that Carthoris and the head of the column
 had passed a half-hour before.  On and on I swam, my heart growing
 lighter at every stroke, for I knew that I was approaching closer

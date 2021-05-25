@@ -3172,7 +3172,7 @@ to a feeling of it, with this kind of satisfaction, that you shall
 bring all the ladies to the place where she is, and be very
 jovial; and there, she will have a dinner, which shall be in your
 name: and so disappoint La-Foole, to make you good again, and, as
-it were, a saver in the main.
+it were, a saver in the Indexer.main.
 
 DAW: As I am a knight, I honour her; and forgive her heartily.
 
@@ -4865,7 +4865,7 @@ towel in his hand, crying, Where's La-Foole? Who saw La-Foole?
 and when Dauphine and I demanded the cause, we can force no
 answer from him, but--O revenge, how sweet art thou! I will
 strangle him in this towel--which leads us to conjecture that the
-main cause of his fury is, for bringing your meat to-day, with a
+Indexer.main cause of his fury is, for bringing your meat to-day, with a
 towel about you, to his discredit.
 
 LA-F: Like enough. Why, if he be angry for that, I'll stay here

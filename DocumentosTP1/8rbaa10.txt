@@ -313,11 +313,11 @@ Etext prepared by John Bickers, jbickers@templar.actrix.gen.nz
   The original text contains a number of characters that are not
   available even in 8-bit Windows text, such as H with a breve below
   it in Hammurabi, S with a breve, S and T with a dot below them, U
-  with macron, and superscript M in Tašmêtum. These have been left
+  with macron, and superscript M in Taï¿½mï¿½tum. These have been left
   in the e-text as the base letter.
 
   The 8-bit version of this text includes Windows font characters
-  like S with a caron above it (pronounced /sh/) as in Šamaš, etc.
+  like S with a caron above it (pronounced /sh/) as in ï¿½amaï¿½, etc.
   These may be lost in 7-bit versions of the text, or when viewed
   with different fonts.
 
@@ -392,7 +392,7 @@ religious inscriptions are found near the end of the third millennium
 before Christ, and occur in considerable numbers, either in the
 original Sumerian text, or in translations, or both, until about the
 third century before Christ. Among the more recent inscriptions--those
-from the library of the Assyrian king Aššur-bani-âpli and the later
+from the library of the Assyrian king Aï¿½ï¿½ur-bani-ï¿½pli and the later
 Babylonian temple archives,--there are many lists of deities, with
 numerous identifications with each other and with the heavenly bodies,
 and explanations of their natures. It is needless to say that all this
@@ -425,17 +425,17 @@ numbers of the Semitic population, and at the same period the Sumero-
 Akkadian language began to give way to the Semitic idiom which they
 spoke. When at last the Semitic Babylonian language came to be used
 for official documents, we find that, although the non-Semitic divine
-names are in the main preserved, a certain number of them have been
-displaced by the Semitic equivalent names, such as Šamaš for the
-sun-god, with Kittu and Mêšaru ("justice and righteousness") his
-attendants; Nabú ("the teacher" = Nebo) with his consort Tašmêtu ("the
+names are in the Indexer.main preserved, a certain number of them have been
+displaced by the Semitic equivalent names, such as ï¿½amaï¿½ for the
+sun-god, with Kittu and Mï¿½aru ("justice and righteousness") his
+attendants; Nabï¿½ ("the teacher" = Nebo) with his consort Taï¿½mï¿½tu ("the
 hearer"); Addu, Adad, or Dadu, and Rammanu, Ramimu, or Ragimu = Hadad
-or Rimmon ("the thunderer"); Bêl and Bêltu (Beltis = "the lord" and
+or Rimmon ("the thunderer"); Bï¿½l and Bï¿½ltu (Beltis = "the lord" and
 "the lady" /par excellence/), with some others of inferior rank. In
 place of the chief divinity of each state at the head of each separate
 pantheon, the tendency was to make Merodach, the god of the capital
 city Babylon, the head of the pantheon, and he seems to have been
-universally accepted in Babylonia, like Aššur in Assyria, about 2000
+universally accepted in Babylonia, like Aï¿½ï¿½ur in Assyria, about 2000
 B.C. or earlier.
 
 
@@ -456,7 +456,7 @@ their king.
 
 Whilst accepting the religion of Babylonia, Assyria nevertheless kept
 herself distinct from her southern neighbour by a very simple device,
-by placing at the head of the pantheon the god Aššur, who became for
+by placing at the head of the pantheon the god Aï¿½ï¿½ur, who became for
 her the chief of the gods, and at the same time the emblem of her
 distinct national aspirations--for Assyria had no intention whatever
 of casting in her lot with her southern neighbour. Nevertheless,
@@ -472,9 +472,9 @@ ordinary Briton, far behind.
                      The later period in Assyria.
 
 Assyria went to her downfall at the end of the seventh century before
-Christ worshipping her national god Aššur, whose cult did not cease
+Christ worshipping her national god Aï¿½ï¿½ur, whose cult did not cease
 with the destruction of her national independence. In fact, the city
-of Aššur, the centre of that worship, continued to exist for a
+of Aï¿½ï¿½ur, the centre of that worship, continued to exist for a
 considerable period; but for the history of the religion of Assyria,
 as preserved there, we wait for the result of the excavations being
 carried on by the Germans, should they be fortunate enough to obtain
@@ -578,7 +578,7 @@ identified with the stars which bear his name after his worshippers
 began to pay him divine honours as the supreme deity, and naturally
 what is true for him may also be so for the other gods whom they
 worshipped. The identification of some of the deities with stars or
-planets is, moreover, impossible, and if Êa, the god of the deep, and
+planets is, moreover, impossible, and if ï¿½a, the god of the deep, and
 Anu, the god of the heavens, have their representatives among the
 heavenly bodies, this is probably the result of later development.[*]
 
@@ -600,10 +600,10 @@ prominent men was common, at least in early times. The tenth chapter
 of Genesis tells us of the story of Nimrod, who cannot be any other
 than the Merodach of the Assyro-Babylonian inscriptions; and other
 examples, occurring in semi-mythological times, are /En-we-dur-an-ki/,
-the Greek Edoreschos, and /Gilgameš/, the Greek Gilgamos, though
+the Greek Edoreschos, and /Gilgameï¿½/, the Greek Gilgamos, though
 Aelian's story of the latter does not fit in with the account as given
 by the inscriptions. In later times, the divine prefix is found before
-the names of many a Babylonian ruler--Sargon of Agadé,[*] Dungi of Ur
+the names of many a Babylonian ruler--Sargon of Agadï¿½,[*] Dungi of Ur
 (about 2500 B.C.), Rim-Sin or Eri-Aku (Arioch of Ellasar, about 2100
 B.C.), and others. It was doubtless a kind of flattery to deify and
 pay these rulers divine honours during their lifetime, and on account
@@ -617,10 +617,10 @@ the gifts of the gods whom their father worshipped), the divine
 fatherhood thus attributed to them naturally could, in the case of
 those of royal rank, give them a real claim to divine birth and
 honours. An exception is the deification of the Babylonian Noah,
-Ut-napištim, who, as the legend of the Flood relates, was raised and
+Ut-napiï¿½tim, who, as the legend of the Flood relates, was raised and
 made one of the gods by Aa or Ea, for his faithfulness after the great
 catastrophe, when he and his wife were translated to the "remote place
-at the mouth of the rivers." The hero Gilgameš, on the other hand, was
+at the mouth of the rivers." The hero Gilgameï¿½, on the other hand, was
 half divine by birth, though it is not exactly known through whom his
 divinity came.
 
@@ -642,17 +642,17 @@ supreme--with a number of lesser gods forming his court. It was the
 adding together of all these small pantheons which ultimately made
 that of Babylonia as a whole so exceedingly extensive. Thus the chief
 divinity of Babylon, as has already been stated, as Merodach; at
-Sippar and Larsa the sun-god Šamaš was worshipped; at Ur the moon-god
-Sin or Nannar; at Erech and Dêr the god of the heavens, Anu; at Muru,
+Sippar and Larsa the sun-god ï¿½amaï¿½ was worshipped; at Ur the moon-god
+Sin or Nannar; at Erech and Dï¿½r the god of the heavens, Anu; at Muru,
 Ennigi, and Kakru, the god of the atmosphere, Hadad or Rimmon; at
-Êridu, the god of the deep, Aa or Êa; at Niffur[*] the god Bel; at
-Cuthah the god of war, Nergal; at Dailem the god Uraš; at Kiš the god
+ï¿½ridu, the god of the deep, Aa or ï¿½a; at Niffur[*] the god Bel; at
+Cuthah the god of war, Nergal; at Dailem the god Uraï¿½; at Kiï¿½ the god
 of battle, Zagaga; Lugal-Amarda, the king of Marad, as the city so
-called; at Opis Zakar, one of the gods of dreams; at Agadé, Nineveh,
-and Arbela, Ištar, goddess of love and of war; Nina at the city Nina
+called; at Opis Zakar, one of the gods of dreams; at Agadï¿½, Nineveh,
+and Arbela, Iï¿½tar, goddess of love and of war; Nina at the city Nina
 in Babylonia, etc. When the chief deities were masculine, they were
 naturally all identified with each other, just as the Greeks called
-the Babylonian Merodach by the name of Zeus; and as Zer-panîtum, the
+the Babylonian Merodach by the name of Zeus; and as Zer-panï¿½tum, the
 consort of Merodach, was identified with Juno, so the consorts, divine
 attendants, and children of each chief divinity, as far as they
 possessed them, could also be regarded as the same, though possibly
@@ -668,13 +668,13 @@ distinct in their different attributes.
 The fact that the rise of Merodach to the position of king of the gods
 was due to the attainment, by the city of Babylon, of the position of
 capital of all Babylonia, leads one to suspect that the kingly rank of
-his father Êa, at an earlier period, was due to a somewhat similar
+his father ï¿½a, at an earlier period, was due to a somewhat similar
 cause, and if so, the still earlier kingship of Anu, the god of the
 heavens, may be in like manner explained. This leads to the question
-whether the first state to attain to supremacy was Dêr, Anu's seat,
-and whether Dêr was succeeded by Êridu, of which city Êa was the
+whether the first state to attain to supremacy was Dï¿½r, Anu's seat,
+and whether Dï¿½r was succeeded by ï¿½ridu, of which city ï¿½a was the
 patron--concerning the importance of Babylon, Merodach's city, later
-on, there is no doubt whatever. The rise of Anu and Êa to divine
+on, there is no doubt whatever. The rise of Anu and ï¿½a to divine
 overlordship, however, may not have been due to the political
 supremacy of the cities where they were worshipped--it may have come
 about simply on account of renown gained through religious enthusiasm
@@ -694,13 +694,13 @@ and naturally to the winds, and the heavenly bodies. Whether they
 regarded stones, rocks, mountains, storms, and rain in the same way,
 however, is doubtful, but it may be taken for granted, that the sea,
 with all its rivers and streams, was regarded as animated with the
-spirit of Êa and his children, whilst the great cities and
+spirit of ï¿½a and his children, whilst the great cities and
 temple-towers were pervaded with the spirit of the god whose abode
 they were. Innumerable good and evil spirits were believed in, such as
 the spirit of the mountain, the sea, the plain, and the grave. These
 spirits were of various kinds, and bore names which do not always
-reveal their real character--such as the /edimmu/, /utukku/, /šêdu/,
-/ašakku/ (spirit of fevers), /namtaru/ (spirit of fate), /âlû/
+reveal their real character--such as the /edimmu/, /utukku/, /ï¿½ï¿½du/,
+/aï¿½akku/ (spirit of fevers), /namtaru/ (spirit of fate), /ï¿½lï¿½/
 (regarded as the spirit of the south wind), /gallu/, /rabisu/,
 /labartu/, /labasu/, /ahhazu/ (the seizer), /lilu/ and /lilithu/ (male
 and female spirits of the mist), with their attendants.
@@ -713,7 +713,7 @@ absolutely certain? It is hard to believe that such intelligent
 people, as the primitive Babylonians naturally were, believed that
 such things as stones, rocks, mountains, storms, and rain were, in
 themselves, and apart from the divinity which they regarded as
-presiding over them, living things. A stone might be a /bît îli/ or
+presiding over them, living things. A stone might be a /bï¿½t ï¿½li/ or
 bethel--a "house of god," and almost invested with the status of a
 living thing, but that does not prove that the Babylonians thought of
 every stone as being endowed with life, even in prehistoric times.
@@ -747,14 +747,14 @@ were sometimes used for boundary-stones may have been the
 representations of these meteorites in later times, and it is
 noteworthy that the Sumerian group for "iron," /an-bar/, implies that
 the early Babylonians only knew of that metal from meteoric ironstone.
-The name of the god Nirig or Ênu-rêštu (Ninip) is generally written
+The name of the god Nirig or ï¿½nu-rï¿½tu (Ninip) is generally written
 with the same group, implying some kind of connection between the two
 --the god and the iron. In a well-known hymn to that deity certain
 stones are mentioned, one of them being described as the "poison-
 tooth"[*] coming forth on the mountain, recalling the sacred rocks at
 Jerusalem and Mecca. Boundary-stones in Babylonia were not sacred
 objects except in so far as they were sculptured with the signs of the
-gods.[†] With regard to the Babylonian bethels, very little can be
+gods.[ï¿½] With regard to the Babylonian bethels, very little can be
 said, their true nature being uncertain, and their number, to all
 appearance, small. Gifts were made to them, and from this fact it
 would seem that they were temples--true "houses of god," in fact--
@@ -764,7 +764,7 @@ to those referred to in the Old Testament.
 [*] So called, probably, not because it sent forth poison, but on
     account of its likeness to a serpent's fang.
 
-[†] Notwithstanding medical opinion, their phallic origin is doubtful.
+[ï¿½] Notwithstanding medical opinion, their phallic origin is doubtful.
     One is sculptured in the form of an Eastern castellated fortress.
 
 
@@ -795,7 +795,7 @@ invocations made to them, were in all likelihood regarded as having
 been made to the deity himself, the possessions of the divinity being,
 in the minds of the Babylonians, pervaded with his spirit. In the case
 of rivers, these were divine as being the children and offspring of
-Enki (Aa or Êa), the god of the ocean.
+Enki (Aa or ï¿½a), the god of the ocean.
 
 
                              Holy places.
@@ -816,9 +816,9 @@ Babylonia is a tiny tablet found at Nineveh, and preserved in the
 British Museum. This text begins with the word Tiawthu "the sea," and
 goes on to enumerate, in turn, Tilmun (identified with the island of
 Bahrein in the Persian Gulf); Engurra (the Abyss, the abode of Enki or
-Êa), with numerous temples and shrines, including "the holy house,"
+ï¿½a), with numerous temples and shrines, including "the holy house,"
 "the temple of the seer of heaven and earth," "the abode of Zer-
-panîtum," consort of Merodach, "the throne of the holy place," "the
+panï¿½tum," consort of Merodach, "the throne of the holy place," "the
 temple of the region of Hades," "the supreme temple of life," "the
 temple of the ear of the corn-deity," with many others, the whole list
 containing what may be regarded as the chief sanctuaries of the land,
@@ -828,12 +828,12 @@ though in a very imperfect state, and in addition to these, many holy
 places are referred to in the bilingual, historical, and other
 inscriptions. All the great cities of Babylonia, moreover, were sacred
 places, the chief in renown and importance in later days being the
-great city of Babylon, where Ê-sagila, "the temple of the high head,"
+great city of Babylon, where ï¿½-sagila, "the temple of the high head,"
 in which was apparently the shrine called "the temple of the
 foundation of heaven and earth," held the first place. This building
 is called by Nebuchadnezzar "the temple-tower of Babylon," and may
 better be regarded as the site of the Biblical "Tower of Babel" than
-the traditional foundation, Ê-zida, "the everlasting temple," in
+the traditional foundation, ï¿½-zida, "the everlasting temple," in
 Borsippa (the Birs Nimroud)--notwithstanding that Borsippa was called
 the "second Babylon," and its temple-tower "the supreme house of
 life."
@@ -844,15 +844,15 @@ life."
 Though quite close to Babylon, there is no doubt that Borsippa was a
 most important religious centre, and this leads to the possibility,
 that its great temple may have disputed with "the house of the high
-head," Ê-sagila in Babylon, the honour of being the site of the
+head," ï¿½-sagila in Babylon, the honour of being the site of the
 confusion of tongues and the dispersion of mankind. There is no doubt,
-however, that Ê-sagila has the prior claim, it being the temple of the
+however, that ï¿½-sagila has the prior claim, it being the temple of the
 supreme god of the later Babylonian pantheon, the counterpart of the
 God of the Hebrews who commanded the changing of the speech of the
 people assembled there. Supposing the confusion of tongues to have
 been a Babylonian legend as well as a Hebrew one (as is possible) it
 would be by command of Merodach rather than that of Nebo that such a
-thing would have taken place. Ê-sagila, which is now the ruin known as
+thing would have taken place. ï¿½-sagila, which is now the ruin known as
 the mount of Amran ibn Ali, is the celebrated temple of Belus which
 Alexander and Philip attempted to restore.
 
@@ -862,16 +862,16 @@ of Babylonia, and as time goes on, and the excavations bring more
 material, a large number of them will probably be recovered. Already
 we have an interesting and poetical record of the entry of Bel and
 Beltis into the great temple at Niffer, probably copied from some
-ancient source, and Gudea, a king of Lagaš (Telloh), who reigned about
+ancient source, and Gudea, a king of Lagaï¿½ (Telloh), who reigned about
 2700 B.C., gives an account of the dream which he saw, in which he was
 instructed by the gods to build or rebuild the temple of Nin-Girsu in
 his capital city.
 
 
-                   Ê-sagila according to Herodotus.
+                   ï¿½-sagila according to Herodotus.
 
 As the chief fane in the land after Babylon became the capital, and
-the type of many similar erections, Ê-sagila, the temple of Belus,
+the type of many similar erections, ï¿½-sagila, the temple of Belus,
 merits just a short notice. According to Herodotus, it was a massive
 tower within an enclosure measuring 400 yards each way, and provided
 with gates of brass, or rather bronze. The tower within consisted of a
@@ -892,7 +892,7 @@ full-grown victims.
 
 In 1876 the well-known Assyriologist, Mr. George Smith, was fortunate
 enough to discover a Babylonian description of this temple, of which
-he published a /précis/. According to this document, there were two
+he published a /prï¿½cis/. According to this document, there were two
 courts of considerable extent, the smaller within the larger--neither
 of them was square, but oblong. Six gates admitted to the temple-area
 surrounding the platform upon which the tower was built. The platform
@@ -900,8 +900,8 @@ is stated to have been square and walled, with four gates facing the
 cardinal points. Within this wall was a building connected with the
 great /zikkurat/ or tower--the principal edifice--round which were
 chapels or temples to the principal gods, on all four sides, and
-facing the cardinal points--that to Nebo and Tašmît being on the east,
-to Aa or Êa and Nusku on the north, Anu and Bel on the south, and the
+facing the cardinal points--that to Nebo and Taï¿½mï¿½t being on the east,
+to Aa or ï¿½a and Nusku on the north, Anu and Bel on the south, and the
 series of buildings on the west, consisting of a double house--a small
 court between two wings, was evidently the shrine of Merodach (Belos).
 In these western chambers stood the couch of the god, and the golden
@@ -955,9 +955,9 @@ earth. Then there was the belief, that the god to whom the place was
 dedicated would come down to such a sanctuary, which thus became, as
 it were, the stepping-stone between heaven and earth. Sacrifices were
 also offered at these temple-towers (whether on the highest point or
-not is not quite certain), in imitation of the Chaldæan Noah,
-Ut-napištim, who, on coming out of the ark, made an offering /ina
-zikkurat šadê/, "on the peak of the mountain," in which passage, it is
+not is not quite certain), in imitation of the Chaldï¿½an Noah,
+Ut-napiï¿½tim, who, on coming out of the ark, made an offering /ina
+zikkurat ï¿½adï¿½/, "on the peak of the mountain," in which passage, it is
 to be noted, the word /zikkurat/ occurs with what is probably a more
 original meaning.
 
@@ -972,7 +972,7 @@ been pointed out that the religion of the Babylonians in all
 probability had two stages before arriving at that in which the god
 Merodach occupied the position of chief of the pantheon, the two
 preceding heads having been, seemingly, Anu, the god of the heavens,
-and Êa or Aa, also called Enki, the god of the abyss and of deep
+and ï¿½a or Aa, also called Enki, the god of the abyss and of deep
 wisdom. In order to show this, and at the same time to give an idea of
 their theory of the beginning of things, a short paraphrase of the
 contents of the seven tablets will be found in the following pages.
@@ -987,7 +987,7 @@ priests of Babylon after that city became the capital of the federated
 states. Modifications of their creed probably took place, but nothing
 seriously affecting it, until after the abandonment of Babylon in the
 time of Seleucus Nicator, 300 B.C. or thereabouts, when the deity at
-the head of the pantheon seems not to have been Merodach, but Anu-Bêl.
+the head of the pantheon seems not to have been Merodach, but Anu-Bï¿½l.
 This legend is therefore the most important document bearing upon the
 beliefs of the Babylonians from the end of the third millennium B.C.
 until that time, and the philosophical ideas which it contains seem to
@@ -1002,14 +1002,14 @@ is prefixed by way of introduction.
                        Water the first creator.
 
 The legend begins by stating that, when the heavens were unnamed and
-the earth bore no name, the primæval ocean was the producer of all
+the earth bore no name, the primï¿½val ocean was the producer of all
 things, and Mummu Tiawath (the sea) she who brought forth everything
-existing. Their waters (that is, of the primæval ocean and of the sea)
+existing. Their waters (that is, of the primï¿½val ocean and of the sea)
 were all united in one, and neither plains nor marshes were to be
 seen; the gods likewise did not exist, even in name, and the fates
 were undetermined--nothing had been decided as to the future of
 things. Then arose the great gods. Lahmu and Lahame came first,
-followed, after a long period, by Anšar and Kišar, generally
+followed, after a long period, by Anï¿½ar and Kiï¿½ar, generally
 identified with the "host of heaven" and the "host of earth," these
 being the meanings of the component parts of their names. After a
 further long period of days, there came forth their son Anu, the god
@@ -1021,8 +1021,8 @@ of the heavens.
 Here the narrative is defective, and is continued by Damascius in his
 /Doubts and Solutions of the First Principles/, in which he states
 that, after Anos (Anu), come Illinos (Ellila or Bel, "the lord" /par
-excellence/) and Aos (Aa, Ae, or Êa), the god of Eridu. Of Aos and
-Dauké (the Babylonian Aa and Damkina) is born, he says, a son called
+excellence/) and Aos (Aa, Ae, or ï¿½a), the god of Eridu. Of Aos and
+Daukï¿½ (the Babylonian Aa and Damkina) is born, he says, a son called
 Belos (Bel-Merodach), who, they (apparently the Babylonians) say, is
 the fabricator of the world--the creator.
 
@@ -1032,8 +1032,8 @@ the fabricator of the world--the creator.
 At this point Damascius ends his extract, and the Babylonian tablet
 also becomes extremely defective. The next deity to come into
 existence, however, would seem to have been Nudimmud, who was
-apparently the deity Aa or Êa (the god of the sea and of rivers) as
-the god of creation. Among the children of Tauthé (Tiawath) enumerated
+apparently the deity Aa or ï¿½a (the god of the sea and of rivers) as
+the god of creation. Among the children of Tauthï¿½ (Tiawath) enumerated
 by Damascius is one named Moumis, who was evidently referred to in the
 document at that philosopher's disposal. If this be correct, his name,
 under the form of Mummu, probably existed in one of the defective
@@ -1097,11 +1097,11 @@ confusion, as well as of evil.
 
                    The gods hear of the conspiracy.
 
-Aa, or Êa, having learned of the plot of Tiawath and her followers
+Aa, or ï¿½a, having learned of the plot of Tiawath and her followers
 against the gods of heaven, naturally became filled with anger, and
-went and told the whole to Anšar, his father, who in his turn gave way
+went and told the whole to Anï¿½ar, his father, who in his turn gave way
 to his wrath, and uttered cries of the deepest grief. After
-considering what they would do, Anšar applied to his son Anu, "the
+considering what they would do, Anï¿½ar applied to his son Anu, "the
 mighty and brave," saying that, if he would only speak to her, the
 great dragon's anger would be assuaged, and her rage disappear. In
 obedience to this behest, Anu went to try his power with the monster,
@@ -1176,7 +1176,7 @@ afterwards shut up in prison. As for Kingu, he was raised up, bound,
 and delivered to be with Ugga, the god of death. The tablets of fate,
 which Tiawath had delivered to Kingu, were taken from him by Merodach,
 who pressed his seal upon them, and placed them in his breast. The
-deity Anšar, who had been, as it would seem, deprived of his rightful
+deity Anï¿½ar, who had been, as it would seem, deprived of his rightful
 power by Tiawath, received that power again on the death of the common
 foe, and Nudimmud "saw his desire upon his enemy."
 
@@ -1188,7 +1188,7 @@ cut through, the north wind was caused by the deity to carry her blood
 away into secret places, a statement which probably typifies the
 opening of obstructions which prevent the rivers flowing from the
 north from running into the southern seas, helped thereto by the north
-wind. Finally her body was divided, like "a /mašdê/-fish," into two
+wind. Finally her body was divided, like "a /maï¿½dï¿½/-fish," into two
 parts, one of which was made into a covering for the heavens--the
 "waters above the firmament" of Genesis i. 7.
 
@@ -1206,7 +1206,7 @@ constellations for each month, and made a station for Nibiru--
 Merodach's own star--as the overseer of all the lights in the
 firmament. He then caused the new moon, Nannaru, to shine, and made
 him the ruler of the night, indicating his phases, one of which was on
-the seventh day, and the other, a /šabattu/, or day of rest, in the
+the seventh day, and the other, a /ï¿½abattu/, or day of rest, in the
 middle of the month. Directions with regard to the moon's movements
 seem to follow, but the record is mutilated, and their real nature
 consequently doubtful. With regard to other works which were performed
@@ -1234,8 +1234,8 @@ the details of the carrying out of the plan are entirely wanting.
 
 It is noteworthy that this portion of the narrative has been preserved
 by Abydenus, George the Syncellus, and Eusebius, in their quotations
-from Berosus. According to this Chaldæan writer, there was a woman
-named Omoroca, or, in Chaldæan, Thalatth (apparently a mistake for
+from Berosus. According to this Chaldï¿½an writer, there was a woman
+named Omoroca, or, in Chaldï¿½an, Thalatth (apparently a mistake for
 Thauatth, i.e. Tiawath), whose name was equivalent to the Greek
 Thalassa, the sea. It was she who had in her charge all the strange
 creatures then existing. At this period, Belus (Bel-Merodach) came,
@@ -1297,8 +1297,8 @@ Line 25. "Tuto: Aga-azaga (the glorious crown)--may he make the crowns
 
                           Man the redeemer.
 
-The phrase "to redeem them" is, in the original, /ana padi-šunu/, the
-verb being from /padû/, "to spare," "set free," and if this rendering
+The phrase "to redeem them" is, in the original, /ana padi-ï¿½unu/, the
+verb being from /padï¿½/, "to spare," "set free," and if this rendering
 be correct, as seems probable, the Babylonian reasons for the creation
 of mankind would be, that they might carry on the service and worship
 of the gods, and by their righteousness redeem those enemies of the
@@ -1329,9 +1329,9 @@ creations of Merodach as the world and its inhabitants--indeed, it is
 apparently for the glorification of those cities by attributing their
 origin to Merodach, that the bilingual account of the creation was
 composed.. "When within the sea there was a stream"--that is, when the
-veins of Tiawath had been cut through--Êridu (probably = Paradise) and
-the temple Ê-sagila within the Abyss were constructed, and after that
-Babylon and the earthly temple of Ê-sagila within it. Then he made the
+veins of Tiawath had been cut through--ï¿½ridu (probably = Paradise) and
+the temple ï¿½-sagila within the Abyss were constructed, and after that
+Babylon and the earthly temple of ï¿½-sagila within it. Then he made the
 gods and the Annunnaki (the gods of the earth), proclaimed a glorious
 city as the seat of the joy of their hearts, and afterwards made a
 pleasant place in which the gods might dwell. The creation of mankind
@@ -1354,7 +1354,7 @@ nevertheless, be regarded as probable that these lists, at least in
 some cases, are arranged in conformity (to a certain extent) with the
 appearance of the deities in the so-called creation-story. Some of
 them begin with Anu, and give him various names, among them being
-Anšar and Kišar, Lahmu and Lahame, etc. More specially interesting,
+Anï¿½ar and Kiï¿½ar, Lahmu and Lahame, etc. More specially interesting,
 however, is a well-known trilingual list of gods, which contains the
 names of the various deities in the following order:--
 
@@ -1364,74 +1364,74 @@ names of the various deities in the following order:--
     Sumer. Dialect      Sumer. Standard     Common              Explanation
                                             (Semit. or Sumer.)
 
- 1. Dimmer              Dingir              Îlu                 God.
- 2. U-ki                En-ki               Ê-a                 Êa or Aa.
- 3. Gašan(?)-ki         Nin-ki              Dawkina             Dauké, the consort of Êa.
- 4. Mu-ul-lil           En-lil-la           Bêl                 The God Bel.
- 5. E-lum               A-lim               Bêl
- 6. Gašan(?)-lil        Nin-lil-la          dam-bi sal          Bel's consort.
- 7. U-lu-a              Ni-rig              Ênu-rêštu           The god of Niffer.
- 8. U-lib-a             Ni-rig              Ênu-rêštu
+ 1. Dimmer              Dingir              ï¿½lu                 God.
+ 2. U-ki                En-ki               ï¿½-a                 ï¿½a or Aa.
+ 3. Gaï¿½an(?)-ki         Nin-ki              Dawkina             Daukï¿½, the consort of ï¿½a.
+ 4. Mu-ul-lil           En-lil-la           Bï¿½l                 The God Bel.
+ 5. E-lum               A-lim               Bï¿½l
+ 6. Gaï¿½an(?)-lil        Nin-lil-la          dam-bi sal          Bel's consort.
+ 7. U-lu-a              Ni-rig              ï¿½nu-rï¿½tu           The god of Niffer.
+ 8. U-lib-a             Ni-rig              ï¿½nu-rï¿½tu
 
-9-12 have Ênu-rêštu's consort, sister, and attendant.
+9-12 have ï¿½nu-rï¿½tu's consort, sister, and attendant.
 
-13. U-šab-sib           En-šag-duga         Nusku               Nusku
+13. U-ï¿½ab-sib           En-ï¿½ag-duga         Nusku               Nusku
 
 14-19 have two other names of Nusku, followed by three names of his
     consort. A number of names of minor divinities then follow. At
-    line 43 five names of Êa are given, followed by four of
+    line 43 five names of ï¿½a are given, followed by four of
     Merodach:--
 
 48. U-bi-lu-lu          En-bi-lu-lu         Marduk              Merodach
 49. U-Tin-dir ki        En-Tin-dir ki       Marduk              Merodach as "lord of Babylon."
 50. U-dimmer-an-kia     En-dinger-an-kia    Marduk              Merodach as "lord god of heaven and earth."
-51. U-ab-šar-u          En-ab-šar-u         Marduk              Merodach, apparently as "lord of the 36,000 steers."
-52. U-bar-gi-si         Nin-bar-gi-si       Zer-panîtum         Merodach's consort.
-53. Gašan-abzu          Nin-abzu            dam-bi sal          "the Lady of the Abyss," his consort.
+51. U-ab-ï¿½ar-u          En-ab-ï¿½ar-u         Marduk              Merodach, apparently as "lord of the 36,000 steers."
+52. U-bar-gi-si         Nin-bar-gi-si       Zer-panï¿½tum         Merodach's consort.
+53. Gaï¿½an-abzu          Nin-abzu            dam-bi sal          "the Lady of the Abyss," his consort.
 
 The remainder of the obverse is mutilated, but gave the names of Nebo
-in Sumerian, and apparently also of Tašmêtum, his consort. The
+in Sumerian, and apparently also of Taï¿½mï¿½tum, his consort. The
 beginning of the reverse also is mutilated, but seems to have given
-the names of the sun-god, Šamaš, and his consort, followed by those of
-Kîttu and Mêšarum, "justice and righteousness," his attendants. Other
+the names of the sun-god, ï¿½amaï¿½, and his consort, followed by those of
+Kï¿½ttu and Mï¿½arum, "justice and righteousness," his attendants. Other
 interesting names are:
 
                               /Reverse/
 
  8. U-libir-si          En-ubar-si          Dumu-zi             Tammuz
  9. Sir-tumu            Sir-du              ama Dumuzi-gi       the mother of Tammuz
-12. Gašan-anna          Innanna             Ištar               Ištar (Venus) as "lady of heaven."
-20.                     Nin-si-anna         Innanna mul         Ištar the star (the planet Venus).
-21. Nin                 Nin-tag-taga        Nanaa               a goddess identified with Ištar.
-23. U-šah               Nina-šah            Pap-sukal           the gods' messenger.
+12. Gaï¿½an-anna          Innanna             Iï¿½tar               Iï¿½tar (Venus) as "lady of heaven."
+20.                     Nin-si-anna         Innanna mul         Iï¿½tar the star (the planet Venus).
+21. Nin                 Nin-tag-taga        Nanaa               a goddess identified with Iï¿½tar.
+23. U-ï¿½ah               Nina-ï¿½ah            Pap-sukal           the gods' messenger.
 24. U-banda             Lugal-banda         Lugal-banda
-26. U-Mersi             Nin-Girsu           Nin-Girsu           the chief god of Lagaš.
+26. U-Mersi             Nin-Girsu           Nin-Girsu           the chief god of Lagaï¿½.
 27. Ma-sib-sib          Ga-tum-duga         Bau                 Bau, a goddess identified with Gula.
 
 Four non-Semitic names of Gula follow, of which that in line 31 is the
 most interesting:--
 
-31. Gašan-ti-dibba      Nin-tin-guua        Gula                "the lady saving from death."
-33. Gašan-ki-gal        Ereš-ki-gala        Allatu              Persephone.
-36. U-mu-zi-da          Nin-giš-zi-da       Nin-giš-zida        "the lord of the everlasting tree."
+31. Gaï¿½an-ti-dibba      Nin-tin-guua        Gula                "the lady saving from death."
+33. Gaï¿½an-ki-gal        Ereï¿½-ki-gala        Allatu              Persephone.
+36. U-mu-zi-da          Nin-giï¿½-zi-da       Nin-giï¿½-zida        "the lord of the everlasting tree."
 37. U-urugal            Ne-eri-gal          Nerigal             Nergal.
 42. Mulu-hursag         Galu-hursag         Amurru              the Amorite god.
-43. Gašan-gu-edina      Nin-gu-edina                            (apparently the consort of Amurru).
+43. Gaï¿½an-gu-edina      Nin-gu-edina                            (apparently the consort of Amurru).
 
 In all probability this list is one of comparatively late date, though
 its chronological position with regard to the others is wholly
 uncertain--it may not be later, and may even be earlier, than those
 beginning with Anu, the god of the heavens. The important thing about
-it is, that it begins with /îlu/, god, in general, which is written,
+it is, that it begins with /ï¿½lu/, god, in general, which is written,
 in the standard dialect (that of the second column) with the same
-character as that used for the name of Anu. After this comes Aa or Êa,
+character as that used for the name of Anu. After this comes Aa or ï¿½a,
 the god of the earth, and his consort, followed by En-lilla, the older
-Bel--Illinos in Damascius. The name of Êa is repeated again in line 43
+Bel--Illinos in Damascius. The name of ï¿½a is repeated again in line 43
 and following, where he is apparently re-introduced as the father of
 Merodach, whose names immediately follow. This peculiarity is also
 found in other lists of gods and is undoubtedly a reflection of the
 history of the Babylonian religion. As this list replaces Anu by
-/îlu/, it indicates the rule of Enki or Êa, followed by that of
+/ï¿½lu/, it indicates the rule of Enki or ï¿½a, followed by that of
 Merodach, who, as has been shown, became the chief divinity of the
 Babylonian pantheon in consequence of Babylon having become the
 capital of the country.
@@ -1448,12 +1448,12 @@ capital of the country.
 The name of this divinity is derived from the Sumero-Akkadian /ana/,
 "heaven," of which he was the principal deity. He is called the father
 of the great gods, though, in the creation-story, he seems to be
-described as the son of Anšar and Kišar. In early names he is
+described as the son of Anï¿½ar and Kiï¿½ar. In early names he is
 described as the father, creator, and god, probably meaning the
 supreme being. His consort was Anatu, and the pair are regarded in the
 lists as the same as the Lahmu and Lahame of the creation-story, who,
 with other deities, are also described as gods of the heavens. Anu was
-worshipped at Erech, along with Ištar.
+worshipped at Erech, along with Iï¿½tar.
 
 
                                  Ea.
@@ -1464,7 +1464,7 @@ written /Ae/, and certain inscriptions suggest that the true reading
 was /Aa/. His titles are "king of the Abyss, creator of everything,
 lord of all," the first being seemingly due to the fact that Aa is a
 word which may, in its reduplicate form, mean "waters," or if read
-/Êa/, "house of water." He also, like Anu, is called "father of the
+/ï¿½a/, "house of water." He also, like Anu, is called "father of the
 gods." As this god was likewise "lord of deep wisdom," it was to him
 that his son Merodach went for advice whenever he was in doubt. On
 account of his knowledge, he was the god of artisans in general--
@@ -1485,30 +1485,30 @@ description of the composite monsters said to have existed before
 Merodach assumed the rule of the universe.
 
 The name of his consort, Damkina or Dawkina, probably means "the
-eternal spouse," and her other names, /Gašan-ki/ (Sumerian dialectic)
+eternal spouse," and her other names, /Gaï¿½an-ki/ (Sumerian dialectic)
 and /Nin-ki/ (non-dialectic), "Lady of the earth," sufficiently
 indicates her province. She is often mentioned in the incantations
-with Êa.
+with ï¿½a.
 
-The forsaking of the worship of Êa as chief god for that of Merodach
+The forsaking of the worship of ï¿½a as chief god for that of Merodach
 seems to have caused considerable heartburning in Babylonia, if we may
 judge from the story of the Flood, for it was on account of his
-faithfulness that Utnipištim, the Babylonian Noah, attained to
+faithfulness that Utnipiï¿½tim, the Babylonian Noah, attained to
 salvation from the Flood and immortality afterwards. All through this
-adventure it was the god Êa who favoured him, and afterwards gave him
+adventure it was the god ï¿½a who favoured him, and afterwards gave him
 immortality like that of the gods. There is an interesting Sumerian
-text in which the ship of Êa seems to be described, the woods of which
+text in which the ship of ï¿½a seems to be described, the woods of which
 its various parts were formed being named, and in it, apparently, were
-Enki (Êa), Damgal-nunna (Damkina), his consort, Asari-lu-duga
-(Merodach), In-ab (or Ineš), the pilot of Êridu (Êa's city), and
+Enki (ï¿½a), Damgal-nunna (Damkina), his consort, Asari-lu-duga
+(Merodach), In-ab (or Ineï¿½), the pilot of ï¿½ridu (ï¿½a's city), and
 Nin-igi-nagar-sir, "the great architect of heaven":--
 
   "May the ship before thee bring fertility,
   May the ship after thee bring joy,
   In thy heart may it make joy of heart . . . ."
 
-Êa was the god of fertility, hence this ending to the poetical
-description of the ship of Êa.
+ï¿½a was the god of fertility, hence this ending to the poetical
+description of the ship of ï¿½a.
 
 
                                  Bel.
@@ -1518,20 +1518,20 @@ the "older Bel," so called to distinguish him from Bel-Merodach. His
 principal names were /Mullil/ (dialectic) or /En-lilla/[*] (standard
 speech), the /Illinos/ of Damascius. His name is generally translated
 "lord of mist," so-called as god of the underworld, his consort being
-/Gašan-lil/ or /Nan-lilla/, "the lady of the mist," in Semitic
-Babylonian /Bêltu/, "the Lady," par excellence. Bel, whose name means
+/Gaï¿½an-lil/ or /Nan-lilla/, "the lady of the mist," in Semitic
+Babylonian /Bï¿½ltu/, "the Lady," par excellence. Bel, whose name means
 "the lord," was so called because he was regarded as chief of the
 gods. As there was considerable confusion in consequence of the title
 Bel having been given to Merodach, Tiglath-pileser I. (about 1200
 B.C.) refers to him as the "older Bel" in describing the temple which
-he built for him at Aššur. Numerous names of men compounded with his
+he built for him at Aï¿½ï¿½ur. Numerous names of men compounded with his
 occur until the latest times, implying that, though the favourite god
 was Merodach, the worship of Bel was not forgotten, even at Babylon--
 that he should have been adored at his own city, Niffur, and at Dur-
 Kuri-galzu, where Kuri-galzu I. built a temple for "Bel, the lord of
-the lands," was naturally to be expected. Being, like Êa, a god of the
+the lands," was naturally to be expected. Being, like ï¿½a, a god of the
 earth, he is regarded as having formed a trinity with Anu, the god of
-heaven, and Êa, the god of the deep, and prayer to these three was as
+heaven, and ï¿½a, the god of the deep, and prayer to these three was as
 good as invoking all the gods of the universe. Classification of the
 gods according to the domain of their power would naturally take place
 in a religious system in which they were all identified with each
@@ -1550,26 +1550,26 @@ Moses was directed against this doctrine held by the Babylonians.
                                Beltis.
 
 This goddess was properly only the spouse of the older Bel, but as
-/Bêltu/, her Babylonian name, simply meant "lady" in general (just as
-/Bêl/ or /bêlu/ meant "lord"), it became a title which could be given
-to any goddess, and was in fact borne by Zer-panîtum, Ištar, Nanaa,
+/Bï¿½ltu/, her Babylonian name, simply meant "lady" in general (just as
+/Bï¿½l/ or /bï¿½lu/ meant "lord"), it became a title which could be given
+to any goddess, and was in fact borne by Zer-panï¿½tum, Iï¿½tar, Nanaa,
 and others. It was therefore often needful to add the name of the city
-over which the special /Bêltu/ presided, in order to make clear which
+over which the special /Bï¿½ltu/ presided, in order to make clear which
 of them was meant. Besides being the title of the spouse of the older
 Bel, having her earthly seat with him in Niffur and other less
-important shrines, the Assyrians sometimes name Bêltu the spouse of
-Aššur, their national god, suggesting an identification, in the minds
+important shrines, the Assyrians sometimes name Bï¿½ltu the spouse of
+Aï¿½ï¿½ur, their national god, suggesting an identification, in the minds
 of the priests, with that deity.
 
 
-                        Ênu-rêštu or Nirig.[*]
+                        ï¿½nu-rï¿½tu or Nirig.[*]
 
-Whether /Ênu-rêštu/ be a translation of /Nirig/ or not, is uncertain,
+Whether /ï¿½nu-rï¿½tu/ be a translation of /Nirig/ or not, is uncertain,
 but not improbable, the meaning being "primeval lord," or something
 similar, and "lord" that of the first element, /ni/, in the Sumerian
 form. In support of this reading and rendering may be quoted the fact,
-that one of the descriptions of this divinity is /ašsarid îlani
-âhê-šu/, "the eldest of the gods his brothers." It is noteworthy that
+that one of the descriptions of this divinity is /aï¿½sarid ï¿½lani
+ï¿½hï¿½-ï¿½u/, "the eldest of the gods his brothers." It is noteworthy that
 this deity was a special favourite among the Assyrians, many of whose
 kings, to say nothing of private persons, bore his name as a component
 part of theirs. In the bilingual poem entitled /Ana-kime gimma/
@@ -1581,14 +1581,14 @@ attitude towards the gods of hostile lands, against whom, apparently,
 he rode in a chariot of the sacred lapis-lazuli. Anu having endowed
 him with terrible glory, the gods of the earth feared to attack him,
 and his onrush was as that of a storm-flood. By the command of Bel,
-his course was directed towards Ê-kur, the temple of Bel at Niffur.
+his course was directed towards ï¿½-kur, the temple of Bel at Niffur.
 Here he was met by Nusku, the supreme messenger of Bel, who, with
 words of respect and of praise, asks him not to disturb the god Bel,
 his father, in his seat, nor make the gods of the earth tremble in
-Upšukennaku (the heavenly festival-hall of the gods), and offers him a
-gift.[†] It will thus be seen that Ênu-rêštu was a rival to the older
-Bel, whose temple was the great tower in stages called Ê-kura, in
-which, in all probability, Ê-šu-me-du, the shrine of Ênu-rêštu, was
+Upï¿½ukennaku (the heavenly festival-hall of the gods), and offers him a
+gift.[ï¿½] It will thus be seen that ï¿½nu-rï¿½tu was a rival to the older
+Bel, whose temple was the great tower in stages called ï¿½-kura, in
+which, in all probability, ï¿½-ï¿½u-me-du, the shrine of ï¿½nu-rï¿½tu, was
 likewise situated. The inscriptions call him "god of war," though,
 unlike Nergal, he was not at the same time god of disease and
 pestilence. To all appearance he was the god of the various kinds of
@@ -1601,13 +1601,13 @@ not know his father." "He rode over the mountains and scattered
 seed--unanimously the plants proclaimed his name to their dominion,
 among them like a great wild bull he raises his horns."
 
-[*] /Ênu-rêštu/ is the reading which I have adopted as the Semitic
+[*] /ï¿½nu-rï¿½tu/ is the reading which I have adopted as the Semitic
     Babylonian equivalent of the name of this divinity, in consequence
     of the Aramaic transcription given by certain contract-tablets
     discovered by the American expedition to Niffer, and published by
     Prof. Clay of Philadelphia.
 
-[†] The result of this request is not known, in consequence of the
+[ï¿½] The result of this request is not known, in consequence of the
     defective state of the tablets.
 
 Many other interesting descriptions of the deity Nirig (generally read
@@ -1621,14 +1621,14 @@ This deity was especially invoked by the Assyrian kings, but was in no
 wise exclusively Assyrian, as is shown by the fact that his name
 occurs in many Babylonian inscriptions. He was the great messenger of
 the gods, and is variously given as "the offspring of the abyss, the
-creation of Êa," and "the likeness of his father, the first-born of
+creation of ï¿½a," and "the likeness of his father, the first-born of
 Bel." As Gibil, the fire-god, has likewise the same diverse parentage,
 it is regarded as likely that these two gods were identical. Nusku was
 the god whose command is supreme, the counsellor of the great gods,
 the protector of the Igigi (the gods of the heavens), the great and
 powerful one, the glorious day, the burning one, the founder of
 cities, the renewer of sanctuaries, the provider of feasts for all the
-Igigi, without whom no feast took place in Ê-kura. Like Nebo, he bore
+Igigi, without whom no feast took place in ï¿½-kura. Like Nebo, he bore
 the glorious spectre, and it was said of him that he attacked mightily
 in battle. Without him the sun-god, the judge, could not give
 judgment.
@@ -1641,8 +1641,8 @@ fire and its flame. As the evidence of the presence of the shining
 orbs in the heavens--the light of their fires--he was the messenger of
 the gods, and was honoured accordingly. From this idea, too, he became
 their messenger in general, especially of Bel-Merodach, the younger
-Bel, whose requests he carried to the god Êa in the Deep. In one
-inscription he is identified with Nirig or Ênu-rêštu, who is described
+Bel, whose requests he carried to the god ï¿½a in the Deep. In one
+inscription he is identified with Nirig or ï¿½nu-rï¿½tu, who is described
 above.
 
 
@@ -1650,14 +1650,14 @@ above.
 
 Concerning this god, and how he arose to the position of king of all
 the gods of heaven, has been fully shown in chapter III. Though there
-is but little in his attributes to indicate any connection with Šamaš,
+is but little in his attributes to indicate any connection with ï¿½amaï¿½,
 there is hardly any doubt that he was originally a sun-god, as is
 shown by the etymology of his name. The form, as it has been handed
 down to us, is somewhat shortened, the original pronunciation having
 been /Amar-uduk/, "the young steer of day," a name which suggests that
 he was the morning sun. Of the four names given at the end of chapter
 III., two--"lord of Babylon," and "lord god of heaven and earth,"--may
-be regarded as expressing his more well-known attributes. /En-ab-šar-
+be regarded as expressing his more well-known attributes. /En-ab-ï¿½ar-
 u/, however, is a provisional, though not impossible, reading and
 rendering, and if correct, the "36,000 wild bulls" would be a
 metaphorical way of speaking of "the 36,000 heroes," probably meaning
@@ -1667,9 +1667,9 @@ pantheon, however, Merodach had many other names, among which may be
 mentioned /Asari/, which has been compared with the Egyptian Osiris,
 /Asari-lu-duga/, "/Asari/ who is good," compared with Osiris Unnefer;
 /Namtila/, "life", /Tutu/, "begetter (of the gods), renewer (of the
-gods)," /Šar-azaga/, "the glorious incantation," /Mu-azaga/, "the
+gods)," /ï¿½ar-azaga/, "the glorious incantation," /Mu-azaga/, "the
 glorious charm," and many others. The last two refer to his being the
-god who, by his kindness, obtained from his father Êa, dwelling in the
+god who, by his kindness, obtained from his father ï¿½a, dwelling in the
 abyss, those charms and incantations which benefited mankind, and
 restored the sick to health. In this connection, a frequent title
 given to him is "the merciful one," but most merciful was he in that
@@ -1689,23 +1689,23 @@ stars, and this was regarded as emblematic of Merodach shepherding
 them--"pasturing the gods like sheep," as the tablet has it.
 
 A long list of gods gives as it were the court of Merodach, held in
-what was apparently a heavenly /Ê-sagila/, and among the spiritual
-beings mentioned are /Minâ-îkul-bêli/ and /Minâ-ištî-bêli/, "what my
-lord has eaten," and "what has my lord drunk," /Nadin-mê-gati/, "he
+what was apparently a heavenly /ï¿½-sagila/, and among the spiritual
+beings mentioned are /Minï¿½-ï¿½kul-bï¿½li/ and /Minï¿½-iï¿½tï¿½-bï¿½li/, "what my
+lord has eaten," and "what has my lord drunk," /Nadin-mï¿½-gati/, "he
 who gives water for the hands," also the two door-keepers, and the
 four dogs of Merodach, wherein people are inclined to see the four
 satellites of Jupiter, which, it is thought, were probably visible to
 certain of the more sharp-sighted stargazers of ancient Babylonia.
-These dogs were called /Ukkumu/, /Akkulu/, /Ikšsuda/, and /Iltebu/,
+These dogs were called /Ukkumu/, /Akkulu/, /Ikï¿½suda/, and /Iltebu/,
 "Seizer," "Eater," "Grasper," and "Holder." Images of these beings
-were probably kept in the temple of Ê-sagila at Babylon.
+were probably kept in the temple of ï¿½-sagila at Babylon.
 
 
-                             Zer-panîtum.
+                             Zer-panï¿½tum.
 
 This was the name of the consort of Merodach, and is generally read
 Sarp(b)anitum--a transcription which is against the native orthography
-and etymology, namely, "seed-creatress" (Zer-banîtum). The meaning
+and etymology, namely, "seed-creatress" (Zer-banï¿½tum). The meaning
 attributed to this word is partly confirmed by another name which
 Lehmann has pointed out that she possessed, namely, /Erua/ or /Aru'a/,
 who, in an inscription of Antiochus Soter (280-260 B.C.) is called
@@ -1713,7 +1713,7 @@ who, in an inscription of Antiochus Soter (280-260 B.C.) is called
 circumstance, that she must be identical with Aruru, who created the
 seed of mankind along with Merodach. Why she was called "the lady of
 the abyss," and elsewhere "the voice of the abyss" (/Me-abzu/) is not
-known. Zer-panîtum was no mere reflection of Merodach, but one of the
+known. Zer-panï¿½tum was no mere reflection of Merodach, but one of the
 most important goddesses in the Babylonian pantheon. The tendency of
 scholars has been to identify her with the moon, Merodach being a
 solar deity and the meaning "silvery"--/Sarpanitum/, from /sarpu/, one
@@ -1722,15 +1722,15 @@ was identified with the Elamite goddess named Elagu, and with the
 Lahamum of the island of Bahrein, the Babylonian Tilmun.
 
 
-                          Nebo and Tašmêtum.
+                          Nebo and Taï¿½mï¿½tum.
 
 As "the teacher" and "the hearer" these were among the most popular of
 the deities of Babylonia and Assyria. Nebo (in Semitic Babylonian
-Nabû) was worshipped at the temple-tower known as Ê-zida, "the ever-
+Nabï¿½) was worshipped at the temple-tower known as ï¿½-zida, "the ever-
 lasting house," at Borsippa, now the Birs Nimroud, traditionally
 regarded as the site of the Tower of Babel, though that title, as has
 already been shown, would best suit the similar structure known as
-Ê-sagila, "the house of the high head," in Babylon itself. In
+ï¿½-sagila, "the house of the high head," in Babylon itself. In
 composition with men's names, this deity occurs more than any other,
 even including Merodach himself--a clear indication of the estimation
 in which the Babylonians and Assyrians held the possession of
@@ -1739,11 +1739,11 @@ the pronunciation of /ak/, "to make," "to create," "to receive," "to
 proclaim," and with the pronunciation of /me/, "to be wise," "wisdom,"
 "open of ear," "broad of ear," and "to make, of a house," the last
 probably referring to the design rather than to the actual building.
-Under the name of /Dim-šara/ he was "the creator of the writing of the
+Under the name of /Dim-ï¿½ara/ he was "the creator of the writing of the
 scribes," as /Ni-zu/, "the god who knows" (/zu/, "to know"), as
 /Mermer/, "the speeder(?) of the command of the gods"--on the Sumerian
 side indicating some connection with Addu or Rimmon, the thunderer,
-and on the Semitic side with Ênu-rêštu, who was one of the gods'
+and on the Semitic side with ï¿½nu-rï¿½tu, who was one of the gods'
 messengers. A small fragment in the British Museum gave his attributes
 as god of the various cities of Babylonia, but unfortunately their
 names are lost or incomplete. From what remains, however, we see that
@@ -1759,11 +1759,11 @@ this should have taken place is not by any means certain, for Nebo was
 a deity adored far and wide, as may be gathered from the fact that
 there was a mountain bearing his name in Moab, upon which Moses--also
 an "announcer," adds Jastrow--died. Besides the mountain, there was a
-city in Moab so named, and another in Judæa. That it was the
+city in Moab so named, and another in Judï¿½a. That it was the
 Babylonian Nebo originally is implied by the form--the Hebrew
 corresponding word is /nabi/.
 
-How old the worship of Tašmêtum, his consort, is, is doubtful, but her
+How old the worship of Taï¿½mï¿½tum, his consort, is, is doubtful, but her
 name first occurs in a date of the reign of Hammurabi. Details
 concerning her attributes are rare, and Jastrow regards this goddess
 as the result of Babylonian religious speculations. It is noteworthy
@@ -1776,14 +1776,14 @@ female figure with no mouth at all, but with very prominent ears,
 holding a bull in a similar manner. Here we have the "teacher" and the
 "hearer" personified in a very remarkable manner, and it may well be
 that this primitive picture shows the idea then prevailing with regard
-to these two deities. It is to be noted that the name of Tašmêtum has
+to these two deities. It is to be noted that the name of Taï¿½mï¿½tum has
 a Sumerian equivalent, namely, /Kurnun/, and that the ideograph by
 which it is represented is one whose general meaning seems to be "to
 bind," perhaps with the additional signification of "to accomplish,"
 in which case "she who hears" would also be "she who obeys."
 
 
-                        Šamaš and his consort.
+                        ï¿½amaï¿½ and his consort.
 
 At all times the worship of the sun in Babylonia and Assyria was
 exceedingly popular, as, indeed, was to be expected from his
@@ -1791,8 +1791,8 @@ importance as the greatest of the heavenly bodies and the brightest,
 without whose help men could not live, and it is an exceedingly
 noteworthy fact that this deity did not become, like Ra in Egypt, the
 head of the pantheon. This place was reserved for Merodach, also a
-sun-god, but possessing attributes of a far wider scope. Šamaš is
-mentioned as early as the reign of Ê-anna-tum, whose date is set at
+sun-god, but possessing attributes of a far wider scope. ï¿½amaï¿½ is
+mentioned as early as the reign of ï¿½-anna-tum, whose date is set at
 about 4200 B.C., and at this period his Semitic name does not,
 naturally, occur, the character used being /Utu/, or, in its longer
 form, /Utuki/.
@@ -1803,7 +1803,7 @@ forth those which were more perfect, and the sun was therefore the
 offspring of Nannara or Sin, the moon. In accordance with the same
 idea, the day, with the Semites, began with the evening, the time when
 the moon became visible, and thus becomes the offspring of the night.
-In the inscriptions Šamaš is described as "the light of things above
+In the inscriptions ï¿½amaï¿½ is described as "the light of things above
 and things below, the illuminator of the regions," "the supreme judge
 of heaven and earth," "the lord of living creatures, the gracious one
 of the lands." Dawning in the foundation of the sky, he opened the
@@ -1821,13 +1821,13 @@ everything, and was therefore best in a position to judge aright, and
 deliver a just decision. It is for this reason that his image appears
 at the head of the stele inscribed with Hammurabi's laws, and legal
 ceremonies were performed within the precincts of his temples. The
-chief seats of his worship were the great temples called Ê-babbara,
+chief seats of his worship were the great temples called ï¿½-babbara,
 "the house of great light," in the cities of Larsa and Sippar.
 
-The consort of Šamaš was Aa, whose chief seat was at Sippar, side by
-side with Šamaš. Though only a weak reflex of the sun-god, her worship
+The consort of ï¿½amaï¿½ was Aa, whose chief seat was at Sippar, side by
+side with ï¿½amaï¿½. Though only a weak reflex of the sun-god, her worship
 was exceedingly ancient, being mentioned in an inscription of
-Man-ištusu, who is regarded as having reigned before Sargon of Agadé.
+Man-iï¿½tusu, who is regarded as having reigned before Sargon of Agadï¿½.
 From the fact that, in one of the lists, she has names formed by
 reduplicating the name of the sun-god, /Utu/, she would seem once to
 have been identical with him, in which case it may be supposed that
@@ -1836,26 +1836,26 @@ disc which he presents at sunset, when, according to a hymn to the
 setting sun sung at the temple at Borsippa, Aa, in the Sumerian line
 Kur-nirda, was accustomed to go to receive him. According to the list
 referred to above, Aa, with the name of Burida in Sumerian, was more
-especially the consort of Ša-zu, "him who knows the heart," one of the
+especially the consort of ï¿½a-zu, "him who knows the heart," one of the
 names of Merodach, who was probably the morning sun, and therefore the
 exact counterpart of the sun at evening.
 
-Besides Šamaš and Utu, the latter his ordinary Sumerian name, the sun-
-god had several other non-Semitic names, including /Gišnu/,[*] "the
-light," /Ma-banda-anna/, "the bark of heaven," /U-ê/, "the rising
-sun," /Mitra/, apparently the Persian Mithra; /Ume-šimaš/ and Nahunda,
+Besides ï¿½amaï¿½ and Utu, the latter his ordinary Sumerian name, the sun-
+god had several other non-Semitic names, including /Giï¿½nu/,[*] "the
+light," /Ma-banda-anna/, "the bark of heaven," /U-ï¿½/, "the rising
+sun," /Mitra/, apparently the Persian Mithra; /Ume-ï¿½imaï¿½/ and Nahunda,
 Elamite names, and Sahi, the Kassite name of the sun. He also
-sometimes bears the names of his attendants Kittu and Mêšaru, "Truth"
+sometimes bears the names of his attendants Kittu and Mï¿½aru, "Truth"
 and "Righteousness," who guided him upon his path as judge of the
 earth.
 
-[*] It is the group expressing this word which is used for Šamaš in
-    the name of Šamaš-šum-ukîn (Saosduchinos), the brother of Aššur-
-    bani-âpli (Assurbanipal). The Greek equivalent implies the
-    pronunciation /Šawaš/, as well as /Šamaš/.
+[*] It is the group expressing this word which is used for ï¿½amaï¿½ in
+    the name of ï¿½amaï¿½-ï¿½um-ukï¿½n (Saosduchinos), the brother of Aï¿½ï¿½ur-
+    bani-ï¿½pli (Assurbanipal). The Greek equivalent implies the
+    pronunciation /ï¿½awaï¿½/, as well as /ï¿½amaï¿½/.
 
 
-                          Tammuz and Ištar.
+                          Tammuz and Iï¿½tar.
 
 The date of the rise of the myth of Tammuz is uncertain, but as the
 name of this god is found on tablets of the time of Lugal-anda and
@@ -1879,10 +1879,10 @@ with Aphrodite, and four with Persephone, and six with Aphrodite on
 earth. He was afterwards slain, whilst hunting, by a wild boar.
 
 Nothing has come down to us as yet concerning this legend except the
-incident of his dwelling in Hades, whither Ištar, the Babylonian
+incident of his dwelling in Hades, whither Iï¿½tar, the Babylonian
 Venus, went in search of him. It is not by any means unlikely,
 however, that the whole story existed in Babylonia, and thence spread
-to Phœnicia, and afterwards to Greece. In Phœnicia it was adapted to
+to Phï¿½nicia, and afterwards to Greece. In Phï¿½nicia it was adapted to
 the physical conditions of the country, and the place of Tammuz's
 encounter with the boar was said to be the mountains of Lebanon,
 whilst the river named after him, Adonis (now the Nahr Ibrahim), which
@@ -1890,7 +1890,7 @@ ran red with the earth washed down by the autumn rains, was said to be
 so coloured in consequence of being mingled with his blood. The
 descent of Tammuz to the underworld, typified by the flowing down of
 the earth-laden waters of the rivers to the sea, was not only
-celebrated by the Phœnicians, but also by the Babylonians, who had at
+celebrated by the Phï¿½nicians, but also by the Babylonians, who had at
 least two series of lamentations which were used on this occasion, and
 were probably the originals of those chanted by the Hebrew women in
 the time of Ezekiel (about 597 B.C.). Whilst on earth, he was the one
@@ -1901,18 +1901,18 @@ plenty to overflow for the land of the dead, for its lamentations for
 the day of his fall, in the unpropitious month of his year." There was
 also lamentation for the cessation of the growth of vegetation, and
 one of these hymns, after addressing him as the shepherd and husband
-of Ištar, "lord of the underworld," and "lord of the shepherd's seat,"
+of Iï¿½tar, "lord of the underworld," and "lord of the shepherd's seat,"
 goes on to liken him to a germ which has not absorbed water in the
 furrow, whose bud has not blossomed in the meadow; to the sapling
 which has not been planted by the watercourse, and to the sapling
 whose root has been removed. In the "Lamentations" in the Manchester
-Museum, Ištar, or one of her devotees, seems to call for Tammuz,
+Museum, Iï¿½tar, or one of her devotees, seems to call for Tammuz,
 saying, "Return, my husband," as she makes her way to the region of
-gloom in quest of him. Ereš-ê-gala, "the lady of the great house"
+gloom in quest of him. Ereï¿½-ï¿½-gala, "the lady of the great house"
 (Persephone), is also referred to, and the text seems to imply that
-Ištar entered her domain in spite of her. In this text other names are
+Iï¿½tar entered her domain in spite of her. In this text other names are
 given to him, namely, /Tumu-giba/, "son of the flute," /Ama-elaggi/,
-and /Ši-umunnagi/, "life of the people."
+and /ï¿½i-umunnagi/, "life of the people."
 
 The reference to sheep and goats in the British Museum fragment
 recalls the fact that in an incantation for purification the person
@@ -1925,8 +1925,8 @@ Sumerian is Dumu-zi, or in its rare fullest form, Dumu-zida, meaning
 "true" or "faithful son." There is probably some legend attached to
 this which is at present unknown.
 
-In all probability Ištar, the spouse of Tammuz, is best known from her
-descent into Hades in quest of him when with Persephone (Ereš-ki-gal)
+In all probability Iï¿½tar, the spouse of Tammuz, is best known from her
+descent into Hades in quest of him when with Persephone (Ereï¿½-ki-gal)
 in the underworld. In this she had to pass through seven gates, and an
 article of clothing was taken from her at each, until she arrived in
 the underworld quite naked, typifying the teaching, that man can take
@@ -1936,11 +1936,11 @@ obliged to intervene, and demand her release, which was ultimately
 granted, and at each gate, as she returned, the adornments which she
 had left were given back to her. It is uncertain whether the husband
 whom she sought to release was set free, but the end of the
-inscription seems to imply that Ištar was successful in her mission.
+inscription seems to imply that Iï¿½tar was successful in her mission.
 
 In this story she typifies the faithful wife, but other legends show
-another side of her character, as in that of Gilgameš, ruler of her
-city Erech, to whom she makes love. Gilgameš, however, knowing the
+another side of her character, as in that of Gilgameï¿½, ruler of her
+city Erech, to whom she makes love. Gilgameï¿½, however, knowing the
 character of the divine queen of his city too well, reproaches her
 with her treatment of her husband and her other lovers--Tammuz, to
 whom, from year to year, she caused bitter weeping; the bright
@@ -1948,21 +1948,21 @@ coloured Allala bird, whom she smote and broke his wings; the lion
 perfect in strength, in whom she cut wounds "by sevens"; the horse
 glorious in war, to whom she caused hardship and distress, and to his
 mother Silili bitter weeping; the shepherd who provided for her things
-which she liked, whom she smote and changed to a jackal; Išullanu, her
+which she liked, whom she smote and changed to a jackal; Iï¿½ullanu, her
 father's gardener, whom she tried, apparently, to poison, but failing,
 she smote him, and changed him to a statue(?). On being thus reminded
-of her misdeeds, Ištar was naturally angry, and, ascending to heaven,
+of her misdeeds, Iï¿½tar was naturally angry, and, ascending to heaven,
 complained to her father Anu and her mother Anatu, the result being,
-that a divine bull was sent against Gilgameš and Enki-du, his friend
+that a divine bull was sent against Gilgameï¿½ and Enki-du, his friend
 and helper. The bull, however, was killed, and a portion of the animal
 having been cut off, Enki-du threw it at the goddess, saying at the
 same time that, if he could only get hold of her, he would treat her
-similarly. Apparently Ištar recognised that there was nothing further
+similarly. Apparently Iï¿½tar recognised that there was nothing further
 to be done in the matter, so, gathering the hand-maidens, pleasure-
 women and whores, in their presence she wept over the portion of the
 divine bull which had been thrown at her.
 
-The worship of Ištar, she being the goddess of love and war, was
+The worship of Iï¿½tar, she being the goddess of love and war, was
 considerably more popular than that of her spouse, Tammuz, who, as
 among the western Semitic nations, was adored rather by the women than
 the men. Her worship was in all probability of equal antiquity, and
@@ -1971,22 +1971,22 @@ her many names, each of which had a tendency to become a distinct
 personality. Thus the syllabaries give the character which represents
 her name as having also been pronounced /Innanna/, /Ennen/, and /Nin/,
 whilst a not uncommon name in other inscriptions is /Ama-Innanna/,
-"mother Ištar." The principal seat of her worship in Babylonia was at
+"mother Iï¿½tar." The principal seat of her worship in Babylonia was at
 Erech, and in Assyria at Nineveh--also at Arbela, and many other
 places. She was also honoured (at Erech and elsewhere) under the
-Elamite names of Tišpak and Šušinak, "the Susian goddess." 
+Elamite names of Tiï¿½pak and ï¿½uï¿½inak, "the Susian goddess." 
 
 
                                 Nina.
 
-From the name /Nin/, which Ištar bore, there is hardly any doubt that
+From the name /Nin/, which Iï¿½tar bore, there is hardly any doubt that
 she acquired the identification with Nina, which is provable as early
-as the time of the Lagašite kings, Lugal-anda and Uru-ka-gina. As
+as the time of the Lagaï¿½ite kings, Lugal-anda and Uru-ka-gina. As
 identified with Aruru, the goddess who helped Merodach to create
-mankind, Ištar was also regarded as the mother of all, and in the
+mankind, Iï¿½tar was also regarded as the mother of all, and in the
 Babylonian story of the Flood, she is made to say that she had
 begotten man, but like "the sons of the fishes," he filled the sea.
-Nina, then, as another form of Ištar, was a goddess of creation,
+Nina, then, as another form of Iï¿½tar, was a goddess of creation,
 typified in the teeming life of the ocean, and her name is written
 with a character standing for a house or receptacle, with the sign for
 "fish" within. Her earliest seat was the city of Nina in southern
@@ -1995,7 +1995,7 @@ northwards, and founded another shrine at Nineveh in Assyria, which
 afterwards became the great centre of her worship, and on this account
 the city was called after her Ninaa or Ninua. As their tutelary
 goddess, the fishermen in the neighbourhood of the Babylonian Nina and
-Lagaš were accustomed to make to her, as well as to Innanna or Ištar,
+Lagaï¿½ were accustomed to make to her, as well as to Innanna or Iï¿½tar,
 large offerings of fish.
 
 As the masculine deities had feminine forms, so it is not by any means
@@ -2008,12 +2008,12 @@ same name as Nina with the Greek masculine termination.
                               Nin-Gursu.
 
 This deity is principally of importance in connection with the ancient
-Babylonian state of Lagaš, the home of an old and important line of
+Babylonian state of Lagaï¿½, the home of an old and important line of
 kings and viceroys, among the latter being the celebrated Gudea, whose
 statues and inscribed cylinders now adorn the Babylonian galleries of
 the Louvre at Paris. His name means "Lord of Girsu," which was
-probably one of the suburbs, and the oldest part, of Lagaš. This deity
-was son of En-lila or Bêl, and was identified with Nirig or Ênu-rêštu.
+probably one of the suburbs, and the oldest part, of Lagaï¿½. This deity
+was son of En-lila or Bï¿½l, and was identified with Nirig or ï¿½nu-rï¿½tu.
 To all appearance he was a sun-deity. The dialectic form of his name
 was /U-Mersi/, of which a variant, /En-Mersi/, occurs in an
 incantation published in the fourth volume of the /Cuneiform
@@ -2029,8 +2029,8 @@ Tammuz being also god of agriculture.
 
 This goddess at all times played a prominent part in ancient
 Babylonian religion, especially with the rulers before the dynasty of
-Hammurabi. She was the "mother" of Lagaš, and her temple was at
-Uru-azaga, a district of Lagaš, the chief city of Nin-Girsu, whose
+Hammurabi. She was the "mother" of Lagaï¿½, and her temple was at
+Uru-azaga, a district of Lagaï¿½, the chief city of Nin-Girsu, whose
 spouse she was. Like Nin-Girsu, she planted (not only grain and
 vegetation, but also the seed of men). In her character of the goddess
 who gave life to men, and healed their bodies in sickness, she was
@@ -2041,18 +2041,18 @@ identified with Bau, is regarded by Jastrow has having been originally
 distinct from her.
 
 
-                        Ereš-ki-gal or Allatu.
+                        Ereï¿½-ki-gal or Allatu.
 
 As the prototype of Persephone, this goddess is one of much importance
 for comparative mythology, and there is a legend concerning her of
 considerable interest. The text is one of those found at Tel-el-
 Armana, in Egypt, and states that the gods once made a feast, and sent
-to Ereš-ki-gal, saying that, though they could go down to her, she
+to Ereï¿½-ki-gal, saying that, though they could go down to her, she
 could not ascend to them, and asking her to send a messenger to fetch
 away the food destined for her. This she did, and all the gods stood
 up to receive her messenger, except one, who seems to have withheld
 this token of respect. The messenger, when he returned, apparently
-related to Ereš-ki-gal what had happened, and angered thereat, she
+related to Ereï¿½-ki-gal what had happened, and angered thereat, she
 sent him back to the presence of the gods, asking for the delinquent
 to be delivered to her, that she might kill him. The gods then
 discussed the question of death with the messenger, and told him to
@@ -2061,7 +2061,7 @@ When the gods were brought together, that the culprit might be
 recognised, one of them remained in the background, and on the
 messenger asking who it was who did not stand up, it was found to be
 Nerigal. This god was duly sent, but was not at all inclined to be
-submissive, for instead of killing him, as she had threatened, Ereš-
+submissive, for instead of killing him, as she had threatened, Ereï¿½-
 ki-gal found herself seized by the hair and dragged from her throne,
 whilst the death-dealing god made ready to cut off her head. "Do not
 kill me, my brother, let me speak to thee," she cried, and on his
@@ -2072,21 +2072,21 @@ shalt be lord, I will be lady." Nerigal thereupon took her, kissed
 her, and wiped away her tears, saying, "Whatever thou hast asked me
 for months past now receives assent."
 
-Ereš-ki-gal did not treat her rival in the affections of Tammuz so
-gently when Ištar descended to Hades in search of the "husband of her
-youth." According to the story, not only was Ištar deprived of her
-garments and ornaments, but by the orders of Ereš-ki-gal, Namtar smote
+Ereï¿½-ki-gal did not treat her rival in the affections of Tammuz so
+gently when Iï¿½tar descended to Hades in search of the "husband of her
+youth." According to the story, not only was Iï¿½tar deprived of her
+garments and ornaments, but by the orders of Ereï¿½-ki-gal, Namtar smote
 her with disease in all her members. It was not until the gods
-intervened that Ištar was set free. The meaning of her name is "lady
+intervened that Iï¿½tar was set free. The meaning of her name is "lady
 of the great region," a description which is supposed to apply to
-Hades, and of which a variant, Ereš-ki-gal, "lady of the great house,"
+Hades, and of which a variant, Ereï¿½-ki-gal, "lady of the great house,"
 occurs in the Hymns to Tammuz in the Manchester Museum.
 
 
                                Nergal.
 
 This name is supposed to mean "lord of the great habitation," which
-would be a parallel to that of his spouse Ereš-ki-gal. He was the
+would be a parallel to that of his spouse Ereï¿½-ki-gal. He was the
 ruler of Hades, and at the same time god of war and of disease and
 pestilence. As warrior, he naturally fought on the side of those who
 worshipped him, as in the phrase which describes him as "the warrior,
@@ -2099,10 +2099,10 @@ of fire, the destroying element, and Jensen says that Nerigal was god
 of the midday or of the summer sun, and therefore of all the
 misfortunes caused by an excess of his heat.
 
-The chief centre of his worship was Cuthah (/Kutû/, Sumerian /Gudua/)
+The chief centre of his worship was Cuthah (/Kutï¿½/, Sumerian /Gudua/)
 near Babylon, now represented by the mounds of Tel Ibrahim. The
 identity with the Greek Aries and the Roman Mars is proved by the fact
-that his planet was /Muštabarrû-mûtanu/, "the death-spreader," which
+that his planet was /Muï¿½tabarrï¿½-mï¿½tanu/, "the death-spreader," which
 is probably the name of Mars in Semitic Babylonian.
 
 
@@ -2139,9 +2139,9 @@ explains it as being for Narnar, and renders it "light-producer." In a
 long hymn to this god he is described in many lines as "the lord,
 prince of the gods, who in heaven alone is supreme," and as "father
 Nannar." Among his other descriptive titles are "great Anu" (Sum. /ana
-gale/, Semitic Bab. /Anu rabû/)--another instance of the
+gale/, Semitic Bab. /Anu rabï¿½/)--another instance of the
 identification of two deities. He was also "lord of Ur," "lord of the
-temple Gišnu-gala," "lord of the shining crown," etc. He is also said
+temple Giï¿½nu-gala," "lord of the shining crown," etc. He is also said
 to be "the mighty steer whose horns are strong, whose limbs are
 perfect, who is bearded with a beard of lapis-stone,[*] who is filled
 with beauty and fullness (of splendour)."
@@ -2178,7 +2178,7 @@ something similar. He was the god of winds, storms, and rain, feared
 on account of the former, and worshipped, and his favour sought, on
 account of the last. In his name Birqu, he appears as the god of
 lightning, and Jastrow is of opinion, that he is sometimes associated
-on that account with Šamaš, both of them being (although in different
+on that account with ï¿½amaï¿½, both of them being (although in different
 degrees) gods of light, and this is confirmed by the fact that, in
 common with the sun-god, he was called "god of justice." In the
 Assyrian inscriptions he appears as a god of war, and the kings
@@ -2194,25 +2194,25 @@ The original seat of his worship was Muru in South Babylonia, to which
 the patesi of Girsu in the time of Ibi-Sin sent grain as an offering.
 Its site is unknown. Other places (or are they other names of the
 same?) where he was worshipped were Ennigi and Kakru. The consort of
-Addu was Šala, whose worship was likewise very popular, and to whom
+Addu was ï¿½ala, whose worship was likewise very popular, and to whom
 there were temples, not only in Babylonia and Assyria, but also in
 Elam, seemingly always in connection with Addu.
 
 
-                                Aššur.
+                                Aï¿½ï¿½ur.
 
 In all the deities treated of above, we see the chief gods of the
 Babylonian and Assyrian pantheon, which were worshipped by both
 peoples extensively, none of them being specifically Assyrian, though
 worshipped by the Assyrians. There was one deity, however, whose name
-will not be found in the Babylonian lists of gods, namely, Aššur, the
-national god of Assyria, who was worshipped in the city of Aššur, the
+will not be found in the Babylonian lists of gods, namely, Aï¿½ï¿½ur, the
+national god of Assyria, who was worshipped in the city of Aï¿½ï¿½ur, the
 old capital of the country.
 
-From this circumstance, it may be regarded as certain, that Aššur was
+From this circumstance, it may be regarded as certain, that Aï¿½ï¿½ur was
 the local god of the city whose name he bore, and that he attained to
 the position of chief god of the Assyrian pantheon in the same way as
-Merodach became king of the gods in Babylonia--namely, because Aššur
+Merodach became king of the gods in Babylonia--namely, because Aï¿½ï¿½ur
 was the capital of the country. His acceptance as chief divinity,
 however, was much more general than that of Merodach, as temples to
 him were to be found all over the Assyrian kingdom--a circumstance
@@ -2232,43 +2232,43 @@ in eclipse, the far-stretching wings being thought to resemble the
 long streamers visible at the moment of totality, and it must be
 admitted as probable that this may have given the idea of the symbol
 shown on the sculptures. As a sun-god, and at the same time not the
-god Šamaš, he resembled the Babylonian Merodach, and was possibly
-identified with him, especially as, in at least one text, Bêltu
-(Bêltis) is described as his consort, which would possibly identify
-Aššur's spouse with Zer-panîtum. The original form of his name would
-seem to have been Aušar, "water-field," probably from the tract where
-the city of Aššur was built. His identification with Merodach, if that
+god ï¿½amaï¿½, he resembled the Babylonian Merodach, and was possibly
+identified with him, especially as, in at least one text, Bï¿½ltu
+(Bï¿½ltis) is described as his consort, which would possibly identify
+Aï¿½ï¿½ur's spouse with Zer-panï¿½tum. The original form of his name would
+seem to have been Auï¿½ar, "water-field," probably from the tract where
+the city of Aï¿½ï¿½ur was built. His identification with Merodach, if that
 was ever accepted, may have been due to the likeness of the word to
-Asari, one of that deity's names. The pronunciation Aššur, however,
-seems to have led to a comparison with the Anšar of the first tablet
+Asari, one of that deity's names. The pronunciation Aï¿½ï¿½ur, however,
+seems to have led to a comparison with the Anï¿½ar of the first tablet
 of the Creation-story, though it may seem strange that the Assyrians
 should have thought that their patron-god was a deity symbolising the
-"host of heaven." Nevertheless, the Greek transcription of Anšar,
+"host of heaven." Nevertheless, the Greek transcription of Anï¿½ar,
 namely, /Assoros/, given by Damascius, certainly strengthens the
 indications of the ideograph in this matter. Delitzsch regards the
-word Aššur, or Ašur, as he reads it, as meaning "holy," and quotes a
-list of the gods of the city of Nineveh, where the word Aššur occurs
+word Aï¿½ï¿½ur, or Aï¿½ur, as he reads it, as meaning "holy," and quotes a
+list of the gods of the city of Nineveh, where the word Aï¿½ï¿½ur occurs
 three times, suggesting the exclamation "holy, holy, holy," or "the
 holy, holy, holy one." In all probability, however, the repetition of
 the name three times simply means that there were three temples
-dedicated to Aššur in the cities in question.[*] Jastrow agrees with
-Delitzsch in regarding Ašur as another form of Ašir (found in early
+dedicated to Aï¿½ï¿½ur in the cities in question.[*] Jastrow agrees with
+Delitzsch in regarding Aï¿½ur as another form of Aï¿½ir (found in early
 Cappadocian names), but he translates it rather as "overseer" or
 "guardian" of the land and the people--the terminationless form of
-/aširu/, which has this meaning, and is applied to Merodach.
+/aï¿½iru/, which has this meaning, and is applied to Merodach.
 
-[*] Or there may have been three shrines to Aššur in each temple
+[*] Or there may have been three shrines to Aï¿½ï¿½ur in each temple
     referred to.
 
-As the use of the characters /An-šar/ for the god Aššur only appears
+As the use of the characters /An-ï¿½ar/ for the god Aï¿½ï¿½ur only appears
 at a late date (Jastrow says the eighth century B.C.), this would seem
 to have been the work of the scribes, who wished to read into the name
-the earlier signification of Anšar, "the host of heaven," an
+the earlier signification of Anï¿½ar, "the host of heaven," an
 explanation fully in accord with Jastrow's reasonings with regard to
 the nature of the deity. As he represented no personification or power
 of nature, he says, but the general protecting spirit of the land, the
 king, the army, and the people, the capital of the country could be
-transferred from Aššur to Calah, from there back to Aššur, and finally
+transferred from Aï¿½ï¿½ur to Calah, from there back to Aï¿½ï¿½ur, and finally
 to Nineveh, without affecting the position of the protecting god of
 the land in any way. He needed no temple--though such things were
 erected to him--he had no need to fear that he should suffer in esteem
@@ -2282,13 +2282,13 @@ to, but always distinct from, the rest of the pantheon, which, as has
 been shown, was of Babylonian origin, and always maintained the
 characteristics and stamp of its origin.
 
-The spouse of Aššur does not appear in the historical texts, and her
-mention elsewhere under the title of Bêltu, "the lady," does not allow
+The spouse of Aï¿½ï¿½ur does not appear in the historical texts, and her
+mention elsewhere under the title of Bï¿½ltu, "the lady," does not allow
 of any identification being made. In one inscription, however,
-Aššuritu is called the goddess, and Aššur the god, of the star Sib-zi-
+Aï¿½ï¿½uritu is called the goddess, and Aï¿½ï¿½ur the god, of the star Sib-zi-
 anna, identified by Jensen with Regulus, which was apparently the star
 of Merodach in Babylonia. This, however, brings us no nearer, for
-Aššuritu would simply mean "the Assurite (goddess)."
+Aï¿½ï¿½uritu would simply mean "the Assurite (goddess)."
 
 
                         The minor divinities.
@@ -2298,7 +2298,7 @@ of mention, either because of more than ordinary interest, or in
 consequence of their furnishing the name of some deity, chief in its
 locality, but identified elsewhere with one of the greater gods.
 
-Aa.--This may be regarded either as the god Êa (though the name is
+Aa.--This may be regarded either as the god ï¿½a (though the name is
 written differently), or as the sun-god assuming the name of his
 consort; or (what is, perhaps, more probable) as a way of writing A'u
 or Ya'u (the Hebrew Jah), without the ending of the nominative. This
@@ -2313,21 +2313,21 @@ Aku, the moon-god among the heavenly bodies. It is this name which is
 regarded as occurring in the name of the Babylonian king Eri-Aku,
 "servant of the moon-god," the biblical Arioch (Gen. xiv.).
 
-Amma-an-ki, Êa or Aa as lord of heaven and earth.
+Amma-an-ki, ï¿½a or Aa as lord of heaven and earth.
 
 Amna.--A name only found in a syllabary, and assigned to the sun-god,
 from which it would seem that it is a form of the Egyptian Ammon.
 
 Anunitum, the goddess of one of the two Sippars, called Sippar of
-Anunitum, who was worshipped in the temple Ê-ulmaš within the city of
-Agadé (Akkad). Sayce identifies, on this account, these two places as
+Anunitum, who was worshipped in the temple ï¿½-ulmaï¿½ within the city of
+Agadï¿½ (Akkad). Sayce identifies, on this account, these two places as
 being the same. In a list of stars, Anunitum is coupled with
-Šinunutum, which are explained as (the stars of) the Tigris and
+ï¿½inunutum, which are explained as (the stars of) the Tigris and
 Euphrates. These were probably names of Venus as the morning and
 evening (or evening and morning) star.
 
 Apsu.--The deep dissociated from the evil connection with Tiawath, and
-regarded as "the house of deep wisdom," i.e. the home of the god Êa or
+regarded as "the house of deep wisdom," i.e. the home of the god ï¿½a or
 Aa.
 
 Aruru.--One of the deities of Sippar and Aruru (in the time of the
@@ -2335,29 +2335,29 @@ dynasty of Hammurabi called Ya'ruru), of which she was the chief
 goddess. Aruru was one of the names of the "lady of the gods," and
 aided Merodach to make the seed of mankind.
 
-Bêl.--As this name means "lord," it could be applied, like the
-Phœnician Baal, to the chief god of any city, as Bêl of Niffur, Bêl of
-Hursag-kalama, Bêl of Aratta, Bêl of Babylon, etc. This often
+Bï¿½l.--As this name means "lord," it could be applied, like the
+Phï¿½nician Baal, to the chief god of any city, as Bï¿½l of Niffur, Bï¿½l of
+Hursag-kalama, Bï¿½l of Aratta, Bï¿½l of Babylon, etc. This often
 indicates also the star which represented the chief god of a place.
 
-Bêltu.--In the same way Bêltu, meaning "lady," meant also the chief
+Bï¿½ltu.--In the same way Bï¿½ltu, meaning "lady," meant also the chief
 goddess of any place, as "Aruru, lady of the gods of Sippar of Aruru,"
-"Nin-mah, lady of the gods of Ê-mah," a celebrated temple within
+"Nin-mah, lady of the gods of ï¿½-mah," a celebrated temple within
 Babylon, recently excavated by the Germans, "Nin-hur-saga, lady of the
-gods of Kêš," etc.
+gods of Kï¿½," etc.
 
-Bunene.--A god associated with Šamaš and Ištar at Sippar and
+Bunene.--A god associated with ï¿½amaï¿½ and Iï¿½tar at Sippar and
 elsewhere. He "gave" and "renewed" to his worshippers.
 
 Dagan.--This deity, whose worship extends back to an exceedingly early
-date, is generally identified with the Phœnician Dagon. Hammurabi
+date, is generally identified with the Phï¿½nician Dagon. Hammurabi
 seems to speak of the Euphrates as being "the boundary of Dagan," whom
 he calls his creator. In later inscriptions the form Daguna, which
 approaches nearer to the West Semitic form, is found in a few personal
-names. The Phœnician statues of this deity showed him with the lower
+names. The Phï¿½nician statues of this deity showed him with the lower
 part of his body in the form of a fish (see 1 Sam. v. 4). Whether the
 deities clothed in a fish's skin in the Nimroud gallery be Dagon or
-not is uncertain--they may be intended for Êa or Aa, the Oannes of
+not is uncertain--they may be intended for ï¿½a or Aa, the Oannes of
 Berosus, who was represented in this way. Probably the two deities
 were regarded as identical.
 
@@ -2365,9 +2365,9 @@ Damu.--a goddess regarded as equivalent to Gula by the Babylonians and
 Assyrians. She was goddess of healing, and made one's dreams happy.
 
 Dumu-zi-abzu, "Tammuz of the Abyss."--This was one of the six sons of
-Êa or Aa, according to the lists. His worship is exceedingly ancient,
-and goes back to the time of E-anna-tum of Lagaš (about 4000 B.C.).
-What connection, if any, he may have with Tammuz, the spouse of Ištar,
+ï¿½a or Aa, according to the lists. His worship is exceedingly ancient,
+and goes back to the time of E-anna-tum of Lagaï¿½ (about 4000 B.C.).
+What connection, if any, he may have with Tammuz, the spouse of Iï¿½tar,
 is unknown. Jastrow apparently regards him as a distinct deity, and
 translates his name "the child of the life of the water-deep."
 
@@ -2378,7 +2378,7 @@ he appears as "a creator."
 En-nugi is described as "lord of streams and canals," and "lord of the
 earth, lord of no-return." This last description, which gives the
 meaning of his name, suggests that he was one of the gods of the realm
-of Ereš-ki-gal, though he may have borne that name simply as god of
+of Ereï¿½-ki-gal, though he may have borne that name simply as god of
 streams, which always flow down, never the reverse.
 
 Gibil.--One of the names of the god of fire, sometimes transcribed
@@ -2386,16 +2386,16 @@ Girru by Assyriologists, the meaning apparently being "the fire-
 bearer" or "light-bearer." Girru is another name of this deity, and
 translates an ideographic group, rendered by Delitzsch "great" or
 "highest decider," suggesting the custom of trial by ordeal. He was
-identified with Nirig, in Semitic Ênu-rêštu.
+identified with Nirig, in Semitic ï¿½nu-rï¿½tu.
 
-Gušqi-banda or Kuski-banda, one of the names of Êa, probably as god of
+Guï¿½qi-banda or Kuski-banda, one of the names of ï¿½a, probably as god of
 gold-workers.
 
-Išum, "the glorious sacrificer," seemingly a name of the fire-god as a
-means whereby burnt offerings were made. Nûr-Išum, "light of Išum," is
+Iï¿½um, "the glorious sacrificer," seemingly a name of the fire-god as a
+means whereby burnt offerings were made. Nï¿½r-Iï¿½um, "light of Iï¿½um," is
 found as a man's name.
 
-Kâawanu, the planet Saturn.
+Kï¿½awanu, the planet Saturn.
 
 Lagamal.--A god identified with the Elamite Lagamar, whose name is
 regarded as existing in Chedorlaomer (cf. Gen. xiv. 2). He was the
@@ -2410,11 +2410,11 @@ similar, and the god bearing it is supposed to be the same as Nerigal.
 His consort, however, was named Nin-sun (or Nin-gul).
 
 Lugal-Du-azaga, "the king of the glorious seat."--The founder of
-Êridu, "the good city within the Abyss," probably the paradise (or a
+ï¿½ridu, "the good city within the Abyss," probably the paradise (or a
 paradise) of the world to come. As it was the aim of every good
 Babylonian to dwell hereafter with the god whom he had worshipped upon
 earth, it may be conjectured that this was the paradise in the domain
-of Êa or Aa.
+of ï¿½a or Aa.
 
 Mama, Mami.--Names of "the lady of the gods," and creatress of the
 seed of mankind, Aruru. Probably so called as the "mother" of all
@@ -2424,33 +2424,33 @@ Mammitum, Mamitum, goddess of fate.
 
 Mur, one of the names of Addu or Rammanu (Hadad or Rimmon).
 
-Nanâ or Nanaa was the consort of Nebo at Borsippa, but appears as a
-form of Ištar, worshipped, with Anu her father, at Erech.
+Nanï¿½ or Nanaa was the consort of Nebo at Borsippa, but appears as a
+form of Iï¿½tar, worshipped, with Anu her father, at Erech.
 
-Nin-aha-kuku, a name of Êa or Aa and of his daughter as deity of the
+Nin-aha-kuku, a name of ï¿½a or Aa and of his daughter as deity of the
 rivers, and therefore of gardens and plantations, which were watered
-by means of the small canals leading therefrom. As daughter of Êa,
+by means of the small canals leading therefrom. As daughter of ï¿½a,
 this deity was also "lady of the incantation."
 
-Nin-azu, the consort of Ereš-ki-gal, probably as "lord physician." He
+Nin-azu, the consort of Ereï¿½-ki-gal, probably as "lord physician." He
 is probably to be identified with Nerigal.
 
 Nin-igi-nagar-si, a name somewhat more doubtful as to its reading than
-the others, designates Êa or Aa as "the god of the carpenter." He
+the others, designates ï¿½a or Aa as "the god of the carpenter." He
 seems to have borne this as "the great constructor of heaven" or "of
 Anu."
 
-Nin-mah, chief goddess of the temple Ê-mah in Babylon. Probably to be
-identified with Aruru, and therefore with Zer-panîtum.
+Nin-mah, chief goddess of the temple ï¿½-mah in Babylon. Probably to be
+identified with Aruru, and therefore with Zer-panï¿½tum.
 
-Nin-šah, a deity whose name is conjectured to mean "lord of the wild
+Nin-ï¿½ah, a deity whose name is conjectured to mean "lord of the wild
 boar." He seems to have been a god of war, and was identified with
-Nirig or Ênu-rêštu and Pap-sukal.
+Nirig or ï¿½nu-rï¿½tu and Pap-sukal.
 
-Nin-sirsir, Êa as the god of sailors.
+Nin-sirsir, ï¿½a as the god of sailors.
 
-Nin-sun, as pointed out by Jastrow, was probably the same as Ištar or
-Nanâ of Erech, where she had a shrine, with them, in Ê-anna, "the
+Nin-sun, as pointed out by Jastrow, was probably the same as Iï¿½tar or
+Nanï¿½ of Erech, where she had a shrine, with them, in ï¿½-anna, "the
 house of Anu." He renders her name "the annihilating lady,"[*]
 "appropriate for the consort of a sun-god," for such he regards Lugal-
 banda her spouse. King Sin-gasid of Erech (about 3000 B.C.) refers to
@@ -2459,29 +2459,29 @@ her as his mother.
 [*] This is due to the second element of the name having, with another
     pronunciation, the meaning of "to destroy."
 
-Nun-urra.--Êa, as the god of potters.
+Nun-urra.--ï¿½a, as the god of potters.
 
-Pap-sukal.--A name of Nin-šah as the "divine messenger," who is also
-described as god "of decisions." Nin-šah would seem to have been one
+Pap-sukal.--A name of Nin-ï¿½ah as the "divine messenger," who is also
+described as god "of decisions." Nin-ï¿½ah would seem to have been one
 of the names of Pap-sukal rather than the reverse.
 
 Qarradu, "strong," "mighty," "brave."--This word, which was formerly
 translated "warrior," is applied to several deities, among them being
-Bêl, Nergal, Nirig (Ênu-rêštu), and Šamaš, the sun-god.
+Bï¿½l, Nergal, Nirig (ï¿½nu-rï¿½tu), and ï¿½amaï¿½, the sun-god.
 
 Ragimu and Ramimu, names of Rimmon or Hadad as "the thunderer." The
 second comes from the same root as Rammanu (Rimmon).
 
-Šuqamunu.--A deity regarded as "lord of watercourses," probably the
+ï¿½uqamunu.--A deity regarded as "lord of watercourses," probably the
 artificial channels dug for the irrigation of fields.
 
 Ura-gala, a name of Nerigal.
 
-Uraš, a name of Nirig, under which he was worshipped at Dailem, near
+Uraï¿½, a name of Nirig, under which he was worshipped at Dailem, near
 Babylon.
 
 Zagaga, dialectic Zamama.--This deity, who was a god of war, was
-identified with Nirig. One of this titles was /bêl parakki/, "lord of
+identified with Nirig. One of this titles was /bï¿½l parakki/, "lord of
 the royal chamber," or "throne-room."
 
 Zaraqu or Zariqu.--As the root of this name means "to sprinkle," he
@@ -2517,13 +2517,13 @@ scheme, as given by a bilingual list in the British Museum, was as
 follows:
 
 Aku             Sin             the moon        Sin
-Bišebi          Šamaš           the sun         Šamaš
-Dapinu          Umun-sig-êa     Jupiter         Merodach
-Zib[*]          Dele-bat        Venus           Ištar
-Lu-lim          Lu-bat-sag-uš   Saturn          Nirig (acc. to Jensen)
+Biï¿½ebi          ï¿½amaï¿½           the sun         ï¿½amaï¿½
+Dapinu          Umun-sig-ï¿½a     Jupiter         Merodach
+Zib[*]          Dele-bat        Venus           Iï¿½tar
+Lu-lim          Lu-bat-sag-uï¿½   Saturn          Nirig (acc. to Jensen)
 Bibbu           Lubat-gud       Mercury         Nebo
-Simutu          Muštabarru      Mars            Nergal
-                  mûtanu
+Simutu          Muï¿½tabarru      Mars            Nergal
+                  mï¿½tanu
 
 All the above names of planets have the prefix of divinity, but in
 other inscriptions the determinative prefix is that for "star,"
@@ -2541,8 +2541,8 @@ corresponding with Saturn, Mercury, and Mars. With regard to the
 others, however, there is no doubt whatever. The reason why the moon
 is placed before the sun is that the sun, as already explained, was
 regarded as his son. It was noteworthy also that the moon was
-accredited with two other offspring, namely, Mâšu and Mâštu--son and
-daughter respectively. As /mâšu/ means "twin," these names must
+accredited with two other offspring, namely, Mï¿½u and Mï¿½tu--son and
+daughter respectively. As /mï¿½u/ means "twin," these names must
 symbolise the two halves, or, as we say, "quarters" of the moon, who
 were thus regarded, in Babylonian mythology, as his "twin children."
 
@@ -2550,13 +2550,13 @@ were thus regarded, in Babylonian mythology, as his "twin children."
                          Jupiter and Saturn.
 
 Concerning Jupiter, who is in the above called Dapinu (Semitic), and
-Umun-sig-êa (Sumerian), it has already been noted that he was called
+Umun-sig-ï¿½a (Sumerian), it has already been noted that he was called
 Nibiru--according to Jensen, Merodach as he who went about among the
 stars "pasturing" them like sheep, as stated in the Babylonian story
 of the Creation (or Bel and the Dragon). This is explained by him as
 being due to the comparatively rapid and extensive path of Jupiter on
 the ecliptic, and it would seem probable that the names of Saturn,
-/Kâawanu/ and /Sag-uš/ (the former, which is Semitic Babylonian,
+/Kï¿½awanu/ and /Sag-uï¿½/ (the former, which is Semitic Babylonian,
 meaning "steadfast," or something similar, and the latter, in
 Sumerian, "head-firm" or "steadfast"--"phlegmatic"), to all appearance
 indicate in like manner the deliberation of his movements compared
@@ -2568,17 +2568,17 @@ with those of the planet dedicated to the king of the gods.
 A fragment of a tablet published in 1870 gives some interesting
 particulars concerning the planet Venus, probably explaining some as
 yet unknown mythological story concerning her. According to this, she
-was a female at sunset, and a male at sunrise; Ištar of Agadé (Akad or
-Akkad) at sunrise, and Ištar of Erech at sunset: Ištar of the stars at
+was a female at sunset, and a male at sunrise; Iï¿½tar of Agadï¿½ (Akad or
+Akkad) at sunrise, and Iï¿½tar of Erech at sunset: Iï¿½tar of the stars at
 sunrise, and the lady of the gods at sunset.
 
 
                       And in the various months.
 
-Ištar was identified with Nin-si-anna in the first month of the year
+Iï¿½tar was identified with Nin-si-anna in the first month of the year
 (Nisan = March-April), with the star of the bow in Ab (August-
 September), etc. In Sebat (January-February) she was the star of the
-water-channel, Ikû, which was Merodach's star in Sivan (May-June), and
+water-channel, Ikï¿½, which was Merodach's star in Sivan (May-June), and
 in Marcheswan her star was Rabbu, which also belonged to Merodach in
 the same month. It will thus be seen, that Babylonian astronomy is far
 from being as clear as would be desired, but doubtless many
@@ -2589,8 +2589,8 @@ difficulties will disappear when further inscriptions are available.
 
 The same fragment gives the celestial names of Merodach for every
 month of the year, from which it would appear, that the astrologers
-called him Umun-sig-êa in Nisan (March-April), Dapinu in Tammuz (June-
-July), Nibiru in Tisri (September-October), Šarru (the star Regulus),
+called him Umun-sig-ï¿½a in Nisan (March-April), Dapinu in Tammuz (June-
+July), Nibiru in Tisri (September-October), ï¿½arru (the star Regulus),
 in Tebet (December-January), etc. The first three are names by which
 the planet Jupiter was known.
 
@@ -2598,7 +2598,7 @@ As for the planets and stars, so also for the constellations, which
 are identified with many gods and divine beings, and probably contain
 references, in their names and descriptions, to many legends. In the
 sixth tablet of the Creation-series, it is related of Merodach that,
-after creating the heavens and the stations for Anu, Bêl, and Ae,
+after creating the heavens and the stations for Anu, Bï¿½l, and Ae,
 
   "He built firmly the stations of the great gods--
   Stars their likeness--he set up the /Lumali/,
@@ -2626,7 +2626,7 @@ Elul (Aug.-Sep.)        The Ear of corn(?)                  The ear of Corn (Vir
 Tisri (Sep.-Oct.)       The Scales                          The Scales
 Marcheswan (Oct.-Nov.)  The Scorpion                        The Scorpion
 Chisleu (Nov.-Dec.)     /Pa-bil-sag/                        The Archer
-Tebet (Dec.-Jan.)       /Sahar-maš/, the Fish-kid           The Goat
+Tebet (Dec.-Jan.)       /Sahar-maï¿½/, the Fish-kid           The Goat
 Sebat (Jan.-Feb.)       /Gula/                              The Water-bearer
 Adar (Feb.-Mar.)        The Water Channel and the Tails     The Fishes
 
@@ -2634,15 +2634,15 @@ Adar (Feb.-Mar.)        The Water Channel and the Tails     The Fishes
                    Parallels in Babylonian legends.
 
 The "bull of heaven" probably refers to some legend such as that of
-the story of Gilgameš in his conflict with the goddess Ištar when the
+the story of Gilgameï¿½ in his conflict with the goddess Iï¿½tar when the
 divine bull was killed; /Sib-zi-anna/, "the faithful shepherd of
 heaven," suggests that this constellation may refer to Tammuz, the
 divine shepherd; whilst "the scorpion" reminds us of the scorpion-men
-who guarded the gate of the sun (Šamaš), when Gilgameš was journeying
+who guarded the gate of the sun (ï¿½amaï¿½), when Gilgameï¿½ was journeying
 to gain information concerning his friend Enki-du, who had departed to
 the place of the dead. Sir Henry Rawlinson many years ago pointed out
 that the story of the Flood occupied the eleventh tablet of the
-Gilgameš series, corresponding with the eleventh sign of the Zodiac,
+Gilgameï¿½ series, corresponding with the eleventh sign of the Zodiac,
 Aquarius, or the Water-bearer.
 
 
@@ -2650,12 +2650,12 @@ Aquarius, or the Water-bearer.
 
 Other names of stars or constellations include "the weapon of
 Merodach's hand," probably that with which he slew the dragon of
-Chaos; "the Horse," which is described as "the god Zû," Rimmon's
-storm-bird--Pegasus; "the Serpent," explained as Ereš-ki-gal, the
+Chaos; "the Horse," which is described as "the god Zï¿½," Rimmon's
+storm-bird--Pegasus; "the Serpent," explained as Ereï¿½-ki-gal, the
 queen of Hades, who would therefore seem to have been conceived in
-that form; "the Scorpion," which is given as /Išhara tântim/, "Išhara
+that form; "the Scorpion," which is given as /Iï¿½hara tï¿½ntim/, "Iï¿½hara
 of the sea," a description difficult to explain, unless it refer to
-her as the goddess of the Phœnician coast. Many other identifications,
+her as the goddess of the Phï¿½nician coast. Many other identifications,
 exceedingly interesting, await solution.
 
 
@@ -2671,13 +2671,13 @@ head to attack him, whilst the god threatens her with a pointed weapon
 which he carries. Another, published by the same scholar, shows a
 deity, whom he regards as being Merodach, driven in a chariot drawn by
 a winged lion, upon whose shoulders stands a naked goddess, holding
-thunderbolts in each hand, whom he describes as Zer-panîtum. Another
+thunderbolts in each hand, whom he describes as Zer-panï¿½tum. Another
 cylinder-seal shows the corn-deity, probably Nisaba, seated in
 flounced robe and horned hat, with corn-stalks springing out from his
 shoulders, and holding a twofold ear of corn in his hand, whilst an
 attendant introduces, and another with a threefold ear of corn
 follows, a man carrying a plough, apparently as an offering. On
-another, a beautiful specimen from Assyria, Ištar is shown standing on
+another, a beautiful specimen from Assyria, Iï¿½tar is shown standing on
 an Assyrian lion, which turns his head as if to caress her feet. As
 goddess of war, she is armed with bow and arrows, and her star is
 represented upon the crown of her tiara.
@@ -2687,20 +2687,20 @@ represented upon the crown of her tiara.
 
 On the boundary-stones of Babylonia and the royal monoliths of Assyria
 the emblems of the gods are nearly always seen. Most prominent are
-three horned tiaras, emblematic, probably, of Merodach, Anu, and Bêl
-(the older). A column ending in a ram's head is used for Êa or Ae, a
-crescent for Sin or Nannar, the moon-god; a disc with rays for Šamaš,
+three horned tiaras, emblematic, probably, of Merodach, Anu, and Bï¿½l
+(the older). A column ending in a ram's head is used for ï¿½a or Ae, a
+crescent for Sin or Nannar, the moon-god; a disc with rays for ï¿½amaï¿½,
 the sun-god; a thunderbolt for Rimmon or Hadad, the god of thunder,
 lightning, wind, and storms; a lamp for Nusku, etc. A bird, perhaps a
-hawk, stood for Utu-gišgallu, a deity whose name has been translated
+hawk, stood for Utu-giï¿½gallu, a deity whose name has been translated
 "the southern sun," and is explained in the bilingual inscriptions as
-Šamaš, the sun-god, and Nirig, one of the gods of war. The emblem of
-Gal-alim, who is identified with the older Bêl, is a snarling dragon's
-head forming the termination of a pole, and that of Dun-ašaga is a
+ï¿½amaï¿½, the sun-god, and Nirig, one of the gods of war. The emblem of
+Gal-alim, who is identified with the older Bï¿½l, is a snarling dragon's
+head forming the termination of a pole, and that of Dun-aï¿½aga is a
 bird's head similarly posed. On a boundary-stone of the time of
 Nebuchadnezzar I., about 1120 B.C., one of the signs of the gods shows
 a horse's head in a kind of shrine, probably the emblem of Rimmon's
-storm-bird, Zû, the Babylonian Pegasus.
+storm-bird, Zï¿½, the Babylonian Pegasus.
 
 
                         Other divine figures.
@@ -2747,15 +2747,15 @@ The /utukku/. This was a spirit which was supposed to do the will of
 Anu, the god of the heavens. There was the /utukku/ of the plain, the
 mountains, the sea, and the grave.
 
-The /âlû/. Regarded as the demon of the storm, and possibly, in its
-origin, the same as the divine bull sent by Ištar to attack Gilgameš,
+The /ï¿½lï¿½/. Regarded as the demon of the storm, and possibly, in its
+origin, the same as the divine bull sent by Iï¿½tar to attack Gilgameï¿½,
 and killed by Enki-du. It spread itself over a man, overpowering him
 upon his bed, and attacking his breast.
 
-The /êdimmu/. This is generally, but wrongly, read /êkimmu/, and
-translated "the seizer," from /êkemu/, "to seize." In reality,
+The /ï¿½dimmu/. This is generally, but wrongly, read /ï¿½kimmu/, and
+translated "the seizer," from /ï¿½kemu/, "to seize." In reality,
 however, it was an ordinary spirit, and the word is used for the
-wraiths of the departed. The "evil /êdimmu/" was apparently regarded
+wraiths of the departed. The "evil /ï¿½dimmu/" was apparently regarded
 as attacking the middle part of a man.
 
 The /gallu/. As this word is borrowed from the Sumerian /galla/, which
@@ -2765,10 +2765,10 @@ something which is visible by the light it gives--possibly a will-o'-
 the-wisp,--though others are inclined to regard the word as being
 connected with /gala/, "great." In any case, its meaning seems to have
 become very similar to "evil spirit" or "devil" in general, and is an
-epithet applied by the Assyrian king Aššur-bani-âpli to Te-umman, the
+epithet applied by the Assyrian king Aï¿½ï¿½ur-bani-ï¿½pli to Te-umman, the
 Elamite king against whom he fought.
 
-The /îlu limnu/, "evil god," was probably originally one of the
+The /ï¿½lu limnu/, "evil god," was probably originally one of the
 deities of Tiawath's brood, upon whom Merodach's redemption had had no
 effect.
 
@@ -2783,14 +2783,14 @@ The /labasu/, in Sumerian /dimmea/, was apparently a spirit which
 overthrew, that being the meaning of the root from which the word
 comes.
 
-The /âhhazu/, in Sumerian /dimme-kur/, was apparently so called as
+The /ï¿½hhazu/, in Sumerian /dimme-kur/, was apparently so called as
 "the seizer," that being the meaning indicated by the root.
 
 The /lilu/, in Sumerian /lila/, is generally regarded as "the night-
-monster," the word being referred to the Semitic root /lîl/ or /layl/,
+monster," the word being referred to the Semitic root /lï¿½l/ or /layl/,
 whence the Hebrew /layil/, Arabic /layl/, "night." Its origin,
 however, is Sumerian, from /lila/, regarded as meaning "mist." To the
-word /lilu/ the ancient Babylonians formed a feminine, /lilîthu/,
+word /lilu/ the ancient Babylonians formed a feminine, /lilï¿½thu/,
 which entered the Hebrew language under the form of /lilith/, which
 was, according to the rabbins, a beautiful woman, who lay in wait for
 children by night. The /lilu/ had a companion who is called his
@@ -2798,19 +2798,19 @@ handmaid or servant.
 
 The /namtaru/ was apparently the spirit of fate, and therefore of
 greater importance than those already mentioned. This being was
-regarded as the beloved son of Bêl, and offspring of /Ereš-ki-gal/ or
-Persephone, and he had a spouse named /Huš-bi-šaga/. Apparently he
+regarded as the beloved son of Bï¿½l, and offspring of /Ereï¿½-ki-gal/ or
+Persephone, and he had a spouse named /Huï¿½-bi-ï¿½aga/. Apparently he
 executed the instructions given him concerning the fate of men, and
 could also have power over certain of the gods.
 
-The /šêdu/ were apparently deities in the form of bulls. They were
+The /ï¿½ï¿½du/ were apparently deities in the form of bulls. They were
 destructive, of enormous power, and unsparing. In a good sense the
-/šêdu/ was a protecting deity, guarding against hostile attacks. Erech
-and the temple Ê-kura were protected by spirits such as these, and to
-one of them Išum, "the glorious sacrificer," was likened.
+/ï¿½ï¿½du/ was a protecting deity, guarding against hostile attacks. Erech
+and the temple ï¿½-kura were protected by spirits such as these, and to
+one of them Iï¿½um, "the glorious sacrificer," was likened.
 
 The /lamassu/, from the Sumerian /lama/, was similar in character to
-the /šêdu/, but is thought to have been of the nature of a colossus--a
+the /ï¿½ï¿½du/, but is thought to have been of the nature of a colossus--a
 winged man-headed bull or lion. It is these creatures which the kings
 placed at the sides of the doors of their palaces, to protect the
 king's footsteps. In early Babylonian times a god named Lama was one
@@ -2827,8 +2827,8 @@ which a duplicate written during the period of the dynasty of
 Hammurabi (before 2000 B.C.) exists, and which was afterwards provided
 with a Semitic Babylonian translation. This inscription refers to the
 evil god, the evil /utukku/, the /utukku/ of the plain, of the
-mountain, of the sea, and of the grave; the evil /šêdu/, the glorious
-/âlû/, or divine bull, and the evil unsparing wind. There was also
+mountain, of the sea, and of the grave; the evil /ï¿½ï¿½du/, the glorious
+/ï¿½lï¿½/, or divine bull, and the evil unsparing wind. There was also
 that which takes the form of a man, the evil face, the evil eye, the
 evil mouth, the evil tongue, the evil lip, the evil breath; also the
 afflicting /asakku/ (regarded as the demon of fever), the /asakku/
@@ -2848,28 +2848,28 @@ canopy of the afflicted person's bed--the white to the side and the
 top or canopy, the black to the left hand--and then, apparently, the
 following words were said:--
 
-"Evil /utukku/, evil /âlû/, evil /êdimmu/, evil /gallu/, evil god,
-evil /rabisu/, /labartu/, /labasu/, /âhhazu/, /lilu/, /lilithu/,
+"Evil /utukku/, evil /ï¿½lï¿½/, evil /ï¿½dimmu/, evil /gallu/, evil god,
+evil /rabisu/, /labartu/, /labasu/, /ï¿½hhazu/, /lilu/, /lilithu/,
 handmaid of /lilu/, sorcery, enchantment, magic, disaster, machination
 which is not good--may they not set their head to his head, their hand
 to his hand, their foot to his foot--may they not draw near. Spirit of
 heaven, mayest thou exorcise, spirit of earth, mayest thou exorcise."
 
 But this was only the beginning of the real ceremony. The god Asari-
-alim-nunna (Merodach), "eldest son of Êridu," was asked to wash him in
+alim-nunna (Merodach), "eldest son of ï¿½ridu," was asked to wash him in
 pure and bright water twice seven times, and then would the evil lier-
-in-wait depart, and stand aside, and a propitious /šêdu/ and a
+in-wait depart, and stand aside, and a propitious /ï¿½ï¿½du/ and a
 propitious /labartu/ reside in his body. The gates right and left
 having been thus, so to say, shut close, the evil gods, demons, and
 spirits would be unable to approach him, wherever he might be. "Spirit
 of heaven, exorcise, spirit of earth, exorcise." Then, after an
-invocation of Êrêš-ki-gal and Išum, the final paragraph was
+invocation of ï¿½rï¿½-ki-gal and Iï¿½um, the final paragraph was
 pronounced:--
 
   "The afflicted man, by an offering of grace
   In health like shining bronze shall be made bright.
   As for that man,
-  Šamaš shall give him life.
+  ï¿½amaï¿½ shall give him life.
   Merodach, first-born son of the Abyss,
   It is thine to purify and glorify.
   Spirit of heaven, mayest thou exorcise, spirit of
@@ -2883,8 +2883,8 @@ and ceremonies, the due carrying out of which was necessary for the
 attainment of the grace demanded, or for the efficacy of the thanks
 tendered for favours received.
 
-Perhaps the oldest ceremony recorded is that which Ut-napištim, the
-Chaldæan Noah, made on the /zikkurat/ or peak of the mountain after
+Perhaps the oldest ceremony recorded is that which Ut-napiï¿½tim, the
+Chaldï¿½an Noah, made on the /zikkurat/ or peak of the mountain after
 the coming forth from the ship which had saved him and his from the
 Flood. The Patriarch's description of this ceremony is short:--
 
@@ -2903,12 +2903,12 @@ successful issue. Prayer, supplication, and self-abasement before
 their gods seem to have been with them a duty and a pleasure:--
 
   "The time for the worship of the gods was my heart's delight,
-  The time of the offering to Ištar was profit and riches,"
+  The time of the offering to Iï¿½tar was profit and riches,"
 
 sings Ludlul the sage, and all the people of his land were one with
 him in that opinion.
 
-It is noteworthy that the offering of the Chaldæan Noah consisted of
+It is noteworthy that the offering of the Chaldï¿½an Noah consisted of
 vegetable produce only, and there are many inscriptions referring to
 similar bloodless sacrifices, and detailing the ritual used in
 connection therewith. Sacrifices of animals, however, seem to have
@@ -2937,12 +2937,12 @@ designs referred to show merely the victims of divine anger or
 vengeance, punished by the deity for some misdeed or sin, either
 knowingly or unknowingly committed.
 
-In the Assyrian galleries of the British Museum, Aššur-nasir-âpli,
+In the Assyrian galleries of the British Museum, Aï¿½ï¿½ur-nasir-ï¿½pli,
 king of Assyria, is several times shown engaged in religious
 ceremonies--either worshipping before the sacred tree, or about to
 pour out, apparently, a libation to the gods before departing upon
 some expedition, and priests bringing offerings, either animal or
-vegetable, are also represented. Aššur-banî-âpli, who is identified
+vegetable, are also represented. Aï¿½ï¿½ur-banï¿½-ï¿½pli, who is identified
 with "the great and noble Asnapper," is shown, in bas-reliefs of the
 Assyrian Saloon, pouring out a thank-offering over the lions which he
 has killed, after his return from the hunt.
@@ -2962,10 +2962,10 @@ upon that important point will be regarded in all probability as
 appropriate. It has already been indicated that the giving of the
 names of "the gods his fathers" to Merodach practically identified
 them with him, thus leading to a tendency to monotheism. That tendency
-is, perhaps, hinted at in a letter of Aššur-banî-âpli to the
+is, perhaps, hinted at in a letter of Aï¿½ï¿½ur-banï¿½-ï¿½pli to the
 Babylonians, in which he frequently mentions the Deity, but in doing
-so, uses either the word /îlu/, "God," Merodach, the god of Babylon,
-or Bêl, which may be regarded as one of his names. The most important
+so, uses either the word /ï¿½lu/, "God," Merodach, the god of Babylon,
+or Bï¿½l, which may be regarded as one of his names. The most important
 document for this monotheistic tendency, however (confirming as it
 does the tablet of the fifty-one names), is that in which at least
 thirteen of the Babylonian deities are identified with Merodach, and
@@ -2977,14 +2977,14 @@ himself to men. The text of this inscription is as follows:--
   Nirig             is Merodach of strength.
   Nergal            is Merodach of war.
   Zagaga            is Merodach of battle.
-  Bêl               is Merodach of lordship and domination.
+  Bï¿½l               is Merodach of lordship and domination.
   Nebo              is Merodach of trading(?).
   Sin               is Merodach the illuminator of the night.
-  Šamaš             is Merodach of righteous things.
+  ï¿½amaï¿½             is Merodach of righteous things.
   Addu              is Merodach of rain.
-  Tišpak            is Merodach of frost(?).
+  Tiï¿½pak            is Merodach of frost(?).
   Sig               is Merodach of green things(?).
-  Šuqamunu          is Merodach of the irrigation-channel."
+  ï¿½uqamunu          is Merodach of the irrigation-channel."
 
 Here the text breaks off, but must have contained several more similar
 identifications, showing how at least the more thoughtful of the
@@ -2992,8 +2992,8 @@ Babylonians of old looked upon the host of gods whom they worshipped.
 What may be the date of this document is uncertain, but as the
 colophon seems to describe it as a copy of an older inscription, it
 may go back as far as 2000 years B.C. This is the period at which the
-name /Yaum-îlu/ "Jah is God," is found, together with numerous
-references to /îlu/ as the name for the one great god, and is also,
+name /Yaum-ï¿½lu/ "Jah is God," is found, together with numerous
+references to /ï¿½lu/ as the name for the one great god, and is also,
 roughly, the date of Abraham, who, it may be noted, was a Babylonian
 of Ur of the Chaldees. It will probably not be thought too venturesome
 to say that his monotheism was possibly the result of the religious
@@ -3005,10 +3005,10 @@ trend of thought in his time.
 Damascius, in his valuable account of the belief of the Babylonians
 concerning the Creation, states that, like the other barbarians, they
 reject the doctrine of the one origin of the universe, and constitute
-two, Tauthé (Tiawath) and Apason (Apsu). This twofold principle,
+two, Tauthï¿½ (Tiawath) and Apason (Apsu). This twofold principle,
 however, is only applicable to the system in that it makes of the sea
 and the deep (for such are the meanings of the two words) two
-personages--the female and the male personifications of primæval
+personages--the female and the male personifications of primï¿½val
 matter, from which all creation sprang, and which gave birth to the
 gods of heaven themselves. As far as the physical constituents of
 these two principals are concerned, their tenets might be described as
@@ -3048,10 +3048,10 @@ consisted in hero-worship, which pre-supposes that the heroes in
 question continued to exist, in a state of still greater power and
 glory, after the conclusion of their life here upon earth.
 
-"The god Bêl hates me--I cannot dwell in this land, and in the
-territory of Bêl I cannot set my face. I shall descend then to the
+"The god Bï¿½l hates me--I cannot dwell in this land, and in the
+territory of Bï¿½l I cannot set my face. I shall descend then to the
 Abyss; with Aa my lord shall I constantly dwell." It is with these
-words that, by the counsel of the god Aa, Ut-napištim explained to
+words that, by the counsel of the god Aa, Ut-napiï¿½tim explained to
 those who questioned him the reason why he was building the ship or
 ark which was to save him and his from the Flood, and there is but
 little doubt that the author of the story implied that he announced
@@ -3065,7 +3065,7 @@ contentment and bliss--as there were gods, and that every good man was
 regarded as going and dwelling evermore with the deity which he had
 worshipped and served faithfully during his lifetime.
 
-Gilgameš, the half-divine king of Erech, who reigned during the half-
+Gilgameï¿½, the half-divine king of Erech, who reigned during the half-
 mythical period, on losing his friend and counsellor, Enki-du, set out
 to find him, and to bring him back, if possible, from the underworld
 where he was supposed to dwell. His death, however, had not been like
@@ -3078,7 +3078,7 @@ meant) in consequence, seemingly, of some trick or trap which had been
 laid for him.
 
 The gods were therefore prayed, in turn, to bring him back, but none
-of them listened except Êa, who begged him of Nerigal, whereupon the
+of them listened except ï¿½a, who begged him of Nerigal, whereupon the
 latter opened the entrance to the place where he was--the hole of the
 earth--and brought forth "the spirit (/utukku/) of Enki-du like mist."
 Immediately after this come the words, "Tell, my friend, tell, my
@@ -3111,15 +3111,15 @@ described above is not the place of the punishment of the wicked, but
 the dwelling of those accounted good, who, if lucky in the manner of
 their death, and the disposal of their bodies, enjoyed the highest
 happiness in the habitation of the blest. The other place, however, is
-otherwise described (it occurs in the account of Ištar's descent into
-Hades, and in the seventh tablet of the Gilgameš series--the latter
+otherwise described (it occurs in the account of Iï¿½tar's descent into
+Hades, and in the seventh tablet of the Gilgameï¿½ series--the latter
 differing somewhat):--
 
   "Upon the land of No-return, the region of . . .,
   [Set] Istar, daughter of Sin, her ear.
   The daughter of Sin set then her ear . . .
   Upon the house of gloom, the seat of Irkalla--[*]
-  Upon the house whose entrance hath no exit,[†]
+  Upon the house whose entrance hath no exit,[ï¿½]
   Upon the path whose way hath no return,
   Upon the house whose enterers are deprived of light,
   Where dust is their nourishment, their food mud,
@@ -3129,18 +3129,18 @@ differing somewhat):--
 
 [*] One of the names of Nergal.
 
-[†] Or "whose enterer goeth not forth."
+[ï¿½] Or "whose enterer goeth not forth."
 
 Seven gates gave access to this place of gloom, and the porter, as he
-let the visitor in, took from her (the goddess Ištar in the narrative)
+let the visitor in, took from her (the goddess Iï¿½tar in the narrative)
 at each an article of clothing, until, at the last, she entered quite
 naked, apparently typifying the fact that a man can take nothing with
 him when he dieth, and also, in this case, that he has not even his
 good deeds wherewith to clothe himself, for had they outweighed his
 evil ones, he would not have found himself in that dread abode.
 
-On the arrival of Ištar in Hades, Erêš-ki-gal commanded Namtaru, the
-god of fate, to smite Ištar with disease in all her members--eyes,
+On the arrival of Iï¿½tar in Hades, Erï¿½-ki-gal commanded Namtaru, the
+god of fate, to smite Iï¿½tar with disease in all her members--eyes,
 sides, feet, heart, and head. As things went wrong on the earth in
 consequence of the absence of the goddess of love, the gods sent a
 messenger to effect her release. When he reached the land of No-
@@ -3150,7 +3150,7 @@ oil-jars of the city (naptha?) his drink, the gloom of the castle his
 resting-place, a stone slab his seat, and hunger and thirst were to
 shatter his strength. These were evidently the punishments inflicted
 there, but as the messenger threatened was a divine one, they were
-probably not put into execution, and he obtained his demand, for Ištar
+probably not put into execution, and he obtained his demand, for Iï¿½tar
 was set free, receiving back at each gate, in reverse order, the
 clothing and ornaments which had been taken from her when she had
 descended thither. It is uncertain whether Tammuz, for whom she had
@@ -3187,7 +3187,7 @@ Author, 1904.
                 AND THE RELIGION OF THREE NATIONS, IN
 
       Dictionary of the Bible, edited by Dr. James Hastings, and
-          Encyclopædia Biblica, edited by Professor Cheyne.
+          Encyclopï¿½dia Biblica, edited by Professor Cheyne.
 
 
 

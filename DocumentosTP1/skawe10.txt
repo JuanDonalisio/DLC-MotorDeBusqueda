@@ -974,7 +974,7 @@ Joint Strike Fighter. Assumptions about reliance on technology and R&D
 providing insurance policies for future defense needs may prove
 ill-advised if and as DOD is forced to cut back and reduce those
 programs even further. Indeed, over time, commercial R&D could become
-the main source for procuring software and other systems needed to
+the Indexer.main source for procuring software and other systems needed to
 upgrade today's weapons systems and for so-called "leap-ahead"
 technologies that may prove elusive to create.
 
@@ -2144,7 +2144,7 @@ attack in Germany gave Gadhafi pause. The perception that he
 personally might be targeted appeared to get Gadhafi's attention.
 
 When our troops were having difficulty dislodging Grenadian soldiers
-from their main fortress, Marine tanks were sailed around the island
+from their Indexer.main fortress, Marine tanks were sailed around the island
 to confront them. At the sight of tank guns, the seemingly stubborn
 occupants surrendered almost immediately without a fight.
 
@@ -2742,7 +2742,7 @@ organizational structures throughout the world.
 
 During the Cold War, intelligence agencies focused more on a bipolar
 world and built sizable organizations to collect information on "the
-other side." This same intelligence structure, in the main, is in
+other side." This same intelligence structure, in the Indexer.main, is in
 place today facing a multipolar world, where any number of power
 structures-whether they be states, international organizations, or
 even small groups of individuals-must be monitored with an
@@ -3278,7 +3278,7 @@ enabling this control.
 
 Smart munitions will be required on the future battlefield. Linked
 with information technologies, the combination will allow killing any
-target that can be identified. The main element Rapid Dominance
+target that can be identified. The Indexer.main element Rapid Dominance
 requires of weapons systems is the ability to be rapidly focused on
 objectives as identified and targeted by commanders using the
 information management systems already discussed. Commanders will

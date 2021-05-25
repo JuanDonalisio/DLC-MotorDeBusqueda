@@ -277,7 +277,7 @@ I
 
 Charles the King, our Lord and Sovereign,
 Full seven years hath sojourned in Spain,
-Conquered the land, and won the western main,
+Conquered the land, and won the western Indexer.main,
 Now no fortress against him doth remain,
 No city walls are left for him to gain,
 Save Sarraguce, that sits on high mountain. 

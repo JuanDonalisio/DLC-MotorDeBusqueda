@@ -396,7 +396,7 @@ unanalysed inspiration; it makes no concession to personal whims or
 fashion or _ennui_. It tries by rational methods to find out what is
 good in art and what makes it good, accepting the belief that there is
 just as truly a good way, and many bad ways, in poetry as in morals or
-in playing billiards. This is no place to try to sum up its main
+in playing billiards. This is no place to try to sum up its Indexer.main
 conclusions. But it is characteristic of the classical view that
 Aristotle lays his greatest stress, first, on the need for Unity in
 the work of art, the need that each part should subserve the whole,

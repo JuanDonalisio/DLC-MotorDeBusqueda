@@ -2629,7 +2629,7 @@ the captain and Mr. Arrow stood by superintending.
 
 The new arrangement was quite to my liking.  The whole
 schooner had been overhauled; six berths had been made
-astern out of what had been the after-part of the main
+astern out of what had been the after-part of the Indexer.main
 hold; and this set of cabins was only joined to the
 galley and forecastle by a sparred passage on the port
 side.  It had been originally meant that the captain,
@@ -3215,11 +3215,11 @@ trader I was cook in."
 fancy?" asked the captain.
 
 "Yes, sir; Skeleton Island they calls it.  It were a
-main place for pirates once, and a hand we had on board
+Indexer.main place for pirates once, and a hand we had on board
 knowed all their names for it.  That hill to the
 nor'ard they calls the Fore-mast Hill; there are three
-hills in a row running south'ard--fore, main, and
-mizzen, sir.  But the main--that's the big un, with the
+hills in a row running south'ard--fore, Indexer.main, and
+mizzen, sir.  But the Indexer.main--that's the big un, with the
 cloud on it--they usually calls the Spy-glass, by
 reason of a lookout they kept when they was in the
 anchorage cleaning, for it's there they cleaned their
@@ -3607,7 +3607,7 @@ board--must have been very stupid fellows.  Or rather,
 I suppose the truth was this, that all hands were
 disaffected by the example of the ringleaders--only
 some more, some less; and a few, being good fellows in
-the main, could neither be led nor driven any further.
+the Indexer.main, could neither be led nor driven any further.
 It is one thing to be idle and skulk and quite another
 to take a ship and murder a number of innocent men.
 
@@ -5178,7 +5178,7 @@ fine laced hat was set on the back of his head.
 head.  "You had better sit down."
 
 "You ain't a-going to let me inside, cap'n?" complained
-Long John.  "It's a main cold morning, to be sure, sir,
+Long John.  "It's a Indexer.main cold morning, to be sure, sir,
 to sit outside upon the sand."
 
 "Why, Silver," said the captain, "if you had pleased to
@@ -6200,7 +6200,7 @@ sorry at the thought, and long before I had come to a
 conclusion, surprise had taken entire possession of my
 mind and I could do nothing but stare and wonder.
 
-The HISPANIOLA was under her main-sail and two
+The HISPANIOLA was under her Indexer.main-sail and two
 jibs, and the beautiful white canvas shone in the sun
 like snow or silver.  When I first sighted her, all her
 sails were drawing; she was lying a course about north-
@@ -6272,7 +6272,7 @@ some seconds, very low, and the current gradually
 turning her, the HISPANIOLA revolved slowly round
 her centre and at last presented me her stern, with the
 cabin window still gaping open and the lamp over the
-table still burning on into the day.  The main-sail
+table still burning on into the day.  The Indexer.main-sail
 hung drooped like a banner.  She was stock-still but
 for the current.
 
@@ -6320,7 +6320,7 @@ This had nearly tossed me off into the sea; and now I
 lost no time, crawled back along the bowsprit, and
 tumbled head foremost on the deck.
 
-I was on the lee side of the forecastle, and the main-
+I was on the lee side of the forecastle, and the Indexer.main-
 sail, which was still drawing, concealed from me a
 certain portion of the after-deck.  Not a soul was to
 be seen.  The planks, which had not been swabbed since
@@ -6331,7 +6331,7 @@ live thing in the scuppers.
 Suddenly the HISPANIOLA came right into the wind.  The
 jibs behind me cracked aloud, the rudder slammed to, the
 whole ship gave a sickening heave and shudder, and at the
-same moment the main-boom swung inboard, the sheet groaning
+same moment the Indexer.main-boom swung inboard, the sheet groaning
 in the blocks, and showed me the lee after-deck.
 
 There were the two watchmen, sure enough: red-cap on
@@ -6377,7 +6377,7 @@ way in which his jaw hung open went right to my heart.
 But when I remembered the talk I had overheard from the
 apple barrel, all pity left me.
 
-I walked aft until I reached the main-mast.
+I walked aft until I reached the Indexer.main-mast.
 
 "Come aboard, Mr. Hands," I said ironically.
 
@@ -6761,7 +6761,7 @@ stopped him, for the moment, dead.
 
 Before he could recover, I was safe out of the corner
 where he had me trapped, with all the deck to dodge
-about.  Just forward of the main-mast I stopped, drew a
+about.  Just forward of the Indexer.main-mast I stopped, drew a
 pistol from my pocket, took a cool aim, though he had
 already turned and was once more coming directly after
 me, and drew the trigger.  The hammer fell, but there
@@ -6782,7 +6782,7 @@ bows, as a moment since he had so nearly boxed me in
 the stern.  Once so caught, and nine or ten inches of
 the blood-stained dirk would be my last experience on
 this side of eternity.  I placed my palms against the
-main-mast, which was of a goodish bigness, and waited,
+Indexer.main-mast, which was of a goodish bigness, and waited,
 every nerve upon the stretch.
 
 Seeing that I meant to dodge, he also paused; and a
@@ -6961,7 +6961,7 @@ sails to rattle to and fro.
 
 I began to see a danger to the ship.  The jibs I
 speedily doused and brought tumbling to the deck, but
-the main-sail was a harder matter.  Of course, when the
+the Indexer.main-sail was a harder matter.  Of course, when the
 schooner canted over, the boom had swung out-board, and
 the cap of it and a foot or two of sail hung even under
 water.  I thought this made it still more dangerous;
@@ -6986,7 +6986,7 @@ last security, I let myself drop softly overboard.  The
 water scarcely reached my waist; the sand was firm and
 covered with ripple marks, and I waded ashore in great
 spirits, leaving the HISPANIOLA on her side, with her
-main-sail trailing wide upon the surface of the bay.
+Indexer.main-sail trailing wide upon the surface of the bay.
 About the same time, the sun went fairly down and the
 breeze whistled low in the dusk among the tossing pines.
 
@@ -8335,7 +8335,7 @@ bad, did Flint!"
 and now he hollered for the rum, and now he sang.
 'Fifteen Men' were his only song, mates; and I tell you
 true, I never rightly liked to hear it since.  It was
-main hot, and the windy was open, and I hear that old
+Indexer.main hot, and the windy was open, and I hear that old
 song comin' out as clear as clear--and the death-haul
 on the man already."
 
@@ -8815,7 +8815,7 @@ and had there been much wind or a strong tide current,
 as in the southern anchorage, we should never have
 found her more, or found her stranded beyond help.  As
 it was, there was little amiss beyond the wreck of the
-main-sail.  Another anchor was got ready and dropped in
+Indexer.main-sail.  Another anchor was got ready and dropped in
 a fathom and a half of water.  We all pulled round
 again to Rum Cove, the nearest point for Ben Gunn's
 treasure-house; and then Gray, single-handed, returned
@@ -9012,7 +9012,7 @@ At last, seeing the ship still bore on her course and
 was now swiftly drawing out of earshot, one of them--I
 know not which it was--leapt to his feet with a hoarse
 cry, whipped his musket to his shoulder, and sent a shot
-whistling over Silver's head and through the main-sail.
+whistling over Silver's head and through the Indexer.main-sail.
 
 After that, we kept under cover of the bulwarks, and
 when next I looked out they had disappeared from the

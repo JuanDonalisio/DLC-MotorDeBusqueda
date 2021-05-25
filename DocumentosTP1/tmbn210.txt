@@ -424,7 +424,7 @@ Danubius' stream, that runs to Trebizon,
 Shall carry, wrapt within his scarlet waves,
 As martial presents to our friends at home,
 The slaughter'd bodies of these Christians:
-The Terrene<10> main, wherein Danubius falls,
+The Terrene<10> Indexer.main, wherein Danubius falls,
 Shall by this battle be the bloody sea:
 The wandering sailors of proud Italy
 Shall meet those Christians, fleeting with the tide,
@@ -3476,7 +3476,7 @@ repeatedly, "parle."
 
 <21> FREDERICK.  And we from Europe, to the same intent]
 So the 8vo.--The 4to, which gives this line in an earlier part
-of the scene (see note §, preceding col.), <i.e. note 15>
+of the scene (see note ï¿½, preceding col.), <i.e. note 15>
 omits it here.
 
 <22> stand] So the 8vo.--The 4to "are."
@@ -3506,7 +3506,7 @@ omits it here.
           Verses to King James, prefixed to Lord Stirling's
           MONARCHICKE TRAGEDIES, ed. 1607.>
 
-<29> Cairo] Old eds. "Cario."  See note ¶, p. 43.  <i.e. note
+<29> Cairo] Old eds. "Cario."  See note ï¿½, p. 43.  <i.e. note
 11.>
 
 <30> stream] Old eds. "streames."
@@ -3607,7 +3607,7 @@ first col.
      Call'd John the Great] Concerning the fabulous personage,
 PRESTER JOHN, see Nares's GLOSS. in v.
 
-<57> Where] See note ¶, p. 45. <i.e. note 33.>
+<57> Where] See note ï¿½, p. 45. <i.e. note 33.>
 
 <58> Byather] The editor of 1826 printed "Biafar":  but it is
 very doubtful if Marlowe wrote the names of places correctly.
@@ -3704,12 +3704,12 @@ lodge cannon.
 
 <94> one] So the 8vo ("on").--The 4to "our."
 
-<95> stature] See note §, p. 27.--So the 8vo.--The 4to "statue."
+<95> stature] See note ï¿½, p. 27.--So the 8vo.--The 4to "statue."
 Here the metre would be assisted by reading "statua," which is
 frequently found in our early writers:  see my REMARKS ON
 MR. COLLIER'S AND MR. KNIGHT'S EDITIONS OF SHAKESPEARE, p. 186.
 
-    <note §, from p. 27.  (The First Part of Tamburlaine the
+    <note ï¿½, from p. 27.  (The First Part of Tamburlaine the
      Great):
 
     "stature] So the 8vo.--The 4to "statue:" but again, in the
@@ -4358,9 +4358,9 @@ who draw his chariot.
 
 <292> whatsoe'er] So the 8vo.--The 4to "whatsoeuer."
 
-<293> Euphrates] See note §, p. 36.
+<293> Euphrates] See note ï¿½, p. 36.
 
-    <note §, from p. 36.  (The First Part of Tamburlaine the
+    <note ï¿½, from p. 36.  (The First Part of Tamburlaine the
      Great):
 
     "Euphrates] So our old poets invariably, I believe,

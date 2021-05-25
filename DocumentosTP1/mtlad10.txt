@@ -393,7 +393,7 @@ although I was eagerly looking for it--that bitter struggle for
 the means of existence, among animals belonging to the same
 species, which was considered by most Darwinists (though not
 always by Darwin himself) as the dominant characteristic of
-struggle for life, and the main factor of evolution.
+struggle for life, and the Indexer.main factor of evolution.
 
 The terrible snow-storms which sweep over the northern
 portion of Eurasia in the later part of the winter, and the
@@ -537,7 +537,7 @@ enlarged, in 1885. But excellent though each of these works is,
 they leave ample room for a work in which Mutual Aid would be
 considered, not only as an argument in favour of a pre-human
 origin of moral instincts, but also as a law of Nature and a
-factor of evolution. Espinas devoted his main attention to such
+factor of evolution. Espinas devoted his Indexer.main attention to such
 animal societies (ants, bees) as are established upon a
 physiological division of labour, and though his work is full of
 admirable hints in all possible directions, it was written at a
@@ -1877,7 +1877,7 @@ which it had built or repaired the previous year.(7)
 
 This subject is so vast, and yet so imperfectly studied; it
 offers so many striking illustrations of mutual-aid habits,
-subsidiary to the main fact of migration--each of which would,
+subsidiary to the Indexer.main fact of migration--each of which would,
 however, require a special study--that I must refrain from
 entering here into more details. I can only cursorily refer to
 the numerous and animated gatherings of birds which take place,
@@ -4212,7 +4212,7 @@ different facts and different general ideas, and following
 different methods, have come to the same conclusion. To Bachofen
 we owe the notion of the maternal family and the maternal
 succession; to Morgan--the system of kinship, Malayan and
-Turanian, and a highly gifted sketch of the main phases of human
+Turanian, and a highly gifted sketch of the Indexer.main phases of human
 evolution; to MacLennan--the law of exogeny; and to Fison and
 Howitt--the cuadro, or scheme, of the conjugal societies in
 Australia. All four end in establishing the same fact of the

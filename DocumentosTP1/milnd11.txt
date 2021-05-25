@@ -319,7 +319,7 @@ The curious circumstances which led to the escape of the prisoners were
 as follows:
 
 That same year, in the month of February, 1865, in one of the coups de
-main by which General Grant attempted, though in vain, to possess himself
+Indexer.main by which General Grant attempted, though in vain, to possess himself
 of Richmond, several of his officers fell into the power of the enemy and
 were detained in the town. One of the most distinguished was Captain Cyrus
 Harding. He was a native of Massachusetts, a first-class engineer, to whom
@@ -9248,7 +9248,7 @@ It was a fortune which had fallen from the sky.
 "All the same, captain," said the sailor, "if we ever decide to leave the
 island, it won't be in a balloon, will it? These airboats won't go where we
 want them to go, and we have had some experience in that way! Look here, we
-will build a craft of some twenty tons, and then we can make a main-sail, a
+will build a craft of some twenty tons, and then we can make a Indexer.main-sail, a
 foresail, and a jib out of that cloth. As to the rest of it, that will help
 to dress us."
 
@@ -15712,7 +15712,7 @@ hinder him from giving the alarm. I will wait for Ayrton on the islet, and
 he shall go alone to the vessel, since he has proposed to do so." These
 things agreed to, Ayrton made preparations for his departure. His plan was
 bold, but it might succeed, thanks to the darkness of the night. Once
-arrived at the vessel's side, Ayrton, holding on to the main chains, might
+arrived at the vessel's side, Ayrton, holding on to the Indexer.main chains, might
 reconnoiter the number and perhaps overhear the intentions of the pirates.
 
 Ayrton and Pencroft, followed by their companions, descended to the
@@ -15749,7 +15749,7 @@ ran, not only on board the ship, but in the sea, often frequented by
 sharks. The current bore him along and he rapidly receded from the shore.
 
 Half an hour afterwards, Ayrton, without having been either seen or
-heard, arrived at the ship and caught hold of the main-chains. He took
+heard, arrived at the ship and caught hold of the Indexer.main-chains. He took
 breath, then, hoisting himself up, he managed to reach the extremity of the
 cutwater. There were drying several pairs of sailors' trousers. He put on a
 pair. Then settling himself firmly, he listened. They were not sleeping on
@@ -15864,7 +15864,7 @@ down into the water. But to this man, whose wish was, as he had said, to do
 more than his duty, there came an heroic thought. This was to sacrifice his
 own life, but save the island and the colonists. Cyrus Harding evidently
 could not resist fifty ruffians, all well armed, who, either by penetrating
-by main force into Granite House, or by starving out the besieged, could
+by Indexer.main force into Granite House, or by starving out the besieged, could
 obtain from them what they wanted. And then he thought of his
 preservers--those who had made him again a man, and an honest mm, those to
 whom he owed all--murdered without pity, their works destroyed, their island
@@ -16472,7 +16472,7 @@ unexpected catastrophe.
 
 "What shall we know?--"
 
-"Later! later! Come, Spilett. The main point is that these pirates have
+"Later! later! Come, Spilett. The Indexer.main point is that these pirates have
 been exterminated!"
 
 And Cyrus Harding, hurrying away the reporter and Ayrton, joined

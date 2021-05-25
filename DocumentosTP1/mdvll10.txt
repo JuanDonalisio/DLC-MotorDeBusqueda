@@ -677,7 +677,7 @@ the composition of metals. Sulphur represented their combustible
 aspect, and also that which gave them their solid form; while mercury
 was that to which their weight and powers of becoming fluid were due.
 
-This theory was due to two main facts. Most ores of metals, especially
+This theory was due to two Indexer.main facts. Most ores of metals, especially
 of copper and lead, contain much sulphur, which can be either obtained
 pure from them, or be recognised by its smell when burning. This gave
 rise to the sulphur theory, while the presence of mercury was inferred
@@ -3402,7 +3402,7 @@ oft examples: for they spare them that lie on the ground, and suffer
 them to pass homeward that were prisoners and come out of thraldom,
 and eat not a man or slay him but in great hunger. Pliny saith that
 the lion is in most gentleness and nobility, when his neck and
-shoulders be heled with hair and main. And he that is gendered of the
+shoulders be heled with hair and Indexer.main. And he that is gendered of the
 pard, lacketh that nobility. The lion knoweth by smell, if the pard
 gendereth with the lioness, and reseth against the lioness that
 breaketh spousehood, and punisheth her full sore, but if she wash her
@@ -3709,7 +3709,7 @@ of Scholasticism.
 
 ARCHELAUS. A Greek geographer.
 
-ARISTOTLE (384-322 B.C.). I would refer the reader to BRÈCHILLET
+ARISTOTLE (384-322 B.C.). I would refer the reader to BRï¿½CHILLET
 JOURDAIN on the EARLY TRANSLATIONS OF ARISTOTLE, where he will find a
 mine of information on the works of this writer used in the Middle
 Age.
@@ -3723,7 +3723,7 @@ AVERROES (d. 1217). Moorish commentator on Aristotle.
 
 AVICEBRON (d. 1070), OR IBN GEBIROL. A Spanish Jew. Author of the
 FONTIS VITA. A work translated by Gundisalvi, of the greatest
-influence on the Metaphysic of the Middle Age. See MUNCK, MÉLANGES.
+influence on the Metaphysic of the Middle Age. See MUNCK, Mï¿½LANGES.
 
 AVICENNA (980-1036). An Arab physician, and commentator on Aristotle.
 
@@ -3903,7 +3903,7 @@ RICARDUS RUFUS (circ. 1225). A Cornishman who was a doctor in great
 renown, both at Oxford and Paris. He afterwards joined the
 Franciscans.
 
-ROBERTUS LINCOLN., GROSTÊTE (d. 1253), the celebrated Bishop of
+ROBERTUS LINCOLN., GROSTï¿½TE (d. 1253), the celebrated Bishop of
 Lincoln and patron of Bacon. Taught at Paris and at Oxford.
 Commentaries on Aristotle.
 
@@ -3950,22 +3950,22 @@ _Latin Editions_
                            Date.         Place    Printer. Remarks.
 
 HC *2500 Pr 8530 Pell 1867 1480 July 29  Lyon  .  Philippi & Reinhard.
-HC  2501    1048      1868 1481          Köln  .  Koelhoff
+HC  2501    1048      1868 1481          Kï¿½ln  .  Koelhoff
 HC  2502    8573      1869 1482 Nov. 21  Lyon  .  Petrus of Hungary
 HC  2503    8531a     1870 1482 Dec. 10  Lyon  .  Philippi & Reinhard.
-HC *2504    1055      1871 1483 Jan. 19  Köln  .  Koelhoff.
-H   2505    2036      1872 1483 May  30  Nürnberg Koberger
+HC *2504    1055      1871 1483 Jan. 19  Kï¿½ln  .  Koelhoff.
+H   2505    2036      1872 1483 May  30  Nï¿½rnberg Koberger
 H   *2506    592      1873 1485 Feb. 14  Strassburg Press xv.
 HC *2507    3130      1874 1488 May  23  Heidelberg Press i.
 H   2508     ..        ..  1488          Strassburg (Panzer I 36, 139)
 HC *2509     665      1875 1491 Aug. 11  Strassburg Press xv.
-HC *2510    2073      1876 1492 June 20  Nürnberg   Koberger
+HC *2510    2073      1876 1492 June 20  Nï¿½rnberg   Koberger
 H   2511     ..        ..  1495          Strassburg (Panzer I 52, 286)
-HC *2498    1105      1865  n.d.         Köln  Press viii. [circ 1473]
+HC *2498    1105      1865  n.d.         Kï¿½ln  Press viii. [circ 1473]
                                          formerly attributed to Zell.
 HC *2499    7452      1866  n.d.         Basel      Ruppel.[circ 1468]
            10003       ..  1505 Aug. 11  Strassburg Husner.
-           11131       ..  1519 May  11  Nürnberg  Peypus f.J.Koberger
+           11131       ..  1519 May  11  Nï¿½rnberg  Peypus f.J.Koberger
                        ..  1571          Venezia     (Graesse III. 92)
                        ..  1574          Paris.      (Graesse III. 92)
                        ..  1575          Strassburg  (Graesse III. 92)

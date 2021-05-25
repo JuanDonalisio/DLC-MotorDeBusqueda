@@ -475,7 +475,7 @@ man that appears with the king, he is the only man that preserves his
 cheerfulness in the wreck, and his hope on the island.
 
 I.i.52 (6,7) set her two courses; off to sea againj The courses are the
-main-sail and fore-sail.  This term is used by Raleigh, in his
+Indexer.main-sail and fore-sail.  This term is used by Raleigh, in his
 _Discourse on Shipping_.
 
 I.i.63 (6,9)         He'll be hang'd yet; Though every drop of water
@@ -1170,7 +1170,7 @@ the note has its use.
 
 I.iii.44 (120,3) in good time] _In good time_ was the old expression
 when something happened which suited the thing in hand, as the
-French say, _… propos_.
+French say, _ï¿½ propos_.
 
 I.iii.84 (121,4) Oh, how this spring of love resembleth] At the
 end of this verse there is wanting a syllable, for the speech
@@ -2220,7 +2220,7 @@ the provost says,
 
     _Heaven give thee moving_ graces. (1765, I,282,1)
 
-I.iv.70 (27,1) pith/Of business] The inmost part, the main of my
+I.iv.70 (27,1) pith/Of business] The inmost part, the Indexer.main of my
 message.
 
 I.iv.86 (28,4) the mother] The abbess, or prioress.
@@ -2283,7 +2283,7 @@ bring along by some motive or power_.
 II.i.254 (37,7) I'll rent the fairest house in it, after three
 pence a bay] A _bay_ of building is, in many parts of England, a
 common term, of which the best conception that I could ever attain,
-is, that it is the space between the main beams of the
+is, that it is the space between the Indexer.main beams of the
 roof; so that a barn crossed twice with beams is a barn of three
 _bays_.
 
@@ -3037,7 +3037,7 @@ is lamenting the obduracy of the prisoner, cries out,
 and, when they are gone out, turns again to the Duke.
 
 IV.iii.72 (110,8) to transport him] To remove him from one world
-to another. The French _tr‚pas_ affords a kindred sense.
+to another. The French _trï¿½pas_ affords a kindred sense.
 
 IV.iii.115 (112,1)      I will keep her ignorant of her good,
   To make her heavenly comforts of despair,
@@ -7768,7 +7768,7 @@ _revye_. One may as well leave blunders as make them. Why may we
 not read for a shift, without much effort, _the time_ invites _us_?
 
 IV.v.8 (114,1) I would, I had not known him!] This dialogue serves
-to connect the incidents of Parolles with the main plan of the
+to connect the incidents of Parolles with the Indexer.main plan of the
 play.
 
 IV.v.66 (116,4) _Laf_. A shrewd knave, and an unhappy] That is,

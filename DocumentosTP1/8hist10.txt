@@ -77,7 +77,7 @@ greater part of the student's time, in class and without, may be left free
 for the study of the literature itself.
 
 I hope that the book may prove adaptable to various methods and conditions
-of work. Experience has suggested the brief introductory statement of main
+of work. Experience has suggested the brief introductory statement of Indexer.main
 literary principles, too often taken for granted by teachers, with much
 resulting haziness in the student's mind. The list of assignments and
 questions at the end is intended, of course, to be freely treated. I hope
@@ -188,7 +188,7 @@ a student should ask himself the question already implied: Does it present
 a true portrayal of life--of the permanent elements in all life and in
 human nature, of the life or thought of its own particular period, and (in
 most sorts of books) of the persons, real or imaginary, with whom it deals?
-If it properly accomplishes this main purpose, when the reader finishes it
+If it properly accomplishes this Indexer.main purpose, when the reader finishes it
 he should feel that his understanding of life and of people has been
 increased and broadened. But it should always be remembered that truth is
 quite as much a matter of general spirit and impression as of literal
@@ -202,7 +202,7 @@ judgments merely from what is technically called the _dogmatic_ point
 of view, but should try rather to adopt that of _historical_
 criticism. This means that he should take into account the limitations
 imposed on every author by the age in which he lived. If you find that the
-poets of the Anglo-Saxon 'Béowulf' have given a clear and interesting
+poets of the Anglo-Saxon 'Bï¿½owulf' have given a clear and interesting
 picture of the life of our barbarous ancestors of the sixth or seventh
 century A. D., you should not blame them for a lack of the finer elements
 of feeling and expression which after a thousand years of civilization
@@ -215,7 +215,7 @@ it may also be an important virtue, adding intimacy, charm, or force. 5.
 Further, one may ask whether the author has a deliberately formed theory of
 life; and if so how it shows itself, and, of course, how sound it is.
 
-INTELLECT, EMOTION, IMAGINATION, AND RELATED QUALITIES. Another main
+INTELLECT, EMOTION, IMAGINATION, AND RELATED QUALITIES. Another Indexer.main
 question in judging any book concerns the union which it shows: (1) of the
 Intellectual faculty, that which enables the author to understand and
 control his material and present it with directness and clearness; and (2)
@@ -241,7 +241,7 @@ complement of Humor.
 IMAGINATION AND FANCY. Related to Emotion also and one of the most
 necessary elements in the higher forms of literature is Imagination, the
 faculty of making what is absent or unreal seem present and real, and
-revealing the hidden or more subtile forces of life. Its main operations
+revealing the hidden or more subtile forces of life. Its Indexer.main operations
 may be classified under three heads: (1) Pictorial and Presentative. It
 presents to the author's mind, and through him to the minds of his readers,
 all the elements of human experience and life (drawing from his actual
@@ -299,7 +299,7 @@ therefore, is essentially idealistic.
 
 DRAMATIC POWER. Dramatic power, in general, means the presentation of life
 with the vivid active reality of life and character which especially
-distinguishes the acted drama. It is, of course, one of the main things to
+distinguishes the acted drama. It is, of course, one of the Indexer.main things to
 be desired in most narrative; though sometimes the effect sought may be
 something different, as, for instance, in romance and poetry, an atmosphere
 of dreamy beauty. In a drama, and to some extent in other forms of
@@ -317,13 +317,13 @@ greater the genuine individuality the greater the success. But with
 secondary characters the principles of emphasis and proportion generally
 forbid very distinct individualization; and sometimes, especially in comedy
 (drama), truth of character is properly sacrificed to other objects, such
-as the main effect. It may also be asked whether the characters are simple,
+as the Indexer.main effect. It may also be asked whether the characters are simple,
 as some people are in actual life, or complex, like most interesting
 persons; whether they develop, as all real people must under the action of
 significant experience, or whether the author merely presents them in brief
 situations or lacks the power to make them anything but stationary. If
 there are several of them it is a further question whether the author
-properly contrasts them in such a way as to secure interest. And a main
+properly contrasts them in such a way as to secure interest. And a Indexer.main
 requisite is that he shall properly motivate their actions, that is make
 their actions result naturally from their characters, either their
 controlling traits or their temporary impulses.
@@ -331,7 +331,7 @@ controlling traits or their temporary impulses.
 STRUCTURE. In any work of literature there should be definite structure.
 This requires, (1) Unity, (2) Variety, (3) Order, (4) Proportion, and (5)
 due Emphasis of parts. Unity means that everything included in the work
-ought to contribute directly or indirectly to the main effect. Very often a
+ought to contribute directly or indirectly to the Indexer.main effect. Very often a
 definite theme may be found about which the whole work centers, as for
 instance in 'Macbeth,' The Ruin of a Man through Yielding to Evil.
 Sometimes, however, as in a lyric poem, the effect intended may be the
@@ -644,7 +644,7 @@ IX. The Victorian Period, about 1830-1901.
 
   ESSAYISTS.              POETS.                   NOVELISTS.
 
-  Macaulay, 1800-1859.    Mrs. Browning, 1806-     Charlotte Bronté,
+  Macaulay, 1800-1859.    Mrs. Browning, 1806-     Charlotte Brontï¿½,
   Carlyle, 1795-1881.      1861.                    1816-1855.
   Ruskin, 1819-1900.      Tennyson, 1809-1892.     Dickens, 1812-1870.
                           Browning, 1812-1889.     Thackeray, 1811-1863.
@@ -702,7 +702,7 @@ CHAPTER I
 PERIOD I. THE BRITONS AND THE ANGLO-SAXONS. TO A. D. 1066.
 
 
-FOREWORD. The two earliest of the nine main divisions of English Literature
+FOREWORD. The two earliest of the nine Indexer.main divisions of English Literature
 are by far the longest--taken together are longer than all the others
 combined--but we shall pass rather rapidly over them. This is partly
 because the amount of thoroughly great literature which they produced is
@@ -728,7 +728,7 @@ something of their racial qualities to the English nation and literature.
 
 The characteristics of the Britons, which are those of the Celtic family as
 a whole, appear in their history and in the scanty late remains of their
-literature. Two main traits include or suggest all the others: first, a
+literature. Two Indexer.main traits include or suggest all the others: first, a
 vigorous but fitful emotionalism which rendered them vivacious, lovers of
 novelty, and brave, but ineffective in practical affairs; second, a
 somewhat fantastic but sincere and delicate sensitiveness to beauty. Into
@@ -774,7 +774,7 @@ the Roman rule, as at its beginning, they appear divided into mutually
 jealous tribes, still largely barbarous and primitive.
 
 The Anglo-Saxons. Meanwhile across the North Sea the three Germanic tribes
-which were destined to form the main element in the English race were
+which were destined to form the Indexer.main element in the English race were
 multiplying and unconsciously preparing to swarm to their new home. The
 Angles, Saxons, and Jutes occupied territories in the region which includes
 parts of the present Holland, of Germany about the mouth of the Elbe, and
@@ -796,7 +796,7 @@ quenched. In religion they had reached a moderately advanced state of
 heathenism, worshipping especially, it seems, Woden, a 'furious' god as
 well as a wise and crafty one; the warrior Tiu; and the strong-armed Thunor
 (the Scandinavian Thor); but together with these some milder deities like
-the goddess of spring, Éostre, from whom our Easter is named. For the
+the goddess of spring, ï¿½ostre, from whom our Easter is named. For the
 people on whom they fell these barbarians were a pitiless and terrible
 scourge; yet they possessed in undeveloped form the intelligence, the
 energy, the strength--most of the qualities of head and heart and
@@ -878,7 +878,7 @@ island. And though our personal sympathies may well go to the
 finer-spirited Irish, this outcome was on the whole fortunate; for only
 through religious union with Rome during the slow centuries of medieval
 rebirth could England be bound to the rest of Europe as one of the family
-of coöperating Christian states; and outside that family she would have
+of coï¿½perating Christian states; and outside that family she would have
 been isolated and spiritually starved.
 
 One of the greatest gifts of Christianity, it should be observed, and one
@@ -887,7 +887,7 @@ of monasteries which were now gradually established and became centers of
 active hospitality and the chief homes of such learning as was possible to
 the time.
 
-ANGLO-SAXON POETRY. THE EARLY PAGAN POETRY AND 'BÉOWULF.' The Anglo-Saxons
+ANGLO-SAXON POETRY. THE EARLY PAGAN POETRY AND 'Bï¿½OWULF.' The Anglo-Saxons
 doubtless brought with them from the Continent the rude beginnings of
 poetry, such as come first in the literature of every people and consist
 largely of brief magical charms and of rough 'popular ballads' (ballads of
@@ -938,7 +938,7 @@ single great poet, who with conscious art weaves together a great mass of
 separate materials into the nearly finished epic.
 
 Not much Anglo-Saxon poetry of the pagan period has come down to us. By far
-the most important remaining example is the epic 'Béowulf,' of about three
+the most important remaining example is the epic 'Bï¿½owulf,' of about three
 thousand lines. This poem seems to have originated on the Continent, but
 when and where are not now to be known. It may have been carried to England
 in the form of ballads by the Anglo-Saxons; or it may be Scandinavian
@@ -951,20 +951,20 @@ from the vengeance of Grendel's only less formidable mother. Returned home
 in triumph, Beowulf much later receives the due reward of his valor by
 being made king of his own tribe, and meets his death while killing a
 fire-breathing dragon which has become a scourge to his people. As he
-appears in the poem, Béowulf is an idealized Anglo-Saxon hero, but in
+appears in the poem, Bï¿½owulf is an idealized Anglo-Saxon hero, but in
 origin he may have been any one of several other different things. Perhaps
-he was the old Germanic god Béowa, and his exploits originally allegories,
+he was the old Germanic god Bï¿½owa, and his exploits originally allegories,
 like some of those in the Greek mythology, of his services to man; he may,
 for instance, first have been the sun, driving away the mists and cold of
 winter and of the swamps, hostile forces personified in Grendel and his
-mother. Or, Béowulf may really have been a great human fighter who actually
+mother. Or, Bï¿½owulf may really have been a great human fighter who actually
 killed some especially formidable wild beasts, and whose superhuman
 strength in the poem results, through the similarity of names, from his
-being confused with Béowa. This is the more likely because there is in the
+being confused with Bï¿½owa. This is the more likely because there is in the
 poem a slight trace of authentic history. (See below, under the assignments
 for study.)
 
-'Béowulf' presents an interesting though very incomplete picture of the
+'Bï¿½owulf' presents an interesting though very incomplete picture of the
 life of the upper, warrior, caste among the northern Germanic tribes during
 their later period of barbarism on the Continent and in England, a life
 more highly developed than that of the Anglo-Saxons before their conquest
@@ -982,7 +982,7 @@ at all, through a hole in the roof. In the hall the warriors banquet,
 sometimes in the company of their wives, but the women retire before the
 later revelry which often leaves the men drunk on the floor. Sometimes, it
 seems, there are sleeping-rooms or niches about the sides of the hall, but
-in 'Béowulf' Hrothgar and his followers retire to other quarters. War,
+in 'Bï¿½owulf' Hrothgar and his followers retire to other quarters. War,
 feasting, and hunting are the only occupations in which the warriors care
 to be thought to take an interest.
 
@@ -1001,7 +1001,7 @@ differences are, very much of this Anglo-Saxon pagan spirit persists
 centuries later in the English Puritans.
 
 For the finer artistic graces, also, and the structural subtilties of a
-more developed literary period, we must not, of course, look in 'Béowulf.'
+more developed literary period, we must not, of course, look in 'Bï¿½owulf.'
 The narrative is often more dramatic than clear, and there is no thought of
 any minuteness of characterization. A few typical characters stand out
 clearly, and they were all that the poet's turbulent and not very attentive
@@ -1010,7 +1010,7 @@ give it much more than a merely historical interest; and the careful reader
 cannot fail to realize that it is after all the product of a long period of
 poetic development.
 
-THE ANGLO-SAXON VERSE-FORM. The poetic form of 'Béowulf' is that of
+THE ANGLO-SAXON VERSE-FORM. The poetic form of 'Bï¿½owulf' is that of
 virtually all Anglo-Saxon poetry down to the tenth century, or indeed to
 the end, a form which is roughly represented in the present book in a
 passage of imitative translation two pages below. The verse is unrimed, not
@@ -1211,9 +1211,9 @@ chivalry.
 The different elements contributed to the modern English character by the
 latest stocks which have been united in it have been indicated by Matthew
 Arnold in a famous passage ('On the Study of Celtic Literature'): 'The
-Germanic [Anglo-Saxon and 'Danish'] genius has steadiness as its main
+Germanic [Anglo-Saxon and 'Danish'] genius has steadiness as its Indexer.main
 basis, with commonness and humdrum for its defect, fidelity to nature for
-its excellence. The Norman genius, talent for affairs as its main basis,
+its excellence. The Norman genius, talent for affairs as its Indexer.main basis,
 with strenuousness and clear rapidity for its excellence, hardness and
 insolence for its defect.' The Germanic (Anglo-Saxon and 'Danish') element
 explains, then, why uneducated Englishmen of all times have been
@@ -1507,16 +1507,16 @@ four voices:
 
 
   Sumer is icumen in;
-    Lhudè sing, cuccu!
+    Lhudï¿½ sing, cuccu!
   Groweth sed and bloweth med
-    And springth the wdè nu.
+    And springth the wdï¿½ nu.
       Sing, cuccu!
-  Awè bleteth after lomb,
-    Lhouth after calvè cu.
-  Bulluc sterteth, buckè verteth;
+  Awï¿½ bleteth after lomb,
+    Lhouth after calvï¿½ cu.
+  Bulluc sterteth, buckï¿½ verteth;
     Murie sing, cuccu!
       Cuccu, cuccu,
-    Wel singès thu, cuccu;
+    Wel singï¿½s thu, cuccu;
     Ne swik thu never nu.
 
 Summer is come in; loud sing, cuckoo! Grows the seed and blooms the mead
@@ -1528,17 +1528,17 @@ now.
 The next is the first stanza of 'Alysoun' ('Fair Alice'):
 
 
-  Bytuenè Mersh ant Averil,
-    When spray beginnth to springè,
-  The lútel foul hath hire wyl
-    On hyre lud to syngè.
-    Ieh libbe in love-longingè
-    For semlokest of allè thingè;
-    He may me blissè bringè;
+  Bytuenï¿½ Mersh ant Averil,
+    When spray beginnth to springï¿½,
+  The lï¿½tel foul hath hire wyl
+    On hyre lud to syngï¿½.
+    Ieh libbe in love-longingï¿½
+    For semlokest of allï¿½ thingï¿½;
+    He may me blissï¿½ bringï¿½;
   Icham in hire baundoun.
       An hendy hap ichabbe ybent;
       Iehot from hevene it is me sent;
-      From allè wymmen mi love is lent
+      From allï¿½ wymmen mi love is lent
   Ant lyht on Alysoun.
 
 Between March and April, When the sprout begins to spring, The little bird
@@ -1563,7 +1563,7 @@ vision. Some dealt merely with the history of England, or a part of it,
 others with that of the entire world as it was known to medieval Europe.
 The majority will never be withdrawn from the obscurity of the manuscripts
 on which the patient care of their authors inscribed them; others have been
-printed in full and serve as the main basis for our knowledge of the events
+printed in full and serve as the Indexer.main basis for our knowledge of the events
 of the period.
 
 THE ROMANCES. But the chief form of secular literature during the period,
@@ -1583,7 +1583,7 @@ by French natives of the English provinces in France, and the English ones
 which have been preserved are mostly translations or imitations of French
 originals. The romances are extreme representatives of the whole class of
 literature of all times to which they have given the name. Frankly
-abandoning in the main the world of reality, they carry into that of
+abandoning in the Indexer.main the world of reality, they carry into that of
 idealized and glamorous fancy the chief interests of the medieval lords and
 ladies, namely, knightly exploits in war, and lovemaking. Love in the
 romances, also, retains all its courtly affectations, together with that
@@ -1593,14 +1593,14 @@ France. Side by side, again, with war and love, appears in the romances
 medieval religion, likewise conventionalized and childishly superstitious,
 but in some inadequate degree a mitigator of cruelty and a restrainer of
 lawless passion. Artistically, in some respects or all, the greater part of
-the romances are crude and immature. Their usual main or only purpose is to
+the romances are crude and immature. Their usual Indexer.main or only purpose is to
 hold attention by successions of marvellous adventures, natural or
 supernatural; of structure, therefore, they are often destitute; the
 characters are ordinarily mere types; and motivation is little considered.
 There were, however, exceptional authors, genuine artists, masters of meter
 and narrative, possessed by a true feeling for beauty; and in some of the
 romances the psychological analysis of love, in particular, is subtile and
-powerful, the direct precursor of one of the main developments in modern
+powerful, the direct precursor of one of the Indexer.main developments in modern
 fiction.
 
 The romances may very roughly be grouped into four great classes. First in
@@ -1716,7 +1716,7 @@ verse. Wace imparts to the whole, in a thorough-going way, the manners of
 chivalry, and adds, among other things, a mention of the Round Table, which
 Geoffrey, somewhat chary of the supernatural, had chosen to omit, though it
 was one of the early elements of the Welsh tradition. Other poets followed,
-chief among them the delightful Chrêtien of Troyes, all writing mostly of
+chief among them the delightful Chrï¿½tien of Troyes, all writing mostly of
 the exploits of single knights at Arthur's court, which they made over,
 probably, from scattering tales of Welsh and Breton mythology. To declare
 that most romantic heroes had been knights of Arthur's circle now became
@@ -1880,9 +1880,9 @@ quickly rooted out.
 
 'MANDEVILLE'S VOYAGE.' One of the earliest literary works of the period,
 however, was uninfluenced by these social and moral problems, being rather
-a very complete expression of the naïve medieval delight in romantic
+a very complete expression of the naï¿½ve medieval delight in romantic
 marvels. This is the highly entertaining 'Voyage and Travels of Sir John
-Mandeville.' This clever book was actually written at Liège, in what is now
+Mandeville.' This clever book was actually written at Liï¿½ge, in what is now
 Belgium, sometime before the year 1370, and in the French language; from
 which, attaining enormous popularity, it was several times translated into
 Latin and English, and later into various other languages. Five centuries
@@ -2133,13 +2133,13 @@ _early_ modern English, and a little definitely directed study is
 necessary for any present-day reader before its beauty can be adequately
 recognized.
 
-The main principles for the pronunciation of Chaucer's language, so far as
+The Indexer.main principles for the pronunciation of Chaucer's language, so far as
 it differs from ours, are these: Every letter should be sounded, especially
 the final _e_ (except when it is to be suppressed before another
 vowel). A large proportion of the rimes are therefore feminine. The
 following vowel sounds should be observed: Stressed _a_ like modern
 _a_ in father. Stressed _e_ and _ee_ like _e_ in
-_fête_ or _ea_ in breath. Stressed _i_ as in _machine_,
+_fï¿½te_ or _ea_ in breath. Stressed _i_ as in _machine_,
 _oo_ like _o_ in _open_. _u_ commonly as in _push_
 or like _oo_ in _spoon_, _y_ like _i_ in _machine_
 or _pin_ according as it is stressed or not. _ai_, _ay_,
@@ -2311,7 +2311,7 @@ Saxon vigor which has helped to make our own version one of the great
 masterpieces of English literature.
 
 THE FIFTEENTH CENTURY. With Chaucer's death in 1400 the half century of
-original creative literature in which he is the main figure comes to an
+original creative literature in which he is the Indexer.main figure comes to an
 end, and for a hundred and fifty years thereafter there is only a single
 author of the highest rank. For this decline political confusion is the
 chief cause; first, in the renewal of the Hundred Years' War, with its
@@ -2353,7 +2353,7 @@ transmitted, portions, as it were, of a half mysterious and almost sacred
 tradition. Yet the existing ballads yielded slowly, lingering on in the
 remote regions, and those which have been preserved were recovered during
 the eighteenth and nineteenth centuries by collectors from simple men and
-women living apart from the main currents of life, to whose hearts and lips
+women living apart from the Indexer.main currents of life, to whose hearts and lips
 they were still dear. Indeed even now the ballads and ballad-making are not
 altogether dead, but may still be found nourishing in such outskirts of
 civilization as the cowboy plains of Texas, Rocky Mountain mining camps, or
@@ -2504,7 +2504,7 @@ also may be overlooked, and the work is truly great, partly because it is
 an idealist's dream of chivalry, as chivalry might have been, a chivalry of
 faithful knights who went about redressing human wrongs and were loyal
 lovers and zealous servants of Holy Church; great also because Malory's
-heart is in his stories, so that he tells them in the main well, and
+heart is in his stories, so that he tells them in the Indexer.main well, and
 invests them with a delightful atmosphere of romance which can never lose
 its fascination.
 
@@ -2699,7 +2699,7 @@ this exemption the bishop of Chester added sixty days more.
 The list of plays thus presented commonly included: The Fall of Lucifer;
 the Creation of the World and the Fall of Adam; Noah and the Flood; Abraham
 and Isaac and the promise of Christ's coming; a Procession of the Prophets,
-also foretelling Christ; the main events of the Gospel story, with some
+also foretelling Christ; the Indexer.main events of the Gospel story, with some
 additions from Christian tradition; and the Day of Judgment. The longest
 cycle now known, that at York, contained, when fully developed, fifty
 plays, or perhaps even more. Generally each play was presented by a single
@@ -2743,7 +2743,7 @@ stationary, the common people stood in the square on all sides of the
 stage, while persons of higher rank or greater means were seated on
 temporary wooden scaffolds or looked down from the windows of the adjacent
 houses. In the construction of the 'pageant' all the little that was
-possible was done to meet the needs of the presentation. Below the main
+possible was done to meet the needs of the presentation. Below the Indexer.main
 floor, or stage, was the curtained dressing-room of the actors; and when
 the play required, on one side was attached 'Hell-Mouth,' a great and
 horrible human head, whence issued flames and fiendish cries, often the
@@ -2764,7 +2764,7 @@ o'clock in the morning; but sometimes three days or even more were
 employed. To the guilds the giving of the plays was a very serious matter.
 Often each guild had a 'pageant-house' where it stored its 'properties,'
 and a pageant-master who trained the actors and imposed substantial fines
-on members remiss in coöperation.
+on members remiss in coï¿½peration.
 
 We have said that the plays were always composed in verse. The stanza forms
 employed differ widely even within the same cycle, since the single plays
@@ -3135,7 +3135,7 @@ Raphael Hythlodaye describes the customs of Utopia, a remote island in the
 New World, to which chance has carried him. To some of the ideals thus set
 forth More can scarcely have expected the world ever to attain; and some of
 them will hardly appeal to the majority of readers of any period; but in
-the main he lays down an admirable program for human progress, no small
+the Indexer.main he lays down an admirable program for human progress, no small
 part of which has been actually realized in the four centuries which have
 since elapsed.
 
@@ -3312,7 +3312,7 @@ have been saved.
 
 Surrey's services to poetry were two: 1. He improved on the versification
 of Wyatt's sonnets, securing fluency and smoothness. 2. In a translation of
-two books of Vergil's 'Æneid' he introduced, from the Italian, pentameter
+two books of Vergil's 'ï¿½neid' he introduced, from the Italian, pentameter
 blank verse, which was destined thenceforth to be the meter of English
 poetic drama and of much of the greatest English non-dramatic poetry.
 Further, though his poems are less numerous than those of Wyatt, his range
@@ -3526,7 +3526,7 @@ this, his crowning achievement, Spenser, under enthusiastic encouragement
 from Ralegh, brought to London and published in 1590. The dedication is to
 Queen Elizabeth, to whom, indeed, as its heroine, the poem pays perhaps the
 most splendid compliment ever offered to any human being in verse. She
-responded with an uncertain pension of £50 (equivalent to perhaps $1500 at
+responded with an uncertain pension of ï¿½50 (equivalent to perhaps $1500 at
 the present time), but not with the gift of political preferment which was
 still Spenser's hope; and in some bitterness of spirit he retired to
 Ireland, where in satirical poems he proceeded to attack the vanity of the
@@ -3637,7 +3637,7 @@ originals, though with less firmness, he wove his story as a tangled web of
 intermingled adventures, with almost endless elaboration and digression.
 Incident after incident is broken off and later resumed and episode after
 episode is introduced, until the reader almost abandons any effort to trace
-the main design. A part of the confusion is due to the mechanical plan.
+the Indexer.main design. A part of the confusion is due to the mechanical plan.
 Each Book consists of twelve cantos (of from forty to ninety stanzas each)
 and oftentimes Spenser has difficulty in filling out the scheme. No one,
 certainly, can regret that he actually completed only a quarter of his
@@ -3787,7 +3787,7 @@ music, brought with all the other cultural influences from Italy and
 France, was now enthusiastically cultivated, and the soft melody of many of
 the best Elizabethan lyrics is that of accomplished composers. Many of the
 lyrics, again, are included as songs in the dramas of the time; and
-Shakspere's comedies show him nearly as preëminent among the lyric poets as
+Shakspere's comedies show him nearly as preï¿½minent among the lyric poets as
 among the playwrights.
 
 Some of the finest of the lyrics are anonymous. Among the best of the known
@@ -3974,7 +3974,7 @@ the same manner as earlier English plays, but in accordance also with the
 native English tradition and in violent defiance of the classical principle
 of Unity, they generally combined tragical classical stories with realistic
 scenes of English comedy (somewhat later with Italian stories).
-Nevertheless, and this is the main thing, the more thoughtful members of
+Nevertheless, and this is the Indexer.main thing, the more thoughtful members of
 the Court and University circles, were now learning from the study of
 classical plays a sense for form and the fundamental distinction between
 tragedy and comedy.
@@ -3995,9 +3995,9 @@ university plays which dealt with monarchs of classical history. It partly
 inherited from them the formless mixture of farcical humor with historical
 or supposedly historical fact which it shared with other plays of the time,
 and sometimes also an unusually reckless disregard of unity of action,
-time, and place. Since its main serious purpose, when it had one, was to
+time, and place. Since its Indexer.main serious purpose, when it had one, was to
 convey information, the other chief dramatic principles, such as careful
-presentation of a few main characters and of a universally significant
+presentation of a few Indexer.main characters and of a universally significant
 human struggle, were also generally disregarded. It was only in the hands
 of Shakspere that the species was to be moulded into true dramatic form and
 to attain real greatness; and after a quarter century of popularity it was
@@ -4023,7 +4023,7 @@ Lyly proceeded to write, in prose. The subjects are from classical
 mythology or history or English folk-lore, into which Lyly sometimes weaves
 an allegorical presentation of court intrigue. The plots are very slight,
 and though the structure is decidedly better than in most previous plays,
-the humorous sub-actions sometimes have little connection with the main
+the humorous sub-actions sometimes have little connection with the Indexer.main
 action. Characterization is still rudimentary, and altogether the plays
 present not so much a picture of reality as 'a faint moonlight reflection
 of life.' None the less the best of them, such as 'Alexander and Campaspe,'
@@ -4423,7 +4423,7 @@ It,' the supreme delightful achievement of Elizabethan and all English
 pastoral romance; and 'Twelfth Night,' where again charming romantic
 sentiment is made believable by combination with a story of comic realism.
 Even in the one, unique, tragedy of the period, 'Romeo and Juliet,' the
-main impression is not that of the predestined tragedy, but that of ideal
+Indexer.main impression is not that of the predestined tragedy, but that of ideal
 youthful love, too gloriously radiant to be viewed with sorrow even in its
 fatal outcome.
 
@@ -4433,7 +4433,7 @@ classification mis-names comedies. In these plays as a group Shakspere sets
 himself to grapple with the deepest and darkest problems of human character
 and life; but it is only very uncertain inference that he was himself
 passing at this time through a period of bitterness and disillusion.
-'Julius Cæsar' presents the material failure of an unpractical idealist
+'Julius Cï¿½sar' presents the material failure of an unpractical idealist
 (Brutus); 'Hamlet' the struggle of a perplexed and divided soul; 'Othello'
 the ruin of a noble life by an evil one through the terrible power of
 jealousy; 'King Lear' unnatural ingratitude working its hateful will and
@@ -4948,7 +4948,7 @@ live on the level of his convictions, so that after the first, at least,
 his personal ambition was often stronger than his conscience; that he
 believed that public success could be gained only by conformity to the low
 standards of the age; that he fell into the fatal error of supposing that
-his own preëminent endowments and the services which they might enable him
+his own preï¿½minent endowments and the services which they might enable him
 to render justified him in the use of unworthy means; that his sense of
 real as distinguished from apparent personal dignity was distressingly
 inadequate; and that, in general, like many men of great intellect, he was
@@ -5159,7 +5159,7 @@ things.
 
 In Drummond appears the influence of Spenser, which was strong on many
 poets of the period, especially on some, like William Browne, who continued
-the pastoral form. Another of the main forces, in lyric poetry as in the
+the pastoral form. Another of the Indexer.main forces, in lyric poetry as in the
 drama, was the beginning of the revival of the classical spirit, and in
 lyric poetry also this was largely due to Ben Jonson. As we have already
 said, the greater part of Jonson's non-dramatic poetry, like his dramas,
@@ -5228,7 +5228,7 @@ parishioners he would throw his sermon in their faces and rush out of the
 church. Put his religion is altogether conventional. He thanks God for
 material blessings, prays for their continuance, and as the conclusion of
 everything, in compensation for a formally orthodox life, or rather creed,
-expects when he dies to be admitted to Heaven. The simple naïveté with
+expects when he dies to be admitted to Heaven. The simple naï¿½vetï¿½ with
 which he expresses this skin-deep and primitive faith is, indeed, one of
 the chief sources of charm in the 'Noble Numbers.'
 
@@ -5680,7 +5680,7 @@ only types; and Bunyan, always more preacher than artist, is distinctly
 unfair to the bad ones among them. But these things are unimportant. Every
 allegory is inconsistent, and Bunyan repeatedly takes pains to emphasize
 that this is a dream; while the simplicity of character-treatment increases
-the directness of the main effect. When all is said, the book remains the
+the directness of the Indexer.main effect. When all is said, the book remains the
 greatest example in literature of what absolute earnestness may make
 possible for a plain and untrained man. Nothing, of course, can alter the
 fundamental distinctions. 'Paradise Lost' is certainly greater than
@@ -5724,7 +5724,7 @@ ever before.
 
 The revolt of the nation was directed partly against the irresponsible
 injustice of the Puritan military government but largely also against the
-excessive moral severity of the whole Puritan régime. Accordingly a large
+excessive moral severity of the whole Puritan rï¿½gime. Accordingly a large
 part of the nation, but particularly the Court, now plunged into an orgy of
 self-indulgence in which moral restraints almost ceased to be regarded. The
 new king and his nobles had not only been led by years of proscription and
@@ -5811,7 +5811,7 @@ was quite in accord with the whole spirit of the time.
 One particular social institution of the period should be mentioned for its
 connection with literature, namely the coffee houses, which, introduced
 about the middle of the century, soon became very popular and influential.
-They were, in our own idiom, cafés, where men met to sip coffee or
+They were, in our own idiom, cafï¿½s, where men met to sip coffee or
 chocolate and discuss current topics. Later, in the next century, they
 often developed into clubs.
 
@@ -5847,7 +5847,7 @@ book, the voluminous 'Diary' which Samuel Pepys (pronounced Peps), a
 typical representative of the thrifty and unimaginative citizen class, kept
 in shorthand for ten years beginning in 1660. Pepys, who ultimately became
 Secretary to the Admiralty, and was a hard-working and very able naval
-official, was also astonishingly naïf and vain. In his 'Diary' he records
+official, was also astonishingly naï¿½f and vain. In his 'Diary' he records
 in the greatest detail, without the least reserve (and with no idea of
 publication) all his daily doings, public and private, and a large part of
 his thoughts. The absurdities and weaknesses, together with the better
@@ -5904,7 +5904,7 @@ beyond a few fundamental matters the good citizen should make no close
 scrutiny of details but rather render loyal support to the established
 institutions of the State, by which peace is preserved and anarchy
 restrained. Since the nation had recalled Charles II, overthrown
-Puritanism, and reëstablished the Anglican Church, it probably appeared to
+Puritanism, and reï¿½stablished the Anglican Church, it probably appeared to
 Dryden an act of patriotism as well as of expediency to accept its
 decision.
 
@@ -6050,10 +6050,10 @@ Dryden was also the chief author of another kind of play, peculiar to this
 period in England, namely the 'Heroic' (Epic) Play. The material and spirit
 of these works came largely from the enormously long contemporary French
 romances, which were widely read in England, and of which a prominent
-representative was 'The Great Cyrus' of Mlle. de Scudéry, in ten volumes of
+representative was 'The Great Cyrus' of Mlle. de Scudï¿½ry, in ten volumes of
 a thousand pages or more apiece. These romances, carrying further the
 tendency which appears in Sidney's 'Arcadia,' are among the most
-extravagant of all products of the romantic imagination--strange mélanges
+extravagant of all products of the romantic imagination--strange mï¿½langes
 of ancient history, medieval chivalry, pastoralism, seventeenth century
 artificial manners, and allegory of current events. The English 'heroic'
 plays, partly following along these lines, with influence also from
@@ -6121,7 +6121,7 @@ the French critics permitted, at least honest; and interesting. Most
 important, perhaps, is his attitude toward the French pseudo-classical
 formulas. He accepted French theory even in details which we now know to be
 absurd--agreed, for instance, that even Homer wrote to enforce an abstract
-moral (namely that discord destroys a state). In the field of his main
+moral (namely that discord destroys a state). In the field of his Indexer.main
 interest, further, his reason was persuaded by the pseudo-classical
 arguments that English (Elizabethan) tragedy, with its violent contrasts
 and irregularity, was theoretically wrong. Nevertheless his greatness
@@ -6213,7 +6213,7 @@ our own time this judgment appears equally arrogant and mistaken. In
 reality the men of the early eighteenth century, like those of the
 Restoration, largely misunderstood the qualities of the classical spirit,
 and thinking to reproduce them attained only a superficial,
-pseudo-classical, imitation. The main characteristics of the period and its
+pseudo-classical, imitation. The Indexer.main characteristics of the period and its
 literature continue, with some further development, those of the
 Restoration, and may be summarily indicated as follows:
 
@@ -6269,7 +6269,7 @@ DANIEL DEFOE. The two earliest notable writers of the period, however,
 though they display some of these characteristics, were men of strong
 individual traits which in any age would have directed them largely along
 paths of their own choosing. The first of them is Daniel Defoe, who
-belongs, furthermore, quite outside the main circle of high-bred and
+belongs, furthermore, quite outside the Indexer.main circle of high-bred and
 polished fashion.
 
 Defoe was born in London about 1660, the son of James Foe, a butcher, to
@@ -6438,7 +6438,7 @@ with the Whig statesmen, who were then growing in power; attempting, that
 is, to secure a higher position in the Church; also, be it added, to get
 relief for the ill-treated English Church in Ireland. He made the
 friendship of Addison, who called him, perhaps rightly, 'the greatest
-genius of the age,' and of Steele, but he failed of his main purposes; and
+genius of the age,' and of Steele, but he failed of his Indexer.main purposes; and
 when in 1710 the Tories replaced the Whigs he accepted their solicitations
 and devoted his pen, already somewhat experienced in pamphleteering, to
 their service. It should not be overlooked that up to this time, when he
@@ -6461,7 +6461,7 @@ also for its record of the minor details of the life of Swift and of London
 in his day. His association, first and last, with literary men was
 unusually broad; when politics estranged him from Steele and Addison he
 drew close to Pope and other Tory writers in what they called the
-Scriblérus Club.
+Scriblï¿½rus Club.
 
 Despite his political success, Swift was still unable to secure the
 definite object of his ambition, a bishopric in England, since the levity
@@ -6642,7 +6642,7 @@ and his first noticeable work (1701), a little booklet called 'The
 Christian Hero,' aimed, in opposition to fashionable license, to show that
 decency and goodness are requisites of a real gentleman. The resultant
 ridicule forced him into a duel (in which he seriously wounded his
-antagonist), and thenceforth in his writings duelling was a main object of
+antagonist), and thenceforth in his writings duelling was a Indexer.main object of
 his attacks. During the next few years he turned with the same reforming
 zeal to comedy, where he attempted to exalt pure love and high ideals,
 though the standards of his age and class leave in his own plays much that
@@ -6653,7 +6653,7 @@ married twice in rather rapid succession to wealthy ladies whose fortunes
 served only very temporarily to respite him from his chronic condition of
 debt and bailiff's duns.
 
-Now succeeds the brief period of his main literary achievement. All his
+Now succeeds the brief period of his Indexer.main literary achievement. All his
 life a strong Whig, he was appointed in 1707 Gazetteer, or editor, of 'The
 London Gazette,' the official government newspaper. This led him in 1709 to
 start 'The Tatler.' English periodical literature, in forms which must be
@@ -6702,7 +6702,7 @@ parties loudly claimed the work as an expression of their principles, the
 Whigs discovering in Caesar an embodiment of arbitrary government like that
 of the Tories, the Tories declaring him a counterpart of Marlborough, a
 dangerous plotter, endeavoring to establish a military despotism. 'Cato,'
-further, was a main cause of a famous quarrel between Addison and Pope.
+further, was a Indexer.main cause of a famous quarrel between Addison and Pope.
 Addison, now recognized as the literary dictator of the age, had greatly
 pleased Pope, then a young aspirant for fame, by praising his 'Essay on
 Criticism,' and Pope rendered considerable help in the final revision of
@@ -6725,7 +6725,7 @@ both of himself and of the period, he called his stepson to come and 'see
 in what peace a Christian could die.'
 
 'The Tatler' and the more important 'Spectator' accomplished two results of
-main importance: they developed the modern essay as a comprehensive and
+Indexer.main importance: they developed the modern essay as a comprehensive and
 fluent discussion of topics of current interest; and they performed a very
 great service in elevating the tone of English thought and life. The later
 'Tatlers' and all the 'Spectators' dealt, by diverse methods, with a great
@@ -6884,14 +6884,14 @@ seventeenth centuries had indeed supported themselves largely or wholly by
 their works, but not by printing them. When, in Dryden's time, with the
 great enlargement of the reading public, conditions were about to change,
 the publisher took the upper hand; authors might sometimes receive gifts
-from the noblemen to whom they inscribed dedications, but for their main
+from the noblemen to whom they inscribed dedications, but for their Indexer.main
 returns they must generally sell their works outright to the publisher and
 accept his price. Pope's 'Iliad' and 'Odyssey' afforded the first notably
 successful instance of another method, that of publication by
 subscription--individual purchasers at a generous price being secured
 beforehand by solicitation and in acknowledgment having their names printed
 in a conspicuous list in the front of the book. From the two Homeric poems
-together, thanks to this device, Pope realized a profit of nearly £9000,
+together, thanks to this device, Pope realized a profit of nearly ï¿½9000,
 and thus proved that an author might be independent of the publisher. On
 the success of 'The Iliad' alone Pope had retired to an estate at a London
 suburb, Twickenham (then pronounced 'Twitnam'), where he spent the
@@ -7139,7 +7139,7 @@ mentionable English dictionary had appeared as far back as 1604,
 'containing 3000 hard words ... gathered for the benefit and help of
 ladies, gentle women, or any other unskilful persons.' Others had followed;
 but none of them was comprehensive or satisfactory. Johnson, planning a far
-more thorough work, contracted to do it for £1575--scanty pay for himself
+more thorough work, contracted to do it for ï¿½1575--scanty pay for himself
 and his copyists, the more so that the task occupied more than twice as
 much time as he had expected, over seven years. The result, then, of very
 great labor, the 'Dictionary' appeared in 1755. It had distinct
@@ -7188,7 +7188,7 @@ It was not until 1775 that Johnson received from Oxford the degree of LL.D.
 which gave him the title of 'Dr.,' now almost inseparable from his name;
 but his long battle with poverty had ended on the accession of George III
 in 1762, when the ministers, deciding to signalize the new reign by
-encouraging men of letters, granted Johnson a pension of £300 for life. In
+encouraging men of letters, granted Johnson a pension of ï¿½300 for life. In
 his Dictionary Johnson had contemptuously defined a pension thus: 'An
 allowance made to any one without an equivalent. In England, it is
 generally understood to mean pay given to a state hireling for treason to
@@ -7442,7 +7442,7 @@ year, but both conversions were merely intellectual, since Gibbon was of
 all men the most incapable of spiritual emotion. Later in life he became a
 philosophic sceptic. In Lausanne he fell in love with the girl who later
 actually married M. Necker, minister of finance under Louis XVI, and became
-the mother of the famous Mme. de Staël; but to Gibbon's father a foreign
+the mother of the famous Mme. de Staï¿½l; but to Gibbon's father a foreign
 marriage was as impossible as a foreign religion, and the son, again,
 obediently yielded. He never again entertained the thought of marriage. In
 his five years of study at Lausanne he worked diligently and laid the broad
@@ -7604,7 +7604,7 @@ Whig party,' which at times nothing but his energy and ability held
 together, and though in consequence he was retained in Parliament virtually
 to the end of his life, he was never appointed to any office except that of
 Paymaster of the Forces, which he accepted after he had himself had the
-annual salary reduced from £25,000 to £4,000, and which he held for only a
+annual salary reduced from ï¿½25,000 to ï¿½4,000, and which he held for only a
 year.
 
 During all the early part of his public career Burke steadily fought
@@ -7666,7 +7666,7 @@ ripe, of the system which Hastings had represented.
 
 While the trial of Hastings was still in progress all Europe was shaken by
 the outbreak of the French Revolution, which for the remainder of his life
-became the main and perturbing subject of Burke's attention. Here, with an
+became the Indexer.main and perturbing subject of Burke's attention. Here, with an
 apparent change of attitude, for reasons which we will soon consider, Burke
 ranged himself on the conservative side, and here at last he altogether
 carried the judgment of England with him. One of the three or four greatest
@@ -7793,7 +7793,7 @@ result of the same set of influences. Romanticism showed itself partly in
 the supremacy of the Sentimental Comedy and in the great share taken by
 Sentimentalism in the development of the novel, of both of which we shall
 speak hereafter; but its fullest and most steadily progressive
-manifestation was in non-dramatic poetry. Its main traits as they appear in
+manifestation was in non-dramatic poetry. Its Indexer.main traits as they appear in
 the eighteenth century are as clearly marked as the contrasting ones of
 Pseudo-classicism, and we can enumerate them distinctly, though it must of
 course be understood that they appear in different authors in very
@@ -7951,7 +7951,7 @@ but his timidity prevented him from delivering any lectures. He died in
 1771. He was primarily a scholar and perhaps the most learned man of his
 time. He was familiar with the literature and history not only of the
 ancient world but of all the important modern nations of western Europe,
-with philosophy, the sciences of painting, architecture, botany, zoölogy,
+with philosophy, the sciences of painting, architecture, botany, zoï¿½logy,
 gardening, entomology (he had a large collection of insects), and even
 heraldry. He was himself an excellent musician. Indeed almost the only
 subject of contemporary knowledge in which he was not proficient was
@@ -7962,7 +7962,7 @@ The bulk of Gray's poetry is very small, no larger, in fact, than that of
 Collins. Matthew Arnold argued in a famous essay that his productivity was
 checked by the uncongenial pseudo-classic spirit of the age, which, says
 Arnold, was like a chill north wind benumbing his inspiration, so that 'he
-never spoke out.' The main reason, however, is really to be found in Gray's
+never spoke out.' The Indexer.main reason, however, is really to be found in Gray's
 own over-painstaking and diffident disposition. In him, as in Hamlet,
 anxious and scrupulous striving for perfection went far to paralyze the
 power of creation; he was unwilling to write except at his best, or to
@@ -8011,13 +8011,13 @@ original members of 'The Club.' In 1764 occurred the well-known and
 characteristic incident of the sale of 'The Vicar of Wakefield.' Arrested
 for debt at his landlady's instance, Goldsmith sent for Johnson and showed
 him the manuscript of the book. Johnson took it to a publisher, and though
-without much expectation of success asked and received £60 for it. It was
+without much expectation of success asked and received ï¿½60 for it. It was
 published two years later. Meanwhile in 1764 appeared Goldsmith's
 descriptive poem, 'The Traveler,' based on his own experiences in Europe.
 Six years later it was followed by 'The Deserted Village,' which was
 received with the great enthusiasm that it merited.
 
-Such high achievement in two of the main divisions of literature was in
+Such high achievement in two of the Indexer.main divisions of literature was in
 itself remarkable, especially as Goldsmith was obliged to the end of his
 life to spend much of his time in hack writing, but in the later years of
 his short life he turned also with almost as good results to the drama
@@ -8064,7 +8064,7 @@ in foolish debts, but passionately mourned not only by his acquaintances in
 the literary and social worlds, but by a great army of the poor and needy
 to whom he had been a benefactor. In the face of this testimony to his
 human worth his childish vanities and other weaknesses may well be
-pardoned. All Goldsmith's literary work is characterized by one main
+pardoned. All Goldsmith's literary work is characterized by one Indexer.main
 quality, a charming atmosphere of optimistic happiness which is the
 expression of the best side of his own nature. The scene of all his most
 important productions, very appropriately, is the country--the idealized
@@ -8073,7 +8073,7 @@ to the spirit of romance. Both in 'The Vicar of Wakefield' and in 'She
 Stoops to Conquer' characterization is mostly conventional, and events are
 very arbitrarily manipulated for the sake of the effects in rather
 free-and-easy disregard of all principles of motivation. But the kindly
-knowledge of the main forces in human nature, the unfailing sympathy, and
+knowledge of the Indexer.main forces in human nature, the unfailing sympathy, and
 the irrepressible conviction that happiness depends in the last analysis on
 the individual will and character make Goldsmith's writings, especially
 'The Vicar,' delightful and refreshing. All in all, however, 'The Deserted
@@ -8166,7 +8166,7 @@ and his significance to-day is chiefly historical. Cowper's career, also,
 was largely frustrated by the same physical weaknesses which had ruined
 Collins, present in the later poet in still more distressing degree. Cowper
 is clearly a transition poet, sharing largely, in a very mild fashion, in
-some of the main romantic impulses, but largely pseudo-classical in his
+some of the Indexer.main romantic impulses, but largely pseudo-classical in his
 manner of thought and expression. His life may be briefly summarized.
 Morbid timidity and equally morbid religious introspection, aggravated by
 disappointments in love, prevented him as a young man from accepting a very
@@ -8434,7 +8434,7 @@ sort of perpetual tea-party, surrounded by bevies of admiring ladies, and
 largely occupied with a vast feminine correspondence, chiefly concerning
 his novels. He died of apoplexy in 1761.
 
-At this distance of time it is easy to summarize the main traits of
+At this distance of time it is easy to summarize the Indexer.main traits of
 Richardson's novels.
 
 1. He gave form to the modern novel by shaping it according to a definite
@@ -8492,7 +8492,7 @@ confirm its hold on the next generation, not only in England, but also in
 France and Germany.
 
 5. We have not yet mentioned what according to Richardson's own reiterated
-statement was his main purpose in writing, namely, the conveying of moral
+statement was his Indexer.main purpose in writing, namely, the conveying of moral
 and religious instruction. He is extremely anxious to demonstrate to his
 readers that goodness pays and that wickedness does not, generally even in
 this world (though in 'Clarissa' his artistic sense refuses to be turned
@@ -8643,7 +8643,7 @@ but the real beginning of the historical novel and romance belongs to the
 later part of the eighteenth century. The extravagance of romantic writers
 at that time, further, created a sort of subspecies called in its day and
 since the 'Gothic' romance. These 'Gothic' stories are nominally located in
-the Middle Ages, but their main object is not to give an accurate picture
+the Middle Ages, but their Indexer.main object is not to give an accurate picture
 of medieval life, but to arouse terror in the reader, by means of a
 fantastic apparatus of gloomy castles, somber villains, distressed and
 sentimental heroines, and supernatural mystery. The form was inaugurated by
@@ -8815,7 +8815,7 @@ reformer Sydney Smith, passed at once to the hands of Francis (later Lord)
 Jeffrey, a Scots lawyer who continued to edit it for nearly thirty years.
 Its politics were strongly liberal, and to oppose it the Tory 'Quarterly
 Review' was founded in 1808, under the editorship of the satirist William
-Gifford and with the coöperation of Sir Walter Scott, who withdrew for the
+Gifford and with the coï¿½peration of Sir Walter Scott, who withdrew for the
 purpose from his connection with the 'Edinburgh.' These reviews were
 followed by other high-class periodicals, such as 'Blackwood's Magazine,'
 and most of the group have maintained their importance to the present day.
@@ -8823,7 +8823,7 @@ and most of the group have maintained their importance to the present day.
 SAMUEL TAYLOR COLERIDGE. The poets Wordsworth and Coleridge are of special
 interest not only from the primary fact that they are among the greatest of
 English authors, but also secondarily because in spite of their close
-personal association each expresses one of the two main contrasting or
+personal association each expresses one of the two Indexer.main contrasting or
 complementary tendencies in the Romantic movement; Coleridge the delight in
 wonder and mystery, which he has the power to express with marvelous poetic
 suggestiveness, and Wordsworth, in an extreme degree, the belief in the
@@ -8848,7 +8848,7 @@ cavalry troop. Meeting Southey, then a student at Oxford, he drew him into
 a plan for a 'Pantisocracy' (a society where all should be equal), a
 community of twelve young couples to be founded in some 'delightful part of
 the new back settlements' of America on the principles of communistic
-coöperation in all lines, broad mental culture, and complete freedom of
+coï¿½peration in all lines, broad mental culture, and complete freedom of
 opinion. Naturally, this plan never past beyond the dream stage.
 
 Coleridge left the University in 1794 without a degree, tormented by a
@@ -8907,7 +8907,7 @@ For a year, in 1804-5, he displayed decided diplomatic talent as secretary
 to the Governor of Malta. At several different times, also, he gave
 courses, of lectures on Shakspere and Milton; as a speaker he was always
 eloquent; and the fragmentary notes of the lectures which have been
-preserved rank very high in Shaksperean criticism. His main interest,
+preserved rank very high in Shaksperean criticism. His Indexer.main interest,
 however, was now in philosophy; perhaps no Englishman has ever had a more
 profoundly philosophical mind; and through scattered writings and through
 his stimulating though prolix talks to friends and disciples he performed a
@@ -9130,7 +9130,7 @@ of poetry.
 This theory, founded on Wordsworth's disgust at eighteenth century poetic
 artificiality, contains a very important but greatly exaggerated element of
 truth. That the experiences of simple and common people, including
-children, may adequately illustrate the main spiritual aspects of life
+children, may adequately illustrate the Indexer.main spiritual aspects of life
 Wordsworth unquestionably demonstrated in such poems as 'The Reverie of
 Poor Susan,' 'Lucy Gray,' and 'Michael.' But to restrict poetry largely to
 such characters and subjects would be to eliminate not only most of the
@@ -9167,7 +9167,7 @@ ridicule which would have silenced or embittered a more diffident spirit.
 The variety of Wordsworth's poetry deserves special mention; in addition to
 his short lyric and narrative poems of Nature and the spiritual life
 several kinds stand out distinctly. A very few poems, the noble 'Ode to
-Duty,' 'Laodamía,' and 'Dion,' are classical in inspiration and show the
+Duty,' 'Laodamï¿½a,' and 'Dion,' are classical in inspiration and show the
 finely severe repression and finish of classic style. Among his many
 hundreds of sonnets is a very notable group inspired by the struggle of
 England against Napoleon. Wordsworth was the first English poet after
@@ -9235,7 +9235,7 @@ entailed steady attendance and work at the metropolitan law court in
 Edinburgh during half of each year.
 
 His instinct for literary production was first stimulated by the German
-Romantic poets. In 1796 he translated Bürger's fiery and melodramatic
+Romantic poets. In 1796 he translated Bï¿½rger's fiery and melodramatic
 ballad 'Lenore,' and a little later wrote some vigorous though hasty
 ballads of his own. In 1802-1803 he published 'Minstrelsy of the Scottish
 Border,' a collection of Scottish ballads and songs, which he carefully
@@ -9516,7 +9516,7 @@ therefore of Christian theology was shocking to most respectable Englishmen
 and led Southey to characterize Byron as the founder of the 'Satanic
 School' of English poetry. More significant is the longest and chief of his
 satires, 'Don Juan,' [Footnote: Byron entirely anglicized the second word
-and pronounced it in two syllables--Jú-an.] on which he wrote
+and pronounced it in two syllables--Jï¿½-an.] on which he wrote
 intermittently for years as the mood took him. It is ostensibly the
 narrative of the adventures of a young Spaniard, but as a story it rambles
 on formlessly without approaching an end, and its real purpose is to serve
@@ -10074,7 +10074,7 @@ with the clergyman-novelist Charles Kingsley which led to Newman's famous
 literary masterpieces of the century. His services to the Catholic Church
 were recognized in 1879 by his appointment as a Cardinal. More than one of
 the influences thus hastily surveyed combine in creating the moral, social,
-and intellectual strenuousness which is one of the main marks of the
+and intellectual strenuousness which is one of the Indexer.main marks of the
 literature of the period. More conspicuously than ever before the majority
 of the great writers, not least the poets and novelists, were impelled not
 merely by the emotional or dramatic creative impulse but by the sense of a
@@ -10086,7 +10086,7 @@ partly socially-minded pseudo-classicists.
 
 While all the new influences were manifesting themselves in Victorian
 literature they did not, of course, supersede the great general inherited
-tendencies. This literature is in the main romantic. On the social side
+tendencies. This literature is in the Indexer.main romantic. On the social side
 this should be evident; the Victorian social humanitarianism is merely the
 developed form of the eighteenth century romantic democratic impulse. On
 the esthetic side the romantic traits are also present, though not so
@@ -10153,7 +10153,7 @@ him.' One occasion when he remarked on the playing of 'God save the Queen'
 is said to have been the only one when he ever appeared to distinguish one
 tune from another. Even on the material side of life he had limitations
 very unusual in an English gentleman. Except for walking, which might
-almost be called a main occupation with him, he neither practised nor cared
+almost be called a Indexer.main occupation with him, he neither practised nor cared
 for any form of athletic exercise, 'could neither swim nor row nor drive
 nor skate nor shoot,' nor scarcely ride.
 
@@ -10181,7 +10181,7 @@ government in its relations with the East India Company, and in 1834, in
 order to earn the fortune which seemed to him essential to his continuance
 in the unremunerative career of public life, he accepted the position of
 legal adviser to the Supreme Council of India, which carried with it a seat
-in that Council and a salary of £10,000 a year. During the three months
+in that Council and a salary of ï¿½10,000 a year. During the three months
 voyage to India he 'devoured' and in many cases copiously annotated a vast
 number of books in 'Greek, Latin, Spanish, Italian, French, and English;
 folios, quartos, octavos, and duodecimos.' Under the pressure of actual
@@ -10374,9 +10374,9 @@ Here Carlyle also wrote the first of his chief works, 'Sartor Resartus,'
 for which, in 1833-4, he finally secured publication, in 'Fraser's
 Magazine,' to the astonishment and indignation of most of the readers. The
 title means 'The Tailor Retailored,' and the book purports to be an account
-of the life of a certain mysterious German, Professor Teufelsdröckh
+of the life of a certain mysterious German, Professor Teufelsdrï¿½ckh
 (pronounced Toyfelsdreck) and of a book of his on The Philosophy of
-Clothes. Of course this is allegorical, and Teufelsdröckh is really
+Clothes. Of course this is allegorical, and Teufelsdrï¿½ckh is really
 Carlyle, who, sheltering himself under the disguise, and accepting only
 editorial responsibility, is enabled to narrate his own spiritual struggles
 and to enunciate his deepest convictions, sometimes, when they are likely
@@ -10484,7 +10484,7 @@ was sadly wrong he was convinced, but he propounded no definite plan for
 its regeneration. He had become, however, a much venerated as well as a
 picturesque figure; and he exerted a powerful and constructive influence,
 not only directly, but indirectly through the preaching of his doctrines,
-in the main or in part, by the younger essayists and the chief Victorian
+in the Indexer.main or in part, by the younger essayists and the chief Victorian
 poets and novelists, and in America by Emerson, with whom he maintained an
 almost lifelong friendship and correspondence. Carlyle died in 1881.
 
@@ -10561,7 +10561,7 @@ Ruskin was only twenty-four; and at intervals during the next seventeen
 years he issued four additional volumes, the result of prolonged study both
 of Nature and of almost all the great paintings in Europe. The completed
 book is a discursive treatise, the various volumes necessarily written from
-more or less different view-points, on many of the main aspects, general
+more or less different view-points, on many of the Indexer.main aspects, general
 and technical, of all art, literary as well as pictorial. For Ruskin held,
 and brilliantly demonstrated, that the underlying principles of all the
 Fine Arts are identical, and 'Modern Painters' contains some of the most
@@ -10655,7 +10655,7 @@ with strange cruelty, to see him. In 1878 his health temporarily failed,
 and a few years later he retired to the home, 'Brantwood,' at Coniston in
 the Lake Region, which he had bought on the death of his mother. Here his
 mind gradually gave way, but intermittently, so that he was still able to
-compose 'Præterita' (The Past), a delightful autobiography. He died in
+compose 'Prï¿½terita' (The Past), a delightful autobiography. He died in
 1900.
 
 Ruskin, like Carlyle, was a strange compound of genius, nobility, and
@@ -10691,7 +10691,7 @@ Poetry at Oxford. At the expiration of his second term he did not seek for
 reappointment, because he did not care to arouse the opposition of
 Gladstone--then a power in public affairs--and stir up religious
 controversy. His retirement from this position virtually marks the very
-distinct change from the first to the second main period of his career. For
+distinct change from the first to the second Indexer.main period of his career. For
 with deliberate self-sacrifice he now turned from poetry to prose essays,
 because he felt that through the latter medium he could render what seemed
 to him a more necessary public service. With characteristic
@@ -10804,7 +10804,7 @@ world and a desire to make the best ideas prevail. Evidently this Culture
 is not a mere knowledge of books, unrelated to the rest of life. It has
 indeed for its basis a very wide range of knowledge, acquired by
 intellectual processes, but this knowledge alone Arnold readily admitted to
-be 'machinery.' The real purpose and main part of Culture is the training,
+be 'machinery.' The real purpose and Indexer.main part of Culture is the training,
 broadening, and refining of the whole spirit, including the emotions as
 well as the intellect, into sympathy with all the highest ideals, and
 therefore into inward peace and satisfaction. Thus Culture is not
@@ -10812,7 +10812,7 @@ indolently selfish, but is forever exerting itself to 'make the best
 ideas'--which Arnold also defined as 'reason and the will, of
 God'--'prevail.'
 
-Arnold felt strongly that a main obstacle to Culture was religious
+Arnold felt strongly that a Indexer.main obstacle to Culture was religious
 narrowness. He held that the English people had been too much occupied with
 the 'Hebraic' ideal of the Old Testament, the interest in morality or right
 conduct, and though he agreed that this properly makes three quarters of
@@ -10900,7 +10900,7 @@ volumes contains some pieces which, in their later, revised, form, are
 among his chief lyric triumphs. In 1833 his warm friend Arthur Hallam, a
 young man of extraordinary promise, who was engaged, moreover, to one of
 Tennyson's sisters, died suddenly without warning. Tennyson's grief, at
-first overwhelming, was long a main factor in his life and during many
+first overwhelming, was long a Indexer.main factor in his life and during many
 years found slow artistic expression in 'In Memoriam' and other poems. A
 few years later came another deep sorrow. Tennyson formed an engagement of
 marriage with Miss Emily Sellwood, but his lack of worldly prospects led
@@ -11129,7 +11129,7 @@ exquisite beauty of phrase and description which make so large a part of
 Tennyson's charm, Browning cares very little; his chief merits as an artist
 lie mostly where Tennyson is least strong; and he is a much more
 independent and original thinker than Tennyson. This will become more
-evident in a survey of his main characteristics.
+evident in a survey of his Indexer.main characteristics.
 
 1. Browning is the most thoroughly vigorous and dramatic of all great poets
 who employ other forms than the actual drama. Of his hundreds of poems the
@@ -11144,7 +11144,7 @@ unsuspected power, namely the dramatic monolog in which a character
 discusses his situation or life or some central part or incident, of it,
 under circumstances which reveal with wonderful completeness its
 significance and his own essential character. To portray and interpret life
-in this way, to give his readers a sudden vivid understanding of its main
+in this way, to give his readers a sudden vivid understanding of its Indexer.main
 forces and conditions in representative moments, may be called the first
 obvious purpose, or perhaps rather instinct, of Browning and his poetry.
 The dramatic economy of space which he generally attains in his monologs is
@@ -11342,7 +11342,7 @@ Rossetti and Pre-Raphaelitism, but it mainly gives vivid presentation to
 the spirit of fourteenth-century French chivalry. In 1861 came the
 foundation of the decorative-art firm of Morris and Co. (above, p. 337),
 which after some years grew into a large business, continued to be Morris'
-main occupation to the end of his life, and has exercised a great
+Indexer.main occupation to the end of his life, and has exercised a great
 influence, both in England and elsewhere, on the beautifying of the
 surroundings of domestic life.
 
@@ -11428,7 +11428,7 @@ Arnold, whose fine elegy 'Thyrsis' commemorates him. Edward Fitzgerald
 (1809-1883), Irish by birth, an eccentric though kind-hearted recluse, and
 a friend of Tennyson, is known solely for his masterly paraphrase (1859) of
 some of the Quatrains of the skeptical eleventh-century Persian
-astronomer-poet Omar Khayyám. The similarity of temper between the medieval
+astronomer-poet Omar Khayyï¿½m. The similarity of temper between the medieval
 oriental scholar and the questioning phase of the Victorian period is
 striking (though the spirit of Fitzgerald's verse is no doubt as much his
 own as Omar's), and no poetry is more poignantly beautiful than the best of
@@ -11463,7 +11463,7 @@ class, and the historical romances 'The Last Days of Pompeii' (1834) and
 sentimentalist, characteristics for which he was vigorously ridiculed by
 Thackeray. Benjamin Disraeli, [Footnote: The second syllable is pronounced
 like the word 'rail' and has the accent, so that the whole name is
-Disraíly.] later Earl of Beaconsfield (1804-1881), a much less prolific
+Disraï¿½ly.] later Earl of Beaconsfield (1804-1881), a much less prolific
 writer, was by birth a Jew. His immature earliest novel, 'Vivian Grey'
 (1826), deals, somewhat more sensibly, with the same social class as
 Bulwer's 'Pelham.' In his novels of this period, as in his dress and
@@ -11477,8 +11477,8 @@ was absorbed in the leadership of his party, and he at last became Prime
 Minister. In later life he so far returned to literature as to write two
 additional novels.
 
-Vastly different was the life and work of Charlotte Bronté (1816-1855).
-Miss Bronté, a product and embodiment of the strictest religious sense of
+Vastly different was the life and work of Charlotte Brontï¿½ (1816-1855).
+Miss Brontï¿½, a product and embodiment of the strictest religious sense of
 duty, somewhat tempered by the liberalizing tendency of the time, was the
 daughter of the rector of a small and bleak Yorkshire village, Haworth,
 where she was brought up in poverty. The two of her sisters who reached
@@ -11497,7 +11497,7 @@ physical and moral strain of forty years.
 
 The significance of 'Jane Eyre' can be suggested by calling it the last
 striking expression of extravagant Romanticism, partly Byronic, but grafted
-on the stern Bronté moral sense. One of its two main theses is the
+on the stern Brontï¿½ moral sense. One of its two Indexer.main theses is the
 assertion of the supreme authority of religious duty, but it vehemently
 insists also on the right of the individual conscience to judge of duty for
 itself, in spite of conventional opinion, and, difficult as this may be to
@@ -11505,9 +11505,9 @@ understand to-day, it was denounced at the time as irreligious. The
 Romanticism appears further in the volcanic but sometimes melodramatic
 power of the love story, where the heroine is a somewhat idealized double
 of the authoress and where the imperfect portrayal of the hero reflects the
-limitations of Miss Bronté's own experience.
+limitations of Miss Brontï¿½'s own experience.
 
-Miss Bronté is the subject of one of the most delightfully sympathetic of
+Miss Brontï¿½ is the subject of one of the most delightfully sympathetic of
 all biographies, written by Mrs. Elizabeth Cleghorn Gaskell. Mrs. Gaskell
 was authoress also of many stories, long and short, of which the best known
 is 'Cranford' (1853), a charming portrayal of the quaint life of a secluded
@@ -11630,11 +11630,11 @@ pitifully wooden automatons. For the actual English gentleman we must pass
 by his Sir Leicester Dedlocks and his Mr. Veneerings to novelists of a very
 different viewpoint, such as Thackeray and Meredith.
 
-Dickens' inexhaustible fertility in characters and scenes is a main cause
+Dickens' inexhaustible fertility in characters and scenes is a Indexer.main cause
 of the rather extravagant lack of unity which is another conspicuous
 feature of his books. He usually made a good preliminary general plan and
 proceeded on the whole with firm movement and strong suspense. But he
-always introduces many characters and sub-actions not necessary to the main
+always introduces many characters and sub-actions not necessary to the Indexer.main
 story, and develops them quite beyond their real artistic importance. Not
 without influence here was the necessity of filling a specified number of
 serial instalments, each of a definite number of pages, and each requiring
@@ -11866,7 +11866,7 @@ atmosphere of psychological text-books; and along with it goes much
 introduction of the actual facts of nineteenth century science. Her really
 primary instinct, however, is the moral one. The supremacy of moral law may
 fairly be called the general theme of all her works; to demonstrating it
-her scientific method is really in the main auxiliary; and in spite of her
+her scientific method is really in the Indexer.main auxiliary; and in spite of her
 accuracy it makes of her more an idealist than a realist. With unswerving
 logic she traces the sequence of act and consequence, showing how
 apparently trifling words and deeds reveal the springs of character and how
@@ -11928,7 +11928,7 @@ than Reade, but he lacks restraint and is often highly sensational and
 melodramatic.
 
 Altogether different is the method of Anthony Trollope (1815-1882) in his
-fifty novels. Trollope, long a traveling employé in the post-office
+fifty novels. Trollope, long a traveling employï¿½ in the post-office
 service, was a man of very assertive and somewhat commonplace nature.
 Partly a disciple of Thackeray, he went beyond Thackeray's example in the
 refusal to take his art altogether seriously as an art; rather, he treated
@@ -11984,7 +11984,7 @@ Among novelists he occupies something the same place which Browning, a
 person of very different temperament and ideas, holds among poets. He
 writes only for intelligent and thoughtful people and aims to interpret the
 deeper things of life and character, not disregarding dramatic external
-incident, but using it as only one of the means to his main purpose. His
+incident, but using it as only one of the means to his Indexer.main purpose. His
 style is brilliant, epigrammatic, and subtile; and he prefers to imply many
 things rather than to state them directly. All this makes large, perhaps
 sometimes too large, demands on the reader's attention, but there is, of
@@ -12144,7 +12144,7 @@ great men and of giving to it the vivid effectiveness of the drama. With
 Froude too this results in exaggeration, and further he is sadly
 inaccurate, but his books are splendidly fascinating. His great 'History of
 England from the Fall of Wolsey to the Armada' is his longest work; his
-'Sketch' of Julius Cæsar is certainly one of the most interesting books of
+'Sketch' of Julius Cï¿½sar is certainly one of the most interesting books of
 biography and history ever written. John Richard Green (1837-1883), who was
 a devoted clergyman before he became a historian, struggled all his life
 against the ill-health which finally cut short his career. His 'History of
@@ -12210,7 +12210,7 @@ may well be supplied by the college. 'Everyman' means the editions in the
 'Everyman Library' series of Messrs. E. P. Dutton and Co.; 'R. L. S.' the
 'Riverside Literature Series' of The Houghton Mifflin Co.
 
-BÉOWULF. Prose translation by Child; R. L. S., cloth, 25 cents. Metrical
+Bï¿½OWULF. Prose translation by Child; R. L. S., cloth, 25 cents. Metrical
 translation by J. L. Hall; D. O. Heath & Co., cloth, 75 cents, paper, 30
 cents.
 
@@ -12299,27 +12299,27 @@ THE ASSIGNMENTS
 
 1. Above, Chapter I. One day.
 
-2. 'BÉOWULF.' Two days. For the first day review the discussion of the poem
+2. 'Bï¿½OWULF.' Two days. For the first day review the discussion of the poem
 above, pp. 33-36; study the additional introductory statement which here
 follows; and read in the poem as much as time allows. For the second day
-continue the reading, at least through the story of Béowulf's exploits in
+continue the reading, at least through the story of Bï¿½owulf's exploits in
 Hrothgar's country (in Hall's translation through page 75, in Child's
 through page 60), and write your discussion. Better read one day in a prose
 translation, the other in a metrical translation, which will give some idea
 of the effect of the original.
 
 The historical element in the poem above referred to is this: In several
-places mention is made of the fact that Hygelac, Béowulf's king, was killed
+places mention is made of the fact that Hygelac, Bï¿½owulf's king, was killed
 in an expedition in Frisia (Holland), and medieval Latin chronicles make
 mention of the death of a king 'Chocilaicus' (evidently the same person) in
-a piratical raid in 512 A. D. The poem states that Béowulf escaped from
+a piratical raid in 512 A. D. The poem states that Bï¿½owulf escaped from
 this defeat by swimming, and it is quite possible that he was a real
 warrior who thus distinguished himself.
 
 The other facts at the basis of the poem are equally uncertain. In spite of
 much investigation we can say of the tribes and localities which appear in
 it only that they are those of the region of Scandinavia and Northern
-Germany. As to date, poems about a historical Béowulf, a follower of
+Germany. As to date, poems about a historical Bï¿½owulf, a follower of
 Hygelac, could not have existed before his lifetime in the sixth century,
 but there is no telling how far back the possibly mythical elements may go.
 The final working over of the poem into its present shape, as has been
@@ -12333,9 +12333,9 @@ the later poets who had it in hand was a Christian.
 
 The genealogical introduction of something over fifty lines (down to the
 first mention of Hrothgar) has nothing to do with the poem proper; the
-Béowulf there mentioned is another person than the hero of the poem. In the
+Bï¿½owulf there mentioned is another person than the hero of the poem. In the
 epic itself we can easily recognize as originally separate stories: 1.
-Béowulf's fight with Grendel. 2. His fight with Grendel's mother. 3. His
+Bï¿½owulf's fight with Grendel. 2. His fight with Grendel's mother. 3. His
 fight with the fire-drake. And of course, 4, the various stories referred
 to or incidentally related in brief.
 
@@ -12348,9 +12348,9 @@ you recognize any specifically epic characteristics? 5. Characterization,
 both in general and of individuals. 6. How much of the finer elements of
 feeling does the poet show? What things in Nature does he appreciate? His
 sense of pathos and humor? 7. Personal and social ideals and customs. 8.
-The style; its main traits; the effect of the figures of speech; are the
+The style; its Indexer.main traits; the effect of the figures of speech; are the
 things used for comparisons in metaphors and similes drawn altogether from
-the outer world, or partly from the world of thought? 9. The main merits
+the outer world, or partly from the world of thought? 9. The Indexer.main merits
 and defects of the poem and its absolute poetic value?
 
 Written discussions may well begin with a very brief outline of the story
@@ -12530,7 +12530,7 @@ clearly. 2. How many distinct actions? 3. Which one is chief? 4. Why does
 Shakspere combine them in one play? 5. Which predominates, romance or
 realism? 6. Note specifically the improbable incidents. 7. For what sorts
 of scenes are verse and prose respectively used? Poetic quality of the
-verse? 8. Characterize the main persons and state their relations to the
+verse? 8. Characterize the Indexer.main persons and state their relations to the
 others, or purposes in regard to them. Which set of persons is most
 distinctly characterized?
 
@@ -12545,7 +12545,7 @@ effect?
 
 _Third day_: Write your discussion, consisting of: I, a rather full
 outline of the story (in condensing you will do better not always to follow
-Shakspere's order), and II, your main impressions, including some of the
+Shakspere's order), and II, your Indexer.main impressions, including some of the
 above points or of the following: 13. How does the excellence of the
 characterization compare with that in 'Richard II'? 14. Work out the
 time-scheme of the play--the amount of time which it covers, the end of
@@ -12726,7 +12726,7 @@ instead of the pearl there was a diamond pounded fine, which constituted
 the poison. Why is Fortinbras included in the play?
 
 Your discussion should include a much condensed outline of the play, a
-statement of its theme and main meanings as you see them, and a careful
+statement of its theme and Indexer.main meanings as you see them, and a careful
 treatment of whatever question or questions most interest you. In addition
 to those above suggested, the character of Hamlet is an attractive topic.
 
@@ -12772,7 +12772,7 @@ preliminary 'argument').
 18. Francis Bacon and his Essays. One day. Above, pp. 151-156. Read half a
 dozen of the Essays, including those on Studies and Friendship. The
 numerous illustrations from classical history and literature were of course
-natural to Bacon and his readers. The main matters for consideration are
+natural to Bacon and his readers. The Indexer.main matters for consideration are
 suggested above. It would be interesting to state definitely, with
 illustrations, those characteristics of Bacon's mind which make it
 impossible that he should have written Shakspere's plays. Or you might
@@ -12900,7 +12900,7 @@ sylphs fortunate? Pope took them from current notions--books had been
 written which asserted that there was a fantastic sect, the Rosicrucians,
 who believed that the air was full of them. 'Eloisa to Abelard': (Abelard
 was a very famous unorthodox philosopher of the twelfth century who loved
-Héloise and was barbarously parted from her. Becoming Abbot of a monastery,
+Hï¿½loise and was barbarously parted from her. Becoming Abbot of a monastery,
 he had her made Abbess of a convent. From one of the passionate letters
 which later passed between them and which it is interesting to read in
 comparison Pope takes the idea and something of the substance of the poem.)
@@ -12999,14 +12999,14 @@ who as a Tudor was partly of Welsh descent.
 
 35. COWPER, BLAKE AND BUMS. One day. Above, pages 247-253. The reading
 should include a few of the poems of each poet, and students should note
-definitely the main characteristics of each, romantic and general.
+definitely the Indexer.main characteristics of each, romantic and general.
 
 36. THE EIGHTEENTH CENTURY NOVEL AND GOLDSMITH'S 'VICAR OF WAKEFIELD.'
 Above, pages 253-264. Most students will already have some acquaintance
 with 'The Vicar of Wakefield.' Read again as much as time allows,
 supplementing and correcting your earlier impressions. Consider: 1. The
 relation of idealism, romance, and reality. 2. Probability, motivation, and
-the use of accident. 3. The characterization. Characterize the main
+the use of accident. 3. The characterization. Characterize the Indexer.main
 persons. 4. Narrative qualities, such as unity, suspense, movement. 5. Is
 moralizing too prominent! 6. The style.
 
@@ -13031,7 +13031,7 @@ imagination that makes it true in the deepest sense? 2. Which is more
 important, the romantic atmosphere, or the story? 3. How important a part
 do description or pictures play? Are the descriptions minute or
 impressionistic? 4. Note some of the most effective onomatopoeic passages.
-What is the main meaning or idea of 'The Ancient Mariner'? With reference
+What is the Indexer.main meaning or idea of 'The Ancient Mariner'? With reference
 to this, where is the central climax of the story? Try to interpret
 'Christabel.'
 
@@ -13103,13 +13103,13 @@ familiar with 'Sartor Resartus' read in it Book II, chapters 6-9, and also
 if by any means possible Book III, chapters 5 and 8. Otherwise read in
 'Heroes and Hero-Worship' or 'The French Revolution.' (The first and third
 books of 'Sartor Resartus' purport to consist of extracts from a printed
-book of Teufelsdröckh, with comments by Carlyle; the second book outlines
-Teufelsdröckh's (Carlyle's) spiritual autobiography.) In 'Sartor Resartus':
+book of Teufelsdrï¿½ckh, with comments by Carlyle; the second book outlines
+Teufelsdrï¿½ckh's (Carlyle's) spiritual autobiography.) In 'Sartor Resartus':
 1. Make sure that you can tell definitely the precise meaning of The
 Everlasting No, The Center of Indifference, and The Everlasting Yea. Look
 up, e. g. in 'The Century Dictionary,' all terms that you do not
 understand, such as 'Baphometic Fire-Baptism.' 2. Your general opinion of
-his style? 3. Note definitely its main peculiarities in (a) spirit; (b)
+his style? 3. Note definitely its Indexer.main peculiarities in (a) spirit; (b)
 vocabulary and word forms; (c) grammar and rhetoric.
 
 44. RUSKIN. Two days. Above, pages 314-319. Most convenient for the
@@ -13118,7 +13118,7 @@ Literature Series). Everything there is worth while; but among the best
 passages are 'The Throne,' page 138, and 'St. Mark's,' page 150; while
 pages 20-57 are rather more technical than the rest. Among Ruskin's
 complete works 'Sesame and Lilies,' 'The Crown of Wild Olives,' and
-'Præterita' are as available and characteristic as any. Subjects for
+'Prï¿½terita' are as available and characteristic as any. Subjects for
 written or oral reports: 1. His temperament and his fitness as a critic and
 teacher. 2. His style--eloquence, rhythm, etc. 3. His power of observation.
 4. His power in description. Consider both his sensitiveness to
@@ -13141,7 +13141,7 @@ introduction (not the Preface), chapters 1, 3, 4 and 5, and the Conclusion.
 Otherwise read from the essays named in the text or from Professor L. E.
 Gates' volume of Selections from Arnold. Consider more fully any of the
 points treated above. If you read the 'Essays on Translating Homer' note
-the four main qualities which Arnold finds in Homer's style.
+the four Indexer.main qualities which Arnold finds in Homer's style.
 
 46. TENNYSON. Two days. Above, pages 325-329. Special attention may be
 given to any one, or more, of the statements or suggestions in the text,

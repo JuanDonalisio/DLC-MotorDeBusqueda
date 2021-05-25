@@ -750,7 +750,7 @@ sitting in Parliament, the chief of learned men reputed in this
 land, Mr. Selden; whose volume of natural and national laws proves,
 not only by great authorities brought together, but by exquisite
 reasons and theorems almost mathematically demonstrative, that all
-opinions, yea errors, known, read, and collated, are of main
+opinions, yea errors, known, read, and collated, are of Indexer.main
 service and assistance toward the speedy attainment of what is
 truest. I conceive, therefore, that when God did enlarge the
 universal diet of man's body, saving ever the rules of temperance,
@@ -1522,7 +1522,7 @@ settle falsehood; little differing from that policy wherewith the
 Turk upholds his Alcoran, by the prohibition of printing.  'Tis not
 denied, but gladly confessed, we are to send our thanks and vows to
 Heaven louder than most of nations, for that great measure of truth
-which we enjoy, especially in those main points between us and the
+which we enjoy, especially in those Indexer.main points between us and the
 Pope, with his appurtenances the prelates: but he who thinks we are
 to pitch our tent here, and have attained the utmost prospect of
 reformation that the mortal glass wherein we contemplate can show

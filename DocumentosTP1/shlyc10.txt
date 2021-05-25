@@ -1939,7 +1939,7 @@ His steps to the sea-shore. A swan was there,                        _275
 Beside a sluggish stream among the reeds.
 It rose as he approached, and, with strong wings
 Scaling the upward sky, bent its bright course
-High over the immeasurable main.
+High over the immeasurable Indexer.main.
 His eyes pursued its flight:--'Thou hast a home,                     _280
 Beautiful bird; thou voyagest to thine home,
 Where thy sweet mate will twine her downy neck
@@ -4356,7 +4356,7 @@ But of the living blood that ran within my frame.
 
 17.
 The peace of madness fled, and ah, too soon!
-A ship was lying on the sunny main,
+A ship was lying on the sunny Indexer.main,
 Its sails were flagging in the breathless noon--
 Its shadow lay beyond--that sight again                              _1255
 Waked, with its presence, in my tranced brain
@@ -5671,7 +5671,7 @@ Her veil, as with the crowds of her own kind
 She mixed; some impulse made my heart refrain
 From seeking her that night, so I reclined
 Amidst a group, where on the utmost plain
-A festal watchfire burned beside the dusky main.                     _2325
+A festal watchfire burned beside the dusky Indexer.main.                     _2325
 
 58.
 And joyous was our feast; pathetic talk,
@@ -6404,7 +6404,7 @@ Among the closing waves out of the boundless air.                    _2910
 10.
 'Swift as an eagle stooping from the plain
 Of morning light, into some shadowy wood,
-He plunged through the green silence of the main,
+He plunged through the green silence of the Indexer.main,
 Through many a cavern which the eternal flood
 Had scooped, as dark lairs for its monster brood;                    _2915
 And among mighty shapes which fled in wonder,
@@ -6659,7 +6659,7 @@ Shone through my sleep, and did that utterance harmonize.
 As in a winged chariot, o'er the plain
 Of crystal youth; and thou wert there to fill                        _3120
 My heart with joy, and there we sate again
-On the gray margin of the glimmering main,
+On the gray margin of the glimmering Indexer.main,
 Happy as then but wiser far, for we
 Smiled on the flowery grave in which were lain
 Fear, Faith and Slavery; and mankind was free,                       _3125
@@ -20097,7 +20097,7 @@ any such a thing as incest in this shape, however treated, would be
 admitted on the stage. I think, however, it will form no objection;
 considering, first, that the facts are matter of history, and,
 secondly, the peculiar delicacy with which I have treated it. (In
-speaking of his mode of treating this main incident, Shelley said that
+speaking of his mode of treating this Indexer.main incident, Shelley said that
 it might be remarked that, in the course of the play, he had never
 mentioned expressly Cenci's worst crime. Every one knew what it must
 be, but it was never imaged in words--the nearest allusion to it being
@@ -28147,7 +28147,7 @@ I would flee
 A tempestuous herald of victory!
 My golden rain
 For the Grecian slain                                                _665
-Should mingle in tears with the bloody main,
+Should mingle in tears with the bloody Indexer.main,
 And my solemn thunder-knell
 Should ring to the world the passing-bell
 Of Tyranny!                                                          _670
@@ -28701,7 +28701,7 @@ Against the morning star.
 Where fairer Tempes bloom, there sleep                               _1070
 Young Cyclads on a sunnier deep.
 
-A loftier Argo cleaves the main,
+A loftier Argo cleaves the Indexer.main,
 Fraught with a later prize;
 Another Orpheus sings again,
 And loves, and weeps, and dies.                                      _1075
@@ -37539,7 +37539,7 @@ Like aught that is which wraps what is to be,
 Art's deathless dreams lay veiled by many a vein
 Of Parian stone; and, yet a speechless child,
 Verse murmured, and Philosophy did strain
-Her lidless eyes for thee; when o'er the Aegean main                 _60
+Her lidless eyes for thee; when o'er the Aegean Indexer.main                 _60
 
 5.
 Athens arose: a city such as vision
@@ -37594,7 +37594,7 @@ Thou didst delay to hear, lamenting to disown                        _105
 
 8.
 From what Hyrcanian glen or frozen hill,
-Or piny promontory of the Arctic main,
+Or piny promontory of the Arctic Indexer.main,
 Or utmost islet inaccessible,
 Didst thou lament the ruin of thy reign,
 Teaching the woods and waves, and desert rocks,                      _110
@@ -37906,7 +37906,7 @@ Behind her descended
 Her billows, unblended
 With the brackish Dorian stream:--
 Like a gloomy stain
-On the emerald main                                                  _50
+On the emerald Indexer.main                                                  _50
 Alpheus rushed behind,--
 As an eagle pursuing
 A dove to its ruin
@@ -42206,7 +42206,7 @@ Wild wind, when sullen cloud
 Knells all the night long;
 Sad storm whose tears are vain,                                      _5
 Bare woods, whose branches strain,
-Deep caves and dreary main,--
+Deep caves and dreary Indexer.main,--
 Wail, for the world's wrong!
 
 NOTE:
@@ -45811,7 +45811,7 @@ And groves profaned not by the step of mortal
 
 Which sounded as he passed, and lakes which rain
 Replenished not girt round by marble caves
-'Wildered by the watery motion of the main
+'Wildered by the watery motion of the Indexer.main
 
 Half 'wildered he beheld the bursting waves                          _10
 Of every stream beneath the mighty earth
@@ -49215,7 +49215,7 @@ In southern climes, o'er ocean's waveless field                      _20
 Sinks sweetly smiling: not the faintest breath
 Steals o'er the unruffled deep; the clouds of eve
 Reflect unmoved the lingering beam of day;
-And vesper's image on the western main
+And vesper's image on the western Indexer.main
 Is beautifully still. To-morrow comes:                               _25
 Cloud upon cloud, in dark and deepening mass,
 Roll o'er the blackened waters; the deep roar
@@ -49290,7 +49290,7 @@ Earth's lap with plenty, and life's smallest chord
 Strung to unchanging unison, that gave
 The happy birds their dwelling in the grove,
 That yielded to the wanderers of the deep
-The lovely silence of the unfathomed main,                           _95
+The lovely silence of the unfathomed Indexer.main,                           _95
 And filled the meanest worm that crawls in dust
 With spirit, thought, and love; on Man alone,
 Partial in causeless malice, wantonly
@@ -50347,7 +50347,7 @@ Whose woe to him were bitterer than death,                           _35
 Sees her unfaded cheek
 Glow mantling in first luxury of health,
 Thrills with her lovely eyes,
-Which like two stars amid the heaving main
+Which like two stars amid the heaving Indexer.main
 Sparkle through liquid bliss.                                        _40
 
 Then in her triumph spoke the Fairy Queen:
@@ -55288,7 +55288,7 @@ I sought the cold brink of the midnight surge,                       _10
 I sighed beneath its wave to hide my woes,
 The rising tempest sung a funeral dirge,
 And on the blast a frightful yell arose.
-Wild flew the meteors o'er the maddened main,
+Wild flew the meteors o'er the maddened Indexer.main,
 Wilder did grief athwart my bosom glare;                             _15
 Stilled was the unearthly howling, and a strain,
 Swelled mid the tumult of the battling air,
@@ -56979,7 +56979,7 @@ or to the leg of a horse or a dog.' Again, it is of others' hearts, not
 of his own, that Shelley here deplores the icy coldness and weight;
 besides, how could he appropriately describe his heart as a weight or
 encumbrance upon the free play of impulse and emotion, seeing that for
-Shelley, above all men, the heart was itself the main source and spring
+Shelley, above all men, the heart was itself the Indexer.main source and spring
 of all feeling and action? That source, he complains, has been dried
 up--its emotions desiccated--by the crushing impact of other hearts,
 heavy, hard and cold as stone. His heart has become withered and barren,
@@ -58088,7 +58088,7 @@ Act 5, Scene 2:--years 119;
 
 THE MASK OF ANARCHY.
 
-Our text follows in the main the transcript by Mrs. Shelley (with
+Our text follows in the Indexer.main the transcript by Mrs. Shelley (with
 additions and corrections in Shelley's hand) known as the 'Hunt
 manuscript.' For the readings of this manuscript we are indebted to Mr.
 Buxton Forman's Library Edition of the Poems, 1876. The variants of the

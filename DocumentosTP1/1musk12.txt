@@ -190,7 +190,7 @@ faithful than in the history of M. Anquetil.
 But, it is well known, what strikes the capricious mind of the
 poet is not always what affects the mass of readers.  Now, while
 admiring, as others doubtless will admire, the details we have to
-relate, our main preoccupation concerned a matter to which no one
+relate, our Indexer.main preoccupation concerned a matter to which no one
 before ourselves had given a thought.
 
 D'Artagnan relates that on his first visit to M. de Treville,
@@ -12051,7 +12051,7 @@ attributes of a suburban tavern, and knocked at the door.
 
 In the meantime d'Artagnan, who had plunged into a bypath,
 continued his route and reached St. Cloud; but instead of
-following the main street he turned behind the chateau, reached a
+following the Indexer.main street he turned behind the chateau, reached a
 sort of retired lane, and found himself soon in front of the
 pavilion named.  It was situated in a very private spot.  A high
 wall, at the angle of which was the pavilion, ran along one side

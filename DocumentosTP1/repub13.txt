@@ -597,7 +597,7 @@ The principal characters in the Republic are Cephalus,
 Polemarchus, Thrasymachus, Socrates, Glaucon, and Adeimantus. 
 Cephalus appears in the introduction only, Polemarchus drops at
 the end of the first argument, and Thrasymachus is reduced to silence
-at the close of the first book.  The main discussion is carried on
+at the close of the first book.  The Indexer.main discussion is carried on
 by Socrates, Glaucon, and Adeimantus.  Among the company are Lysias
 (the orator) and Euthydemus, the sons of Cephalus and brothers
 of Polemarchus, an unknown Charmantides--these are mute auditors;
@@ -3682,7 +3682,7 @@ with the false?
 I do not understand your meaning, he said.
 
 You know, I said, that we begin by telling children stories which,
-though not wholly destitute of truth, are in the main fictitious;
+though not wholly destitute of truth, are in the Indexer.main fictitious;
 and these stories are told them when they are not of an age to
 learn gymnastics.
 
@@ -9144,7 +9144,7 @@ Socrates, what do you mean?  I would have you consider that
 the word which you have uttered is one at which numerous persons,
 and very respectable persons too, in a figure pulling off their
 coats all in a moment, and seizing any weapon that comes to hand,
-will run at you might and main, before you know where you are,
+will run at you might and Indexer.main, before you know where you are,
 intending to do heaven knows what; and if you don't prepare an answer,
 and put yourself in motion, you will be prepared by their fine wits,'
 and no mistake.
@@ -10565,7 +10565,7 @@ the ways of God?
 Indeed, he said, in no way could they make a fairer picture.
 
 And now, I said, are we beginning to persuade those whom you
-described as rushing at us with might and main, that the painter
+described as rushing at us with might and Indexer.main, that the painter
 of constitutions is such an one as we are praising; at whom they
 were so very indignant because to his hands we committed the State;
 and are they growing a little calmer at what they have just heard?
@@ -11082,7 +11082,7 @@ distinction of the visible and intelligible fixed in your mind?
 I have.
 
 Now take a line which has been cut into two unequal parts, and divide
-each of them again in the same proportion, and suppose the two main
+each of them again in the same proportion, and suppose the two Indexer.main
 divisions to answer, one to the visible and the other to the intelligible,
 and then compare the subdivisions in respect of their clearness
 and want of clearness, and you will find that the first section in
@@ -14887,7 +14887,7 @@ There is one principle with which, as we were saying, a man learns,
 another with which he is angry; the third, having many forms,
 has no special name, but is denoted by the general term appetitive,
 from the extraordinary strength and vehemence of the desires of eating
-and drinking and the other sensual appetites which are the main
+and drinking and the other sensual appetites which are the Indexer.main
 elements of it; also money-loving, because such desires are generally
 satisfied by the help of money.
 

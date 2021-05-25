@@ -1540,7 +1540,7 @@ band was now shaking the window-panes with the strains of
 The building before whose doors they had pitched their
 music-stands was the chief hotel in Casterbridge--namely,
 the King's Arms.  A spacious bow-window projected into the
-street over the main portico, and from the open sashes came
+street over the Indexer.main portico, and from the open sashes came
 the babble of voices, the jingle of glasses, and the drawing
 of corks.  The blinds, moreover, being left unclosed, the
 whole interior of this room could be surveyed from the top
@@ -4196,7 +4196,7 @@ garnered by farmers who lived in an eastern purlieu called
 Durnover.  Here wheat-ricks overhung the old Roman street,
 and thrust their eaves against the church tower; green-
 thatched barns, with doorways as high as the gates of
-Solomon's temple, opened directly upon the main
+Solomon's temple, opened directly upon the Indexer.main
 thoroughfare.  Barns indeed were so numerous as to alternate
 with every half-dozen houses along the way.  Here lived
 burgesses who daily walked the fallow; shepherds in an
@@ -9382,7 +9382,7 @@ Abrahamic success.  The head of stock driven into and out of
 the town at this season to be sold by the local auctioneer
 was very large; and all these horned beasts, in travelling
 to and fro, sent women and children to shelter as nothing
-else could do.  In the main the animals would have walked
+else could do.  In the Indexer.main the animals would have walked
 along quietly enough; but the Casterbridge tradition was
 that to drive stock it was indispensable that hideous cries,
 coupled with Yahoo antics and gestures, should be used,
@@ -12695,7 +12695,7 @@ comb in place; she's got on a puce silk, and white
 stockings, and coloured shoes."
 
 Again Elizabeth-Jane attempted to close the window, but
-Lucetta held her by main force.
+Lucetta held her by Indexer.main force.
 
 "'Tis me!" she said, with a face pale as death.  "A
 procession--a scandal--an effigy of me, and him!"

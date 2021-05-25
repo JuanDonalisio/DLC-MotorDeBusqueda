@@ -2177,7 +2177,7 @@ of breaking, "Gentlemen," said he, in a calm and penetrating voice,
 "I speak French, English, German, and Latin equally well.
 I could, therefore, have answered you at our first interview, but I
 wished to know you first, then to reflect.  The story told by each one,
-entirely agreeing in the main points, convinced me of your identity.
+entirely agreeing in the Indexer.main points, convinced me of your identity.
 I know now that chance has brought before me M. Pierre Aronnax,
 Professor of Natural History at the Museum of Paris, entrusted with
 a scientific mission abroad, Conseil, his servant, and Ned Land,
@@ -11800,7 +11800,7 @@ fixed a piercing look upon the vessel.
 
 "No, sir," he replied; "I cannot tell what nation she belongs to,
 for she shows no colours.  But I can declare she is a man-of-war,
-for a long pennant flutters from her main mast."
+for a long pennant flutters from her Indexer.main mast."
 
 For a quarter of an hour we watched the ship which was steaming
 towards us.  I could not, however, believe that she could

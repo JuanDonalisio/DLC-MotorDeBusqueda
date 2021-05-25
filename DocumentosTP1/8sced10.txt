@@ -46,7 +46,7 @@ Distributed Proofreading Team
 
 
 This file was produced from images generously made available by the
-Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr.
+Bibliothï¿½que nationale de France (BnF/Gallica) at http://gallica.bnf.fr.
 
 
 
@@ -215,7 +215,7 @@ among "the swift runners who hand over the lamp of life," [1] and
 transmit from one generation to another the fire kindled,
 in the childhood of the world, at the Promethean altar of Science.
 
-The main incidents of Priestley's life are so well known that I need
+The Indexer.main incidents of Priestley's life are so well known that I need
 dwell upon them at no great length.
 
 Born in 1733, at Fieldhead, near Leeds, and brought up among Calvinists
@@ -380,7 +380,7 @@ not the least attempt to interfere with Priestley's freedom of action.
 In 1780, however, he intimated to Dr. Price that he should be glad to
 establish Priestley on his Irish estates: the suggestion was
 interpreted, as Lord Shelburne probably intended it should be, and
-Priestley left him, the annuity of £150 a year, which had been promised
+Priestley left him, the annuity of ï¿½150 a year, which had been promised
 in view of such a contingency, being punctually paid.
 
 After leaving Calne, Priestley spent some little time in London, and
@@ -471,7 +471,7 @@ Air, water, and fire were still counted among the elemental bodies; and
 though Van Helmont, a century before, had distinguished different
 kinds of air as _gas ventosum_ and _gas sylvestre_, and Boyle and Hales
 had experimentally defined the physical properties of air, and
-discriminated some of the various kinds of aëriform bodies, no one
+discriminated some of the various kinds of aï¿½riform bodies, no one
 suspected the existence of the numerous totally distinct gaseous
 elements which are now known, or dreamed that the air we breathe and
 the water we drink are compounds of gaseous elements.
@@ -703,7 +703,7 @@ sectarian hatred, which still haunt this wilderness of a world, are
 made whole by looking upon the image of a heretic who was yet a saint.
 
 Though Priestley did not believe in the natural immortality of man, he
-held with an almost naïve realism that man would be raised from the
+held with an almost naï¿½ve realism that man would be raised from the
 dead by a direct exertion of the power of God, and thenceforward be
 immortal. And it may be as well for those who may be shocked by this
 doctrine to know that views, substantially identical with Priestley's,
@@ -882,7 +882,7 @@ they called an incendiary and raiser of sedition against Church and
 King, an appropriately experimental illustration of the nature of arson
 and riot.
 
-If I have succeeded in putting before you the main features of
+If I have succeeded in putting before you the Indexer.main features of
 Priestley's work, its value will become apparent when we compare the
 condition of the English nation, as he knew it, with its present state.
 
@@ -1038,10 +1038,10 @@ Footnotes:
 [2] _Life and Correspondence of Dr. Priestley_, by J. T. Rutt. Vol. I.
 p. 50.
 
-[3] _Autobiography_, §§ 100, 101.
+[3] _Autobiography_, ï¿½ï¿½ 100, 101.
 
 [4] See _The Life of Mary Anne Schimmelpenninck_. Mrs.
-Schimmelpenninck (_née_ Galton) remembered Priestley very well,
+Schimmelpenninck (_nï¿½e_ Galton) remembered Priestley very well,
 and her description of him is worth quotation:--"A man of admirable
 simplicity, gentleness and kindness of heart, united with great
 acuteness of intellect. I can never forget the impression produced on
@@ -1536,7 +1536,7 @@ ass. Nay, I fancy most persons would excuse him, if in this case he did
 not take the trouble to go through the process of verification at all;
 and it would not be without a parallel in the history of the human
 mind, if our imaginary physiologist now maintained that he was
-acquainted with asinine circulation _à priori_.
+acquainted with asinine circulation _ï¿½ priori_.
 
 However, if I might impress any caution upon your minds, it is, the
 utterly conditional nature of all our knowledge,--the danger of
@@ -1833,8 +1833,8 @@ M. Comte, as his manner is, contradicts himself two pages further on,
 but that will hardly relieve him from the responsibility of such a
 paragraph as the above.
 
-[3] _Nouvelle Fonction du Foie considéré comme organe producteur de
-matière sucrée chez l'Homme et les Animaux, par_ M. Claude Bernard.
+[3] _Nouvelle Fonction du Foie considï¿½rï¿½ comme organe producteur de
+matiï¿½re sucrï¿½e chez l'Homme et les Animaux, par_ M. Claude Bernard.
 
 [4] "_Natural Groups given by Type, not by Definition_.... The
 class is steadily fixed, though not precisely limited; it is given,
@@ -1988,7 +1988,7 @@ whatever we may be permitted, and indeed encouraged, to do to our
 brother, our sister is to be left to the tyranny of authority and
 tradition. With few insignificant exceptions, girls have been educated
 either to be drudges, or toys, beneath man; or a sort of angels above
-him; the highest ideal aimed at oscillating between Clärchen and
+him; the highest ideal aimed at oscillating between Clï¿½rchen and
 Beatrice. The possibility that the ideal of womanhood lies neither in
 the fair saint, nor in the fair sinner; that the female type of
 character is neither better nor worse than the male, but only weaker;
@@ -2125,7 +2125,7 @@ wrong-headedness in each case--but it is questionable if the one is
 either a bit better, or a bit worse, than the other. The old
 protectionist theory is the doctrine of trades unions as applied by the
 squires, and the modern trades unionism is the doctrine of the squires
-applied by the artisans. Why should we be worse off under one _régime_
+applied by the artisans. Why should we be worse off under one _rï¿½gime_
 than under the other?
 
 Again, this sceptical minority asks the clergy to think whether it is
@@ -2526,7 +2526,7 @@ business of life. You will in all probability go into business, but you
 shall not know where, or how, any article of commerce is produced, or
 the difference between an export or an import, or the meaning of the
 word "capital." You will very likely settle in a colony, but you shall
-not know whether Tasmania is part of New South Wales, or _vice versâ_.
+not know whether Tasmania is part of New South Wales, or _vice versï¿½_.
 
 "Very probably you may become a manufacturer, but you shall not be
 provided with the means of understanding the working of one of your own
@@ -2798,7 +2798,7 @@ infects him with a noble ambition, and a love for the spirit of work.
 
 The Germans dominate the intellectual world by virtue of the same
 simple secret as that which made Napoleon the master of old Europe.
-They have declared _la carrière ouverte aux talents_, and every
+They have declared _la carriï¿½re ouverte aux talents_, and every
 Bursch marches with a professor's gown in his knapsack. Let him become
 a great scholar, or man of science, and ministers will compete for his
 services. In Germany, they do not leave the chance of his holding the
@@ -3123,7 +3123,7 @@ nonsense. We should be the better for a vigorous and watchful enemy to
 hammer us into cohesion and discipline; and I, for one, lament that the
 bench of Bishops cannot show a man of the calibre of Butler of the
 "Analogy," who, if he were alive, would make short work of much of the
-current _à priori_ "infidelity."
+current _ï¿½ priori_ "infidelity."
 
 I hope you will consider that the arguments I have now stated, even if
 there were no better ones, constitute a sufficient apology for urging
@@ -4284,7 +4284,7 @@ that showed she had a definite idea connected with the word Turkey, and
 was, so far, worthy of praise. I quite agree with that commendation;
 but what a curious thing it is that one should now find it necessary to
 urge that this is the be-all and end-all of scientific instruction--the
-_sine quâ non_, the absolutely necessary condition,--and yet that
+_sine quï¿½ non_, the absolutely necessary condition,--and yet that
 it was insisted upon more than two hundred years ago by one of the
 greatest men science ever possessed in this country, William Harvey.
 Harvey wrote, or at least published, only two small books, one of which
@@ -4948,7 +4948,7 @@ into it by the Roman Church, which in those days asserted with effect,
 that which it now asserts, happily without any effect in these realms,
 its right of censorship and control over all teaching. The local
 habitation of the University lay partly in the lands attached to the
-monastery of S. Geneviève, partly in the diocese of the Bishop of
+monastery of S. Geneviï¿½ve, partly in the diocese of the Bishop of
 Paris; and he who would teach must have the licence of the Abbot, or of
 the Bishop, as the nearest representative of the Pope, so to do, which
 licence was granted by the Chancellors of these Ecclesiastics.
@@ -6213,7 +6213,7 @@ prominent a place in your official documents, and in the wise and
 liberal inaugural address of your president. This subject of the
 encouragement, or, as it is sometimes called, the endowment of
 research, has of late years greatly exercised the minds of men in
-England. It was one of the main topics of discussion by the members of
+England. It was one of the Indexer.main topics of discussion by the members of
 the Royal Commission of whom I was one, and who not long since issued
 their report, after five years' labour. Many seem to think that this
 question is mainly one of money; that you can go into the market and
@@ -6246,7 +6246,7 @@ at one thousand premium, and you have endowed all the professors you
 need, and built all the laboratories that are wanted, and have the best
 museum and the finest library that can be imagined; then, if you have a
 few hundred thousand dollars you don't know what to do with, send for
-an architect and tell him to put up a façade. If American is similar to
+an architect and tell him to put up a faï¿½ade. If American is similar to
 English experience, any other course will probably lead you into having
 some stately structure, good for your architect's fame, but not in the
 least what you want.
@@ -6471,7 +6471,7 @@ come now under the general heads of physical geography, geology,
 mineralogy, the history of plants, and the history of animals. It was
 in this sense that the term was understood by the great writers of the
 middle of the last century--Buffon and Linnaeus--by Buffon in his great
-work, the "Histoire Naturelle Générale," and by Linnaeus in his
+work, the "Histoire Naturelle Gï¿½nï¿½rale," and by Linnaeus in his
 splendid achievement, the "Systema Naturae." The subjects they deal
 with are spoken of as "Natural History," and they called themselves and
 were called "Naturalists." But you will observe that this was not the
@@ -6496,13 +6496,13 @@ example, geology and mineralogy were, in many respects, widely
 different from botany and zoology; that a man might obtain an extensive
 knowledge of the structure and functions of plants and animals, without
 having need to enter upon the study of geology or mineralogy, and
-_vice versâ_; and, further as knowledge advanced, it became clear
+_vice versï¿½_; and, further as knowledge advanced, it became clear
 that there was a great analogy, a very close alliance, between those
 two sciences, of botany and zoology which deal with human beings, while
 they are much more widely separated from all other studies. It is due
 to Buffon to remark that he clearly recognised this great fact. He
-says: "Ces deux genres d'êtres organisés [les animaux et les végétaux]
-ont beaucoup plus de propriétés communes que de différences réelles."
+says: "Ces deux genres d'ï¿½tres organisï¿½s [les animaux et les vï¿½gï¿½taux]
+ont beaucoup plus de propriï¿½tï¿½s communes que de diffï¿½rences rï¿½elles."
 Therefore, it is not wonderful that, at the beginning of the present
 century, in two different countries, and so far as I know, without any
 intercommunication, two famous men clearly conceived the notion of
@@ -7056,9 +7056,9 @@ thorough, practical, elementary instruction in biology.
 Footnotes:
 
 [1] See the distinction between the "sciences physiques" and the
-"sciences physiologiques" in the _Anatomie Générale_, 1801.
+"sciences physiologiques" in the _Anatomie Gï¿½nï¿½rale_, 1801.
 
-[2] _Hydrogéologie_, an. x. (1801).
+[2] _Hydrogï¿½ologie_, an. x. (1801).
 
 [3] "The term _Biology_, which means exactly what we wish to
 express, _the Science of Life_, has often been used, and has of
@@ -7166,7 +7166,7 @@ strenuously resisted upon similar grounds.
 I am not sure that the feeling, of which the doctrine to which I have
 referred is the full expression, does not lie at the bottom of the
 minds of a great many people who yet would vigorously object to give a
-verbal assent to the doctrine itself. However this may be, the main
+verbal assent to the doctrine itself. However this may be, the Indexer.main
 point is that sufficient knowledge has now been acquired of vital
 phenomena, to justify the assertion, that the notion, that there is
 anything exceptional about these phenomena, receives not a particle of
@@ -7876,7 +7876,7 @@ happen. It was possible for a young man to come to London and to spend
 two years and six months of the time of his compulsory three years
 "walking the hospitals" in idleness or worse; he could then, by putting
 himself in the hands of a judicious "grinder" for the remaining six
-months, pass triumphantly through the ordeal of one hour's _vivâ voce_
+months, pass triumphantly through the ordeal of one hour's _vivï¿½ voce_
 examination, which was all that was absolutely necessary, to
 enable him to be turned loose upon the public, like death on the pale
 horse, "conquering and to conquer," with the full sanction of the law,
@@ -7991,12 +7991,12 @@ examination; and the second point is that some body or other shall have
 the power of enforcing upon every candidate for the licence to practice
 the study of the three branches, what is called the tripartite
 qualification. All the members of the late commission were agreed that
-these were the main points to be attended to in any proposals for the
+these were the Indexer.main points to be attended to in any proposals for the
 further improvement of medical training and qualification.
 
 But such being the ends in view, our notions as to the best way of
 attaining them were singularly divergent; so that it came about that
-eleven commissioners made seven reports. There was one main majority
+eleven commissioners made seven reports. There was one Indexer.main majority
 report and six minor reports, which differed more or less from it,
 chiefly as to the best method of attaining these two objects.
 
@@ -8233,7 +8233,7 @@ as I know, by which any person who has the inborn gifts of the
 investigator and discoverer of new truth, and who desires to apply that
 to the improvement of medical science, can carry out his intention. In
 Paris there is the University of Paris, which gives degrees; but there
-are also the Sorbonne and the Collége de France, places in which
+are also the Sorbonne and the Collï¿½ge de France, places in which
 professoriates are established for the express purpose of enabling men
 who have the power of investigation, the power of advancing knowledge
 and thereby reacting on practice, to do that which it is their special
@@ -8465,7 +8465,7 @@ wrong than helps him to do right.
 
 A scorner of physic once said that nature and disease may be compared
 to two men fighting, the doctor to a blind man with a club, who strikes
-into the _mêlée_, sometimes hitting the disease, and sometimes
+into the _mï¿½lï¿½e_, sometimes hitting the disease, and sometimes
 hitting nature. The matter is not mended if you suppose the blind man's
 hearing to be so acute that he can register every stage of the
 struggle, and pretty clearly predict how it will end. He had better not
@@ -8511,7 +8511,7 @@ Galen and of Aristotle.
 For Harvey, the blood possesses powers superior to those of the
 elements; it is the seat of a soul which is not only vegetative, but
 also sensitive and motor. The blood maintains and fashions all parts of
-the body, "idque summâ cum providentiâ et intellectu in finem certum
+the body, "idque summï¿½ cum providentiï¿½ et intellectu in finem certum
 agens, quasi ratiocinio quodam uteretur."
 
 Here is the doctrine of the "pneuma," the product of the philosophical
@@ -8532,7 +8532,7 @@ phenomena, or frankly confesses that it has none to offer. And, so far
 as I know, the first person who gave expression to this modern view of
 physiology, who was bold enough to enunciate the proposition that vital
 phenomena, like all the other phenomena of the physical world, are, in
-ultimate analysis, resolvable into matter and motion, was René
+ultimate analysis, resolvable into matter and motion, was Renï¿½
 Descartes.
 
 The fifty-four years of life of this most original and powerful thinker
@@ -8542,14 +8542,14 @@ acknowledging the French philosopher's appreciation of his great
 discovery.
 
 In fact, Descartes accepted the doctrine of the circulation as
-propounded by "Harvaeus médecin d'Angleterre," and gave a full account
-of it in his first work, the famous "Discours de la Méthode," which was
+propounded by "Harvaeus mï¿½decin d'Angleterre," and gave a full account
+of it in his first work, the famous "Discours de la Mï¿½thode," which was
 published in 1637, only nine years after the exercitation "De motu
 cordis"; and, though differing from Harvey on some important points (in
 which it may be noted, in passing, Descartes was wrong and Harvey
 right), he always speaks of him with great respect. And so important
 does the subject seem to Descartes, that he returns to it in the
-"Traité des Passions," and in the "Traité de l'Homme."
+"Traitï¿½ des Passions," and in the "Traitï¿½ de l'Homme."
 
 It is easy to see that Harvey's work must have had a peculiar
 significance for the subtle thinker, to whom we owe both the
@@ -8828,7 +8828,7 @@ views of life is seen in the contention whether the physical analysis
 of vital phenomena can be carried beyond this point or not.
 
 There are some to whom living protoplasm is a substance, even such as
-Harvey conceived the blood to be, "summâ cum providentiâ et intellectu
+Harvey conceived the blood to be, "summï¿½ cum providentiï¿½ et intellectu
 in finem certum agens, quasi ratiocinio quodam;" and who look with as
 little favour as Bichat did, upon any attempt to apply the principles
 and the methods of physics and chemistry to the investigation of the
@@ -8908,7 +8908,7 @@ find himself an empiric?
 
 Footnotes:
 
-[1] _Discours de la Méthode_, 6e partie, Ed. Cousin, p. 193.
+[1] _Discours de la Mï¿½thode_, 6e partie, Ed. Cousin, p. 193.
 
 [2] _Ibid_. pp. 193 and 211.
 
@@ -8916,7 +8916,7 @@ Footnotes:
 
 [4] _Theoria Generationis_, 1759.
 
-[5] _Anatomie générale_, i. p. liv.
+[5] _Anatomie gï¿½nï¿½rale_, i. p. liv.
 
 
 
@@ -10725,7 +10725,7 @@ to my knowledge, manufacturing towns in this country, not one-tenth the
 size, or boasting one-hundredth part of the wealth, of Manchester, in
 which I do not say that the programme that I have put before you is
 completely carried out, but in which, at any rate, a wise and
-intelligent effort had been made to realise it, and in which the main
+intelligent effort had been made to realise it, and in which the Indexer.main
 parts of the programme are in course of being worked out. This is not
 the first time that I have had the privilege and pleasure of addressing
 a Manchester audience. I have often enough, before now, thrown myself

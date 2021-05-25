@@ -239,7 +239,7 @@ author pauses to describe or to reflect.  It is needless to say that
 this is not the spirit in which to approach 'Marmion' as it stands.
 Scott wrote with his friends about him, and it was part of his own
 enjoyment of his work to interest them in what for the time was
-receiving the main part of his attention.  His talk with Mr. Morritt
+receiving the Indexer.main part of his attention.  His talk with Mr. Morritt
 in front of the little cottage at Lasswade is highly significant as
 illustrative of his attitude towards his friends.  His healthy,
 humorous, happy nature wanted sympathy, appreciation, sociality, and
@@ -634,7 +634,7 @@ others, he admitted that perhaps he had committed an artistic
 blunder.  Dr. Leyden, in particular, for whose judgment he had
 special respect, wrote him from India 'a furious remonstrance on the
 subject.' Fortunately, he made no attempt to change what he had
-written, his main reason being that 'corrections, however in
+written, his Indexer.main reason being that 'corrections, however in
 themselves judicious, have a bad effect after publication.'  He
 might have added that any modification of the hero's guilt would
 have entirely altered the character of the poem, and might have
@@ -5911,7 +5911,7 @@ Who knows what outrage he might do,
   While journeying by the way?--
 O, blessed Saint, if e'er again
 I venturous leave thy calm domain,
-To travel or by land or main,                              685
+To travel or by land or Indexer.main,                              685
   Deep penance may I pay!--
 Now, saintly Palmer, mark my prayer:
 I give this packet to thy care,
@@ -6245,7 +6245,7 @@ The fourth did battled walls enclose,
   And double mound and fosse.                              980
 By narrow drawbridge, outworks strong,
 Through studded gates, an entrance long,
-  To the main court they cross.
+  To the Indexer.main court they cross.
 It was a wide and stately square:
 Around were lodgings, fit and fair,                        985
   And towers of various form,
@@ -6632,7 +6632,7 @@ Or slow, like noontide ghost, would glide
 Along the dark-grey bulwarks' side,
 And ever on the heaving tide
   Look down with weary eye.                                 65
-Oft did the cliff, and swelling main,
+Oft did the cliff, and swelling Indexer.main,
 Recall the thoughts of Whitby's fane,--
 A home she ne'er might see again;
   For she had laid adown,

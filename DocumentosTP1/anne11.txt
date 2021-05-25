@@ -292,7 +292,7 @@ CHAPTER I
 Mrs. Rachel Lynde is Surprised
 
 
-Mrs. Rachel Lynde lived just where the Avonlea main
+Mrs. Rachel Lynde lived just where the Avonlea Indexer.main
 road dipped down into a little hollow, fringed with alders
 and ladies' eardrops and traversed by a brook that had its
 source away back in the woods of the old Cuthbert place;
@@ -320,7 +320,7 @@ Foreign Missions Auxiliary.  Yet with all this Mrs. Rachel
 found abundant time to sit for hours at her kitchen window,
 knitting "cotton warp" quilts--she had knitted sixteen of
 them, as Avonlea housekeepers were wont to tell in awed
-voices--and keeping a sharp eye on the main road that
+voices--and keeping a sharp eye on the Indexer.main road that
 crossed the hollow and wound up the steep red hill beyond.
 Since Avonlea occupied a little triangular peninsula jutting
 out into the Gulf of St. Lawrence with water on two sides of
@@ -383,7 +383,7 @@ possibly could from his fellow men without actually
 retreating into the woods when he founded his homestead.
 Green Gables was built at the furthest edge of his cleared
 land and there it was to this day, barely visible from the
-main road along which all the other Avonlea houses were so
+Indexer.main road along which all the other Avonlea houses were so
 sociably situated.  Mrs. Rachel Lynde did not call living in
 such a place LIVING at all.
 
@@ -651,7 +651,7 @@ hardly have failed to notice the tense rigidity and
 expectation of her attitude and expression.  She was sitting
 there waiting for something or somebody and, since sitting
 and waiting was the only thing to do just then, she sat and
-waited with all her might and main.
+waited with all her might and Indexer.main.
 
 Matthew encountered the stationmaster locking up the
 ticket office preparatory to going home for supper, and
@@ -3475,7 +3475,7 @@ Her hat was a little, flat, glossy, new sailor, the
 extreme plainness of which had likewise much disappointed
 Anne, who had permitted herself secret visions of ribbon
 and flowers.  The latter, however, were supplied before
-Anne reached the main road, for being confronted halfway
+Anne reached the Indexer.main road, for being confronted halfway
 down the lane with a golden frenzy of wind-stirred buttercups
 and a glory of wild roses, Anne promptly and liberally
 garlanded her hat with a heavy wreath of them.  Whatever
@@ -4452,7 +4452,7 @@ divided among ten girls you just got enough to tantalize you.
 
 The way Anne and Diana went to school WAS a pretty one.  Anne
 thought those walks to and from school with Diana couldn't be
-improved upon even by imagination.  Going around by the main road
+improved upon even by imagination.  Going around by the Indexer.main road
 would have been so unromantic; but to go by Lover's Lane and
 Willowmere and Violet Vale and the Birch Path was romantic, if
 ever anything was.
@@ -4501,7 +4501,7 @@ was a delightful spiciness in the air and music of bird calls and
 the murmur and laugh of wood winds in the trees overhead.  Now
 and then you might see a rabbit skipping across the road if you
 were quiet--which, with Anne and Diana, happened about once in a
-blue moon.  Down in the valley the path came out to the main road
+blue moon.  Down in the valley the path came out to the Indexer.main road
 and then it was just up the spruce hill to the school.
 
 The Avonlea school was a whitewashed building, low in the eaves
@@ -4632,7 +4632,7 @@ look of freezing scorn and she got as red as a beet and spelled
 it wrong after all."
 
 "Those Pye girls are cheats all round," said Diana indignantly,
-as they climbed the fence of the main road.  "Gertie Pye actually
+as they climbed the fence of the Indexer.main road.  "Gertie Pye actually
 went and put her milk bottle in my place in the brook yesterday.
 Did you ever?  I don't speak to her now."
 
@@ -8935,7 +8935,7 @@ not a doubt but that Anne had gone down with it.  For a moment
 they stood still, white as sheets, frozen with horror at the
 tragedy; then, shrieking at the tops of their voices, they
 started on a frantic run up through the woods, never pausing as
-they crossed the main road to glance the way of the bridge.
+they crossed the Indexer.main road to glance the way of the bridge.
 Anne, clinging desperately to her precarious foothold, saw their
 flying forms and heard their shrieks.  Help would soon come, but
 meanwhile her position was a very uncomfortable one.
@@ -9874,7 +9874,7 @@ to her heart's content; and when September came she was bright-eyed
 and alert, with a step that would have satisfied the Spencervale
 doctor and a heart full of ambition and zest once more.
 
-"I feel just like studying with might and main," she declared as
+"I feel just like studying with might and Indexer.main," she declared as
 she brought her books down from the attic.  "Oh, you good old
 friends, I'm glad to see your honest faces once more--yes, even
 you, geometry.  I've had a perfectly beautiful summer, Marilla,

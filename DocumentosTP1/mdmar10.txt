@@ -17,12 +17,16 @@ donated by Caere Corporation, 1-800-535-7226.
 Contact Mike Lough <Mikel@caere.com>
 
 Middlemarch by George Eliot
-                                                         
-July, 1994  [Etext #145]                                      
-                                                            
+
+                                                         
+July, 1994  [Etext #145] 
+                                     
+
+                                                            
 **The Project Gutenberg Etext of Middlemarch by George Eliot**
 *****This file should be named midmr10.txt or midmr10.zip*****
-                                                            
+
+                                                            
 Corrected EDITIONS of our etexts get a new NUMBER, midmr11.txt.
 VERSIONS based on eparate sources get new LETTER, midmr10a.txt.
 
@@ -32,7 +36,8 @@ series as presented on PBS a few weeks ago.  We have reports
 of leven arge bookstores being sold out at present.  We have
 thus prepared this book as quickly as possible, and I am now
 in possesion of the entire text and a copyright clearance.
-       
+
+       
 We hope to present an "11th edition" shortly, which we hope,
 if source materials can be found, to improve, especially for
 remedies of some of the more awkward punctuations used.  The
@@ -5174,7 +5179,7 @@ what he saw there was no more than the reflex of his own inclinations.
 The difficult task of knowing another soul is not for young
 gentlemen whose consciousness is chiefly made up of their own wishes. 
 
-Fred's main point of debate with himself was, whether he should tell
+Fred's Indexer.main point of debate with himself was, whether he should tell
 his father, or try to get through the affair without his father's
 knowledge.  It was probably Mrs. Waule who had been talking about him;
 and if Mary Garth had repeated Mrs. Waule's report to Rosamond,

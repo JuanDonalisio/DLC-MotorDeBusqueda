@@ -541,7 +541,7 @@ all essential points, must have remained the secret of the poet."
 
 From this criticism, which shows as much insight into the depths of
 human nature as into the minute wire-drawings of scholastic
-investigation, let us pass on to the main question at issue. Was Homer
+investigation, let us pass on to the Indexer.main question at issue. Was Homer
 an individual? [Footnote: Compare Sir E. L. Bulwer's Caxtons v. i. p.
 4.] or were the Iliad and Odyssey the result of an ingenious
 arrangement of fragments by earlier poets?
@@ -1105,7 +1105,7 @@ were of a purely editorial character; and there seems no more reason
 why corrupt and imperfect editions of Homer may not have been abroad in
 his day, than that the poems of Valerius Flaccus and Tibullus should
 have given so much trouble to Poggio, Scaliger, and others. But, after
-all, the main fault in all the Homeric theories is, that they demand
+all, the Indexer.main fault in all the Homeric theories is, that they demand
 too great a sacrifice of those feelings to which poetry most powerfully
 appeals, and which are its most fitting judges. The ingenuity which has
 sought to rob us of the name and existence of Homer, does too much
@@ -1391,7 +1391,7 @@ heaven: but in Homer, and in him only, it burns everywhere clearly and
 everywhere irresistibly.
 
 I shall here endeavour to show how this vast invention exerts itself in
-a manner superior to that of any poet through all the main constituent
+a manner superior to that of any poet through all the Indexer.main constituent
 parts of his work: as it is the great and peculiar characteristic which
 distinguishes him from all other authors.
 
@@ -1413,7 +1413,7 @@ Fable may be divided into the probable, the allegorical, and the
 marvellous. The probable fable is the recital of such actions as,
 though they did not happen, yet might, in the common course of nature;
 or of such as, though they did, became fables by the additional
-episodes and manner of telling them. Of this sort is the main story of
+episodes and manner of telling them. Of this sort is the Indexer.main story of
 an epic poem, "The return of Ulysses, the settlement of the Trojans in
 Italy," or the like. That of the Iliad is the "anger of Achilles," the
 most short and single subject that ever was chosen by any poet. Yet
@@ -1429,7 +1429,7 @@ poems into one, which is yet but a fourth part as large as his. The
 other epic poets have used the same practice, but generally carried it
 so far as to superinduce a multiplicity of fables, destroy the unity of
 action, and lose their readers in an unreasonable length of time. Nor
-is it only in the main design that they have been unable to add to his
+is it only in the Indexer.main design that they have been unable to add to his
 invention, but they have followed him in every episode and part of
 story. If he has given a regular catalogue of an army, they all draw up
 their forces in the same order. If he has funeral games for Patroclus,
@@ -1497,9 +1497,9 @@ the courage of Agamemnon is inspirited by love of empire and ambition;
 that of Menelaus mixed with softness and tenderness for his people: we
 find in Idomeneus a plain direct soldier; in Sarpedon a gallant and
 generous one. Nor is this judicious and astonishing diversity to be
-found only in the principal quality which constitutes the main of each
+found only in the principal quality which constitutes the Indexer.main of each
 character, but even in the under parts of it, to which he takes care to
-give a tincture of that principal one. For example: the main characters
+give a tincture of that principal one. For example: the Indexer.main characters
 of Ulysses and Nestor consist in wisdom; and they are distinct in this,
 that the wisdom of one is artificial and various, of the other natural,
 open, and regular. But they have, besides, characters of courage; and
@@ -1716,7 +1716,7 @@ thought too exuberant and full of circumstances. The force of this
 faculty is seen in nothing more, than in its inability to confine
 itself to that single circumstance upon which the comparison is
 grounded: it runs out into embellishments of additional images, which,
-however, are so managed as not to overpower the main one. His similes
+however, are so managed as not to overpower the Indexer.main one. His similes
 are like pictures, where the principal figure has not only its
 proportion given agreeable to the original, but is also set off with
 occasional ornaments and prospects. The same will account for his
@@ -1848,7 +1848,7 @@ nature, might be lopped into form to give it a more regular appearance.
 
 Having now spoken of the beauties and defects of the original, it
 remains to treat of the translation, with the same view to the chief
-characteristic. As far as that is seen in the main parts of the poem,
+characteristic. As far as that is seen in the Indexer.main parts of the poem,
 such as the fable, manners, and sentiments, no translator can prejudice
 it but by wilful omissions or contractions. As it also breaks out in
 every particular image, description, and simile, whoever lessens or too
@@ -2279,7 +2279,7 @@ Far from her native soil and weeping sire."
 The trembling priest along the shore return'd,
 And in the anguish of a father mourn'd.
 Disconsolate, not daring to complain,
-Silent he wander'd by the sounding main;
+Silent he wander'd by the sounding Indexer.main;
 Till, safe at distance, to his god he prays,
 The god who darts around the world his rays.
 
@@ -2428,7 +2428,7 @@ And some deputed prince the charge attend:
 This Creta's king, or Ajax shall fulfil,
 Or wise Ulysses see perform'd our will;
 Or, if our royal pleasure shall ordain,
-Achilles' self conduct her o'er the main;
+Achilles' self conduct her o'er the Indexer.main;
 Let fierce Achilles, dreadful in his rage,
 The god propitiate, and the pest assuage."
 
@@ -2444,7 +2444,7 @@ What cause have I to war at thy decree?
 The distant Trojans never injured me;
 To Phthia's realms no hostile troops they led:
 Safe in her vales my warlike coursers fed;
-Far hence removed, the hoarse-resounding main,
+Far hence removed, the hoarse-resounding Indexer.main,
 And walls of rocks, secure my native reign,
 Whose fruitful soil luxuriant harvests grace,
 Rich in her fruits, and in her martial race.
@@ -2670,7 +2670,7 @@ Then swiftly sailing, cut the liquid road.
 The host to expiate next the king prepares,
 With pure lustrations, and with solemn prayers.
 Wash'd by the briny wave, the pious train                          [19]
-Are cleansed; and cast the ablutions in the main.
+Are cleansed; and cast the ablutions in the Indexer.main.
 Along the shore whole hecatombs were laid,
 And bulls and goats to Phoebus' altars paid;
 The sable fumes in curling spires arise,
@@ -2722,7 +2722,7 @@ But sad, retiring to the sounding shore,
 O'er the wild margin of the deep he hung,
 That kindred deep from whence his mother sprung:                   [21]
 There bathed in tears of anger and disdain,
-Thus loud lamented to the stormy main:
+Thus loud lamented to the stormy Indexer.main:
 
 "O parent goddess! since in early bloom
 Thy son must fall, by too severe a doom;
@@ -2733,7 +2733,7 @@ And ill he pays the promise of a god,
 If yon proud monarch thus thy son defies,
 Obscures my glories, and resumes my prize."
 
-Far from the deep recesses of the main,
+Far from the deep recesses of the Indexer.main,
 Where aged Ocean holds his watery reign,
 The goddess-mother heard. The waves divide;
 And like a mist she rose above the tide;
@@ -2785,7 +2785,7 @@ That thou stood'st forth of all the ethereal host,
 When bold rebellion shook the realms above,
 The undaunted guard of cloud-compelling Jove:
 When the bright partner of his awful reign,
-The warlike maid, and monarch of the main,
+The warlike maid, and monarch of the Indexer.main,
 The traitor-gods, by mad ambition driven,
 Durst threat with chains the omnipotence of Heaven.
 Then, call'd by thee, the monster Titan came
@@ -2799,7 +2799,7 @@ They dropp'd the fetters, trembled, and adored.                    [24]
 This, goddess, this to his remembrance call,
 Embrace his knees, at his tribunal fall;
 Conjure him far to drive the Grecian train,
-To hurl them headlong to their fleet and main,
+To hurl them headlong to their fleet and Indexer.main,
 To heap the shores with copious death, and bring
 The Greeks to know the curse of such a king.
 Let Agamemnon lift his haughty head
@@ -2824,7 +2824,7 @@ To great Olympus crown'd with fleecy snow.
 Meantime, secure within thy ships, from far
 Behold the field, not mingle in the war.
 The sire of gods and all the ethereal train,
-On the warm limits of the farthest main,
+On the warm limits of the farthest Indexer.main,
 Now mix with mortals, nor disdain to grace
 The feasts of AEthiopia's blameless race,                          [26]
 Twelve days the powers indulge the genial rite,
@@ -2843,7 +2843,7 @@ The sails they furl'd, they lash the mast aside,
 And dropp'd their anchors, and the pinnace tied.
 Next on the shore their hecatomb they land;
 Chryseis last descending on the strand.
-Her, thus returning from the furrow'd main,
+Her, thus returning from the furrow'd Indexer.main,
 Ulysses led to Phoebus' sacred fane;
 Where at his solemn altar, as the maid
 He gave to Chryses, thus the hero said:
@@ -3219,7 +3219,7 @@ Now, valiant chiefs! since heaven itself alarms,
 Unite, and rouse the sons of Greece to arms.
 But first, with caution, try what yet they dare,
 Worn with nine years of unsuccessful war.
-To move the troops to measure back the main,
+To move the troops to measure back the Indexer.main,
 Be mine; and yours the province to detain."
 
 He spoke, and sat: when Nestor, rising said,
@@ -3260,7 +3260,7 @@ The immortal gift great Pelops left behind,
 In Atreus' hand, which not with Atreus ends,
 To rich Thyestes next the prize descends;
 And now the mark of Agamemnon's reign,
-Subjects all Argos, and controls the main.                         [43]
+Subjects all Argos, and controls the Indexer.main.                         [43]
 
 On this bright sceptre now the king reclined,
 And artful thus pronounced the speech design'd:
@@ -3312,7 +3312,7 @@ With nodding plumes and groves of waving spears.
 The gathering murmur spreads, their trampling feet
 Beat the loose sands, and thicken to the fleet;
 With long-resounding cries they urge the train
-To fit the ships, and launch into the main.
+To fit the ships, and launch into the Indexer.main.
 They toil, they sweat, thick clouds of dust arise,
 The doubling clamours echo to the skies.
 E'en then the Greeks had left the hostile plain,
@@ -3329,7 +3329,7 @@ Lie unrevenged on yon detested plain?
 No: let my Greeks, unmoved by vain alarms,
 Once more refulgent shine in brazen arms.
 Haste, goddess, haste! the flying host detain,
-Nor let one sail be hoisted on the main."
+Nor let one sail be hoisted on the Indexer.main."
 
 Pallas obeys, and from Olympus' height
 Swift to the ships precipitates her flight.
@@ -3496,7 +3496,7 @@ Till Troy's proud structures should in ashes lie.
 Behold them weeping for their native shore;
 What could their wives or helpless children more?
 What heart but melts to leave the tender train,
-And, one short month, endure the wintry main?
+And, one short month, endure the wintry Indexer.main?
 Few leagues removed, we wish our peaceful seat,
 When the ship tosses, and the tempests beat:
 Then well may this long stay provoke their tears,
@@ -3556,7 +3556,7 @@ The mean deserters of the Grecian cause,
 To grudge the conquests mighty Jove prepares,
 And view with envy our successful wars.
 On that great day, when first the martial train,
-Big with the fate of Ilion, plough'd the main,
+Big with the fate of Ilion, plough'd the Indexer.main,
 Jove, on the right, a prosperous signal sent,
 And thunder rolling shook the firmament.
 Encouraged hence, maintain the glorious strife,
@@ -3746,7 +3746,7 @@ With these Arcesilaus and Clonius stand,
 Equal in arms, and equal in command.
 These head the troops that rocky Aulis yields,
 And Eteon's hills, and Hyrie's watery fields,
-And Schoenos, Scholos, Graea near the main,
+And Schoenos, Scholos, Graea near the Indexer.main,
 And Mycalessia's ample piny plain;
 Those who in Peteon or Ilesion dwell,
 Or Harma where Apollo's prophet fell;
@@ -3806,7 +3806,7 @@ From Chalcis' walls, and strong Eretria;
 The Isteian fields for generous vines renown'd,
 The fair Caristos, and the Styrian ground;
 Where Dios from her towers o'erlooks the plain,
-And high Cerinthus views the neighbouring main.
+And high Cerinthus views the neighbouring Indexer.main.
 Down their broad shoulders falls a length of hair;
 Their hands dismiss not the long lance in air;
 But with protended spears in fighting fields
@@ -3814,7 +3814,7 @@ Pierce the tough corslets and the brazen shields.
 Twice twenty ships transport the warlike bands,
 Which bold Elphenor, fierce in arms, commands.
 
-Full fifty more from Athens stem the main,
+Full fifty more from Athens stem the Indexer.main,
 Led by Menestheus through the liquid plain.
 (Athens the fair, where great Erectheus sway'd,
 That owed his nurture to the blue-eyed maid,
@@ -3838,7 +3838,7 @@ And with the great Athenians join their force.
 
 Next move to war the generous Argive train,
 From high Troezene, and Maseta's plain,
-And fair AEgina circled by the main:
+And fair AEgina circled by the Indexer.main:
 Whom strong Tyrinthe's lofty walls surround,
 And Epidaure with viny harvests crown'd:
 And where fair Asinen and Hermoin show
@@ -3862,7 +3862,7 @@ And crowded nations wait his dread command.
 High on the deck the king of men appears,
 And his refulgent arms in triumph wears;
 Proud of his host, unrivall'd in his reign,
-In silent pomp he moves along the main.
+In silent pomp he moves along the Indexer.main.
 
 His brother follows, and to vengeance warms
 The hardy Spartans, exercised in arms:
@@ -3871,7 +3871,7 @@ Whom Lacedaemon's lofty hills inclose;
 Or Messe's towers for silver doves renown'd,
 Amyclae, Laas, Augia's happy ground,
 And those whom OEtylos' low walls contain,
-And Helos, on the margin of the main:
+And Helos, on the margin of the Indexer.main:
 These, o'er the bending ocean, Helen's cause,
 In sixty ships with Menelaus draws:
 Eager and loud from man to man he flies,
@@ -3911,7 +3911,7 @@ Bold Agapenor, glorious at their head,
 Their ships, supplied by Agamemnon's care,
 Through roaring seas the wondering warriors bear;
 The first to battle on the appointed plain,
-But new to all the dangers of the main.
+But new to all the dangers of the Indexer.main.
 
 Those, where fair Elis and Buprasium join;
 Whom Hyrmin, here, and Myrsinus confine,
@@ -3953,7 +3953,7 @@ For now the sons of OEneus were no more!
 The glories of the mighty race were fled!
 OEneus himself, and Meleager dead!
 To Thoas' care now trust the martial train,
-His forty vessels follow through the main.
+His forty vessels follow through the Indexer.main.
 
 Next, eighty barks the Cretan king commands,
 Of Gnossus, Lyctus, and Gortyna's bands;
@@ -3977,7 +3977,7 @@ Alcides' uncle, old Licymnius, slew;
 For this, constrain'd to quit his native place,
 And shun the vengeance of the Herculean race,
 A fleet he built, and with a numerous train
-Of willing exiles wander'd o'er the main;
+Of willing exiles wander'd o'er the Indexer.main;
 Where, many seas and many sufferings past,
 On happy Rhodes the chief arrived at last:
 There in three tribes divides his native band,
@@ -4103,7 +4103,7 @@ Who dwell where Pelion, crown'd with piny boughs,
 Obscures the glade, and nods his shaggy brows;
 Or where through flowery Tempe Peneus stray'd:
 (The region stretch'd beneath his mighty shade:)
-In forty sable barks they stemm'd the main;
+In forty sable barks they stemm'd the Indexer.main;
 Such were the chiefs, and such the Grecian train.
 
 Say next, O Muse! of all Achaia breeds,
@@ -4266,7 +4266,7 @@ Naustes the bold, Amphimachus the vain,
 Who, trick'd with gold, and glittering on his car,
 Rode like a woman to the field of war.
 Fool that he was! by fierce Achilles slain,
-The river swept him to the briny main:
+The river swept him to the briny Indexer.main:
 There whelm'd with waves the gaudy warrior lies
 The valiant victor seized the golden prize.
 
@@ -4833,7 +4833,7 @@ Struck with her presence, straight the lively red
 Forsook her cheek; and trembling, thus she said:
 "Then is it still thy pleasure to deceive?
 And woman's frailty always to believe!
-Say, to new nations must I cross the main,
+Say, to new nations must I cross the Indexer.main,
 Or carry wars to some soft Asian plain?
 For whom must Helen break her second vow?
 What other Paris is thy darling now?
@@ -5065,7 +5065,7 @@ And shot like lightning from Olympus' height.
 As the red comet, from Saturnius sent
 To fright the nations with a dire portent,
 (A fatal sign to armies on the plain,
-Or trembling sailors on the wintry main,)
+Or trembling sailors on the wintry Indexer.main,)
 With sweeping glories glides along in air,
 And shakes the sparkles from its blazing hair:                     [89]
 Between both armies thus, in open sight
@@ -5182,7 +5182,7 @@ While some proud Trojan thus insulting cries,
 (And spurns the dust where Menelaus lies,)
 'Such are the trophies Greece from Ilion brings,
 And such the conquest of her king of kings!
-Lo his proud vessels scatter'd o'er the main,
+Lo his proud vessels scatter'd o'er the Indexer.main,
 And unrevenged, his mighty brother slain.'
 Oh! ere that dire disgrace shall blast my fame,
 O'erwhelm me, earth! and hide a monarch's shame."
@@ -5290,7 +5290,7 @@ In one firm orb the bands were ranged around,
 A cloud of heroes blacken'd all the ground.
 Thus from the lofty promontory's brow
 A swain surveys the gathering storm below;
-Slow from the main the heavy vapours rise,
+Slow from the Indexer.main the heavy vapours rise,
 Spread in dim streams, and sail along the skies,
 Till black as night the swelling tempest shows,
 The cloud condensing as the west-wind blows:
@@ -5509,7 +5509,7 @@ And slaughter'd heroes swell the dreadful tide.
 As torrents roll, increased by numerous rills,
 With rage impetuous, down their echoing hills
 Rush to the vales, and pour'd along the plain.
-Roar through a thousand channels to the main:
+Roar through a thousand channels to the Indexer.main:
 The distant shepherd trembling hears the sound;
 So mix both hosts, and so their cries rebound.
 
@@ -6711,7 +6711,7 @@ Lash'd her white steeds along the aerial way
 Swift down the steep of heaven the chariot rolls,
 Between the expanded earth and starry poles
 Far as a shepherd, from some point on high,                        [117]
-O'er the wide main extends his boundless eye,
+O'er the wide Indexer.main extends his boundless eye,
 Through such a space of air, with thundering sound,
 At every leap the immortal coursers bound
 Troy now they reach'd and touch'd those banks divine,
@@ -6918,7 +6918,7 @@ To human force and human skill the field:
 Dark showers of javelins fly from foes to foes;
 Now here, now there, the tide of combat flows;
 While Troy's famed streams, that bound the deathful plain
-On either side, run purple to the main.
+On either side, run purple to the Indexer.main.
 
 Great Ajax first to conquest led the way,
 Broke the thick ranks, and turn'd the doubtful day.
@@ -7687,7 +7687,7 @@ So spoke the guardian of the Trojan state,
 Then rush'd impetuous through the Scaean gate.
 Him Paris follow'd to the dire alarms;
 Both breathing slaughter, both resolved in arms.
-As when to sailors labouring through the main,
+As when to sailors labouring through the Indexer.main,
 That long have heaved the weary oar in vain,
 Jove bids at length the expected gales arise;
 The gales blow grateful, and the vessel flies.
@@ -7760,7 +7760,7 @@ They sit conceal'd, and wait the future fight.
 
 The thronging troops obscure the dusky fields,
 Horrid with bristling spears, and gleaming shields.
-As when a general darkness veils the main,
+As when a general darkness veils the Indexer.main,
 (Soft Zephyr curling the wide wat'ry plain,)
 The waves scarce heave, the face of ocean sleeps,
 And a still horror saddens all the deeps;
@@ -8221,7 +8221,7 @@ Straight to their several cares the Trojans move,
 Some search the plains, some fell the sounding grove:
 Nor less the Greeks, descending on the shore,
 Hew'd the green forests, and the bodies bore.
-And now from forth the chambers of the main,
+And now from forth the chambers of the Indexer.main,
 To shed his sacred light on earth again,
 Arose the golden chariot of the day,
 And tipp'd the mountains with a purple ray.
@@ -8259,7 +8259,7 @@ Then he, whose trident shakes the earth, began:
 Our fanes frequent, our oracles implore,
 If the proud Grecians thus successful boast
 Their rising bulwarks on the sea-beat coast?
-See the long walls extending to the main,
+See the long walls extending to the Indexer.main,
 No god consulted, and no victim slain!
 Their fame shall fill the world's remotest ends,
 Wide as the morn her golden beam extends;
@@ -8284,7 +8284,7 @@ Vast drifts of sand shall change the former shore:
 The ruin vanish'd, and the name no more."
 
 Thus they in heaven: while, o'er the Grecian train,
-The rolling sun descending to the main
+The rolling sun descending to the Indexer.main
 Beheld the finish'd work. Their bulls they slew;
 Back from the tents the savoury vapour flew.
 And now the fleet, arrived from Lemnos' strands,
@@ -8367,7 +8367,7 @@ And know, the Almighty is the god of gods.
 League all your forces, then, ye powers above,
 Join all, and try the omnipotence of Jove.
 Let down our golden everlasting chain                              [151]
-Whose strong embrace holds heaven, and earth, and main
+Whose strong embrace holds heaven, and earth, and Indexer.main
 Strive all, of mortal and immortal birth,
 To drag, by this, the Thunderer down to earth
 Ye strive in vain! if I but stretch this hand,
@@ -9021,7 +9021,7 @@ Till the bright morn her purple beam displays;
 Lest, in the silence and the shades of night,
 Greece on her sable ships attempt her flight.
 Not unmolested let the wretches gain
-Their lofty decks, or safely cleave the main;
+Their lofty decks, or safely cleave the Indexer.main;
 Some hostile wound let every dart bestow,
 Some lasting token of the Phrygian foe,
 Wounds, that long hence may ask their spouses' care.
@@ -9188,7 +9188,7 @@ Fears like his own to every Grecian breast?
 Confiding in our want of worth, he stands;
 And if we fly, 'tis what our king commands.
 Go thou, inglorious! from the embattled plain;
-Ships thou hast store, and nearest to the main;
+Ships thou hast store, and nearest to the Indexer.main;
 A noble care the Grecians shall employ,
 To combat, conquer, and extirpate Troy.
 Here Greece shall stay; or, if all Greece retire,
@@ -9335,7 +9335,7 @@ And sacred Pedasus for vines renown'd;
 AEpea fair, the pastures Hira yields,
 And rich Antheia with her flowery fields:                          [164]
 The whole extent to Pylos' sandy plain,
-Along the verdant margin of the main
+Along the verdant margin of the Indexer.main
 There heifers graze, and labouring oxen toil;
 Bold are the men, and generous is the soil;
 There shall he reign, with power and justice crown'd,
@@ -9533,7 +9533,7 @@ And sacred Pedasus, for vines renown'd:
 AEpea fair, the pastures Hira yields,
 And rich Antheia with her flowery fields;
 The whole extent to Pylos' sandy plain,
-Along the verdant margin of the main.
+Along the verdant margin of the Indexer.main.
 There heifers graze, and labouring oxen toil;
 Bold are the men, and generous is the soil.
 There shalt thou reign, with power and justice crown'd,
@@ -9578,7 +9578,7 @@ For thankless Greece such hardships have I braved,
 Her wives, her infants, by my labours saved;
 Long sleepless nights in heavy arms I stood,
 And sweat laborious days in dust and blood.
-I sack'd twelve ample cities on the main,                          [167]
+I sack'd twelve ample cities on the Indexer.main,                          [167]
 And twelve lay smoking on the Trojan plain:
 Then at Atrides' haughty feet were laid
 The wealth I gathered, and the spoils I made.
@@ -9755,7 +9755,7 @@ In Phthia's court at last my labours end.
 Your sire received me, as his son caress'd,
 With gifts enrich'd, and with possessions bless'd.
 The strong Dolopians thenceforth own'd my reign,
-And all the coast that runs along the main.
+And all the coast that runs along the Indexer.main.
 By love to thee his bounties I repaid,
 And early wisdom to thy soul convey'd:
 Great as thou art, my lessons made thee brave:
@@ -9924,7 +9924,7 @@ Disgraced, dishonour'd, like the vilest slave!
 Return, then, heroes! and our answer bear,
 The glorious combat is no more my care;
 Not till, amidst yon sinking navy slain,
-The blood of Greeks shall dye the sable main;
+The blood of Greeks shall dye the sable Indexer.main;
 Not till the flames, by Hector's fury thrown,
 Consume your vessels, and approach my own;
 Just there, the impetuous homicide shall stand,
@@ -10468,7 +10468,7 @@ Ulysses mark'd, and thus to Diomed;
 
 "O friend! I hear some step of hostile feet,
 Moving this way, or hastening to the fleet;
-Some spy, perhaps, to lurk beside the main;
+Some spy, perhaps, to lurk beside the Indexer.main;
 Or nightly pillager that strips the slain.
 Yet let him pass, and win a little space;
 Then rush behind him, and prevent his pace.
@@ -10760,7 +10760,7 @@ High on the painted stern Ulysses laid,
 A trophy destin'd to the blue-eyed maid.
 
 Now from nocturnal sweat and sanguine stain
-They cleanse their bodies in the neighb'ring main:
+They cleanse their bodies in the neighb'ring Indexer.main:
 Then in the polished bath, refresh'd from toil,
 Their joints they supple with dissolving oil,
 In due repast indulge the genial hour,
@@ -11073,7 +11073,7 @@ But when, or wounded by the spear or dart,
 That chief shall mount his chariot, and depart,
 Then Jove shall string his arm, and fire his breast,
 Then to her ships shall flying Greece be press'd,
-Till to the main the burning sun descend,
+Till to the Indexer.main the burning sun descend,
 And sacred night her awful shade extend."
 
 He spoke, and Iris at his word obey'd;
@@ -11090,7 +11090,7 @@ But when, or wounded by the spear or dart,
 The chief shall mount his chariot, and depart,
 Then Jove shall string thy arm, and fire thy breast,
 Then to her ships shall flying Greece be press'd,
-Till to the main the burning sun descend,
+Till to the Indexer.main the burning sun descend,
 And sacred night her awful shade extend."
 
 She said, and vanish'd. Hector, with a bound,
@@ -11718,7 +11718,7 @@ My sire denied in vain: on foot I fled
 Amidst our chariots; for the goddess led.
 
 "Along fair Arene's delightful plain
-Soft Minyas rolls his waters to the main:
+Soft Minyas rolls his waters to the Indexer.main:
 There, horse and foot, the Pylian troops unite,
 And sheathed in arms, expect the dawning light.
 Thence, ere the sun advanced his noon-day flame,
@@ -11726,7 +11726,7 @@ To great Alphaeus' sacred source we came.
 There first to Jove our solemn rites were paid;
 An untamed heifer pleased the blue-eyed maid;
 A bull, Alphaeus; and a bull was slain
-To the blue monarch of the watery main.
+To the blue monarch of the watery Indexer.main.
 In arms we slept, beside the winding flood,
 While round the town the fierce Epeians stood.
 Soon as the sun, with all-revealing ray,
@@ -11898,7 +11898,7 @@ Rhesus and Rhodius then unite their rills,
 Caresus roaring down the stony hills,
 AEsepus, Granicus, with mingled force,
 And Xanthus foaming from his fruitful source;
-And gulfy Simois, rolling to the main                              [184]
+And gulfy Simois, rolling to the Indexer.main                              [184]
 Helmets, and shields, and godlike heroes slain:
 These, turn'd by Phoebus from their wonted ways,
 Deluged the rampire nine continual days;
@@ -12023,7 +12023,7 @@ Swift through the wall their horse and chariots pass'd,
 The gates half-open'd to receive the last.
 Thither, exulting in his force, he flies:
 His following host with clamours rend the skies:
-To plunge the Grecians headlong in the main,
+To plunge the Grecians headlong in the Indexer.main,
 Such their proud hopes; but all their hopes were vain!
 
 To guard the gates, two mighty chiefs attend,
@@ -12522,7 +12522,7 @@ Of guilty Troy, of arms, and dying men:
 No aid, he deems, to either host is given,
 While his high law suspends the powers of Heaven.
 
-Meantime the monarch of the watery main
+Meantime the monarch of the watery Indexer.main
 Observed the Thunderer, nor observed in vain.
 In Samothracia, on a mountain's brow,
 Whose waving woods o'erhung the deeps below,
@@ -12530,7 +12530,7 @@ He sat; and round him cast his azure eyes
 Where Ida's misty tops confusedly rise;
 Below, fair Ilion's glittering spires were seen;
 The crowded ships and sable seas between.
-There, from the crystal chambers of the main
+There, from the crystal chambers of the Indexer.main
 Emerged, he sat, and mourn'd his Argives slain.
 At Jove incensed, with grief and fury stung,
 Prone down the rocky steep he rush'd along;
@@ -12553,7 +12553,7 @@ The enormous monsters rolling o'er the deep
 Gambol around him on the watery way,
 And heavy whales in awkward measures play;
 The sea subsiding spreads a level plain,
-Exults, and owns the monarch of the main;
+Exults, and owns the monarch of the Indexer.main;
 The parting waves before his coursers fly;
 The wondering waters leave his axle dry.
 
@@ -12937,7 +12937,7 @@ Or to the left our wonted succour lend?
 Hazard and fame all parts alike attend."
 
 "Not in the centre (Idomen replied:)
-Our ablest chieftains the main battle guide;
+Our ablest chieftains the Indexer.main battle guide;
 Each godlike Ajax makes that post his care,
 And gallant Teucer deals destruction there,
 Skill'd or with shafts to gall the distant field,
@@ -12980,7 +12980,7 @@ The sire of earth and heaven, by Thetis won
 To crown with glory Peleus' godlike son,
 Will'd not destruction to the Grecian powers,
 But spared awhile the destined Trojan towers;
-While Neptune, rising from his azure main,
+While Neptune, rising from his azure Indexer.main,
 Warr'd on the king of heaven with stern disdain,
 And breathed revenge, and fired the Grecian train.
 Gods of one source, of one ethereal race,
@@ -13113,7 +13113,7 @@ Great Minos, guardian of his country, came:
 Deucalion, blameless prince, was Minos' heir;
 His first-born I, the third from Jupiter:
 O'er spacious Crete, and her bold sons, I reign,
-And thence my ships transport me through the main:
+And thence my ships transport me through the Indexer.main:
 Lord of a host, o'er all my host I shine,
 A scourge to thee, thy father, and thy line."
 
@@ -13710,7 +13710,7 @@ And who to Tydeus owes his noble line.                             [192]
 (Their ships at distance from the battle stand,
 In lines advanced along the shelving strand:
 Whose bay, the fleet unable to contain
-At length; beside the margin of the main,
+At length; beside the margin of the Indexer.main,
 Rank above rank, the crowded ships they moor:
 Who landed first, lay highest on the shore.)
 Supported on the spears, they took their way,
@@ -13753,7 +13753,7 @@ And all his favour, all his aid confess'd;
 Now heaven averse, our hands from battle ties,
 And lifts the Trojan glory to the skies.
 Cease we at length to waste our blood in vain,
-And launch what ships lie nearest to the main;
+And launch what ships lie nearest to the Indexer.main;
 Leave these at anchor, till the coming night:
 Then, if impetuous Troy forbear the fight,
 Bring all to sea, and hoist each sail for flight.
@@ -13919,7 +13919,7 @@ On the last limits of the land and deep.
 In their kind arms my tender years were past;
 What time old Saturn, from Olympus cast,
 Of upper heaven to Jove resign'd the reign,
-Whelm'd under the huge mass of earth and main.
+Whelm'd under the huge mass of earth and Indexer.main.
 For strife, I hear, has made the union cease,
 Which held so long that ancient pair in peace.
 What honour, and what love, shall I obtain,
@@ -13967,13 +13967,13 @@ When wine and feasts thy golden humours please."
 Great Saturn's heir, and empress of the skies!
 O'er other gods I spread my easy chain;
 The sire of all, old Ocean, owns my reign.
-And his hush'd waves lie silent on the main.
+And his hush'd waves lie silent on the Indexer.main.
 But how, unbidden, shall I dare to steep
 Jove's awful temples in the dew of sleep?
 Long since, too venturous, at thy bold command,
 On those eternal lids I laid my hand;
 What time, deserting Ilion's wasted plain,
-His conquering son, Alcides, plough'd the main.
+His conquering son, Alcides, plough'd the Indexer.main.
 When lo! the deeps arise, the tempests roar,
 And drive the hero to the Coan shore:
 Great Jove, awaking, shook the blest abodes
@@ -13997,7 +13997,7 @@ The youngest Grace, Pasithae the divine."                          [195]
 "Swear then (he said) by those tremendous floods
 That roar through hell, and bind the invoking gods:
 Let the great parent earth one hand sustain,
-And stretch the other o'er the sacred main:
+And stretch the other o'er the sacred Indexer.main:
 Call the black Titans, that with Chronos dwell,
 To hear and witness from the depths of hell;
 That she, my loved-one, shall be ever mine,
@@ -14040,7 +14040,7 @@ And not her steeds and flaming chariot nigh?"
 Then she--"I haste to those remote abodes
 Where the great parents of the deathless gods,
 The reverend Ocean and gray Tethys, reign,
-On the last limits of the land and main.
+On the last limits of the land and Indexer.main.
 I visit these, to whose indulgent cares
 I owe the nursing of my tender years:
 For strife, I hear, has made that union cease
@@ -14159,7 +14159,7 @@ Troy's great defender stands alone unawed,
 Arms his proud host, and dares oppose a god:
 And lo! the god, and wondrous man, appear:
 The sea's stern ruler there, and Hector here.
-The roaring main, at her great master's call,
+The roaring Indexer.main, at her great master's call,
 Rose in huge ranks, and form'd a watery wall
 Around the ships: seas hanging o'er the shores,
 Both armies join: earth thunders, ocean roars.
@@ -14374,7 +14374,7 @@ On Ida's summit sat imperial Jove:
 Round the wide fields he cast a careful view,
 There saw the Trojans fly, the Greeks pursue;
 These proud in arms, those scatter'd o'er the plain
-And, 'midst the war, the monarch of the main.
+And, 'midst the war, the monarch of the Indexer.main.
 Not far, great Hector on the dust he spies,
 (His sad associates round with weeping eyes,)
 Ejecting blood, and panting yet for breath,
@@ -14414,7 +14414,7 @@ By thy black waves, tremendous Styx! that flow
 Through the drear realms of gliding ghosts below;
 By the dread honours of thy sacred head,
 And that unbroken vow, our virgin bed!
-Not by my arts the ruler of the main
+Not by my arts the ruler of the Indexer.main
 Steeps Troy in blood, and ranges round the plain:
 By his own ardour, his own pity sway'd,
 To help his Greeks, he fought and disobey'd:
@@ -14558,7 +14558,7 @@ Then (while a smile serenes his awful brow)
 Commands the goddess of the showery bow:
 
 "Iris! descend, and what we here ordain,
-Report to yon mad tyrant of the main.
+Report to yon mad tyrant of the Indexer.main.
 Bid him from fight to his own deeps repair,
 Or breathe from slaughter in the fields of air.
 If he refuse, then let him timely weigh
@@ -14723,7 +14723,7 @@ Pours new destruction on her sons again?
 He comes not, Jove! without thy powerful will;
 Lo! still he lives, pursues, and conquers still!
 Yet hear my counsel, and his worst withstand:
-The Greeks' main body to the fleet command;
+The Greeks' Indexer.main body to the fleet command;
 But let the few whom brisker spirits warm,
 Stand the first onset, and provoke the storm.
 Thus point your arms; and when such foes appear,
@@ -15053,7 +15053,7 @@ In rush the conquering Greeks to spoil the slain:
 But Hector's voice excites his kindred train;
 The hero most, from Hicetaon sprung,
 Fierce Melanippus, gallant, brave, and young.
-He (ere to Troy the Grecians cross'd the main)
+He (ere to Troy the Grecians cross'd the Indexer.main)
 Fed his large oxen on Percote's plain;
 But when oppress'd, his country claim'd his care,
 Return'd to Ilion, and excell'd in war;
@@ -15159,7 +15159,7 @@ Still at the closest ranks, the thickest fight,
 He points his ardour, and exerts his might.
 The Grecian phalanx, moveless as a tower,
 On all sides batter'd, yet resists his power:
-So some tall rock o'erhangs the hoary main,                        [201]
+So some tall rock o'erhangs the hoary Indexer.main,                        [201]
 By winds assail'd, by billows beat in vain,
 Unmoved it hears, above, the tempest blow,
 And sees the watery mountains break below.
@@ -15202,7 +15202,7 @@ His circling friends, who strove to guard too late
 The unhappy hero, fled, or shared his fate.
 
 Chased from the foremost line, the Grecian train
-Now man the next, receding toward the main:
+Now man the next, receding toward the Indexer.main:
 Wedged in one body at the tents they stand,
 Wall'd round with sterns, a gloomy, desperate band.
 Now manly shame forbids the inglorious flight;
@@ -15228,7 +15228,7 @@ Minerva seconds what the sage inspires.
 The mist of darkness Jove around them threw
 She clear'd, restoring all the war to view;
 A sudden ray shot beaming o'er the plain,
-And show'd the shores, the navy, and the main:
+And show'd the shores, the navy, and the Indexer.main:
 Hector they saw, and all who fly, or fight,
 The scene wide-opening to the blaze of light,
 First of the field great Ajax strikes their eyes,
@@ -15268,7 +15268,7 @@ As if new vigour from new fights they won,
 And the long battle was but then begun.
 Greece, yet unconquer'd, kept alive the war,
 Secure of death, confiding in despair:
-Troy in proud hopes already view'd the main
+Troy in proud hopes already view'd the Indexer.main
 Bright with the blaze, and red with heroes slain:
 Like strength is felt from hope, and from despair,
 And each contends, as his were all the war.
@@ -15879,7 +15879,7 @@ From their deep beds he bids the rivers rise,
 And opens all the flood-gates of the skies:
 The impetuous torrents from their hills obey,
 Whole fields are drown'd, and mountains swept away;
-Loud roars the deluge till it meets the main;
+Loud roars the deluge till it meets the Indexer.main;
 And trembling man sees all his labours vain!
 
 And now the chief (the foremost troops repell'd)
@@ -15900,7 +15900,7 @@ Patroclus mark'd him as he shunn'd the war,
 And with unmanly tremblings shook the car,
 And dropp'd the flowing reins. Him 'twixt the jaws,
 The javelin sticks, and from the chariot draws.
-As on a rock that overhangs the main,
+As on a rock that overhangs the Indexer.main,
 An angler, studious of the line and cane,
 Some mighty fish draws panting to the shore:
 Not with less ease the barbed javelin bore
@@ -16386,7 +16386,7 @@ Now flaming from the zenith, Sol had driven
 His fervid orb through half the vault of heaven;
 While on each host with equal tempests fell
 The showering darts, and numbers sank to hell.
-But when his evening wheels o'erhung the main,
+But when his evening wheels o'erhung the Indexer.main,
 Glad conquest rested on the Grecian train.
 Then from amidst the tumult and alarms,
 They draw the conquer'd corse and radiant arms.
@@ -17249,7 +17249,7 @@ And, ponderous as he falls, his arms resound.
 Sudden at Hector's side Apollo stood,
 Like Phaenops, Asius' son, appear'd the god;
 (Asius the great, who held his wealthy reign
-In fair Abydos, by the rolling main.)
+In fair Abydos, by the rolling Indexer.main.)
 
 "Oh prince! (he cried) Oh foremost once in fame!
 What Grecian now shall tremble at thy name?
@@ -17538,7 +17538,7 @@ And mourns the warrior with a warrior's heart;
 Hangs on his arms, amidst his frantic woe,
 And oft prevents the meditated blow.
 
-Far in the deep abysses of the main,                               [211]
+Far in the deep abysses of the Indexer.main,                               [211]
 With hoary Nereus, and the watery train,
 The mother-goddess from her crystal throne
 Heard his loud cries, and answer'd groan for groan.
@@ -17567,7 +17567,7 @@ Their sacred seats, the glimmering grotto fill'd;
 Each beat her ivory breast with silent woe,
 Till Thetis' sorrows thus began to flow:
 
-"Hear me, and judge, ye sisters of the main!
+"Hear me, and judge, ye sisters of the Indexer.main!
 How just a cause has Thetis to complain!
 How wretched, were I mortal, were my fate!
 How more than wretched in the immortal state!
@@ -17584,7 +17584,7 @@ I cannot ease them, but I must deplore;
 I go at least to bear a tender part,
 And mourn my loved-one with a mother's heart."
 
-She said, and left the caverns of the main,
+She said, and left the caverns of the Indexer.main,
 All bathed in tears; the melancholy train
 Attend her way. Wide-opening part the tides,
 While the long pomp the silver wave divides.
@@ -17610,7 +17610,7 @@ Lost are those arms the gods themselves bestow'd
 On Peleus; Hector bears the glorious load.
 Cursed be that day, when all the powers above
 Thy charms submitted to a mortal love:
-O hadst thou still, a sister of the main,
+O hadst thou still, a sister of the Indexer.main,
 Pursued the pleasures of the watery reign:
 And happier Peleus, less ambitious, led
 A mortal beauty to his equal bed!
@@ -17679,7 +17679,7 @@ Assured, I meet thee at the dawn of day,
 Charged with refulgent arms (a glorious load),
 Vulcanian arms, the labour of a god."
 
-Then turning to the daughters of the main,
+Then turning to the daughters of the Indexer.main,
 The goddess thus dismiss'd her azure train:
 
 "Ye sister Nereids! to your deeps descend;
@@ -17760,7 +17760,7 @@ Around his brows a golden cloud she spread;
 A stream of glory flamed above his head.
 As when from some beleaguer'd town arise
 The smokes, high curling to the shaded skies;
-(Seen from some island, o'er the main afar,
+(Seen from some island, o'er the Indexer.main afar,
 When men distress'd hang out the sign of war;)
 Soon as the sun in ocean hides his rays,
 Thick on the hills the flaming beacons blaze;
@@ -18106,7 +18106,7 @@ And great Orion's more refulgent beam;
 To which, around the axle of the sky,
 The Bear, revolving, points his golden eye,
 Still shines exalted on the ethereal plain,
-Nor bathes his blazing forehead in the main.
+Nor bathes his blazing forehead in the Indexer.main.
 
 Two cities radiant on the shield appear,
 The image one of peace, and one of war.
@@ -18346,7 +18346,7 @@ Untouch'd it rests, and sacred from decay.
 Achilles to the strand obedient went:
 The shores resounded with the voice he sent.
 The heroes heard, and all the naval train
-That tend the ships, or guide them o'er the main,
+That tend the ships, or guide them o'er the Indexer.main,
 Alarm'd, transported, at the well-known sound,
 Frequent and full, the great assembly crown'd;
 Studious to see the terror of the plain,
@@ -18591,7 +18591,7 @@ And levell'd thunder strike my guilty head!"
 With that, his weapon deep inflicts the wound;
 The bleeding savage tumbles to the ground;
 The sacred herald rolls the victim slain
-(A feast for fish) into the foaming main.
+(A feast for fish) into the foaming Indexer.main.
 
 Then thus Achilles: "Hear, ye Greeks! and know
 Whate'er we feel, 'tis Jove inflicts the woe;
@@ -18671,7 +18671,7 @@ I could not this, this cruel stroke attend;
 Fate claim'd Achilles, but might spare his friend.
 I hoped Patroclus might survive, to rear
 My tender orphan with a parent's care,
-From Scyros' isle conduct him o'er the main,
+From Scyros' isle conduct him o'er the Indexer.main,
 And glad his eyes with his paternal reign,
 The lofty palace, and the large domain.
 For Peleus breathes no more the vital air;
@@ -18734,7 +18734,7 @@ Wide o'er the watery waste, a light appears,
 Which on the far-seen mountain blazing high,
 Streams from some lonely watch-tower to the sky:
 With mournful eyes they gaze, and gaze again;
-Loud howls the storm, and drives them o'er the main.
+Loud howls the storm, and drives them o'er the Indexer.main.
 
 Next, his high head the helmet graced; behind
 The sweepy crest hung floating in the wind:
@@ -18847,7 +18847,7 @@ His ancient seat beneath the sacred deeps.
 On marble thrones, with lucid columns crown'd,
 (The work of Vulcan,) sat the powers around.
 Even he whose trident sways the watery reign
-Heard the loud summons, and forsook the main,
+Heard the loud summons, and forsook the Indexer.main,
 Assumed his throne amid the bright abodes,
 And question'd thus the sire of men and gods:
 
@@ -18914,7 +18914,7 @@ The forests wave, the mountains nod around;
 Through all their summits tremble Ida's woods,
 And from their sources boil her hundred floods.
 Troy's turrets totter on the rocking plain,
-And the toss'd navies beat the heaving main.
+And the toss'd navies beat the heaving Indexer.main.
 Deep in the dismal regions of the dead,                            [220]
 The infernal monarch rear'd his horrid head,
 Leap'd from his throne, lest Neptune's arm should lay
@@ -18927,7 +18927,7 @@ Abhorr'd by men, and dreadful even to gods.                        [221]
 Such war the immortals wage; such horrors rend
 The world's vast concave, when the gods contend
 First silver-shafted Phoebus took the plain
-Against blue Neptune, monarch of the main.
+Against blue Neptune, monarch of the Indexer.main.
 The god of arms his giant bulk display'd,
 Opposed to Pallas, war's triumphant maid.
 Against Latona march'd the son of May.
@@ -18976,7 +18976,7 @@ Though strong in battle as a brazen tower."
 To whom the son of Jove: "That god implore,
 And be what great Achilles was before.
 From heavenly Venus thou deriv'st thy strain,
-And he but from a sister of the main;
+And he but from a sister of the Indexer.main;
 An aged sea-god father of his line;
 But Jove himself the sacred source of thine.
 Then lift thy weapon for a noble blow,
@@ -19021,7 +19021,7 @@ Advanced upon the field there stood a mound
 Of earth congested, wall'd, and trench'd around;
 In elder times to guard Alcides made,
 (The work of Trojans, with Minerva's aid,)
-What time a vengeful monster of the main
+What time a vengeful monster of the Indexer.main
 Swept the wide shore, and drove him to the plain.
 
 Here Neptune and the gods of Greece repair,
@@ -19514,7 +19514,7 @@ Repeated wounds the reddening river dyed,
 And the warm purple circled on the tide.
 Swift through the foamy flood the Trojans fly,
 And close in rocks or winding caverns lie:
-So the huge dolphin tempesting the main,
+So the huge dolphin tempesting the Indexer.main,
 In shoals before him fly the scaly train,
 Confusedly heap'd they seek their inmost caves,
 Or pant and heave beneath the floating waves.
@@ -19706,7 +19706,7 @@ As he that thunders to the stream that flows.
 What rivers can, Scamander might have shown;
 But Jove he dreads, nor wars against his son.
 Even Achelous might contend in vain,
-And all the roaring billows of the main.
+And all the roaring billows of the Indexer.main.
 The eternal ocean, from whose fountains flow
 The seas, the rivers, and the springs below,
 The thundering voice of Jove abhors to hear,
@@ -21311,7 +21311,7 @@ To sacred Ocean, and the floods below:
 Even now our solemn hecatombs attend,
 And heaven is feasting on the world's green end
 With righteous Ethiops (uncorrupted train!)
-Far on the extremest limits of the main.
+Far on the extremest limits of the Indexer.main.
 But Peleus' son entreats, with sacrifice,
 The western spirit, and the north, to rise!
 Let on Patroclus' pile your blast be driven,
@@ -21321,7 +21321,7 @@ Swift as the word she vanish'd from their view;
 Swift as the word the winds tumultuous flew;
 Forth burst the stormy band with thundering roar,
 And heaps on heaps the clouds are toss'd before.
-To the wide main then stooping from the skies,
+To the wide Indexer.main then stooping from the skies,
 The heaving deeps in watery mountains rise:
 Troy feels the blast along her shaking walls,
 Till on the pile the gather'd tempest falls.
@@ -21517,7 +21517,7 @@ They pant, they stretch, they shout along the plain.
 Now (the last compass fetch'd around the goal)
 At the near prize each gathers all his soul,
 Each burns with double hope, with double pain,
-Tears up the shore, and thunders toward the main.
+Tears up the shore, and thunders toward the Indexer.main.
 First flew Eumelus on Pheretian steeds;
 With those of Tros bold Diomed succeeds:
 Close on Eumelus' back they puff the wind,
@@ -22323,7 +22323,7 @@ From the bent angle sinks the leaden weight;
 So pass'd the goddess through the closing wave,
 Where Thetis sorrow'd in her secret cave:
 There placed amidst her melancholy train
-(The blue-hair'd sisters of the sacred main)
+(The blue-hair'd sisters of the sacred Indexer.main)
 Pensive she sat, revolving fates to come,
 And wept her godlike son's approaching doom.
 Then thus the goddess of the painted bow:
@@ -22655,7 +22655,7 @@ And safe conduct him to Achilles' tent."
 The god obeys, his golden pinions binds,                           [254]
 And mounts incumbent on the wings of winds,
 That high, through fields of air, his flight sustain,
-O'er the wide earth, and o'er the boundless main;
+O'er the wide earth, and o'er the boundless Indexer.main;
 Then grasps the wand that causes sleep to fly,
 Or in soft slumbers seals the wakeful eye:
 Thus arm'd, swift Hermes steers his airy way,
@@ -22785,7 +22785,7 @@ And as the crime, I dread the consequence.
 Thee, far as Argos, pleased I could convey;
 Guard of thy life, and partner of thy way:
 On thee attend, thy safety to maintain,
-O'er pathless forests, or the roaring main."
+O'er pathless forests, or the roaring Indexer.main."
 
 He said, then took the chariot at a bound,
 And snatch'd the reins, and whirl'd the lash around:
@@ -22942,7 +22942,7 @@ Thou too, old man, hast happier days beheld;
 In riches once, in children once excell'd;
 Extended Phrygia own'd thy ample reign,
 And all fair Lesbos' blissful seats contain,
-And all wide Hellespont's unmeasured main.
+And all wide Hellespont's unmeasured Indexer.main.
 But since the god his hand has pleased to turn,
 And fill thy measure from his bitter urn,
 What sees the sun, but hapless heroes' falls?
@@ -24249,7 +24249,7 @@ _Sevenfold city,_ Boeotian Thebes, which had seven gates.
 _As when the winds._
    "Thus, when a black-brow'd gust begins to rise,
     White foam at first on the curl'd ocean fries;
-    Then roars the main, the billows mount the skies,
+    Then roars the Indexer.main, the billows mount the skies,
     Till, by the fury of the storm full blown,
     The muddy billow o'er the clouds is thrown."
                                 Dryden's Virgil, vii. 736.
@@ -25041,7 +25041,7 @@ Furioso, bk. vi.
 
 
 [195]
-    "Twice seven, the charming daughters of the main--
+    "Twice seven, the charming daughters of the Indexer.main--
     Around my person wait, and bear my train:
     Succeed my wish, and second my design,
     The fairest, Deiopeia, shall be thine."

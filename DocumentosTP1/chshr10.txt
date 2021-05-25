@@ -338,7 +338,7 @@ Duncan Forbes to be disingenuous and untrustworthy concoctions
 in dismissing from our minds all reasonable doubts as to the
 validity of the claims of the Hindu Chaturanga as the foundation
 of the Persian, Arabian, Medieval and Modern Chess, which it so
-essentially resembled in its main principles, in fact the ancient
+essentially resembled in its Indexer.main principles, in fact the ancient
 Hindu Chaturanga is the oldest game not only of chess but of
 anything ever shown to be at all like it, and we have the frank
 admissions of the Persians as well as the Chinese that they both
@@ -670,7 +670,7 @@ is not merely expected to record results, but to judge the
 causes of success or failure from the strictly scientific point
 of view, and he has often to supplement with patient research the
 shortcomings of great masters in actual play. In such cases every
-move of a main variation becomes a problem which has to be studied
+move of a Indexer.main variation becomes a problem which has to be studied
 for a great length of time; and the best authors have watched the
 progress of different openings in matches and tournaments for
 years, and pronounced their judgment only after the most careful
@@ -712,7 +712,7 @@ the least comment on their weak points.
 As regards the general arrangement, we have to remark that the
 variations sometimes seem to have been examined loosely and
 separately, irrespective of their relation to each other, or to
-the main propositions of the author in reference to the form of
+the Indexer.main propositions of the author in reference to the form of
 opening he deals with; and the brevity or length of space
 assigned to different forms of play have apparently been decided
 in a whimsical and arbitrary manner. For instance, on page 29,
@@ -731,7 +731,7 @@ remark is made, that "White has a good position." To take another
 example. On page 78 there is a repetition of 10 moves on each
 side, merely for the purpose of indicating a different 11th move
 for White. It is scarcely necessary to point out that in each
-case the stronger move should have been inserted in the main
+case the stronger move should have been inserted in the Indexer.main
 variation, while the weaker one could have been disposed of in
 a foot-note of one line.
 
@@ -2113,7 +2113,7 @@ of its power of two clear moves, to the entire command of its own
 coloured diagonal. The total force on each side taking a Pawn
 as 1 for the unit was about 26 in the Chaturanga as compared
 with 32 in our game. There appear ample grounds for believing
-that the dice used, constituted the greatest if not the main charm
+that the dice used, constituted the greatest if not the Indexer.main charm
 in the game with the Brahmans, and that the elimination of that
 element of chance and excitement, destroyed its popularity with
 them.
@@ -2411,7 +2411,7 @@ rather incidentally than as chess players, inform us that the pieces
 used in our game, viz. the Rook, Knight, and Bishop are
 referred to in old Indian treatises, under their respective names of
 Elephant, Horse, and Ship, which is a most convincing item of
-evidence to chess players. This is one of the three main things
+evidence to chess players. This is one of the three Indexer.main things
 which historians fail to notice; the Roman Edict of 115 B.C. and
 790 to 793 A.D., the least unlikely period for English acquirement
 of the game, on Alcuin's three years visit from Charlemagne's
@@ -4752,7 +4752,7 @@ to show that it is not sufficiently connected, reliable, or complete
 to form a chapter in chess history, or to be of any lasting interest
 from a descriptive Chess Master's point of view.
 
-Having first generalised the main contents of the article, we
+Having first generalised the Indexer.main contents of the article, we
 may then proceed to point out its shortcomings, as well as the
 more serious objections to it.
 

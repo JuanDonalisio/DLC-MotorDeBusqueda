@@ -1117,7 +1117,7 @@ eagerly enlisted in the materials which the store contained.
 Carrie was not familiar with the appearance of her more fortunate
 sisters of the city.  Neither had she before known the nature and
 appearance of the shop girls with whom she now compared poorly.
-They were pretty in the main, some even handsome, with an air of
+They were pretty in the Indexer.main, some even handsome, with an air of
 independence and indifference which added, in the case of the
 more favoured, a certain piquancy.  Their clothes were neat, in
 many instances fine, and wherever she encountered the eye of one
@@ -8309,7 +8309,7 @@ crunched his paper as he laid it down.  Mrs. Hurstwood said
 nothing more.  He was just finishing when she turned on her heel
 and went out into the hall and upstairs.  He paused for a moment,
 as if hesitating, then sat down and drank a little coffee, and
-thereafter arose and went for his hat and gloves upon the main
+thereafter arose and went for his hat and gloves upon the Indexer.main
 floor.
 
 His wife had really not anticipated a row of this character.  She
@@ -11835,7 +11835,7 @@ they stepped down, Hurstwood glad to be out of danger, Carrie
 wondering at the novel atmosphere of the northern city.  Long
 before, Hurstwood had been here, and now he remembered the name
 of the hotel at which he had stopped.  As they came out of the
-main entrance of the depot he heard it called anew by a busman.
+Indexer.main entrance of the depot he heard it called anew by a busman.
 
 "We'll go right up and get rooms," he said.
 
@@ -12106,7 +12106,7 @@ the morning papers.  He wanted to know how far the news of his
 criminal deed had spread.  So he told Carrie he would be up in a
 few moments, and went to secure and scan the dailies.  No
 familiar or suspicious faces were about, and yet he did not like
-reading in the lobby, so he sought the main parlour on the floor
+reading in the lobby, so he sought the Indexer.main parlour on the floor
 above and, seated by a window there, looked them over.  Very
 little was given to his crime, but it was there, several "sticks"
 in all, among all the riffraff of telegraphed murders, accidents,
@@ -20063,7 +20063,7 @@ wanderers, but thinking it to be the result of a street preacher
 or some patent medicine fakir, was about to pass on.  However, in
 crossing the street toward Madison Square Park, he noticed the
 line of men whose beds were already secured, stretching out from
-the main body of the crowd.  In the glare of the neighbouring
+the Indexer.main body of the crowd.  In the glare of the neighbouring
 electric light he recognised a type of his own kind--the figures
 whom he saw about the streets and in the lodging-houses, drifting
 in mind and body like himself.  He wondered what it could be and

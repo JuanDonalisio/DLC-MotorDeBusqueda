@@ -1217,7 +1217,7 @@ The ruffling west wind sways the bending ears;
 So was th' Assembly stirr'd; and tow'rd the ships
 With clam'rous joy they rush'd; beneath, their feet
 Rose clouds of dust, while one to other call'd
-To seize the ships and drag them to the main.
+To seize the ships and drag them to the Indexer.main.
 They clear'd the channels, and with shouts of "home"
 That rose to Heav'n, they knock'd the shores away.
 Then had the Greeks in shameful flight withdrawn,
@@ -2217,7 +2217,7 @@ Among our warriors; but thou hast in truth
 Nor strength of mind, nor courage in the fight.
 How was't that such as thou could e'er induce
 A noble band, in ocean-going ships
-To cross the main, with men of other lands
+To cross the Indexer.main, with men of other lands
 Mixing in amity, and bearing thence
 A woman, fair of face, by marriage ties
 Bound to a race of warriors; to thy sire,
@@ -2621,7 +2621,7 @@ My faithless sword is shatter'd, and my spear
 Hath bootless left my hand, nor reached my foe."
 Then onward rushing, by the horsehair plume
 He seiz'd his foeman's helm, and wrenching round
-Dragg'd by main force amid the well-greav'd Greeks.
+Dragg'd by Indexer.main force amid the well-greav'd Greeks.
 The broider'd strap, that, pass'd beneath his beard,
 The helmet held, the warrior's throat compress'd:
 Then had Atrides dragg'd him from the field,
@@ -7022,7 +7022,7 @@ And from my onset narrowly escap'd.
 But as with Hector now no more I fight,
 To-morrow morn, my off'rings made to Jove,
 And all the Gods, and freighted well my ships,
-And launch'd upon the main, thyself shall see,
+And launch'd upon the Indexer.main, thyself shall see,
 If that thou care to see, my vessels spread
 O'er the broad bosom of the Hellespont,
 My lusty crews plying the vig'rous oar;
@@ -7394,7 +7394,7 @@ It glows; thy gifts and thee alike he spurns;
 He bids thee with the other chiefs concert
 The means thy people and thy ships to save;
 And menaces himself at early dawn
-To launch his well-trimm'd vessels on the main.
+To launch his well-trimm'd vessels on the Indexer.main.
 Nay more, he counsels others, so he says,
 Homeward to turn, since here of lofty Troy
 We see not yet the end; all-seeing Jove
@@ -10051,7 +10051,7 @@ Of brave Amphimachus; but Ajax met
 Th' advance of Hector with his glitt'ring spear;
 Himself he reach'd not, all in dazzling brass
 Encas'd; but pressing on his bossy shield
-Drove by main force beyond where lay the dead:
+Drove by Indexer.main force beyond where lay the dead:
 Them both the Greeks withdrew; th' Athenian chiefs
 Stychius and brave Menestheus, bore away
 Amid the ranks of Greece Amphimachus;
@@ -10935,7 +10935,7 @@ But now I see that to the blessed Gods
 Our foes he equals, and our strength confounds.
 Hear then my counsel; let us all agree
 The ships that nearest to the sea are beach'd
-To launch upon the main, till nightfall there
+To launch upon the Indexer.main, till nightfall there
 To ride at anchor: if that e'en by night
 The Trojans may suspend their fierce assault;
 Then may we launch in safety all the fleet.
@@ -13064,7 +13064,7 @@ But stand thou fast, and others' courage raise."
 Thus as he spoke, the shades of death o'erspread
 His eyes and nostrils; then with foot firm-set
 Upon his chest, Patroclus from the corpse
-Drew, by main force, the fast-adhering spear;
+Drew, by Indexer.main force, the fast-adhering spear;
 The life forth issuing with the weapon's point.
 Loos'd from the royal car, the snorting steeds,
 Eager for flight, the Myrmidons detain'd.

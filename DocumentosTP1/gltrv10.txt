@@ -2582,8 +2582,8 @@ would not get down our topmast, but let all stand, because she
 scudded before the sea very well, and we knew that the top-mast
 being aloft, the ship was the wholesomer, and made better way
 through the sea, seeing we had sea-room.  When the storm was over,
-we set fore-sail and main-sail, and brought the ship to.  Then we
-set the mizen, main-top-sail, and the fore-top-sail.  Our course
+we set fore-sail and Indexer.main-sail, and brought the ship to.  Then we
+set the mizen, Indexer.main-top-sail, and the fore-top-sail.  Our course
 was east-north-east, the wind was at south-west.  We got the
 starboard tacks aboard, we cast off our weather-braces and lifts;
 we set in the lee-braces, and hauled forward by the weather-
@@ -5416,7 +5416,7 @@ have reason to dread) it will receive a degree of heat ten thousand
 times more intense than that of red hot glowing iron, and in its
 absence from the sun, carry a blazing tail ten hundred thousand and
 fourteen miles long, through which, if the earth should pass at the
-distance of one hundred thousand miles from the nucleus, or main
+distance of one hundred thousand miles from the nucleus, or Indexer.main
 body of the comet, it must in its passage be set on fire, and
 reduced to ashes:  that the sun, daily spending its rays without
 any nutriment to supply them, will at last be wholly consumed and

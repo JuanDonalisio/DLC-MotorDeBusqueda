@@ -688,7 +688,7 @@ The sailors forward shouted, as though it was admirable sport.
 Montgomery gave an angry exclamation, and went striding down
 the deck, and I followed him.  The black-faced man scrambled
 up and staggered forward, going and leaning over the bulwark
-by the main shrouds, where he remained, panting and glaring
+by the Indexer.main shrouds, where he remained, panting and glaring
 over his shoulder at the dogs.  The red-haired man laughed a
 satisfied laugh.
 
@@ -1291,7 +1291,7 @@ of confidence."
 
 He twisted his heavy mouth into a faint smile--he was one of those
 saturnine people who smile with the corners of the mouth down,--
-and bowed his acknowledgment of my complaisance.  The main entrance
+and bowed his acknowledgment of my complaisance.  The Indexer.main entrance
 to the enclosure we passed; it was a heavy wooden gate, framed in iron
 and locked, with the cargo of the launch piled outside it, and at
 the corner we came to a small doorway I had not previously observed.
@@ -1532,7 +1532,7 @@ The emotional appeal of those yells grew upon me steadily,
 grew at last to such an exquisite expression of suffering that I
 could stand it in that confined room no longer.  I stepped
 out of the door into the slumberous heat of the late afternoon,
-and walking past the main entrance--locked again, I noticed--
+and walking past the Indexer.main entrance--locked again, I noticed--
 turned the corner of the wall
 
 The crying sounded even louder out of doors.  It was as if all the pain

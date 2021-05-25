@@ -505,7 +505,7 @@ immutable; but that those belonging to what are called the same genera
 are lineal descendants of some other and generally extinct species, in
 the same manner as the acknowledged varieties of any one species are
 the descendants of that species. Furthermore, I am convinced that
-Natural Selection has been the main but not exclusive means of
+Natural Selection has been the Indexer.main but not exclusive means of
 modification.
 
 
@@ -1168,7 +1168,7 @@ distinct species. Ask, as I have asked, a celebrated raiser of
 Hereford cattle, whether his cattle might not have descended from long
 horns, and he will laugh you to scorn. I have never met a pigeon, or
 poultry, or duck, or rabbit fancier, who was not fully convinced that
-each main breed was descended from a distinct species. Van Mons, in
+each Indexer.main breed was descended from a distinct species. Van Mons, in
 his treatise on pears and apples, shows how utterly he disbelieves
 that the several sorts, for instance a Ribston-pippin or Codlin-apple,
 could ever have proceeded from the seeds of the same tree. Innumerable
@@ -1575,7 +1575,7 @@ breeds as we do sometimes see are almost always imported from some
 other country, often from islands. Although I do not doubt that some
 domestic animals vary less than others, yet the rarity or absence of
 distinct breeds of the cat, the donkey, peacock, goose, etc., may be
-attributed in main part to selection not having been brought into
+attributed in Indexer.main part to selection not having been brought into
 play: in cats, from the difficulty in pairing them; in donkeys, from
 only a few being kept by poor people, and little attention paid to
 their breeding; in peacocks, from not being very easily reared and a
@@ -1671,11 +1671,11 @@ systematists are far from pleased at finding variability in important
 characters, and that there are not many men who will laboriously
 examine internal and important organs, and compare them in many
 specimens of the same species. I should never have expected that the
-branching of the main nerves close to the great central ganglion of an
+branching of the Indexer.main nerves close to the great central ganglion of an
 insect would have been variable in the same species; I should have
 expected that changes of this nature could have been effected only by
 slow degrees: yet quite recently Mr. Lubbock has shown a degree of
-variability in these main nerves in Coccus, which may almost be
+variability in these Indexer.main nerves in Coccus, which may almost be
 compared to the irregular branching of the stem of a tree. This
 philosophical naturalist, I may add, has also quite recently shown
 that the muscles in the larvae of certain insects are very far from
@@ -2387,7 +2387,7 @@ mountain. When we reach the Arctic regions, or snow-capped summits, or
 absolute deserts, the struggle for life is almost exclusively with the
 elements.
 
-That climate acts in main part indirectly by favouring other species,
+That climate acts in Indexer.main part indirectly by favouring other species,
 we may clearly see in the prodigious number of plants in our gardens
 which can perfectly well endure our climate, but which never become
 naturalised, for they cannot compete with our native plants, nor
@@ -3097,7 +3097,7 @@ until at last a complete separation of the sexes would be effected.
 Let us now turn to the nectar-feeding insects in our imaginary case:
 we may suppose the plant of which we have been slowly increasing the
 nectar by continued selection, to be a common plant; and that certain
-insects depended in main part on its nectar for food. I could give
+insects depended in Indexer.main part on its nectar for food. I could give
 many facts, showing how anxious bees are to save time; for instance,
 their habit of cutting holes and sucking the nectar at the bases of
 certain flowers, which they can, with a very little more trouble,
@@ -4062,7 +4062,7 @@ Classification, but I may add that on this view of extremely few of
 the more ancient species having transmitted descendants, and on the
 view of all the descendants of the same species making a class, we can
 understand how it is that there exist but very few classes in each
-main division of the animal and vegetable kingdoms. Although extremely
+Indexer.main division of the animal and vegetable kingdoms. Although extremely
 few of the most ancient species may now have living and modified
 descendants, yet at the most remote geological period, the earth may
 have been as well peopled with many species of many genera, families,
@@ -4633,7 +4633,7 @@ advantageous to the plant: yet in the Umbelliferae these differences
 are of such apparent importance--the seeds being in some cases,
 according to Tausch, orthospermous in the exterior flowers and
 coelospermous in the central flowers,--that the elder De Candolle
-founded his main divisions of the order on analogous differences.
+founded his Indexer.main divisions of the order on analogous differences.
 Hence we see that modifications of structure, viewed by systematists
 as of high value, may be wholly due to unknown laws of correlated
 growth, and without being, as far as we can see, of the slightest
@@ -8540,7 +8540,7 @@ conditions of life do not graduate away quite insensibly like heat or
 moisture. I endeavoured, also, to show that intermediate varieties,
 from existing in lesser numbers than the forms which they connect,
 will generally be beaten out and exterminated during the course of
-further modification and improvement. The main cause, however, of
+further modification and improvement. The Indexer.main cause, however, of
 innumerable intermediate links not now occurring everywhere throughout
 nature depends on the very process of natural selection, through which
 new varieties continually take the places of and exterminate their
@@ -10112,7 +10112,7 @@ characters than do the existing members of the same groups; and this
 by the concurrent evidence of our best palaeontologists seems
 frequently to be the case.
 
-Thus, on the theory of descent with modification, the main facts with
+Thus, on the theory of descent with modification, the Indexer.main facts with
 respect to the mutual affinities of the extinct forms of life to each
 other and to living forms, seem to me explained in a satisfactory
 manner. And they are wholly inexplicable on any other view.
@@ -10456,7 +10456,7 @@ mysterious, and is simply explained by inheritance.
 
 If then the geological record be as imperfect as I believe it to be,
 and it may at least be asserted that the record cannot be proved to be
-much more perfect, the main objections to the theory of natural
+much more perfect, the Indexer.main objections to the theory of natural
 selection are greatly diminished or disappear. On the other hand, all
 the chief laws of palaeontology plainly proclaim, as it seems to me,
 that species have been produced by ordinary generation: old forms
@@ -12463,7 +12463,7 @@ indications of its true affinities. We are least likely in the
 modifications of these organs to mistake a merely adaptive for an
 essential character." So with plants, how remarkable it is that the
 organs of vegetation, on which their whole life depends, are of little
-signification, excepting in the first main divisions; whereas the
+signification, excepting in the first Indexer.main divisions; whereas the
 organs of reproduction, with their product the seed, are of paramount
 importance!
 
@@ -12585,7 +12585,7 @@ urged by those great naturalists, Milne Edwards and Agassiz, that
 embryonic characters are the most important of any in the
 classification of animals; and this doctrine has very generally been
 admitted as true. The same fact holds good with flowering plants, of
-which the two main divisions have been founded on characters derived
+which the two Indexer.main divisions have been founded on characters derived
 from the embryo,--on the number and position of the embryonic leaves
 or cotyledons, and on the mode of development of the plumule and
 radicle. In our discussion on embryology, we shall see why such
@@ -13230,7 +13230,7 @@ more or less closely the law of common embryonic resemblance.
 Cirripedes afford a good instance of this: even the illustrious Cuvier
 did not perceive that a barnacle was, as it certainly is, a
 crustacean; but a glance at the larva shows this to be the case in an
-unmistakeable manner. So again the two main divisions of cirripedes,
+unmistakeable manner. So again the two Indexer.main divisions of cirripedes,
 the pedunculated and sessile, which differ widely in external
 appearance, have larvae in all their several stages barely
 distinguishable.
@@ -13633,7 +13633,7 @@ monsters. But I doubt whether any of these cases throw light on the
 origin of rudimentary organs in a state of nature, further than by
 showing that rudiments can be produced; for I doubt whether species
 under nature ever undergo abrupt changes. I believe that disuse has
-been the main agency; that it has led in successive generations to the
+been the Indexer.main agency; that it has led in successive generations to the
 gradual reduction of various organs, until they have become
 rudimentary,--as in the case of the eyes of animals inhabiting dark
 caverns, and of the wings of birds inhabiting oceanic islands, which

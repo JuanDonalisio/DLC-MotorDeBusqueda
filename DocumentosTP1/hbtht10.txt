@@ -2779,7 +2779,7 @@ must not prescribe for man a rule of conduct which it is not in man to
 follow. He must not set before him, as inducements to actions, objects
 which it is impossible for him to desire and, hence, to choose.
 
-To be sure, the main traits of human nature were pretty well recognized
+To be sure, the Indexer.main traits of human nature were pretty well recognized
 many centuries before the modern science of psychology had its birth. Had
 they not been, man could not have had rational dealings with his fellow-
 man; could not effectively have persuaded and threatened, rewarded and
@@ -5393,7 +5393,7 @@ EGOISM
 
 
 95. WHAT IS EGOISM?--Egoism has been defined as "any ethical system in
-which the happiness or good of the individual is made the main criterion
+which the happiness or good of the individual is made the Indexer.main criterion
 of moral action," [Footnote: _Encyclopedia Britannica_, 11th
 edition.] or as "the doing or seeking of that which affords pleasure or
 advantage to oneself, in distinction to that which affords pleasure or

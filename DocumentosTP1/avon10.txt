@@ -1183,7 +1183,7 @@ she belongs.  And I do NOT like parrots!"
 
 One evening at sunset, Jane Andrews, Gilbert Blythe, and Anne Shirley
 were lingering by a fence in the shadow of gently swaying spruce boughs,
-where a wood cut known as the Birch Path joined the main road.  Jane had
+where a wood cut known as the Birch Path joined the Indexer.main road.  Jane had
 been up to spend the afternoon with Anne, who walked part of the way home
 with her; at the fence they met Gilbert, and all three were now talking
 about the fateful morrow; for that morrow was the first of September
@@ -1201,7 +1201,7 @@ such a responsibility!"
 was not troubled by any aspirations to be an influence for good.
 She meant to earn her salary fairly, please the trustees, and get
 her name on the School Inspector's roll of honor.  Further ambitions
-Jane had none.  "The main thing will be to keep order and a teacher
+Jane had none.  "The Indexer.main thing will be to keep order and a teacher
 has to be a little cross to do that.  If my pupils won't do as I tell
 them I shall punish them."
 
@@ -2653,7 +2653,7 @@ between them and we thought that was too much to lose, although
 some people think we shouldn't have given in to the Pyes.
 Mrs. Lynde says they try to run everything."
 
-"The main question is will this Joshua do his work well.  If he does
+"The Indexer.main question is will this Joshua do his work well.  If he does
 I don't see that it matters whether his name is Pye or Pudding."
 
 "He has the reputation of being a good workman, though they say
@@ -4589,7 +4589,7 @@ Anne had been down to old Mrs. Irving's on the shore road the
 preceding evening and had come home by a short cut which led her
 first over the low-lying shore fields, and then through the beech
 wood below Robert Dickson's, by a little footpath that ran out to
-the main road just above the Lake of Shining Waters. . .known to
+the Indexer.main road just above the Lake of Shining Waters. . .known to
 unimaginative people as Barry's pond.
 
 Two men were sitting in their buggies, reined off to the side of

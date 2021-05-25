@@ -1033,7 +1033,7 @@ The maid, with smile suppressed and sly,
 The toil unwonted saw him try; 
 For seldom, sure, if e'er before, 
 His noble hand had grasped an oar: 
-Yet with main strength his strokes he drew, 
+Yet with Indexer.main strength his strokes he drew,
 And o'er the lake the shallop flew; 
 With heads erect and whimpering cry, 
 The hounds behind their passage ply. 
@@ -1404,7 +1404,7 @@ The care that soothes a wanderer's woe;
 Remember then thy hap erewhile, 
 A stranger in the lonely isle.
 
-'Or if on life's uncertain main 
+'Or if on life's uncertain Indexer.main
      Mishap shall mar thy sail; 
 If faithful, wise, and brave in vain, 
 Woe, want, and exile thou sustain 
@@ -7032,8 +7032,8 @@ Achray.
 hidden. Such ellipses are common in poetry.
 
 
-150.  Amain.  With main, or full force.  We still say "with might
-and main."
+150.  Amain.  With Indexer.main, or full force.  We still say "with might
+and Indexer.main."
 
 
 151.  Chiding.  Not a mere figurative use of chide as we now
@@ -7218,7 +7218,7 @@ poem (184 fol.): "Perhaps the art of landscape-painting in poetry
 has never been displayed in higher perfection than in these
 stanzas, to which rigid criticism might possibly object that the
 picture is somewhat too minute, and that the contemplation of it
-detains the traveller somewhat too long from the main purpose of
+detains the traveller somewhat too long from the Indexer.main purpose of
 his pilgrimage, but which it would be an act of the greatest
 injustice to break into fragments and present by piecemeal.  Not
 so the magnificent scene which bursts upon the bewildered hunter
@@ -10046,7 +10046,7 @@ gillie, or attendant, who carries the bagpipe (Letters from
 Scotland, vol. ii. p. 158).  Although this appeared, naturally
 enough, very ridiculous to an English officer, who considered the
 master of such a retinue as no more than an English gentleman of
-œ500 a year, yet in the circumstances of the chief, whose
+ï¿½500 a year, yet in the circumstances of the chief, whose
 strength and importance consisted in the number and attachment of
 his followers, it was of the last consequence, in point of
 policy, to have in his gift subordinate offices, which called
@@ -11883,7 +11883,7 @@ T. A. i. 1. 399: "You have play'd your prize."  Cf. also M. of V.
 iii. 2. 142: "Like one of two contending in a prize," etc.
 
 
-575.  The Castle gates.  The main entrance to the Castle, not the
+575.  The Castle gates.  The Indexer.main entrance to the Castle, not the
 postern gate of 532 above.
 
 
@@ -12436,7 +12436,7 @@ Fountainhall: 'Reid the mountebank pursues Scot of Harden and his
 lady for stealing away from him a little girl, called the
 tumbling-lassie, that dance upon his stage; and he claimed
 damages, and produced a contract, whereby he bought her from her
-mother for œ30 Scots.  But we have no slaves in Scotland, and
+mother for ï¿½30 Scots.  But we have no slaves in Scotland, and
 mothers cannot sell their bairns; and physicians attested the
 employment of tumbling would kill her; and her joints were now
 grown stiff, and she declined to return; though she was at least
@@ -12557,7 +12557,7 @@ crafte hath your Damozell," etc.
 309.  Astrand.  On strand (cf. ashore), stranded.
 
 
-316.  At sea.  The MS. has "on main," and "plain" for lea in the
+316.  At sea.  The MS. has "on Indexer.main," and "plain" for lea in the
 rhyme.  The 1st ed. and that of 1821 have "on sea."
 
 

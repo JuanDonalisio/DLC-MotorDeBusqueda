@@ -1888,7 +1888,7 @@ them heartily.)
 
           Here we are, at the risk of our lives,
           From ever so far, and we've brought your wives--
-          And to that end we've crossed the main,
+          And to that end we've crossed the Indexer.main,
           And don't intend to return again!
 
 FIA.           Though obedience is strong,
@@ -1905,7 +1905,7 @@ BOTH.     Existence was slow, and we wanted variety.
 
 ALL.      So here we are, at the risk of our lives,
           From ever so far, and we've brought your wives--
-          And to that end we've crossed the main,
+          And to that end we've crossed the Indexer.main,
           And don't intend to return again!
 
 (Enter Gianetta and Tessa.  They rush to the arms of Marco and
@@ -5771,8 +5771,8 @@ who hails
 from the quarter-deck may not love another who lays out on the
 fore-yard
 arm. For a man is but a man, whether he hoists his flag at the
-main-truck
-or his slacks on the main-deck.
+Indexer.main-truck
+or his slacks on the Indexer.main-deck.
   DICK. Ah, it's a queer world!
   RALPH. Dick Deadeye, I have no desire to press hardly on you,
 but such
@@ -8719,7 +8719,7 @@ CHORUS.             Oh, amorous dove, etc.
                          At small expense!
                     We must maintain
                          Our fairy law;
-                    That is the main
+                    That is the Indexer.main
                          On which to draw--
                     In that we gain
                          A Captain Shaw!

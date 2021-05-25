@@ -5741,7 +5741,7 @@ black ants partook of the refreshments without being invited, and
 fuzzy caterpillars swung down from the tree to see what was going
 on.  Three white-headed children peeped over the fence, and an
 objectionable dog barked at them from the other side of the river
-with all his might and main.
+with all his might and Indexer.main.
 
 "There's salt here," said Laurie, as he handed Jo a saucer
 of berries.

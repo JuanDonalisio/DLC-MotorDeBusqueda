@@ -1149,7 +1149,7 @@ take in the future. I leave a photograph which he might care to
 possess; and I remain, dear Mr. Sherlock Holmes,
 
                                       "Very truly yours,
-                                   "IRENE NORTON, née ADLER."
+                                   "IRENE NORTON, nï¿½e ADLER."
 
 "What a woman--oh, what a woman!" cried the King of Bohemia, when
 we had all three read this epistle. "Did I not tell you how quick
@@ -1383,7 +1383,7 @@ assistant, Mr. Holmes; and I know very well that he could better
 himself and earn twice what I am able to give him. But, after
 all, if he is satisfied, why should I put ideas in his head?"
 
-"Why, indeed? You seem most fortunate in having an employé who
+"Why, indeed? You seem most fortunate in having an employï¿½ who
 comes under the full market price. It is not a common experience
 among employers in this age. I don't know that your assistant is
 not as remarkable as your advertisement."
@@ -1392,7 +1392,7 @@ not as remarkable as your advertisement."
 fellow for photography. Snapping away with a camera when he ought
 to be improving his mind, and then diving down into the cellar
 like a rabbit into its hole to develop his pictures. That is his
-main fault, but on the whole he's a good worker. There's no vice
+Indexer.main fault, but on the whole he's a good worker. There's no vice
 in him."
 
 "He is still with you, I presume?"
@@ -1883,7 +1883,7 @@ Square. Let us now explore the parts which lie behind it."
 The road in which we found ourselves as we turned round the
 corner from the retired Saxe-Coburg Square presented as great a
 contrast to it as the front of a picture does to the back. It was
-one of the main arteries which conveyed the traffic of the City
+one of the Indexer.main arteries which conveyed the traffic of the City
 to the north and west. The roadway was blocked with the immense
 stream of commerce flowing in a double tide inward and outward,
 while the footpaths were black with the hurrying swarm of
@@ -2109,7 +2109,7 @@ Merryweather, we must put the screen over that dark lantern."
 "And sit in the dark?"
 
 "I am afraid so. I had brought a pack of cards in my pocket, and
-I thought that, as we were a partie carrée, you might have your
+I thought that, as we were a partie carrï¿½e, you might have your
 rubber after all. But I see that the enemy's preparations have
 gone so far that we cannot risk the presence of a light. And,
 first of all, we must choose our positions. These are daring men,
@@ -2317,7 +2317,7 @@ hand in hand, hover over this great city, gently remove the
 roofs, and peep in at the queer things which are going on, the
 strange coincidences, the plannings, the cross-purposes, the
 wonderful chains of events, working through generations, and
-leading to the most outré results, it would make all fiction with
+leading to the most outrï¿½ results, it would make all fiction with
 its conventionalities and foreseen conclusions most stale and
 unprofitable."
 
@@ -2869,7 +2869,7 @@ attention at the time, and the whole of next day I was busy at
 the bedside of the sufferer. It was not until close upon six
 o'clock that I found myself free and was able to spring into a
 hansom and drive to Baker Street, half afraid that I might be too
-late to assist at the dénouement of the little mystery. I found
+late to assist at the dï¿½nouement of the little mystery. I found
 Sherlock Holmes alone, however, half asleep, with his long, thin
 form curled up in the recesses of his armchair. A formidable
 array of bottles and test-tubes, with the pungent cleanly smell
@@ -3096,8 +3096,8 @@ address asking him if he would come here. As I expected, his
 reply was typewritten and revealed the same trivial but
 characteristic defects. The same post brought me a letter from
 Westhouse & Marbank, of Fenchurch Street, to say that the
-description tallied in every respect with that of their employé,
-James Windibank. Voilà tout!"
+description tallied in every respect with that of their employï¿½,
+James Windibank. Voilï¿½ tout!"
 
 "And Miss Sutherland?"
 
@@ -3248,7 +3248,7 @@ body. Under these circumstances the young man was instantly
 arrested, and a verdict of 'wilful murder' having been returned
 at the inquest on Tuesday, he was on Wednesday brought before the
 magistrates at Ross, who have referred the case to the next
-Assizes. Those are the main facts of the case as they came out
+Assizes. Those are the Indexer.main facts of the case as they came out
 before the coroner and the police-court."
 
 "I could hardly imagine a more damning case," I remarked. "If
@@ -3296,7 +3296,7 @@ jaw, it is surely very clear that that side is less illuminated
 than the other. I could not imagine a man of your habits looking
 at himself in an equal light and being satisfied with such a
 result. I only quote this as a trivial example of observation and
-inference. Therein lies my métier, and it is just possible that
+inference. Therein lies my mï¿½tier, and it is just possible that
 it may be of some service in the investigation which lies before
 us. There are one or two minor points which were brought out in
 the inquest, and which are worth considering."
@@ -3482,7 +3482,7 @@ young man's favour. Don't you see that you alternately give him
 credit for having too much imagination and too little? Too
 little, if he could not invent a cause of quarrel which would
 give him the sympathy of the jury; too much, if he evolved from
-his own inner consciousness anything so outré as a dying
+his own inner consciousness anything so outrï¿½ as a dying
 reference to a rat, and the incident of the vanishing cloth. No,
 sir, I shall approach this case from the point of view that what
 this young man says is true, and we shall see whither that
@@ -4825,7 +4825,7 @@ mud-stains from any region within fifty miles of town, chemistry
 eccentric, anatomy unsystematic, sensational literature and crime
 records unique, violin-player, boxer, swordsman, lawyer, and
 self-poisoner by cocaine and tobacco. Those, I think, were the
-main points of my analysis."
+Indexer.main points of my analysis."
 
 Holmes grinned at the last item. "Well," he said, "I say now, as
 I said then, that a man should keep his little brain-attic
@@ -7903,7 +7903,7 @@ down the ill-trimmed lawn and examined with deep attention the
 outsides of the windows.
 
 "This, I take it, belongs to the room in which you used to sleep,
-the centre one to your sister's, and the one next to the main
+the centre one to your sister's, and the one next to the Indexer.main
 building to Dr. Roylott's chamber?"
 
 "Exactly so. But I am now sleeping in the middle one."
@@ -9046,7 +9046,7 @@ fill the socket along which it worked. This was clearly the cause
 of the loss of power, and I pointed it out to my companions, who
 followed my remarks very carefully and asked several practical
 questions as to how they should proceed to set it right. When I
-had made it clear to them, I returned to the main chamber of the
+had made it clear to them, I returned to the Indexer.main chamber of the
 machine and took a good look at it to satisfy my own curiosity.
 It was obvious at a glance that the story of the fuller's-earth
 was the merest fabrication, for it would be absurd to suppose
@@ -10122,7 +10122,7 @@ with the help of a youth whom he had brought with him, and
 presently, to my very great astonishment, a quite epicurean
 little cold supper began to be laid out upon our humble
 lodging-house mahogany. There were a couple of brace of cold
-woodcock, a pheasant, a pâté de foie gras pie with a group of
+woodcock, a pheasant, a pï¿½tï¿½ de foie gras pie with a group of
 ancient and cobwebby bottles. Having laid out all these luxuries,
 my two visitors vanished away, like the genii of the Arabian
 Nights, with no explanation save that the things had been paid
@@ -10939,7 +10939,7 @@ or the police were at first inclined to think? It appeared to you
 to be a simple case; to me it seems exceedingly complex. Consider
 what is involved by your theory. You suppose that your son came
 down from his bed, went, at great risk, to your dressing-room,
-opened your bureau, took out your coronet, broke off by main
+opened your bureau, took out your coronet, broke off by Indexer.main
 force a small portion of it, went off to some other place,
 concealed three gems out of the thirty-nine, with such skill that
 nobody can find them, and then returned with the other thirty-six
@@ -11558,7 +11558,7 @@ pleasant to me to observe, Watson, that you have so far grasped
 this truth that in these little records of our cases which you
 have been good enough to draw up, and, I am bound to say,
 occasionally to embellish, you have given prominence not so much
-to the many causes célèbres and sensational trials in which I
+to the many causes cï¿½lï¿½bres and sensational trials in which I
 have figured but rather to those incidents which may have been
 trivial in themselves, but which have given room for those
 faculties of deduction and of logical synthesis which I have made
@@ -12171,7 +12171,7 @@ the nursery.
 "Two days later this same performance was gone through under
 exactly similar circumstances. Again I changed my dress, again I
 sat in the window, and again I laughed very heartily at the funny
-stories of which my employer had an immense répertoire, and which
+stories of which my employer had an immense rï¿½pertoire, and which
 he told inimitably. Then he handed me a yellow-backed novel, and
 moving my chair a little sideways, that my own shadow might not
 fall upon the page, he begged me to read aloud to him. I read for
@@ -12479,7 +12479,7 @@ figure, and the colour of your hair. Hers had been cut off, very
 possibly in some illness through which she has passed, and so, of
 course, yours had to be sacrificed also. By a curious chance you
 came upon her tresses. The man in the road was undoubtedly some
-friend of hers--possibly her fiancé--and no doubt, as you wore
+friend of hers--possibly her fiancï¿½--and no doubt, as you wore
 the girl's dress and were so like her, he was convinced from your
 laughter, whenever he saw you, and afterwards from your gesture,
 that Miss Rucastle was perfectly happy, and that she no longer

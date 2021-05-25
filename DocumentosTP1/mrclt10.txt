@@ -504,7 +504,7 @@ compare these with what they produced in Shakespeare's mind. Strachey tells
 how "the sea swelled above the clouds and gave battle unto heaven." He
 speaks of "an apparition of a little round light, like a faint star,
 trembling and streaming along with a sparkling blaze, half the height upon
-the main mast, and shooting sometimes from shroud to shroud." Ariel says to
+the Indexer.main mast, and shooting sometimes from shroud to shroud." Ariel says to
 Prospero:--
 
   "I boarded the king's ship; now on the beak,
@@ -699,7 +699,7 @@ English seem to have read it. Even its custodian miscalled it The Log of
 the Mayflower, although after the ship finally cleared from England, only
 five incidents of the voyage are briefly mentioned: the death of a young
 seaman who cursed the Pilgrims on the voyage and made sport of their
-misery; the cracking of one of the main beams of the ship; the washing
+misery; the cracking of one of the Indexer.main beams of the ship; the washing
 overboard in a storm of a good young man who was providentially saved; the
 death of a servant; and the sight of Cape Cod. On petition, the Lord Bishop
 of London generously gave this manuscript of 270 pages to the Commonwealth
@@ -803,7 +803,7 @@ The entry for Monday, April 12, 1630, is:--
   afternoon less wind, and our people began to grow well again. Our
   children and others, that were sick and lay groaning in the cabins, we
   fetched out, and having stretched a rope from the steerage to the
-  main-mast, we made them stand, some of one side and some of the other,
+  Indexer.main-mast, we made them stand, some of one side and some of the other,
   and sway it up and down till they were warm, and by this means they soon
   grew well and merry."
 
@@ -985,7 +985,7 @@ POETRY
 The trend of Puritan theology and the hard conditions of life did not
 encourage the production of poetry. The Puritans even wondered if singing
 in church was not an exercise which turned the mind from God. The Rev. John
-Cotton investigated the question carefully under four main heads and six
+Cotton investigated the question carefully under four Indexer.main heads and six
 subheads, and he cited scriptural authority to show that Paul and Silas
 (_Acts_, xvi., 25) had sung a _Psalm_ in the prison. Cotton therefore
 concluded that the _Psalms_ might be sung in church.
@@ -3030,7 +3030,7 @@ artificial, and reveals the influence of the classical school of Alexander
 Pope. Freneau wrote a few short lyrics which suggest the romantic school of
 Wordsworth.
 
-The American literature of this period shows in the main the influence of
+The American literature of this period shows in the Indexer.main the influence of
 the older English classical school. America produced no authors who can
 rank with the contemporary school of English writers, such as Burns,
 Wordsworth, and Coleridge. Of all the writers of this age, Franklin alone
@@ -3944,7 +3944,7 @@ her diary, his mother thus records his birth:--
   "Nov. 3, 1794. Stormy, wind N. E. Churned. Seven in the evening a son
   born."
 
-His poetry will be better understood, if we emphasize two main facts in his
+His poetry will be better understood, if we emphasize two Indexer.main facts in his
 early development. In the first place, he was descended from John and
 Priscilla Alden of Mayflower stock and reared in strict Puritan fashion.
 Bryant's religious training determined the general attitude of all his
@@ -6613,7 +6613,7 @@ should read the following stanza:--
    Sails the fierce cormorant,
    Seeking some rocky haunt,
      With his prey laden,--
-   So toward the open main,
+   So toward the open Indexer.main,
    Beating to sea again,
    Through the wild hurricane,
      Bore I the maiden."
@@ -9023,7 +9023,7 @@ other authors. At home, however, there have been repeated attempts to
 disbar Poe from the court of great writers. Not until 1910 did the board of
 electors vote him a tablet in the Hall of Fame for Great Americans.
 
-It may be admitted that Poe was a technical artist, that his main object
+It may be admitted that Poe was a technical artist, that his Indexer.main object
 was effectiveness of impression and beauty of form, that he was not
 overanxious about the worth of his subject matter to an aspiring soul, and
 that he would have been vastly greater if he had joined high moral aim to

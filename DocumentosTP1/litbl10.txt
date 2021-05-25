@@ -1242,7 +1242,7 @@ It is said that the Irish Statute Book
 opens characteristically with, ``An Act
 that the King's officers may travel _by sea_
 from one place to another within the _land_
-of Ireland''; but one of the main objects
+of Ireland''; but one of the Indexer.main objects
 of the _Essay on Irish Bulls_, by Maria
 Edgeworth and her father, Richard Lovell
 Edgeworth, was to show that the title of
@@ -3890,7 +3890,7 @@ it can be understood.  At the first time of
 reading the meaning is scarcely intelligible,
 at the second time some faint glimpse of the
 writer's object in writing is obtained, and
-at the third time the main point of the
+at the third time the Indexer.main point of the
 letter is deciphered.  Such men may be
 deemed to be the plague of printers.  A
 friend of Beloe ``the Sexagenarian'' was

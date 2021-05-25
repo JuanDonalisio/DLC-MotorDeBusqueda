@@ -2660,7 +2660,7 @@ never to permit an invasion of our rights without punishment or redress.
 In approaching, then, in the presence of my assembled countrymen, to
 make the solemn promise that yet remains, and to pledge myself that I
 will faithfully execute the office I am about to fill, I bring with me
-a settled purpose to main tain the institutions of my country, which I
+a settled purpose to Indexer.main tain the institutions of my country, which I
 trust will atone for the errors I commit.
 
 In receiving from the people the sacred trust twice confided to my
@@ -7478,7 +7478,7 @@ and duties of the office upon which he is about to enter, or he is
 lacking in a proper sense of the obligation which the oath imposes.
 
 The office of an inaugural address is to give a summary outline of the
-main policies of the new administration, so far as they can be
+Indexer.main policies of the new administration, so far as they can be
 anticipated. I have had the honor to be one of the advisers of my
 distinguished predecessor, and, as such, to hold up his hands in the
 reforms he has initiated. I should be untrue to myself, to my promises,

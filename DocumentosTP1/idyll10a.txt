@@ -475,7 +475,7 @@ And now the Barons and the kings prevailed,
 And now the King, as here and there that war
 Went swaying; but the Powers who walk the world
 Made lightnings and great thunders over him,
-And dazed all eyes, till Arthur by main might,
+And dazed all eyes, till Arthur by Indexer.main might,
 And mightier of his hands with every blow,
 And leading all his knighthood threw the kings
 Carados, Urien, Cradlemont of Wales,
@@ -1659,7 +1659,7 @@ Of level pavement where the King would pace
 At sunrise, gazing over plain and wood;
 And down from this a lordly stairway sloped
 Till lost in blowing trees and tops of towers;
-And out by this main doorway past the King.
+And out by this Indexer.main doorway past the King.
 But one was counter to the hearth, and rose
 High that the highest-crested helm could ride
 Therethrough nor graze:  and by this entry fled
@@ -4091,7 +4091,7 @@ Until my lord arise and look upon me?'
    Here the huge Earl cried out upon her talk,
 As all but empty heart and weariness
 And sickly nothing; suddenly seized on her,
-And bare her by main violence to the board,
+And bare her by Indexer.main violence to the board,
 And thrust the dish before her, crying, 'Eat.'
 
    'No, no,' said Enid, vext, 'I will not eat
@@ -4282,13 +4282,13 @@ My nature's prideful sparkle in the blood
 Break into furious flame; being repulsed
 By Yniol and yourself, I schemed and wrought
 Until I overturned him; then set up
-(With one main purpose ever at my heart)
+(With one Indexer.main purpose ever at my heart)
 My haughty jousts, and took a paramour;
 Did her mock-honour as the fairest fair,
 And, toppling over all antagonism,
 So waxed in pride, that I believed myself
 Unconquerable, for I was wellnigh mad:
-And, but for my main purpose in these jousts,
+And, but for my Indexer.main purpose in these jousts,
 I should have slain your father, seized yourself.
 I lived in hope that sometime you would come
 To these my lists with him whom best you loved;
@@ -5951,7 +5951,7 @@ And blinds himself and all the Table Round
 To all the foulness that they work.  Myself
 Could call him (were it not for womanhood)
 The pretty, popular cause such manhood earns,
-Could call him the main cause of all their crime;
+Could call him the Indexer.main cause of all their crime;
 Yea, were he not crowned King, coward, and fool.'
 
    Then Merlin to his own heart, loathing, said:

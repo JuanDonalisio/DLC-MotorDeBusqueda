@@ -1033,7 +1033,7 @@ ropes and blocks overhead.
 "She's a daisy," said Dan, enthusiastically, misunderstanding the
 look. "Wait till our mainsail's bent, an' she walks home with all her
 salt wet. There's some work first, though." He pointed down into
-the darkness of the open main-hatch between the two masts.
+the darkness of the open Indexer.main-hatch between the two masts.
 
 "What's that for? It's all empty," said Harvey.
 
@@ -1233,7 +1233,7 @@ blow from the man-o'-war's man.
 laughing.
 
 "Guess they was swivel-eyed, then, fer it didn't git home, and I
-know who'll find his boots on the main-truck ef he don't leave us
+know who'll find his boots on the Indexer.main-truck ef he don't leave us
 alone. Haul ahead! I'm busy, can't ye see?"
 
 "Danny, ye lie on the cable an' sleep all day," said Long Jack.
@@ -1577,7 +1577,7 @@ clotting on his tongue, spoke of the beauty of watchfulness and
 slashed away with the rope's end, punishing the dories as often as
 he hit Harvey. At last the clock in the cabin struck ten, and upon
 the tenth stroke little Penn crept on deck. He found two boys in
-two tumbled heaps side by side on the main hatch, so deeply
+two tumbled heaps side by side on the Indexer.main hatch, so deeply
 asleep that he actually rolled them to their berths.
 
 CHAPTER  III
@@ -1597,7 +1597,7 @@ were full of sails and dories. Far away on the horizon, the smoke of
 some liner, her hull invisible, smudged the blue, and to eastward a
 big ship's top-gallant sails, just lifting, made a square nick in it.
 Disko Troop was smoking by the roof of the cabin--one eye on the
-craft around, and the other on the little fly at the main-mast-head.
+craft around, and the other on the little fly at the Indexer.main-mast-head.
 
 "When Dad kerfiummoxes that way," said Dan in a whisper, "he's
 doin' some high-line thinkin' fer all hands. I'll lay my wage an'
@@ -2003,7 +2003,7 @@ There was an incessant slapping and chatter at the bows now,
 varied by a solid thud and a little spout of spray that clattered
 down on the foc'sle. The rigging dripped clammy drops, and the
 men lounged along the lee of the house-all save Uncle Salters, who
-sat stiffly on the main-hatch nursing his stung hands.
+sat stiffly on the Indexer.main-hatch nursing his stung hands.
 
 'Guess she'd carry stays'l," said Disko, rolling one eye at his
 brother.
@@ -2064,11 +2064,11 @@ but there appeared to be a place on it for everything and anything
 except a man. Forward lay the windlass and its tackle, with the
 chain and hemp cables, all very unpleasant to trip over; the foc'sle
 stovepipe, and the gurry-butts by the foc'sle hatch to hold the
-fish-livers. Aft of these the foreboom and booby of the main-hatch
+fish-livers. Aft of these the foreboom and booby of the Indexer.main-hatch
 took all the space that was not needed for the pumps and
 dressing-pens. Then came the nests of dories lashed to ring-bolts
 by the quarter-deck; the house, with tubs and oddments lashed all
-around it; and, last, the sixty-foot main-boom in its crutch, splitting
+around it; and, last, the sixty-foot Indexer.main-boom in its crutch, splitting
 things length-wise, to duck and dodge under every time.
 
 Tom Platt, of course, could not keep his oar out of the business,
@@ -2501,7 +2501,7 @@ When the winds begin to blow, pipe all hands together!"
 accordion low in the bunk:
 
 "Up jumped the cod with his chuckle-head, 
-Went to the main-chains to heave at the lead;
+Went to the Indexer.main-chains to heave at the lead;
 For it's windy weather," etc.
 
 Tom Platt seemed to be hunting for sometliing. Dan crouched
@@ -2793,7 +2793,7 @@ a hand on the foc'sle gangway as the solid bows hatcheted into the
 troughs. "Sea's oilin' over dretful fast. Danny, don't you want to
 skip up a piece an' see how aour trawl-buoy lays?"
 
-Danny, in his big boots, trotted rather than climbed up the main
+Danny, in his big boots, trotted rather than climbed up the Indexer.main
 rigging (this consumed Harvey with envy), hitched himself around
 the reeling cross-trees, and let his eye rove till it caught the tiny
 black buoy-flag on the shoulder of a mile-away swell.
@@ -3307,7 +3307,7 @@ lost child and as a lunatic; and when Salters saw that Penn liked
 the boy, he relaxed, too. Salters was not an amiable person (He
 esteemed it his business to keep the boys in order); and the first
 time Harvey, in fear and trembling, on a still day, managed to shin
-up to the main-truck (')an was behind him ready to help), he
+up to the Indexer.main-truck (')an was behind him ready to help), he
 esteemed it his duty to hang Salters's big sea-boots up there-a sight
 of shame and derision to the nearest schooner. With Disko, Harvey
 took no liberties; not even when the old man dropped direct
@@ -3496,7 +3496,7 @@ anywheres, exceptin' America's fairish broadly. Forty-six
 forty-nine's good enough fer them; an' I guess it's abaout right, too"
 
 Dan chalked the figures on the board, and they hung it in the
-main-rigging to a chorus of mercis from the bark.
+Indexer.main-rigging to a chorus of mercis from the bark.
 
 "Seems kinder uneighbourly to let 'em swedge off like this,"
 Salters suggested, feeling in his pockets
@@ -4820,7 +4820,7 @@ planked the mass down with big stones from the ballast, and there
 was always "jest another day's work." Disko did not tell them when
 all the salt was wetted. He rolled to the lazarette aft the cabin and
 began hauling out the big mainsail. This was at ten in the morning.
-The riding-sail was down and the main- and topsail were up by
+The riding-sail was down and the Indexer.main- and topsail were up by
 noon, and dories came alongside with letters for home, envying
 their good fortune. At last she cleared decks, hoisted her flag,-as is
 the right of the first boat off the Banks,-up~anchored, and began to
@@ -5573,7 +5573,7 @@ never seen him working for his bread," said the father.
 They went down between the stores full of fishermen's oilskins to
 Wouverman's wharf where the 'We're Here' rode high, her Bank flag
 still flying, all hands busy as beavers in the glorious morning light.
-Disko stood by the main hatch superintending Manuel, Penn, and
+Disko stood by the Indexer.main hatch superintending Manuel, Penn, and
 Uncle Salters at the tackle. Dan was swinging the loaded baskets
 inboard as Long Jack and Tom Platt filled them, and Harvey, with
 a notebook, represented the skipper's interests before the clerk of
@@ -5634,7 +5634,7 @@ hookin' fried pies an muggin' up when they ought to ha' been
 asleep, I dunno as I've any special fault to find with him."
 
 "There weren't nothin' wrong with Harve," said Uncle Salters,
-descending the steps. "He hung my boots on the main-truck, and he
+descending the steps. "He hung my boots on the Indexer.main-truck, and he
 ain't over an' above respectful to such as knows more'n he do,
 specially about farmin'; but he were mostly misled by Dan."
 

@@ -2327,7 +2327,7 @@ Looking down into the beautiful valley which was threaded by a
 beautiful creek fringed with timber, he noticed close to the base
 of the butte upon which he sat, a large drove of horses grazing
 peacefully and quietly.  Looking closer, he noticed at a little
-distance from the main drove, a horse with a saddle on his back. 
+distance from the Indexer.main drove, a horse with a saddle on his back.
 This was the one that had neighed, as the drove drifted further
 away from him.  He was tied by a long lariat to a large sage bush.
 
@@ -2964,7 +2964,7 @@ his life.
 THE MAN AND THE OAK
 
 There once lived a Sioux couple who had two children, a boy and a
-girl.  Every fall this family would move away from the main camp
+girl.  Every fall this family would move away from the Indexer.main camp
 and take up their winter quarters in a grove of timber some
 distance from the principal village.  The reason they did this was
 that he was a great hunter and where a village was located for the
@@ -2986,9 +2986,9 @@ the family, but being addressed as daughter by the parents, she
 could not openly show her feelings as the young man was considered
 her brother.
 
-In the fall when the main village moved into a large belt of timber
+In the fall when the Indexer.main village moved into a large belt of timber
 for their winter quarters, the hunter moved on to another place two
-days' travel from the main winter camp, where he would not be
+days' travel from the Indexer.main winter camp, where he would not be
 disturbed by any other hunters.
 
 The young man had a tent by himself, and it was always kept nice

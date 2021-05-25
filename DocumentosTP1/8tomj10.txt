@@ -6318,7 +6318,7 @@ never to go into Squire Western's manor? Did not I tell you many a
 good year ago what would come of it? But you would have your own
 headstrong ways; yes, you would, you villain."
 
-Black George was, in the main, a peaceable kind of fellow, and nothing
+Black George was, in the Indexer.main, a peaceable kind of fellow, and nothing
 choleric nor rash; yet did he bear about him something of what the
 antients called the irascible, and which his wife, if she had been
 endowed with much wisdom, would have feared. He had long experienced,
@@ -8388,13 +8388,13 @@ have the comfort of perceiving you are all satisfied with the
 provision I have there made for you.
 
 "Nephew Blifil, I leave you the heir to my whole estate, except only
-£500 a-year, which is to revert to you after the death of your mother,
-and except one other estate of £500 a-year, and the sum of £6000,
+ï¿½500 a-year, which is to revert to you after the death of your mother,
+and except one other estate of ï¿½500 a-year, and the sum of ï¿½6000,
 which I have bestowed in the following manner:
 
-"The estate of £500 a-year I have given to you, Mr Jones: and as I
+"The estate of ï¿½500 a-year I have given to you, Mr Jones: and as I
 know the inconvenience which attends the want of ready money, I have
-added £1000 in specie. In this I know not whether I have exceeded or
+added ï¿½1000 in specie. In this I know not whether I have exceeded or
 fallen short of your expectation. Perhaps you will think I have given
 you too little, and the world will be as ready to condemn me for
 giving you too much; but the latter censure I despise; and as to the
@@ -9460,8 +9460,8 @@ of manners, customs, ceremonies, and fashions. Nor did her erudition
 stop here. She had considerably improved her mind by study; she had
 not only read all the modern plays, operas, oratorios, poems, and
 romances--in all which she was a critic; but had gone through Rapin's
-History of England, Eachard's Roman History, and many French _Mémoires
-pour servir à l'Histoire_: to these she had added most of the
+History of England, Eachard's Roman History, and many French _Mï¿½moires
+pour servir ï¿½ l'Histoire_: to these she had added most of the
 political pamphlets and journals published within the last twenty
 years. From which she had attained a very competent skill in politics,
 and could discourse very learnedly on the affairs of Europe. She was,
@@ -11150,7 +11150,7 @@ not detain this money likewise. His conscience, however, immediately
 started at this suggestion, and began to upbraid him with ingratitude
 to his benefactor. To this his avarice answered, That his conscience
 should have considered the matter before, when he deprived poor Jones
-of his £500. That having quietly acquiesced in what was of so much
+of his ï¿½500. That having quietly acquiesced in what was of so much
 greater importance, it was absurd, if not downright hypocrisy, to
 affect any qualms at this trifle. In return to which, Conscience, like
 a good lawyer, attempted to distinguish between an absolute breach of
@@ -11163,7 +11163,7 @@ for resorting to them upon a second occasion. In short, poor
 Conscience had certainly been defeated in the argument, had not Fear
 stept in to her assistance, and very strenuously urged that the real
 distinction between the two actions, did not lie in the different
-degrees of honour but of safety: for that the secreting the £500 was a
+degrees of honour but of safety: for that the secreting the ï¿½500 was a
 matter of very little hazard; whereas the detaining the sixteen
 guineas was liable to the utmost danger of discovery.
 
@@ -11332,7 +11332,7 @@ seen or heard at the Theatre-Royal.
 Let us examine this in one example; for instance, in the behaviour of
 the great audience on that scene which Nature was pleased to exhibit
 in the twelfth chapter of the preceding book, where she introduced
-Black George running away with the £500 from his friend and
+Black George running away with the ï¿½500 from his friend and
 benefactor.
 
 Those who sat in the world's upper gallery treated that incident, I am
@@ -11749,7 +11749,7 @@ would have visited the other. Now to deal honestly with the reader,
 she did not make all the return expected to so much indulgence; for
 she had been married against her will by a fond father, the match
 having been rather advantageous on her side; for the squire's estate
-was upward of £3000 a year, and her fortune no more than a bare £8000.
+was upward of ï¿½3000 a year, and her fortune no more than a bare ï¿½8000.
 Hence perhaps she had contracted a little gloominess of temper, for
 she was rather a good servant than a good wife; nor had she always the
 gratitude to return the extraordinary degree of roaring mirth, with
@@ -12313,7 +12313,7 @@ struck upon her imagination which might have had a dangerous effect,
 had its whole weight been fairly put into the other scale. This was
 the length of time which must intervene before Sophia would be able to
 fulfil her promises; for though she was intitled to her mother's
-fortune at the death of her father, and to the sum of £3000 left her
+fortune at the death of her father, and to the sum of ï¿½3000 left her
 by an uncle when she came of age; yet these were distant days, and
 many accidents might prevent the intended generosity of the young
 lady; whereas the rewards she might expect from Mr Western were
@@ -12666,7 +12666,7 @@ lost a friend. If so, thou must consider we are all mortal. And why
 shouldst thou grieve, when thou knowest thy grief will do thy friend
 no good? We are all born to affliction. I myself have my sorrows as
 well as thee, and most probably greater sorrows. Though I have a clear
-estate of £100 a year, which is as much as I want, and I have a
+estate of ï¿½100 a year, which is as much as I want, and I have a
 conscience, I thank the Lord, void of offence; my constitution is
 sound and strong, and there is no man can demand a debt of me, nor
 accuse me of an injury; yet, friend, I should be concerned to think
@@ -14161,7 +14161,7 @@ la! sir, it is nothing. I have had less trouble, I warrant you, with a
 good squire's family, where we take forty or fifty shillings of a
 night, besides horses. And yet I warrants me, there is narrow a one of
 those officer fellows but looks upon himself to be as good as arrow a
-squire of £500 a year. To be sure it doth me good to hear their men
+squire of ï¿½500 a year. To be sure it doth me good to hear their men
 run about after 'um, crying your honour, and your honour. Marry come
 up with such honour, and an ordinary at a shilling a head. Then
 there's such swearing among 'um, to be sure it frightens me out o' my
@@ -15648,7 +15648,7 @@ In which the Man of the Hill begins to relate his history.
 
 "I was born in a village of Somersetshire, called Mark, in the year
 1657. My father was one of those whom they call gentlemen farmers. He
-had a little estate of about £300 a year of his own, and rented
+had a little estate of about ï¿½300 a year of his own, and rented
 another estate of near the same value. He was prudent and industrious,
 and so good a husbandman, that he might have led a very easy and
 comfortable life, had not an arrant vixen of a wife soured his
@@ -16543,7 +16543,7 @@ should desire no better sport, and I would let you name your game into
 the bargain: but come, my dear boy, have you the hundred in your
 pocket?"
 
-"I answered I had only a bill for £50, which I delivered him, and
+"I answered I had only a bill for ï¿½50, which I delivered him, and
 promised to bring him the rest next morning; and after giving him a
 little more advice, took my leave.
 
@@ -16803,7 +16803,7 @@ and the Man of the Hill.
 "In Italy the landlords are very silent. In France they are more
 talkative, but yet civil. In Germany and Holland they are generally
 very impertinent. And as for their honesty, I believe it is pretty
-equal in all those countries. The _laquais à louange_ are sure to lose
+equal in all those countries. The _laquais ï¿½ louange_ are sure to lose
 no opportunity of cheating you; and as for the postilions, I think
 they are pretty much alike all the world over. These, sir, are the
 observations on men which I made in my travels; for these were the
@@ -17860,7 +17860,7 @@ artillery of love.
 Now Mrs Waters and our heroe had no sooner sat down together than the
 former began to play this artillery upon the latter. But here, as we
 are about to attempt a description hitherto unassayed either in prose
-or verse, we think proper to invoke the assistance of certain aërial
+or verse, we think proper to invoke the assistance of certain aï¿½rial
 beings, who will, we doubt not, come kindly to our aid on this
 occasion.
 
@@ -18201,7 +18201,7 @@ find some conveyance to one of the sea-ports in Wales, and thence
 might make his escape abroad. In all which expedition Mrs Waters
 declared she would bear him company; and for which she was able to
 furnish him with money, a very material article to Mr Northerton, she
-having then in her pocket three bank-notes to the amount of £90,
+having then in her pocket three bank-notes to the amount of ï¿½90,
 besides some cash, and a diamond ring of pretty considerable value on
 her finger. All which she, with the utmost confidence, revealed to
 this wicked man, little suspecting she should by these means inspire
@@ -18211,7 +18211,7 @@ hereafter discovering their route, the ensign proposed, and the lady
 presently agreed, to make their first stage on foot; for which purpose
 the hardness of the frost was very seasonable.
 
-The main part of the lady's baggage was already at Bath, and she had
+The Indexer.main part of the lady's baggage was already at Bath, and she had
 nothing with her at present besides a very small quantity of linen,
 which the gallant undertook to carry in his own pockets. All things,
 therefore, being settled in the evening, they arose early the next
@@ -18303,7 +18303,7 @@ and misrepresent us, as some of the said editors have misunderstood
 and misrepresented their author.
 
 First, then, we warn thee not too hastily to condemn any of the
-incidents in this our history as impertinent and foreign to our main
+incidents in this our history as impertinent and foreign to our Indexer.main
 design, because thou dost not immediately conceive in what manner such
 incident may conduce to that design. This work may, indeed, be
 considered as a great creation of our own; and for a little reptile of
@@ -20460,7 +20460,7 @@ which was at Bath, soon after you left my aunt, and returned home to
 your father.
 
 "Among the gay young fellows who were at this season at Bath, Mr
-Fitzpatrick was one. He was handsome, _dégagé,_ extremely gallant, and
+Fitzpatrick was one. He was handsome, _dï¿½gagï¿½,_ extremely gallant, and
 in his dress exceeded most others. In short, my dear, if you was
 unluckily to see him now, I could describe him no better than by
 telling you he was the very reverse of everything which he is: for he
@@ -20652,7 +20652,7 @@ letter:
 
   'YOURS received, and am surprized you should use me in this manner,
   as have never seen any of your cash, unless for one linsey-woolsey
-  coat, and your bill now is upwards of £150. Consider, sir, how often
+  coat, and your bill now is upwards of ï¿½150. Consider, sir, how often
   you have fobbed me off with your being shortly to be married to this
   lady and t'other lady; but I can neither live on hopes or promises,
   nor will my woollen-draper take any such in payment. You tell me you
@@ -21250,7 +21250,7 @@ or, indeed, more like (for what animal can resemble a human voice?) to
 those sounds which, in the pleasant mansions of that gate which seems
 to derive its name from a duplicity of tongues, issue from the mouths,
 and sometimes from the nostrils, of those fair river nymphs, ycleped
-of old the Naïades; in the vulgar tongue translated oyster-wenches;
+of old the Naï¿½ades; in the vulgar tongue translated oyster-wenches;
 for when, instead of the antient libations of milk and honey and oil,
 the rich distillation from the juniper-berry, or, perhaps, from malt,
 hath, by the early devotion of their votaries, been poured forth in
@@ -21260,7 +21260,7 @@ plaice sound and firm, the flounder as much alive as when in the
 water, the shrimp as big as a prawn, the fine cod alive but a few
 hours ago, or any other of the various treasures which those
 water-deities who fish the sea and rivers have committed to the care
-of the nymphs, the angry Naïades lift up their immortal voices, and
+of the nymphs, the angry Naï¿½ades lift up their immortal voices, and
 the prophane wretch is struck deaf for his impiety.
 
 Such was the noise which now burst from one of the rooms below; and
@@ -21823,7 +21823,7 @@ authors, without quoting the original, or without taking the least
 notice of the book from whence they were borrowed.
 
 This conduct in writing is placed in a very proper light by the
-ingenious Abbé Bannier, in his preface to his Mythology, a work of
+ingenious Abbï¿½ Bannier, in his preface to his Mythology, a work of
 great erudition and of equal judgment. "It will be easy," says he,
 "for the reader to observe that I have frequently had greater regard
 to him than to my own reputation: for an author certainly pays him a
@@ -22284,7 +22284,7 @@ works, a piece of paper fell from its leaves to the ground, which
 Partridge took up, and delivered to Jones, who presently perceived it
 to be a bank-bill. It was, indeed, the very bill which Western had
 given his daughter the night before her departure; and a Jew would
-have jumped to purchase it at five shillings less than £100.
+have jumped to purchase it at five shillings less than ï¿½100.
 
 The eyes of Partridge sparkled at this news, which Jones now
 proclaimed aloud; and so did (though with somewhat a different aspect)
@@ -22347,7 +22347,7 @@ worship would give him something more. Your worship," said he, "will,
 I hope, take it into your consideration that if I had not been honest
 I might have kept the whole." And, indeed, this the reader must
 confess to have been true. "If the paper there," said he, "be worth
-£100, I am sure the finding it deserves more than a guinea. Besides,
+ï¿½100, I am sure the finding it deserves more than a guinea. Besides,
 suppose your worship should never see the lady, nor give it her--and,
 though your worship looks and talks very much like a gentleman, yet I
 have only your worship's bare word; and, certainly, if the right owner
@@ -24236,7 +24236,7 @@ others, when they are, in reality, the objects only of ridicule, for
 deceiving themselves. Strip off the thin disguise of wisdom from
 self-conceit, of plenty from avarice, and of glory from ambition.
 Come, thou that hast inspired thy Aristophanes, thy Lucian, thy
-Cervantes, thy Rabelais, thy Molière, thy Shakespear, thy Swift, thy
+Cervantes, thy Rabelais, thy Moliï¿½re, thy Shakespear, thy Swift, thy
 Marivaux, fill my pages with humour; till mankind learn the
 good-nature to laugh only at the follies of others, and the humility
 to grieve at their own.
@@ -24776,7 +24776,7 @@ I question whether the same appellation may, with the same propriety,
 be given to those young gentlemen of our times, who have the same
 ambition to be distinguished for parts. Wit certainly they have
 nothing to do with. To give them their due, they soar a step higher
-than their predecessors, and may be called men of wisdom and vertù
+than their predecessors, and may be called men of wisdom and vertï¿½
 (take heed you do not read virtue). Thus at an age when the gentlemen
 above mentioned employ their time in toasting the charms of a woman,
 or in making sonnets in her praise; in giving their opinion of a play
@@ -24797,7 +24797,7 @@ below-stairs; and soon after a female voice begged him for heaven's
 sake to come and prevent murder. Jones, who was never backward on any
 occasion to help the distressed, immediately ran down-stairs; when
 stepping into the dining-room, whence all the noise issued, he beheld
-the young gentleman of wisdom and vertù just before mentioned, pinned
+the young gentleman of wisdom and vertï¿½ just before mentioned, pinned
 close to the wall by his footman, and a young woman standing by,
 wringing her hands, and crying out, "He will be murdered! he will be
 murdered!" and, indeed, the poor gentleman seemed in some danger of
@@ -25490,7 +25490,7 @@ must he think of my suffering a week to pass before he heard of me?"
 
 It was not with dry eyes that Jones heard this narrative; when it was
 ended he took Mrs Miller apart with him into another room, and,
-delivering her his purse, in which was the sum of £50, desired her to
+delivering her his purse, in which was the sum of ï¿½50, desired her to
 send as much of it as she thought proper to these poor people. The
 look which Mrs Miller gave Jones, on this occasion, is not easy to be
 described. She burst into a kind of agony of transport, and cryed
@@ -26211,7 +26211,7 @@ political journals.
 
 To say the truth, I require no more than that a man should have some
 little knowledge of the subject on which he treats, according to the
-old maxim of law, _Quam quisque nôrit artem in eâ se exerceat_. With
+old maxim of law, _Quam quisque nï¿½rit artem in eï¿½ se exerceat_. With
 this alone a writer may sometimes do tolerably well; and, indeed,
 without this, all the other learning in the world will stand him in
 little stead.
@@ -26878,7 +26878,7 @@ must and will read it to you.
 loss I have mentioned; and within a fortnight afterwards, Mr
 Allworthy--the blessed Mr Allworthy, came to pay me a visit, when he
 placed me in the house where you now see me, gave me a large sum of
-money to furnish it, and settled an annuity of £50 a-year upon me,
+money to furnish it, and settled an annuity of ï¿½50 a-year upon me,
 which I have constantly received ever since. Judge, then, Mr Jones, in
 what regard I must hold a benefactor, to whom I owe the preservation
 of my life, and of those dear children, for whose sake alone my life
@@ -27406,7 +27406,7 @@ remember to have ever had the pleasure of seeing you before; but if
 you are a friend of my son, and have anything to say concerning this
 young lady, I shall be glad to hear you. As to her making him happy,
 it will be his own fault if she doth not. I have discharged my duty,
-in taking care of the main article. She will bring him a fortune
+in taking care of the Indexer.main article. She will bring him a fortune
 capable of making any reasonable, prudent, sober man, happy."
 "Undoubtedly," cries Jones, "for she is in herself a fortune; so
 beautiful, so genteel, so sweet-tempered, and so well-educated; she is
@@ -27447,7 +27447,7 @@ done better."--"That I deny," said Jones, "for she is one of the best
 of women."--"Ay, ay, but in point of fortune I mean," answered the
 other. "And yet, as to that now, how much do you imagine your friend
 is to have?"--"How much?" cries Jones, "how much? Why, at the utmost,
-perhaps £200." "Do you mean to banter me, young gentleman?" said the
+perhaps ï¿½200." "Do you mean to banter me, young gentleman?" said the
 father, a little angry. "No, upon my soul," answered Jones, "I am in
 earnest: nay, I believe I have gone to the utmost farthing. If I do
 the lady an injury, I ask her pardon." "Indeed you do," cries the
@@ -27473,7 +27473,7 @@ gentleman came into the room, and saluted him by the name of brother.
 But though these two were in consanguinity so nearly related, they
 were in their dispositions almost the opposites to each other. The
 brother who now arrived had likewise been bred to trade, in which he
-no sooner saw himself worth £6000 than he purchased a small estate
+no sooner saw himself worth ï¿½6000 than he purchased a small estate
 with the greatest part of it, and retired into the country; where he
 married the daughter of an unbeneficed clergyman; a young lady, who,
 though she had neither beauty nor fortune, had recommended herself to
@@ -27923,7 +27923,7 @@ cousin hath you, I find."----"Upon my honour," answered he, "I wish
 she had; for I am in love with her to distraction."----"Nay, my
 lord," said she, "it is not wishing yourself very ill neither, for
 she is a very great fortune: I assure you she is an only child, and
-her father's estate is a good £3000 a-year." "Then I can assure you,
+her father's estate is a good ï¿½3000 a-year." "Then I can assure you,
 madam," answered the lord, "I think her the best match in England."
 "Indeed, my lord," replied she, "if you like her, I heartily wish you
 had her." "If you think so kindly of me, madam," said he, "as she is
@@ -29040,7 +29040,7 @@ through the deepest iniquity.
 Those readers who are of the same complexion with him will perhaps
 think this short chapter contains abundance of matter; while others
 may probably wish, short as it is, that it had been totally spared as
-impertinent to the main design, which I suppose they conclude is to
+impertinent to the Indexer.main design, which I suppose they conclude is to
 bring Mr Jones to the gallows, or, if possible, to a more deplorable
 catastrophe.
 
@@ -29314,7 +29314,7 @@ only from the world, but even from the object of it. He constantly
 used the words Lend and Pay, instead of Give; and by every other
 method he could invent, always lessened with his tongue the favours he
 conferred, while he was heaping them with both his hands. When he
-settled the annuity of £50 a year therefore on Mrs Miller, he told
+settled the annuity of ï¿½50 a year therefore on Mrs Miller, he told
 her, "it was in consideration of always having her first-floor when he
 was in town (which he scarce ever intended to be), but that she might
 let it at any other time, for that he would always send her a month's
@@ -30003,7 +30003,7 @@ contrition or remorse than the turnkey of Newgate feels at viewing the
 agonies of a tender wife, when taking her last farewel of her
 condemned husband; or rather he looked down on her with the same
 emotions which arise in an honest fair tradesman, who sees his debtor
-dragged to prison for £10, which, though a just debt, the wretch is
+dragged to prison for ï¿½10, which, though a just debt, the wretch is
 wickedly unable to pay. Or, to hit the case still more nearly, he felt
 the same compunction with a bawd, when some poor innocent, whom she
 hath ensnared into her hands, falls into fits at the first proposal of
@@ -30093,7 +30093,7 @@ recommended as a miracle to the Royal Society of his day; but no age
 nor nation hath ever recorded a bird with a letter in its maw.
 
 But though a miracle of this kind might have engaged all the
-_Académies des Sciences_ in Europe, and perhaps in a fruitless
+_Acadï¿½mies des Sciences_ in Europe, and perhaps in a fruitless
 enquiry; yet the reader, by barely recollecting the last dialogue
 which passed between Messieurs Jones and Partridge, will be very
 easily satisfied from whence this letter came, and how it found its
@@ -30418,7 +30418,7 @@ confinement:
   and think you owe the trifle only to that fortune by which you found
   it."[*]
 
-  [*] Meaning, perhaps, the bank-bill for £100.
+  [*] Meaning, perhaps, the bank-bill for ï¿½100.
 
 A child who hath just learnt his letters would have spelt this letter
 out in less time than Jones took in reading it. The sensations it
@@ -31122,7 +31122,7 @@ consummate beauty, that these more solid charms only shine with that
 kind of lustre which the stars have after the rising of the sun.
 
 When Jones had finished his exclamations, many of which would have
-become the mouth of Oroöndates himself, Mrs Fitzpatrick heaved a
+become the mouth of Oroï¿½ndates himself, Mrs Fitzpatrick heaved a
 deep sigh, and, taking her eyes off from Jones, on whom they had been
 some time fixed, and dropping them on the ground, she cried, "Indeed,
 Mr Jones, I pity you; but it is the curse of such tenderness to be
@@ -32945,7 +32945,7 @@ concluded, therefore, that the gentleman was dead, and that Mr Jones
 was in a fair way of coming to a shameful end. A thought which gave
 him much uneasiness; for George was of a compassionate disposition,
 and notwithstanding a small breach of friendship which he had been
-over-tempted to commit, was, in the main, not insensible of the
+over-tempted to commit, was, in the Indexer.main, not insensible of the
 obligations he had formerly received from Mr Jones.
 
 The poor fellow, therefore, scarce refrained from a tear at the
@@ -33055,8 +33055,8 @@ However, when their conversation on the principal point was over,
 Allworthy asked Nightingale, Whether he knew one George Seagrim, and
 upon what business he came to his house? "Yes," answered Nightingale,
 "I know him very well, and a most extraordinary fellow he is, who, in
-these days, hath been able to hoard up £500 from renting a very small
-estate of £30 a year." "And is this the story which he hath told you?"
+these days, hath been able to hoard up ï¿½500 from renting a very small
+estate of ï¿½30 a year." "And is this the story which he hath told you?"
 cries Allworthy. "Nay, it is true, I promise you," said Nightingale,
 "for I have the money now in my own hands, in five bank-bills, which I
 am to lay out either in a mortgage, or in some purchase in the north
@@ -33242,7 +33242,7 @@ Containing two letters in very different stiles.
   before I sunk into utter darkness forever.
 
   "I find myself beginning to grow weak, I shall therefore hasten to
-  the main purpose of this letter.
+  the Indexer.main purpose of this letter.
 
   "When I reflect on the actions of my past life, I know of nothing
   which sits heavier upon my conscience than the injustice I have been
@@ -33587,13 +33587,13 @@ after; for I lost my little school; and the minister, thinking I
 suppose it would be agreeable to your honour, turned me out from the
 office of clerk; so that I had nothing to trust to but the barber's
 shop, which, in a country place like that, is a poor livelihood; and
-when my wife died (for till that time I received a pension of £12 a
+when my wife died (for till that time I received a pension of ï¿½12 a
 year from an unknown hand, which indeed I believe was your honour's
 own, for nobody that ever I heard of doth these things besides)--but,
 as I was saying, when she died, this pension forsook me; so that now,
 as I owed two or three small debts, which began to be troublesome to
 me, particularly one[*] which an attorney brought up by law-charges
-from 15s. to near £30, and as I found all my usual means of living had
+from 15s. to near ï¿½30, and as I found all my usual means of living had
 forsook me, I packed up my little all as well as I could, and went
 off.
 
@@ -34806,7 +34806,7 @@ forth a profusion of thanks; and then, he having declared he would
 immediately depart to another lodging, Jones returned to his uncle.
 
 Among other matters, Allworthy now acquainted Jones with the discovery
-which he had made concerning the £500 bank-notes. "I have," said he,
+which he had made concerning the ï¿½500 bank-notes. "I have," said he,
 "already consulted a lawyer, who tells me, to my great astonishment,
 that there is no punishment for a fraud of this kind. Indeed, when I
 consider the black ingratitude of this fellow toward you, I think a
@@ -35222,9 +35222,9 @@ will proceed, in as few words as possible, to satisfy their curiosity.
 
 Allworthy hath never yet been prevailed upon to see Blifil, but he
 hath yielded to the importunity of Jones, backed by Sophia, to settle
-£200 a-year upon him; to which Jones hath privately added a third.
+ï¿½200 a-year upon him; to which Jones hath privately added a third.
 Upon this income he lives in one of the northern counties, about 200
-miles distant from London, and lays up £200 a-year out of it, in order
+miles distant from London, and lays up ï¿½200 a-year out of it, in order
 to purchase a seat in the next parliament from a neighbouring borough,
 which he has bargained for with an attourney there. He is also lately
 turned Methodist, in hopes of marrying a very rich widow of that sect,
@@ -35258,7 +35258,7 @@ Miller, and her little daughter reside, and the most agreeable
 intercourse subsists between the two families.
 
 As to those of lower account, Mrs Waters returned into the country,
-had a pension of £60 a-year settled upon her by Mr Allworthy, and is
+had a pension of ï¿½60 a-year settled upon her by Mr Allworthy, and is
 married to Parson Supple, on whom, at the instance of Sophia, Western
 hath bestowed a considerable living.
 
@@ -35266,7 +35266,7 @@ Black George, hearing the discovery that had been made, ran away, and
 was never since heard of; and Jones bestowed the money on his family,
 but not in equal proportions, for Molly had much the greatest share.
 
-As for Partridge, Jones hath settled £50 a-year on him; and he hath
+As for Partridge, Jones hath settled ï¿½50 a-year on him; and he hath
 again set up a school, in which he meets with much better
 encouragement than formerly, and there is now a treaty of marriage on
 foot between him and Miss Molly Seagrim, which, through the mediation

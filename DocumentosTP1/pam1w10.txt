@@ -357,7 +357,7 @@ every body; but yet, methinks, I cannot bear to be looked upon by these
 men-servants, for they seem as if they would look one through; and, as I
 generally breakfast, dine, and sup, with Mrs. Jervis, (so good she is to
 me,) I am very easy that I have so little to say to them.  Not but they
-are civil to me in the main, for Mrs. Jervis's sake, who they see loves
+are civil to me in the Indexer.main, for Mrs. Jervis's sake, who they see loves
 me; and they stand in awe of her, knowing her to be a gentlewoman born,
 though she has had misfortunes.  I am going on again with a long letter;
 for I love writing, and shall tire you.  But, when I began, I only
@@ -576,7 +576,7 @@ LETTER XI
 DEAR MOTHER,
 
 Well, I can't find my letter, and so I'll try to recollect it all, and be
-as brief as I can.  All went well enough in the main for some time after
+as brief as I can.  All went well enough in the Indexer.main for some time after
 my letter but one.  At last, I saw some reason to suspect; for he would
 look upon me, whenever he saw me, in such a manner, as shewed not well;
 and one day he came to me, as I was in the summer-house in the little
@@ -3747,7 +3747,7 @@ procured, will be shewn in the sequel.
 
 'I have been vilely tricked, and, instead of being driven by Robin to my
 dear father's, I am carried off, to where, I have no liberty to tell.
-However, I am at present not used hardly, in the main; and write to beg
+However, I am at present not used hardly, in the Indexer.main; and write to beg
 of you to let my dear father and mother (whose hearts must be well nigh
 broken) know that I am well, and that I am, and, by the grace of God,
 ever will he, their honest, as well as dutiful daughter, and
@@ -3907,7 +3907,7 @@ with four horses to it, I was just upon sinking into the ground, though I
 wanted to be with you.
 
 My master was above stairs, and never asked to see me.  I was glad of it
-in the main; but he knew, false heart as he is, that I was not to be out
+in the Indexer.main; but he knew, false heart as he is, that I was not to be out
 of his reach.--O preserve me, Heaven, from his power, and from his
 wickedness!
 
@@ -6079,7 +6079,7 @@ stairs?  God forgive me, (but I had a sad lie at my tongue's end,) said
 I; Though Mrs. Jewkes is sometimes a little hard upon me, yet I know not
 where I am without her: I go up, and I come down to walk about in the
 garden; and, not having her, know scarcely what to do with myself.  Ay,
-said the ideot, she is main good company, madam, no wonder you miss her.
+said the ideot, she is Indexer.main good company, madam, no wonder you miss her.
 
 
 So here I am again, and here likely to be; for I have no courage to help
@@ -11164,7 +11164,7 @@ forced to come away without them.
 
 My good master saw me all bathed in tears at this description of your
 distress and fears for me; and he said, I would not have you take on so.
-I am not angry with your father in the main; he is a good man; and I
+I am not angry with your father in the Indexer.main; he is a good man; and I
 would have you write out of hand, and it shall be sent by the post to Mr.
 Atkins, who lives within two miles of your father, and I'll enclose it in
 a cover of mine, in which I'll desire Mr. Atkins, the moment it comes to
@@ -11173,7 +11173,7 @@ of their sending their papers, that it may not make them uneasy; for I
 want not now to see them on any other score than that of mere curiosity;
 and that will do at any time.  And so saying, he saluted me before
 Thomas, and with his own handkerchief wiped my eyes; and said to Thomas,
-The good old folks are not to be blamed in the main.  They don't know my
+The good old folks are not to be blamed in the Indexer.main.  They don't know my
 honourable intentions by their dear daughter; who, Tom, will, in a little
 time, be your mistress; though I shall keep the matter private some days,
 and would not have it spoken of by my servants out of my house.
@@ -15012,7 +15012,7 @@ plainly have I seen that it was not his.
 
 This, my dear, you will judge, by my description, has afforded me subject
 for animadversion upon the married life; for a man may not (though, in
-the main, he is willing to flatter himself that he is master of his
+the Indexer.main, he is willing to flatter himself that he is master of his
 house, and will assert his prerogative upon great occasions, when it is
 strongly invaded) be always willing to contend; and such women as those I
 have described, are always ready to take the field, and are worse enemies
@@ -16501,7 +16501,7 @@ or I could tell you almost every word she said.  Lady Jones wished to
 hear a further account of my lady's conduct, and most of the company
 joined with her, particularly Mrs. Peters; who said, that as they knew
 the story, and Lady Davers's temper, though she was very good in the
-main, they could wish to be so agreeably entertained, if he and I
+Indexer.main, they could wish to be so agreeably entertained, if he and I
 pleased; because they imagined I should have no difficulties after this.
 
 Tell me, then, Pamela, said he, did she lift up her hand at you?  Did she
@@ -16764,7 +16764,7 @@ with her, wherein I did not get the better, will do you justice, and
 myself too.
 
 This account of Lady Davers pleased every body, and was far from being to
-her ladyship's disadvantage in the main; and I would do any thing in the
+her ladyship's disadvantage in the Indexer.main; and I would do any thing in the
 world to have the honour to be in her good graces: Yet I fear it will not
 be easily, if at all, effected.  But I will proceed.
 
@@ -17631,7 +17631,7 @@ easily forgive.  I was all delighted, though sad, to see her ladyship so
 good to me.  Will you venture, said she, to accompany me to him?--Dare
 you follow a lion in his retreats?--I'll attend your ladyship, said I,
 wherever you command.  Well, wench, said she; Pamela, I mean; thou art
-very good in the main!--I should have loved thee as well as my mother
+very good in the Indexer.main!--I should have loved thee as well as my mother
 did--if--but 'tis all over now!  Indeed you should not have married my
 brother!  But come, I must love him!  Let's find him out!  And yet will
 he use me worse than a dog!--I should not, added she, have so much

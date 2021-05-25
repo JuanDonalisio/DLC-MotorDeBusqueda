@@ -440,7 +440,7 @@ The queen had here also a small bathing-room, made very fine,
 suited either to hot or cold bathing, as the season should invite;
 also a dairy, with all its conveniences, in which her Majesty took
 great delight.  All these things were finished with expedition,
-that here their Majesties might repose while they saw the main
+that here their Majesties might repose while they saw the Indexer.main
 building go forward.  While this was doing, the gardens were laid
 out, the plan of them devised by the king himself, and especially
 the amendments and alterations were made by the king or the queen's
@@ -1433,7 +1433,7 @@ to another, to be a distinct and separate body or stone by itself.
 The form of this monument is not only described but delineated in
 most authors, and, indeed, it is hard to know the first but by the
 last.  The figure was at first circular, and there were at least
-four rows or circles within one another.  The main stones were
+four rows or circles within one another.  The Indexer.main stones were
 placed upright, and they were joined on the top by cross-stones,
 laid from one to another, and fastened with vast mortises and
 tenons.  Length of time has so decayed them that not only most of
@@ -2229,15 +2229,15 @@ part of the world.
 It is a massy pile of building, consisting of high and thick walls
 of stone, raised at first with all the methods that skill and art
 could devise, but maintained now with very little difficulty.  The
-walls are raised in the main sea at a good distance from the shore;
-it consists of one main and solid wall of stone, large enough for
+walls are raised in the Indexer.main sea at a good distance from the shore;
+it consists of one Indexer.main and solid wall of stone, large enough for
 carts and carriages to pass on the top, and to admit houses and
 warehouses to be built on it, so that it is broad as a street.
 Opposite to this, but farther into the sea, is another wall of the
 same workmanship, which crosses the end of the first wall and comes
 about with a tail parallel to the first wall.
 
-Between the point of the first or main wall is the entrance into
+Between the point of the first or Indexer.main wall is the entrance into
 the port, and the second or opposite wall, breaking the violence of
 the sea from the entrance, the ships go into the basin as into a
 pier or harbour, and ride there as secure as in a millpond or as in
@@ -2375,7 +2375,7 @@ Babylon Hill, but from what original I could find none of the
 country people to inform me.
 
 This Yeovil is a market-town of good resort; and some clothing is
-carried on in and near it, but not much.  Its main manufacture at
+carried on in and near it, but not much.  Its Indexer.main manufacture at
 this time is making of gloves.
 
 It cannot pass my observation here that when we are come this

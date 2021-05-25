@@ -525,7 +525,7 @@ LIST OF ILLUSTRATIONS
   Cretan Writing.
   Egyptian and Babylonian Writing.
   The Moabite Stone (Louvre, Paris).
-  Head of a Girl (Musée S. Germain, Paris).
+  Head of a Girl (Musï¿½e S. Germain, Paris).
   Sketch of Mammoth on a Tusk found in a Cave in France.
   Bison painted on the Wall of a Cave.
   Cave Bear drawn on a Pebble.
@@ -574,7 +574,7 @@ LIST OF ILLUSTRATIONS
   A Cretan Girl (Museum of Candia, Crete).
   Aegean Snake Goddess (Museum of Fine Arts, Boston).
   A Cretan Cupbearer (Museum of Candia, Crete).
-  The François Vase (Archaeological Museum, Florence).
+  The Franï¿½ois Vase (Archaeological Museum, Florence).
   Consulting the Oracle at Delphi.
   The Discus Thrower (Lancelotti Palace, Rome).
   Athlete using the Strigil (Vatican Gallery, Rome).
@@ -660,8 +660,8 @@ LIST OF ILLUSTRATIONS
   A Slave's Collar
   Sophocles (Lateran Museum, Rome)
   Socrates (Vatican Museum, Rome)
-  Corner of a Doric Façade
-  Corner of an Ionic Façade
+  Corner of a Doric Faï¿½ade
+  Corner of an Ionic Faï¿½ade
   Corinthian Capital
   Composite Capital
   Tuscan Capital
@@ -684,7 +684,7 @@ LIST OF ILLUSTRATIONS
   The Nestorian Monument
   Papal Arms
   St. Daniel the Stylite on his Column
-  Abbey of Saint Germain des Prés, Paris
+  Abbey of Saint Germain des Prï¿½s, Paris
   A Monk Copyist
   Mecca
   A Letter of Mohammed
@@ -702,7 +702,7 @@ LIST OF ILLUSTRATIONS
   Trial by Combat
   Mounted Knight
   Pierrefonds
-  Château Gaillard (Restored)
+  Chï¿½teau Gaillard (Restored)
   King and Jester
   Falconry
   Farm Work in the Fourteenth Century
@@ -819,7 +819,7 @@ LIST OF MAPS
   Lydia, Media, Babylonia, and Egypt (about 550 B.C.)
   Persian Empire at its Greatest Extent (about 500 B.C.)
   Ancient Trade Routes
-  Phœnician and Greek Colonies.
+  Phï¿½nician and Greek Colonies.
   Physical Map of Europe.
   Ancient Greece and the Aegean.
   Aegean Civilization.
@@ -869,7 +869,7 @@ LIST OF MAPS
   Discoveries of the Northmen in the West
   England under Alfred the Great
   Dominions of William the Conqueror
-  Plan of Château Gaillard
+  Plan of Chï¿½teau Gaillard
   Plan of Hitchin Manor, Hertfordshire
   Germany and Italy during the Interregnum, 1254-1273 A.D.
   Mediterranean Lands after the Fourth Crusade, 1202-1204 A.D.
@@ -918,7 +918,7 @@ LIST OF PLATES
   Aphrodite of Melos (Louvre, Paris)
   Hermes and Dionysus (Museum of Olympia)
   Sarcophagus from Sidon (Imperial Ottoman Museum, Constantinople)
-  Laocoön and his Children (Vatican Museum, Rome)
+  Laocoï¿½n and his Children (Vatican Museum, Rome)
   Victory of Samothrace (Louvre, Paris)
   Oriental, Greek, and Roman Coins
   A Scene in Sicily
@@ -1127,13 +1127,13 @@ cents), contains an extensive list of pictures, slides, models, and other
 aids to history teaching. Among the more useful collections in book form
 of photographic reproductions and drawings are the following:
 
-Fechneimer, Hedwig. _Die Plastik der Ägypter_ (2d. ed., Berlin, 1914, B.
+Fechneimer, Hedwig. _Die Plastik der ï¿½gypter_ (2d. ed., Berlin, 1914, B.
 Cassirer, 12 marks). 156 plates of Egyptian sculpture.
 
-Fougères, Gustvae. _La vie publique et privée des Grecs et des Romains_
+Fougï¿½res, Gustvae. _La vie publique et privï¿½e des Grecs et des Romains_
 (2d ed., Paris, 1900, Hachette, 15 francs). An album of 85 pictures.
 
-Furtwängler, Adolf. _Masterpieces of Greek Sculpture_ (N. Y., Scribner,
+Furtwï¿½ngler, Adolf. _Masterpieces of Greek Sculpture_ (N. Y., Scribner,
 $15.00).
 
 Hekler, Anton. _Greek and Roman Portraits_ (N. Y., 1913, Putnam, $7.50).
@@ -1248,7 +1248,7 @@ fourteenth century B.C.
 Eliot, George. _Romola_ (N. Y., 1863, Dutton, 35 cents). Florence and
 Savonarola in the latter part of the fifteenth century.
 
-Fénelon, François. _Adventures of Telemachus_, translated by Dr.
+Fï¿½nelon, Franï¿½ois. _Adventures of Telemachus_, translated by Dr.
 Hawkesworth (Boston, Houghton Mifflin Co., $2.25).
 
 Hale, E. E. _In His Name_ (Boston, 1873, Little, Brown, and Co., $1.00).
@@ -1562,7 +1562,7 @@ Macalister, R. A. S. _A History of Civilization in Palestine_ (N. Y.,
 Maspero, (Sir) Gaston. _Life in Ancient Egypt and Assyria_ (N.Y., 1892,
 Appleton, $1.50). Fascinating and authoritative.
 
-Ragozin, Zénaïde A. _Earliest Peoples_ (N. Y., 1899, Harison, 60 cents). A
+Ragozin, Zï¿½naï¿½de A. _Earliest Peoples_ (N. Y., 1899, Harison, 60 cents). A
 well-written, fully-illustrated account of prehistoric man and the
 beginnings of history in Babylonia.
 
@@ -1577,7 +1577,7 @@ Putnam, $1.50). "Heroes of the Nations."
 Baikie, James. _The Sea-Kings of Crete_ (2d ed., N. Y., 1912, Macmillan,
 $1.75). A clear and vivid summary of Cretan archaeology.
 
-Blümner, Hugo. _The Home Life of the Ancient Greeks_, translated by Alice
+Blï¿½mner, Hugo. _The Home Life of the Ancient Greeks_, translated by Alice
 Zimmern (3d ed., N. Y., 1910, Funk and Wagnalls Co., $2.00).
 
 Bulley, Margaret H. _Ancient and Medieval Art_ (N. Y., 1914, Macmillan,
@@ -1797,7 +1797,7 @@ Tickner, F. W. _A Social and Industrial History of England_ (N. Y., 1915,
 Longmans, Green, and Co., $1.00). Very simply written and well
 illustrated.
 
-* Wright, Thomas. _The Homes of Other Days_ (London, 1871, Trübner, out of
+* Wright, Thomas. _The Homes of Other Days_ (London, 1871, Trï¿½bner, out of
 print). Valuable for both text and illustrations.
 
 
@@ -2263,7 +2263,7 @@ primitive hunters killed these fierce beasts and on fragments of their
 bones, or on cavern walls, drew pictures of them. Some of these earliest
 works of art are remarkably lifelike.
 
-[Illustration: HEAD OF A GIRL (Musée S. Germain, Paris)
+[Illustration: HEAD OF A GIRL (Musï¿½e S. Germain, Paris)
 A small head of a young girl carved from mammoth ivory. Found at
 Brassempouy, France, in cave deposits belonging to the early Stone Age.
 The hair is arranged somewhat after the early Egyptian fashion. Of the
@@ -2345,7 +2345,7 @@ making history.
 INDO-EUROPEANS AND SEMITES
 
 Because of differences in language, scholars have divided the White or
-Caucasian race into two main groups, called Indo-Europeans and Semites.
+Caucasian race into two Indexer.main groups, called Indo-Europeans and Semites.
 [14] This classification is often helpful, but the student should remember
 that Indo-European and Semitic peoples are not always to be sharply
 distinguished because they have different types of language. There is no
@@ -3851,7 +3851,7 @@ Conspicuous advance took place in the exact sciences. The leading
 operations of arithmetic were known. A Babylonian tablet gives a table of
 squares and cubes correctly calculated from 1 to 60. The number 12 was the
 basis of all reckonings. The division of the circle into degrees, minutes,
-and seconds (360°, 60', 60") was an invention of the Babylonians which
+and seconds (360ï¿½, 60', 60") was an invention of the Babylonians which
 illustrates this duodecimal system A start was made in geometry. One of
 the oldest of Egyptian books contains a dozen geometrical problems. This
 knowledge was afterwards developed into a true science by the Greeks.
@@ -4264,7 +4264,7 @@ new chapters to ancient history. [5]
 [Illustration: THE VAPHIO GOLD CUPS (National Museum, Athens)
 These beautiful objects were found in 1888 within a "bee-hive" tomb at
 Vaphio in Laconia. The two cups are of beaten gold, ornamented with
-designs in _repoussé_ work. The first scene represents a wild-bull hunt.
+designs in _repoussï¿½_ work. The first scene represents a wild-bull hunt.
 The companion piece pictures four tame bulls under the care of a
 herdsman.]
 
@@ -4469,7 +4469,7 @@ but they could also be regarded as upholders of truth and virtue. Even
 Homer could say, "Verily the blessed gods love not evil deeds, but they
 reverence justice and the righteous acts of men." [12]
 
-[Illustration: THE FRANÇOIS VASE (Archaeological Museum, Florence)
+[Illustration: THE FRANï¿½OIS VASE (Archaeological Museum, Florence)
 Found in an Etruscan grave in 1844 A.D. A black-figured terra cotta vase
 of about 600 B.C. It is nearly three feet in height and two an one half
 feet in diameter. The figures on the vase depict scenes from Greek
@@ -4843,7 +4843,7 @@ to remove unpopular politicians.
 ATHENS A DEMOCRATIC STATE
 
 There were still some steps to be taken before the rule of the people was
-completely secured at Athens. But, in the main, the Athenians by 500 B.C.
+completely secured at Athens. But, in the Indexer.main, the Athenians by 500 B.C.
 had established a truly democratic government, the first in the history of
 the world. The hour was now rapidly approaching when this young and
 vigorous democracy was to show forth its worth before the eyes of all
@@ -5059,7 +5059,7 @@ speech."
 20. What is the date of the first recorded Olympiad? of the expulsion of
 the last tyrant of Athens?
 
-21. Describe the Lions' Gate (illustration, page 70) and the François
+21. Describe the Lions' Gate (illustration, page 70) and the Franï¿½ois
 Vase (illustration, page 77).
 
 22. Compare Greek ideas of the future life with those of the Babylonians.
@@ -6458,7 +6458,7 @@ East.
 
 [Illustration: A GREEK CAMEO (Museum, Vienna)
 Cut in sardonyx. Represents Ptolemy Philadelphus, king of Egypt, and his
-wife Arsinoë.]
+wife Arsinoï¿½.]
 
 MINOR INDEPENDENT STATES
 
@@ -7022,7 +7022,7 @@ related, on the one side, to Greek and, on the other side, to the Celtic
 tongues of western Europe. They entered Italy through the Alpine passes,
 long before the dawn of history, and gradually pushed southward until they
 occupied the interior of the peninsula. At the beginning of historic times
-they had separated into two main branches. The eastern and central parts
+they had separated into two Indexer.main branches. The eastern and central parts
 of Italy formed the home of the highlanders, grouped in various tribes.
 Among them were the Umbrians in the northeast, the Sabines in the upper
 valley of the Tiber, and the Samnites in the south. Still other Italian
@@ -7938,7 +7938,7 @@ COURSE AND RESULTS OF THE WAR, 264-241 B.C.
 
 The contest between the two rival states began in 264 B.C. and lasted
 nearly twenty-four years. The Romans overran Sicily and even made an
-unsuccessful invasion of Africa, but the main struggle was on the sea.
+unsuccessful invasion of Africa, but the Indexer.main struggle was on the sea.
 Here at first the Romans were at a disadvantage, for they had no ships as
 large and powerful as those of the Carthaginians. With characteristic
 energy, however, they built several great war fleets and finally won a
@@ -8424,7 +8424,7 @@ hard-won popularity. It aroused the jealousy of the selfish city mob,
 which believed that the entrance of so many new citizens would mean the
 loss of its privileges. There would not be so many free shows and so much
 cheap grain. So the people rejected the measure and, turning from their
-former favorite, failed to reëlect him to the tribunate. When Gaius was no
+former favorite, failed to reï¿½lect him to the tribunate. When Gaius was no
 longer protected by the sanctity of the tribune's office, [21] he fell an
 easy victim to senatorial hatred. Another bloody tumult broke out, in
 which Gaius and three thousand of his followers perished. The consul who
@@ -8820,7 +8820,7 @@ Antony's hope of reigning supreme was soon disturbed by the appearance of
 a new rival. Caesar, in his will, had made his grandnephew, Octavian, [28]
 his heir. He now came to Rome to claim the inheritance. In that sickly,
 studious youth people did not at first recognize the masterful personality
-he was soon to exhibit. They rather reëchoed Cicero's sentiment that "the
+he was soon to exhibit. They rather reï¿½choed Cicero's sentiment that "the
 young man was to be praised, complimented, and got rid of." [29] But
 Octavian easily made himself a power, winning the populace by paying
 Caesar's legacies to them and conciliating the senatorial party by siding
@@ -9593,7 +9593,7 @@ modern standards, reached great size. Rome was the largest, her population
 being estimated at from one to two millions. Alexandria came next with
 more than half a million people. Syracuse was the third metropolis of the
 empire. Italy contained such important towns as Verona, Milan, and
-Ravenna. In Gaul were Marseilles, Nîmes, Bordeaux, Lyons--all cities with
+Ravenna. In Gaul were Marseilles, Nï¿½mes, Bordeaux, Lyons--all cities with
 a continuous existence to the present day. In Britain York and London were
 seats of commerce, Chester and Lincoln were military colonies, and Bath
 was celebrated then, as now, for its medicinal waters. Carthage and
@@ -9712,7 +9712,7 @@ and banquets. Each guild had its special deity, such as Vesta, the fire
 goddess, for bakers, and Bacchus, the wine god, for innkeepers. Every year
 the guildsmen held a festival, in honor of their patron, and marched
 through the streets with banners and the emblems of their trade. Nearly
-all the guilds had as one main object the provision of a proper funeral
+all the guilds had as one Indexer.main object the provision of a proper funeral
 and tomb for deceased members. The humble laborer found some consolation
 in the thought that he belonged to a club of friends and fellow workers,
 who after death would give him decent burial and keep his memory green.
@@ -9807,8 +9807,8 @@ mingled. A new sense of cosmopolitanism arose in place of the old civic or
 national patriotism.
 
 [Illustration: A ROMAN TEMPLE
-The best preserved of Roman temples. Located at Nîmes in southern France,
-where it is known as La Maison Carrée ("the square house"). The structure
+The best preserved of Roman temples. Located at Nï¿½mes in southern France,
+where it is known as La Maison Carrï¿½e ("the square house"). The structure
 is now used as a museum of antiquities.]
 
 UNIFYING AND CIVILIZING FORCES
@@ -9841,8 +9841,8 @@ raised in every quarter of the ancient world. Some of the grandest ruins
 of antiquity are not in the capital city itself, or even in Italy, but in
 Spain, France, England, Greece, Switzerland, Asia Minor, Syria, and North
 Africa. Among these are Hadrian's Wall in Britain, the splendid aqueduct
-known as the Pont du Gard near Nîmes in southern France, the beautiful
-temple called La Maison Carrée in the same city, the Olympieum at Athens,
+known as the Pont du Gard near Nï¿½mes in southern France, the beautiful
+temple called La Maison Carrï¿½e in the same city, the Olympieum at Athens,
 and the temple of the Sun at Baalbec in Syria Thus the lonely hilltops,
 the desolate desert sands, the mountain fastnesses of three continents
 bear witness even now to the widespreading sway of Rome.
@@ -11145,14 +11145,14 @@ visited by the Huns with fire and sword. Paris, it is worthy of note,
 escaped destruction. That now famous city was then only a little village
 on an island in the Seine.
 
-BATTLE OF CHÂLONS, 451 A.D.
+BATTLE OF CHï¿½LONS, 451 A.D.
 
 In this hour of danger Romans and Germans gave up quarreling and united
 against the common foe. Visigoths under their native king hastened from
 Spain; Burgundians and Franks joined their ranks; to these forces a German
-general, named Aëtius, added the last Roman army in the West. Opposed to
+general, named Aï¿½tius, added the last Roman army in the West. Opposed to
 them Attila had his Huns, the conquered Ostrogoths, and many other
-barbarian peoples. The battle of Châlons has well been called a struggle
+barbarian peoples. The battle of Chï¿½lons has well been called a struggle
 of the nations. It was one of the fiercest conflicts recorded in history.
 On both sides thousands perished, but so many more of Attila's men fell
 that he dared not risk a fresh encounter on the following day. He drew his
@@ -11285,7 +11285,7 @@ Tacitus.
 2. Make a list of all the Germanic nations mentioned in this chapter, and
 give a short account of each.
 
-3 Give dates for the following: battle of Châlons; sack of Rome by Alaric;
+3 Give dates for the following: battle of Chï¿½lons; sack of Rome by Alaric;
 battle of Adrianople; and end of the Roman Empire in the West.
 
 4. What resemblances existed between the culture of the Germans and that
@@ -11310,7 +11310,7 @@ England, and France?
 
 11. Why was Attila called the "scourge of God"?
 
-12. Can you suggest a reason why some historians do not regard Châlons as
+12. Can you suggest a reason why some historians do not regard Chï¿½lons as
 one of the world's decisive battles?
 
 13. In what sense does the date, 476 A.D., mark the "fall" of the Roman
@@ -11445,7 +11445,7 @@ family. [4]
 
 GREEK EDUCATION
 
-Greek education consisted of three main branches, known as gymnastics,
+Greek education consisted of three Indexer.main branches, known as gymnastics,
 music, and grammar. By gymnastics the Greeks meant the physical training
 in the palestra, an open stretch of ground on the outskirts of the city.
 Here a private teacher gave instruction in the various athletic sports
@@ -11565,7 +11565,7 @@ undergarment of wool or linen, without sleeves. Over this was thrown a
 large woolen mantle, so wrapped about the figure as to leave free only the
 right shoulder and head. In the house a man wore only his tunic; out of
 doors and on the street he usually wore the mantle over it. Very similar
-to the two main articles of Greek clothing were the Roman _tunica_ and
+to the two Indexer.main articles of Greek clothing were the Roman _tunica_ and
 _toga_. [10]
 
 COVERING FOR THE HEAD AND FEET
@@ -11629,7 +11629,7 @@ the primitive Roman house without windows or chimney. [12]
 THE PERISTYLE
 
 A corridor from the _atrium_ led into the _peristyle_, the second of the
-two main sections of a Roman house. It was a spacious court, open to the
+two Indexer.main sections of a Roman house. It was a spacious court, open to the
 sky and inclosed by a colonnade or portico. This delightful spot, rather
 than the formal _atrium_, served as the center of family life. About it
 were grouped the bedchambers, bathrooms, dining rooms, kitchen, and other
@@ -11930,7 +11930,7 @@ he had saved enough to purchase his freedom.
 A runaway slave, if recaptured, was sometimes compelled to wear a metal
 collar riveted about his neck. One of these collars, still preserved at
 Rome, bears the inscription: _Servus sum dom(i)ni mei Scholastici v(iri)
-sp(ectabüis). Tene me ne fugiam de domo._--"I am the slave of my master
+sp(ectabï¿½is). Tene me ne fugiam de domo._--"I am the slave of my master
 Scholasticus, a gentleman of importance. Hold me, lest I flee from home."]
 
 PERMANENCE OF SLAVERY
@@ -12261,9 +12261,9 @@ wooden post or tree trunk used in timber construction. The capital at the
 top of the column originated in the square wooden slab which supported the
 heavy beam of the roof.
 
-[Illustration: CORNER OF A DORIC FAÇADE]
+[Illustration: CORNER OF A DORIC FAï¿½ADE]
 
-[Illustration: CORNER OF AN IONIC FAÇADE]
+[Illustration: CORNER OF AN IONIC FAï¿½ADE]
 
 THE DORIC COLUMN
 
@@ -12400,7 +12400,7 @@ remarkable that sculpture reached so high a development in ancient Greece.
 
 THE ARCH AND DOME IN ROMAN BUILDINGS
 
-In architecture the Romans achieved preëminence. The temples and other
+In architecture the Romans achieved preï¿½minence. The temples and other
 public works of Greece seem almost insignificant beside the stupendous
 edifices raised by Roman genius in every province of the empire. The
 ability of the Romans to build on so large a scale arose from their use of
@@ -12469,7 +12469,7 @@ engineering works, their heavy masses of rough masonry produce an
 inspiring sense of power.
 
 [Illustration: A ROMAN AQUEDUCT
-The Pont du Gard near Nîmes (ancient Nemausus) in southern France. Built
+The Pont du Gard near Nï¿½mes (ancient Nemausus) in southern France. Built
 by the emperor Antoninus Pius. The bridge spans two hilltops nearly a
 thousand feet apart. It carries an aqueduct with three tiers of massive
 stone arches at a height of 160 feet above the stream. This is the finest
@@ -12673,7 +12673,7 @@ height. If to-day they have lost much of their glory, we can still
 understand how they were the precious possession of the Athenians and the
 wonder of all the ancient world. "O shining, violet-crowned city of song,
 great Athens, bulwark of Hellas, walls divine!" The words are those of an
-old Greek poet, [53] but they are reëchoed by all who have come under the
+old Greek poet, [53] but they are reï¿½choed by all who have come under the
 magic spell of the literature and art of the Athenian city.
 
 
@@ -13823,7 +13823,7 @@ SYNOD OF WHITBY, 664 A.D.
 
 The rivalry between Celtic and Roman Christians was finally settled at a
 church gathering, or synod, called by the king of Northumbria at Whitby.
-The main controversy at this synod concerned the proper date for Easter.
+The Indexer.main controversy at this synod concerned the proper date for Easter.
 In the course of the debate it was asserted that the Roman custom had the
 sanction of St. Peter, to whom Christ had intrusted the keys of heaven.
 This statement was enough for the Northumbrian king, who thereupon decided
@@ -13991,7 +13991,7 @@ FOOTNOTES
 in French, Louis.
 
 [8] _Allemagne_. On the other hand, the inhabitants of Gaul came to call
-their country _France_ and themselves _Français_ after their conquerors,
+their country _France_ and themselves _Franï¿½ais_ after their conquerors,
 the Germanic Franks.
 
 [9] Gregory of Tours, _Historia Francorum_, ii, 31.
@@ -14445,7 +14445,7 @@ now defaced by vandal hands, it remains perhaps the supreme achievement of
 Christian architecture.
 
 [Illustration: SANCTA SOPHIA, CONSTANTINOPLE
-Built by Justinian and dedicated on Christmas Day, 538 A.D. The main
+Built by Justinian and dedicated on Christmas Day, 538 A.D. The Indexer.main
 building is roofed over by a great central dome 107 feet in diameter and
 179 feet in height. After the Ottoman Turks turned the church into a
 mosque, a minaret was erected at each of the four exterior angles. The
@@ -14603,7 +14603,7 @@ The development of the patriarchate calls for special notice. At the time
 of the Council of Nicaea [3] there were three patriarchs, namely, the
 bishops of Rome, Antioch, and Alexandria. These cities ranked among the
 most important in the Roman world. It was only natural, therefore, that
-the churches established in them should be singled out for preëminence.
+the churches established in them should be singled out for preï¿½minence.
 Some years after the removal of the capital to Constantinople, the bishop
 of that imperial city was recognized as a patriarch at a general council
 of the Church. In the fifth century the bishop of Jerusalem received the
@@ -15042,7 +15042,7 @@ if the monastery was built on a stream. The high wall and ditch, usually
 surrounding a monastery, shut it off from outsiders and in time of danger
 protected it against attack.
 
-[Illustration: ABBEY OF SAINT GERMAIN DES PRÉS, PARIS
+[Illustration: ABBEY OF SAINT GERMAIN DES PRï¿½S, PARIS
 This celebrated monastery was founded in the sixth century. Of the
 original buildings only the abbey church remains. The illustration shows
 the monastery as it was in 1361 A.D., with walls, towers, drawbridge, and
@@ -16116,8 +16116,8 @@ manners at the court of the Abbasids. The book, as we now have it, seems
 to have been composed as late as the fifteenth century, but it borrows
 much from earlier Arabic sources. Many of the tales are of Indian or
 Persian origin, but all have a thoroughly Moslem coloring. The second work
-is the _Rubáiyát_ of the astronomer-poet of Persia, Omar Khayyam, who
-wrote about the beginning of the twelfth century. His _Rubáiyát_ is a
+is the _Rubï¿½iyï¿½t_ of the astronomer-poet of Persia, Omar Khayyam, who
+wrote about the beginning of the twelfth century. His _Rubï¿½iyï¿½t_ is a
 little volume of quatrains, about five hundred in all, distinguished for
 wit, satirical power, and a vein of melancholy, sometimes pensive,
 sometimes passionate. These characteristics of Omar's poetry have made it
@@ -16350,7 +16350,7 @@ scientific knowledge. In English these words include _alchemy_ (whence
 _chemistry_), _alcohol_, _alembic_, _algebra_, _alkali_, _almanac_,
 _Aldebaran_ (the star), etc.
 
-[29] The translation of the _Rubáiyát_ by Edward Fitzgerald is almost an
+[29] The translation of the _Rubï¿½iyï¿½t_ by Edward Fitzgerald is almost an
 English classic.
 
 [30] See page 564.
@@ -16464,7 +16464,7 @@ THE NORTHMEN AS SAILORS
 Whether the Northmen engaged in trade or in warfare, good ships and good
 seamanship were indispensable to them. They became the boldest sailors of
 the early Middle Ages. No longer hugging the coast, as timid mariners had
-always done before them, the Northmen pushed out into the uncharted main
+always done before them, the Northmen pushed out into the uncharted Indexer.main
 and steered their course only by observation of the sun and stars. In this
 way the Northmen were led to make those remarkable explorations in the
 Atlantic Ocean and the polar seas which added so greatly to geographical
@@ -16572,7 +16572,7 @@ doubled his power.
 
 THOR'S DEEDS OF STRENGTH
 
-Many stories were told of Thor's adventures, when visiting Jötunheim, the
+Many stories were told of Thor's adventures, when visiting Jï¿½tunheim, the
 abode of the giants. In a drinking-match he tried to drain a horn of
 liquor, not knowing that one end of the horn reached the sea, which was
 appreciably lowered by the god's huge draughts. He sought to lift from the
@@ -16593,8 +16593,8 @@ from all danger his mother Frigga required everything on earth to swear
 never to harm her son. Only a single plant, the mistletoe, did not take
 the oath. Then the traitor Loki gathered the mistletoe and came to an
 assembly where the gods were hurling all kinds of missiles at Balder, to
-show that nothing could hurt him. Loki asked the blind Höder to throw the
-plant at Balder. Höder did so, and Balder fell dead. The gods tried to
+show that nothing could hurt him. Loki asked the blind Hï¿½der to throw the
+plant at Balder. Hï¿½der did so, and Balder fell dead. The gods tried to
 recover him from Hel, the gloomy underworld, but Hel demanded as his
 ransom a tear from every living creature. Gods, men, and even things
 inanimate wept for Balder, except one cruel giantess--Loki in disguise--
@@ -16844,7 +16844,7 @@ THE NORTHMEN IN GERMANY
 
 The heavy hand of the Northmen also descended on Germany. The rivers
 Scheldt, Meuse, Rhine, and Elbe enabled them to proceed at will into the
-heart of the country. Liège, Cologne, Strassburg, Hamburg, and other great
+heart of the country. Liï¿½ge, Cologne, Strassburg, Hamburg, and other great
 Frankish cities fell before them. Viking raiders even plundered Aachen and
 stabled their horses in the church which Charlemagne had built there. [14]
 Thus the ancient homeland of the Franks was laid completely waste.
@@ -17678,7 +17678,7 @@ As engineering skill increased, several towers were built and were then
 connected by outer and inner walls. The castle thus became a group of
 fortifications, which might cover a wide area.
 
-[Illustration: PLAN OF CHÂTEAU GAILLARD
+[Illustration: PLAN OF CHï¿½TEAU GAILLARD
 The plan is intended to represent that of a typical castle, as the plan of
 Kirkstall Abbey represents that of a typical monastery.]
 
@@ -17704,7 +17704,7 @@ starve the garrison into surrendering. But ordinarily a well-built, well-
 provisioned castle was impregnable. Behind its frowning battlements even a
 petty lord could defy a royal army.
 
-[Illustration: CHÂTEAU GAILLARD (RESTORED)
+[Illustration: CHï¿½TEAU GAILLARD (RESTORED)
 The finest of all medieval castles. Located on a high hill overlooking the
 Seine about twenty miles from Rouen. Built by Richard the Lion hearted
 within a twelvemonth (1197-1198 AD) and by him called Saucy Castle. It was
@@ -17760,7 +17760,7 @@ fighting their chief outdoor occupation and pastime. "To play a great
 game" was their description of a battle.
 
 [Illustration: FALCONRY
-From a manuscript of the thirteenth century in the Bibliothèque Nationale,
+From a manuscript of the thirteenth century in the Bibliothï¿½que Nationale,
 Paris.]
 
 
@@ -18150,7 +18150,7 @@ account of a judicial duel.
 
 [9] See the illustrations, pages 408, 421, 422, 473.
 
-[10] The French form of the word is _château_.
+[10] The French form of the word is _chï¿½teau_.
 
 [11] A good example is the "White Tower," which forms a part of the Tower
 of London. It was built by William the Conqueror. See the illustration,
@@ -19450,7 +19450,7 @@ everywhere took up the cry "God wills it!" and urged their hearers to
 start for Jerusalem. A monk named Peter the Hermit aroused large parts of
 France with his passionate eloquence, as he rode from town to town,
 carrying a huge cross before him and preaching to vast crowds. Without
-waiting for the main body of nobles, which was to assemble at
+waiting for the Indexer.main body of nobles, which was to assemble at
 Constantinople in the summer of 1096 A.D., a horde of poor men, women, and
 children set out, unorganized and almost unarmed, on the road to the Holy
 Land. One of these crusading bands, led by Peter the Hermit, managed to
@@ -19524,7 +19524,7 @@ the modest title of "Protector of the Holy Sepulcher." [8] Godfrey died
 the next year and his brother Baldwin, who succeeded him, being less
 scrupulous, was crowned king at Bethlehem. The new kingdom contained
 nearly a score of fiefs, whose lords made war, administered justice, and
-coined money, like independent rulers. The main features of European
+coined money, like independent rulers. The Indexer.main features of European
 feudalism were thus transplanted to Asiatic soil.
 
 OTHER CRUSADERS' STATES
@@ -20905,7 +20905,7 @@ The blood of prehistoric tribes, whose monuments and grave mounds are
 scattered over the land, still flows in the veins of Frenchmen. At the
 opening of historic times France was chiefly occupied by the Celts, whom
 Julius Caesar found there and subdued. The Celts, or Gauls, have formed in
-later ages the main stock of the French nation, but their language gave
+later ages the Indexer.main stock of the French nation, but their language gave
 place to Latin after the Roman conquest. In the course of five hundred
 years the Gauls were so thoroughly Romanized that they may best be
 described as Gallo-Romans. The Burgundians, Franks, and Northmen
@@ -20927,7 +20927,7 @@ strongest monarchs in Europe.
 FRANCE AND ITS FIEFS
 
 Hugh Capet's duchy--the original France--included only a small stretch of
-inland country centering about Paris on the Seine and Orléans on the
+inland country centering about Paris on the Seine and Orlï¿½ans on the
 Loire. His election to the kingship did not increase his power over the
 great lords who ruled in Normandy, Brittany, Aquitaine, Burgundy, and
 other parts of the country. They did homage to the king for their fiefs
@@ -21025,9 +21025,9 @@ good.
 [Illustration: ENGLISH ARCHER
 From an old manuscript.]
 
-BATTLES OF CRÉCY, 1346 A.D., AND POITIERS, 1356 A.D.
+BATTLES OF CRï¿½CY, 1346 A.D., AND POITIERS, 1356 A.D.
 
-In 1346 A.D. Edward led his troops across the Channel and at Crécy gained
+In 1346 A.D. Edward led his troops across the Channel and at Crï¿½cy gained
 a complete victory over the knighthood of France. Ten years later the
 English at Poitiers almost annihilated another French force much superior
 in numbers. These two battles were mainly won by foot soldiers armed with
@@ -21041,7 +21041,7 @@ musket, struck a deadly blow at feudalism.
 THE "BLACK PRINCE"
 
 Edward's son, the Prince of Wales, when only sixteen years of age, won his
-spurs by distinguished conduct at Crécy. It was the "Black Prince," [24]
+spurs by distinguished conduct at Crï¿½cy. It was the "Black Prince," [24]
 also, who gained the day at Poitiers, where he took prisoner the French
 king, John. Toward his royal captive he behaved in chivalrous fashion. At
 supper, on the evening of the battle, he stood behind John's chair and
@@ -21059,23 +21059,23 @@ French refused to fight more pitched battles and retired to their castles
 and fortified towns. The war almost ceased for many years after the death
 of Edward III. It began again early in the fifteenth century, and the
 English this time met with more success. They gained possession of almost
-all France north of the Loire, except the important city of Orléans. Had
+all France north of the Loire, except the important city of Orlï¿½ans. Had
 the English taken it, French resistance must have collapsed. That they did
 not take it was due to one of the most remarkable women in history--Joan
 of Arc. [25]
 
-THE "MAID OF ORLÉANS," 1429 A.D.
+THE "MAID OF ORLï¿½ANS," 1429 A.D.
 
 Joan was a peasant girl, a native of the little village of Domremy. Always
 a devout and imaginative child, she early began to see visions of saints
 and angels and to hear mysterious voices. At the time of the siege of
-Orléans the archangel Michael appeared to her, so she declared, and bade
+Orlï¿½ans the archangel Michael appeared to her, so she declared, and bade
 her go forth and save France. Joan obeyed, and though barely seventeen
 years of age made her way to the court of the French king. There her
 piety, simplicity, and evident faith in her mission overcame all doubts.
 Clad in armor, girt with an ancient sword, and with a white banner borne
 before her, Joan was allowed to accompany an army for the relief of
-Orléans. She inspired the French with such enthusiasm that they quickly
+Orlï¿½ans. She inspired the French with such enthusiasm that they quickly
 compelled the English to raise the siege. Then Joan led her king to Reims
 and stood beside him at his coronation in the cathedral.
 
@@ -21157,7 +21157,7 @@ CHRISTIAN STATES OF SPAIN
 
 The Moors never wholly conquered a fringe of mountain territory in the
 extreme north of Spain. Here a number of small Christian states, including
-León, Castile, Navarre, and Aragon, came into being. In the west there
+Leï¿½n, Castile, Navarre, and Aragon, came into being. In the west there
 also arose the Christian state of Portugal. Geographically, Portugal
 belongs to Spain, from which it is separated only by artificial frontiers,
 but the country has usually managed to maintain its independence.
@@ -21188,7 +21188,7 @@ Spain.
 UNION OF CASTILE AND ARAGON, 1479 A.D.
 
 Meanwhile the separate Spanish kingdoms were coming together to form a
-nation. León and Castile in 1230 A.D. combined into the one kingdom of
+nation. Leï¿½n and Castile in 1230 A.D. combined into the one kingdom of
 Castile, so named because its frontiers bristled with castles against the
 Moors. But the most important step in the making of Spain was the marriage
 of Ferdinand of Aragon to Isabella of Castile, leading in 1479 A.D. to the
@@ -21325,7 +21325,7 @@ their former territories to the Slavs. In the reign of Charlemagne all the
 region between the Elbe and the Vistula belonged to Slavic tribes. To win
 it back for Germany required several centuries of hard fighting. The Slavs
 were heathen and barbarous, so that warfare with them seemed to be a kind
-of crusade. In the main, however, German expansion eastward was a business
+of crusade. In the Indexer.main, however, German expansion eastward was a business
 venture, due to the need for free land. It was the same need which in the
 nineteenth century carried the frontiers of the United States from the
 Alleghanies to the Pacific.
@@ -21390,8 +21390,8 @@ and (b) additional dominions of the Plantagenet kings in France.
 Arrange your material in parallel columns with dates, one column for
 England, one for France, and one for the other European countries.
 
-3. Locate the following places: Crécy; Calais; Poitiers; Salisbury;
-Stirling; Edinburgh; Orléans; and Granada.
+3. Locate the following places: Crï¿½cy; Calais; Poitiers; Salisbury;
+Stirling; Edinburgh; Orlï¿½ans; and Granada.
 
 4. What happened in 987 A.D.? in 1066 A.D.? in 1215 A.D.? in 1295 A.D.? in
 1346 A.D.? in 1453 A.D.? in 1485 A.D.?
@@ -21432,7 +21432,7 @@ and the United Kingdom.
 17. "Islands seem dedicated by nature to freedom." How does the history of
 Ireland illustrate this statement?
 
-18. Trace on the map the main water routes in France between the
+18. Trace on the map the Indexer.main water routes in France between the
 Mediterranean and the Atlantic.
 
 19. Show that Paris occupies an exceptionally good location for a capital
@@ -21924,7 +21924,7 @@ ASIATIC TRADE ROUTES
 
 Before the discovery of the Cape of Good Hope the spices, drugs, incense,
 carpets, tapestries, porcelains, and gems of India, China, and the East
-Indies reached the West by three main routes. All had been used in ancient
+Indies reached the West by three Indexer.main routes. All had been used in ancient
 times. [16] The central and most important route led up the Persian Gulf
 and Tigris River to Bagdad, from which city goods went by caravan to
 Antioch or Damascus. The southern route reached Cairo and Alexandria by
@@ -21943,7 +21943,7 @@ Oriental goods, upon reaching the Mediterranean, could be transported by
 water to northern Europe. Every year the Venetians sent a fleet loaded
 with eastern products to Bruges in Flanders, a city which was the most
 important depot of trade with Germany, England, and Scandinavia. Bruges
-also formed the terminus of the main overland route leading from Venice
+also formed the terminus of the Indexer.main overland route leading from Venice
 over the Alps and down the Rhine. But as the map indicates, many other
 commercial highways linked the Mediterranean with the North Sea and the
 Baltic.
@@ -22200,7 +22200,7 @@ The visitor to modern Venice can still gain a good impression of what the
 city must have looked like in the fourteenth century, when ships of every
 nation crowded its quays and strangers of every country thronged its
 squares or sped in light gondolas over the canals which take the place of
-streets. The main highway is still the Grand Canal, nearly two miles long
+streets. The Indexer.main highway is still the Grand Canal, nearly two miles long
 and lined with palaces and churches. The Grand Canal leads to St. Mark's
 Cathedral, brilliant with mosaic pictures, the Campanile, or bell tower,
 and the Doge's Palace. The "Bridge of Sighs" connects the ducal palace
@@ -22234,7 +22234,7 @@ cities which shared in this commerce early formed the celebrated Hanseatic
 
 MEMBERSHIP OF THE HANSEATIC LEAGUE
 
-The league seems to have begun with an alliance of Hamburg and Lübeck to
+The league seems to have begun with an alliance of Hamburg and Lï¿½beck to
 safeguard the traffic on the Elbe. The growth of the league was rapid. At
 the period of its greatest power, about 1400 A.D., there were upwards of
 eighty Hanseatic cities along the Baltic coast and in the inland districts
@@ -22270,7 +22270,7 @@ Baltic trade and began to decline. Moreover the Baltic, like the
 Mediterranean, sank to minor importance as a commercial center, after the
 Portuguese had discovered the sea route to India and the Spaniards had
 opened up the New World. [29] City after city gradually withdrew from the
-league, till only Hamburg, Lübeck, and Bremen remained. They are still
+league, till only Hamburg, Lï¿½beck, and Bremen remained. They are still
 called free and independent cities, though now they form a part of the
 German Empire.
 
@@ -22312,7 +22312,7 @@ friendship between the two countries which still endures.
 [Illustration: BELFRY OF BRUGES
 Bruges, the capital of West Flanders, contains many fine monuments of the
 Middle Ages Among these is the belfry, which rises in the center of the
-façade of the market hall. It dates from the end of the thirteenth
+faï¿½ade of the market hall. It dates from the end of the thirteenth
 century. Its height is 352 feet. The belfry consists of three stories, the
 two lower ones square, and the upper one, octagonal.]
 
@@ -22445,9 +22445,9 @@ which has preserved its medieval monuments.
 
 [7] French _couvre feu_, "cover fire."
 
-[8] In French _hôtel de ville_; in German _Rathhaus_.
+[8] In French _hï¿½tel de ville_; in German _Rathhaus_.
 
-[9] German _bürgermeister_, from _burg_, "castle."
+[9] German _bï¿½rgermeister_, from _burg_, "castle."
 
 [10] French _maire_, from Latin _major_, "greater."
 
@@ -22560,12 +22560,12 @@ DEVELOPMENT OF FRENCH
 
 The popular Latin of the Gallo-Romans gave rise to two quite independent
 languages in medieval France. The first was used in the southern part of
-the country; it was called Provençal (from Provence). The second was
+the country; it was called Provenï¿½al (from Provence). The second was
 spoken in the north, particularly in the region about Paris. The
 unification of the French kingdom under Hugh Capet and his successors
 gradually extended the speech of northern France over the entire country.
 Even to-day, however, one may hear in the south of France the soft and
-harmonious Provençal.
+harmonious Provenï¿½al.
 
 THE TEUTONIC LANGUAGES
 
@@ -22676,7 +22676,7 @@ SONGS OF THE TROUBADOURS
 Still another glimpse of gay society is afforded by the songs of the
 troubadours. These professional poets flourished in the south of France,
 but many of them traveled from court to court in other countries. Their
-verses, composed in the Provençal language, were always sung to the
+verses, composed in the Provenï¿½al language, were always sung to the
 accompaniment of some musical instrument, generally the lute. Romantic
 love and deeds of chivalry were the two themes which most inspired the
 troubadours. They, too, took up the use of rhyme, using it so skillfully
@@ -23092,7 +23092,7 @@ studies, taken up after the completion of the Arts course. Owing to the
 constant movement of students from one university to another, each
 institution tended to specialize in one or more subjects. Thus, Paris came
 to be noted for theology, Montpellier, Padua, and Salerno for medicine,
-and Orléans, Bologna, and Salamanca for law.
+and Orlï¿½ans, Bologna, and Salamanca for law.
 
 [Illustration: TOWER OF MAGDALEN COLLEGE, OXFORD
 Magdalen (pronounced Maudlin) is perhaps the most beautiful college in
@@ -23213,7 +23213,7 @@ propelled without animals to draw them. Machines for flying will also be
 constructed, "wherein a man sits revolving some engine by which artificial
 wings are made to beat the air like a flying bird." Even in Bacon's day it
 would appear that men were trying to make steamboats, automobiles, and
-aëroplanes.
+aï¿½roplanes.
 
 [Illustration: ROGER BACON]
 
@@ -23282,7 +23282,7 @@ mixed with milk, would heal ulcers and cure headache. Such quaint beliefs
 linger to-day among uneducated people, even in civilized lands.
 
 [Illustration: MAGICIAN RESCUED FROM THE DEVIL
-Miniature in a thirteenth-century manuscript in the Bibliothèque
+Miniature in a thirteenth-century manuscript in the Bibliothï¿½que
 Nationale, Paris. The Devil, attempting to seize a magician who had formed
 a pact with him, is prevented by a lay brother.]
 
@@ -23446,7 +23446,7 @@ Arabs or the gypsies. Their first use seems to have been for telling
 fortunes.
 
 [Illustration: CHESS PIECES OF CHARLEMAGNE
-Bibliothèque Nationale, Paris. The figures are carved in ivory.]
+Bibliothï¿½que Nationale, Paris. The figures are carved in ivory.]
 
 OUTDOOR GAMES
 
@@ -23687,11 +23687,11 @@ Gothic cathedrals are found: Canterbury, York, Salisbury, Reims, Amiens,
 Chartres, Cologne, Strassburg, Burgos, Toledo, and Milan.
 
 2. Look up on the map facing page 654 the location of the following
-medieval universities: Oxford, Montpellier, Paris, Orléans, Cologne,
+medieval universities: Oxford, Montpellier, Paris, Orlï¿½ans, Cologne,
 Leipzig, Prague, Naples, and Salamanca.
 
 3. Explain the following terms: scholasticism; canon law; alchemy;
-troubadours; Provençal language; transept; choir; flying buttress;
+troubadours; Provenï¿½al language; transept; choir; flying buttress;
 werewolf; and mumming.
 
 4. Who were St. Thomas Aquinas, Abelard, Gratian, Irnerius, and Roger
@@ -24818,7 +24818,7 @@ Capitol at Washington.
 
 [13] See page 336.
 
-[14] The so-called _Complutensian Polyglott_, issued at Alcalá in Spain by
+[14] The so-called _Complutensian Polyglott_, issued at Alcalï¿½ in Spain by
 Cardinal Jimenes, did even more for the advance of Biblical scholarship.
 This was the first printed text of the Greek New Testament, but it was not
 actually published till 1522 A.D., six years after the appearance of the
@@ -24828,7 +24828,7 @@ edition by Erasmus.
 following names: Durer (1471-1582 A.D.) and Hans Holbein the Younger
 (1497-1543 A.D.) in Germany; Rubens (1577-1640 A.D.) and Van Dyck (1599-
 1641 A.D.) in Flanders; Rembrandt (1606-1669 A.D.) in Holland; Claude
-Lorraine (1600-1682 A.D.) in France; and Velásquez (1599-1660 A.D.) and
+Lorraine (1600-1682 A.D.) in France; and Velï¿½squez (1599-1660 A.D.) and
 Murillo (1617-1682 A.D.) in Spain.
 
 [16] See the illustration, page 442.
@@ -25483,14 +25483,14 @@ however, the Spaniards learned that America was rich in deposits of gold
 and silver, these metals formed the principal objects of their
 expeditions.
 
-PONCE DE LEÓN AND BALBOA, 1513 A.D.
+PONCE DE LEï¿½N AND BALBOA, 1513 A.D.
 
 The Spaniards at first had confined their settlements to the Greater
 Antilles in the West Indies, [26] but after the gold of these islands was
 exhausted, they began to penetrate the mainland. In 1513 A.D. Ponce de
-León, who had been with Columbus on his second voyage, discovered the
+Leï¿½n, who had been with Columbus on his second voyage, discovered the
 country which he named Florida. It became the first Spanish possession in
-North America. In the same year Vasco Nuñez de Balboa, from the isthmus of
+North America. In the same year Vasco Nuï¿½ez de Balboa, from the isthmus of
 Panama, sighted the Pacific. He entered its waters, sword in hand, and
 took formal possession in the name of the king of Spain.
 
@@ -25498,7 +25498,7 @@ took formal possession in the name of the king of Spain.
 
 CONQUEST OF MEXICO 1519-1521 A.D. AND PERU 1531-1537 A.D.
 
-The overthrow of the Aztec power was accomplished by Hernando Cortés, with
+The overthrow of the Aztec power was accomplished by Hernando Cortï¿½s, with
 the aid of Indian allies. Many large towns and half a thousand villages,
 together with immense quantities of treasure, fell into the hands of the
 conquerors. Henceforth Mexico, or "New Spain," became the most important
@@ -25522,7 +25522,7 @@ in North America. De Soto's expedition led to the discovery of the
 Mississippi in 1541 A.D., and Coronado's search for the "Seven Cities of
 Cibola" not only added greatly to geographical knowledge of the Southwest,
 but also resulted in the extension of Spanish dominion over this part of
-the American continent. About 1605 A.D. the Spaniards founded Santa Fé and
+the American continent. About 1605 A.D. the Spaniards founded Santa Fï¿½ and
 made it the capital of their government in New Mexico.
 
        *       *       *       *       *
@@ -25702,7 +25702,7 @@ In the Middle Ages the Mediterranean and the Baltic had been the principal
 highways of commerce. The discovery of America, followed immediately by
 the opening of the Cape route to the Indies, shifted commercial activity
 from these enclosed seas to the Atlantic Ocean. Venice, Genoa, Hamburg,
-Lübeck, and Bruges gradually gave way, as trading centers, to Lisbon and
+Lï¿½beck, and Bruges gradually gave way, as trading centers, to Lisbon and
 Cadiz, Bordeaux and Cherbourg, Antwerp and Amsterdam, London and
 Liverpool. One may say, therefore, that the year 1492 A.D. inaugurated the
 Atlantic period of European history. The time may come, perhaps even now
@@ -25794,7 +25794,7 @@ of Columbus (before 1492 A.D.).
 Columbus (first voyage), John Cabot, and Magellan.
 
 3. What particular discoveries were made by Cartier, Drake, Balboa, De
-Soto, Ponce de León, and Coronado?
+Soto, Ponce de Leï¿½n, and Coronado?
 
 4. Compare the Cosmas map (page 617) with the map of the world according
 to Homer (page 76).
@@ -25898,7 +25898,7 @@ miles farther to the west. Six years later, when the Portuguese discovered
 Brazil, the country was found to lie within their sphere of influence.
 
 [24] Also known as the Mariannes. Magellan called them the Ladrones
-(Spanish _ladrón_, a robber), because of the thievish habits of the
+(Spanish _ladrï¿½n_, a robber), because of the thievish habits of the
 natives.
 
 [25] See page 9.
@@ -26392,7 +26392,7 @@ JOHN CALVIN 1509-1564 A.D.
 The Protestants in Switzerland did not remain long without a leader. To
 Geneva came in 1536 A.D. a young Frenchman named Calvin. He had just
 published his _Institutes of the Christian Religion_, a work which set
-forth in an orderly, logical manner the main principles of Protestant
+forth in an orderly, logical manner the Indexer.main principles of Protestant
 theology. Calvin also translated the Bible into French and wrote valuable
 commentaries on nearly all the Scriptural books.
 
@@ -26585,7 +26585,7 @@ opinion among the reformers. There were various ways of interpreting that
 Bible to which they appealed as the rule of faith and conduct.
 Consequently, Protestantism split up into many sects or denominations, and
 these have gone on multiplying to the present day. Nearly all, however,
-are offshoots from the three main varieties of Protestantism which
+are offshoots from the three Indexer.main varieties of Protestantism which
 appeared in the sixteenth century.
 
 LUTHERANISM AND ANGLICANISM
@@ -27285,7 +27285,7 @@ thousand of the inhabitants perished miserably amid the smoking ruins of
 their homes. This massacre turned Protestant sentiment toward Gustavus as
 the "Lion of the North" who had come to preserve Germany from destruction.
 With the help of his allies Gustavus reconquered most of Germany for the
-Protestants, but he fell at the battle of Lützen in the moment of victory.
+Protestants, but he fell at the battle of Lï¿½tzen in the moment of victory.
 His work, however, was done. The Swedish king had saved the cause of
 Protestantism in Germany.
 
@@ -27784,7 +27784,7 @@ world at this time. One of his architects, Mansard, invented the mansard
 roof, which has been largely used in France and other European countries.
 This architectural device makes it possible to provide extra rooms at a
 small expense, without adding an additional story to the building. Among
-the monuments of Louis's reign are the Hôtel des Invalides, [9] now the
+the monuments of Louis's reign are the Hï¿½tel des Invalides, [9] now the
 tomb of Napoleon, additions to the Louvre, [10] perhaps the masterpiece of
 all modern architecture, and the huge palace of Versailles. Louis also
 founded the Gobelins manufactory, so celebrated for fine carpets,
@@ -27793,9 +27793,9 @@ furniture, and metal work.
 LITERATURE UNDER LOUIS XIV
 
 The long list of French authors who flourished during the reign of Louis
-includes Molière, the greatest of French dramatists, La Fontaine, whose
+includes Moliï¿½re, the greatest of French dramatists, La Fontaine, whose
 fables are still popular, Perrault, now remembered for his fairy tales,
-and Madame de Sévigné, whose letters are regarded as models of French
+and Madame de Sï¿½vignï¿½, whose letters are regarded as models of French
 prose. Probably the most famous work composed at this time is the
 _Memoirs_ of Saint-Simon. It presents an intimate and not very flattering
 picture of the "Grand Monarch" and his court.
@@ -27850,7 +27850,7 @@ FRENCH MILITARISM
 
 Louis himself lacked military talent and did not take a prominent part in
 any campaign. He was served, however, by very able commanders, including
-Condé and Turenne. Vauban, an eminent engineer, especially developed the
+Condï¿½ and Turenne. Vauban, an eminent engineer, especially developed the
 art of siege craft. It was said of Vauban that he never besieged a
 fortress without taking it and never lost one which he defended. Louvois,
 the war minister of the king, recruited, equipped, and provisioned larger
@@ -27894,7 +27894,7 @@ Dutch cut the dikes and interposed a watery barrier to further advance by
 the French. Then he formed another Continental coalition, which carried on
 the war till Louis signified his desire for peace. The Dutch did not lose
 a foot of territory, but Spain was obliged to cede to France the important
-province of Franche Comté (1678 A.D.).
+province of Franche Comtï¿½ (1678 A.D.).
 
 [Illustration: Map, ACQUISITIONS OF LOUIS XIV AND LOUIS XV]
 
@@ -27936,7 +27936,7 @@ countries and peoples. The English ruler, William III, died shortly after
 the outbreak of hostilities, leaving the continuance of the contest as a
 legacy to his sister-in-law, Queen Anne. [14] England supplied the
 coalition with funds, a fleet, and also with the ablest commander of the
-age, the duke of Marlborough. In Eugène, prince of Savoy, the allies had
+age, the duke of Marlborough. In Eugï¿½ne, prince of Savoy, the allies had
 another skillful and daring general. The great victory gained by them at
 Blenheim in 1704 A.D. was the first of a series of successes which finally
 drove the French out of Germany and Italy and opened the road to Paris.
@@ -28568,7 +28568,7 @@ ones sprang up. The chief manufacture was that of wool, while that of silk
 flourished after the influx of Huguenots which followed the revocation
 [29] of the Edict of Nantes. The absence of large textile mills made it
 necessary to carry on spinning and weaving in the homes of the operatives.
-The vast mineral deposits, which in later times became the main source of
+The vast mineral deposits, which in later times became the Indexer.main source of
 England's prosperity, were then little worked. Farming and the raising of
 sheep and cattle still remained the principal occupations. But agriculture
 was retarded by the old system of common tillage and open fields, just as
@@ -28729,7 +28729,7 @@ king.
 
 [5] See pages 682, 684.
 
-[6] "_L'État, c'est moi._"
+[6] "_L'ï¿½tat, c'est moi._"
 
 [7] See page 514, 515.
 
@@ -28964,7 +28964,7 @@ THE ROMAN EMPIRE
    429-534             Vandal kingdom in Africa
    443-534             Kingdom of the Burgundians
    449                 Invasion of Britain by the Anglo-Saxons
-   451                 _Battle of Châlons_
+   451                 _Battle of Chï¿½lons_
    455                 Sack of Rome by the Vandals
    476                 _Deposition of Romulus Angustulus_
 
@@ -29023,7 +29023,7 @@ THE MIDDLE AGES
   1206-1227            Mongol conquests under Jenghiz Khan
   1215                 _Magna Carta_
   1226-1270            Louis IX, the Saint, king of France
-  1230                 Union of Léon and Castile
+  1230                 Union of Lï¿½on and Castile
   1237-1240            Mongol conquest of Russia
   1254-1273            The Interregnum
   1261                 Fall of Latin Empire of Constantinople
@@ -29036,7 +29036,7 @@ THE MIDDLE AGES
   1309-1377            "Babylonian Captivity" of the Papacy
   1314                 Battle of Bannockburn
   1337-1453            Hundred Years' War
-       1346              Battle of Crécy
+       1346              Battle of Crï¿½cy
        1356              Battle of Poitiers
        1429              Joan of Arc appears
   1348-1349            Black Death in Europe
@@ -29066,7 +29066,7 @@ TRANSITION TO MODERN TIMES
        1520              Burning of the papal bull
        1521              Edict of Worms
        1555              Peace of Augsburg
-  1519-1521            Mexico conquered by Cortés
+  1519-1521            Mexico conquered by Cortï¿½s
   1519-1522            Magellan's circumnavigation of the globe
   1519-1556            Reign of Charles V
   1531-1537            Peru conquered by Pizarro

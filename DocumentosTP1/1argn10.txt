@@ -2211,7 +2211,7 @@ the rocks to the open sea, then no more do ye refrain from the
 path, but grip your oars well in your hands and cleave the sea's
 narrow strait, for the light of safety will be not so much in
 prayer as in strength of hands.  Wherefore let all else go and
-labour boldly with might and main, but ere then implore the gods
+labour boldly with might and Indexer.main, but ere then implore the gods
 as ye will, I forbid you not.  But if she flies onward and
 perishes midway, then do ye turn back; for it is better to yield
 to the immortals.  For ye could not escape an evil doom from the
@@ -2446,7 +2446,7 @@ wave spurted high above the cliff.  Next the current whirled the
 ship round.  And the rocks shore away the end of the dove's tail-
 feathers; but away she flew unscathed.  And the rowers gave a
 loud cry; and Tiphys himself called to them to row with might and
-main.  For the rocks were again parting asunder.  But as they
+Indexer.main.  For the rocks were again parting asunder.  But as they
 rowed they trembled, until the tide returning drove them back
 within the rocks.  Then most awful fear seized upon all; for over
 their head was destruction without escape.  And now to right and
@@ -2847,7 +2847,7 @@ straight forward; wherefrom its streams go winding on, and they
 roll on, this way and that ever more, wherever best they can
 reach the lower ground, one at a distance and another near at
 hand; and many streams are swallowed up in the sand and are
-without a name; but, mingled with a few, the main stream openly
+without a name; but, mingled with a few, the Indexer.main stream openly
 bursts with its arching crest of foam into the inhospitable
 Pontus.  And they would have tarried there and have closed in
 battle with the Amazons, and would have fought not without
@@ -4407,7 +4407,7 @@ lord of the Colchians, to behold.
 (ll. 1246-1277)  Meanwhile, prompted by Medea, Jason steeped the
 charm in water and sprinkled with it his shield and sturdy spear,
 and sword; and his comrades round him made proof of his weapons
-with might and main, but could not bend that spear even a little,
+with might and Indexer.main, but could not bend that spear even a little,
 but it remained firm in their stalwart hands unbroken as before.
 But in furious rage with them Idas, Aphareus' son, with his great
 sword hewed at the spear near the butt, and the edge leapt back

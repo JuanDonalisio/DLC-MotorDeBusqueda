@@ -978,7 +978,7 @@ This operation, which is performed every morning at sea, takes nearly
 two hours; and I had hardly strength enough to get through it.  After
 we had finished, swabbed down, and coiled up the rigging, I sat down
 on the spars, waiting for seven bells, which was the sign for breakfast.
-The officer, seeing my lazy posture, ordered me to slush the main-mast,
+The officer, seeing my lazy posture, ordered me to slush the Indexer.main-mast,
 from the royal-mast-head, down.  The vessel was then rolling a little,
 and I had taken no sustenance for three days, so that I felt tempted to
 tell him that I had rather wait till after breakfast; but I knew that
@@ -1023,7 +1023,7 @@ wind, and everything was bright and cheerful.  I had now got my
 sea legs on, and was beginning to enter upon the regular duties
 of a sea-life.  About six bells, that is, three o'clock, P.M., we
 saw a sail on our larboard bow.  I was very anxious, like every new
-sailor, to speak her.  She came down to us, backed her main-top-sail,
+sailor, to speak her.  She came down to us, backed her Indexer.main-top-sail,
 and the two vessels stood "head on," bowing and curvetting at each
 other like a couple of war-horses reined in by their riders.  It was
 the first vessel that I had seen near, and I was surprised to find
@@ -1280,7 +1280,7 @@ under our stern, reported herself as forty-nine days from Buenos Ayres,
 bound to Liverpool.  Before she had passed us, "sail ho!" was cried again,
 and we made another sail, far on our weather bow, and steering athwart our
 hawse.  She passed out of hail, but we made her out to be an hermaphrodite
-brig, with Brazilian colors in her main rigging.  By her course, she must
+brig, with Brazilian colors in her Indexer.main rigging.  By her course, she must
 have been bound from Brazil to the south of Europe, probably Portugal.
 
 Sunday, Sept. 7th.  Fell in with the north-east trade winds.
@@ -1350,7 +1350,7 @@ light in the binnacle, but steered by the stars, and kept perfect
 silence through the night.  At daybreak there was no sign of anything
 in the horizon, and we kept the vessel off to her course.
 
-Wednesday, October 1st.  Crossed the equator in long. 24° 24' W.
+Wednesday, October 1st.  Crossed the equator in long. 24ï¿½ 24' W.
 I now, for the first time, felt at liberty, according to the old
 usage, to call myself a son of Neptune, and was very glad to be
 able to claim the title without the disagreeable initiation which
@@ -1393,7 +1393,7 @@ Soon afterwards, the captain came very quietly on deck, and stood
 by me for some time looking at the compass.  The officer at length
 became aware of the captain's presence, but pretending not to know it,
 began humming and whistling to himself, to show that he was not asleep,
-and went forward, without looking behind him, and ordered the main
+and went forward, without looking behind him, and ordered the Indexer.main
 royal to be loosed.  On turning round to come aft, he pretended
 surprise at seeing the master on deck.  This would not do.
 The captain was too "wide awake" for him, and beginning upon him
@@ -1429,7 +1429,7 @@ sound for the first time,) but I soon found, by the direction of
 all eyes, that there was land stretching along our weather beam.
 We immediately took in studding-sails and hauled our wind, running in
 for the land.  This was done to determine our longitude; for by the
-captain's chronometer we were in 25º W., but by his observations we
+captain's chronometer we were in 25ï¿½ W., but by his observations we
 were much farther, and he had been for some time in doubt whether
 it was his chronometer or his sextant which was out of order.
 This land-fall settled the matter, and the former instrument was
@@ -1495,7 +1495,7 @@ well as anybody.  I obeyed the order to lay(1) aloft with the rest,
 ------------------------------
 
 and found the reefing a very exciting scene; for one watch reefed the
-fore-topsail, and the other the main, and every one did his utmost to
+fore-topsail, and the other the Indexer.main, and every one did his utmost to
 get his topsail hoisted first.  We had a great advantage over the
 larboard watch, because the chief mate never goes aloft, while our
 new second mate used to jump into the rigging as soon as we began to
@@ -1539,7 +1539,7 @@ rather high, beginning low at the water's edge, and running with
 a curved ascent to the middle.  They were so far off as to be of
 a deep blue color, and in a few hours we sank them in the north-east.
 These were the Falkland Islands.  We had run between them and the
-main land of Patagonia.  At sun-set the second mate, who was at
+Indexer.main land of Patagonia.  At sun-set the second mate, who was at
 the masthead, said that he saw land on the starboard bow.  This must
 have been the island of Staten Land; and we were now in the region
 of Cape Horn, with a fine breeze from the northward, top-mast and
@@ -1583,7 +1583,7 @@ But this would not do; the brig was laboring and straining against
 the head sea, and the gale was growing worse and worse.  At the same
 time the sleet and hail were driving with all fury against us.
 We clewed down, and hauled out the reef-tackles again, and close-reefed
-the fore-topsail, and furled the main, and hove her to on the starboard
+the fore-topsail, and furled the Indexer.main, and hove her to on the starboard
 tack.  Here was an end to our fine prospects.  We made up our minds to
 head winds and cold weather; sent down the royal yards, and unrove
 the gear, but all the rest of the top hamper remained aloft, even to
@@ -1790,7 +1790,7 @@ since the strong south-west winds, which prevailed then, carried us
 in toward Patagonia.  At two, P.M., we saw a sail on our larboard beam,
 and at four we made it out to be a large ship, steering our course,
 under single-reefed topsails.  We at that time had shaken the reefs
-out of our topsails, as the wind was lighter, and set the main
+out of our topsails, as the wind was lighter, and set the Indexer.main
 top-gallant sail.  As soon as our captain saw what sail she was under,
 he set the fore top-gallant sail and flying jib; and the old whaler--
 for such, his boats and short sail showed him to be--felt a little
@@ -1805,7 +1805,7 @@ in sight during the night.  Toward morning, the wind having become
 light, we crossed our royal and skysail yards, and at daylight we
 were seen under a cloud of sail, having royal and skysails fore
 and aft.  The "spouter," as the sailors call a whaleman, had sent
-up his main top-gallant mast and set the sail, and made signal for
+up his Indexer.main top-gallant mast and set the sail, and made signal for
 us to heave to.  About half-past seven their whale-boat came alongside,
 and Captain Job Terry sprang on board, a man known in every port and
 by every vessel in the Pacific ocean.  "Don't you know Job Terry?
@@ -1874,7 +1874,7 @@ but it was not until out upon the wide Pacific, in our little boat,
 that I knew whom we had lost.  It was George Ballmer, a young English
 sailor, who was prized by the officers as an active lad and willing
 seaman, and by the crew as a lively, hearty fellow, and a good shipmate.
-He was going aloft to fit a strap round the main top-mast-head,
+He was going aloft to fit a strap round the Indexer.main top-mast-head,
 for ringtail halyards, and had the strap and block, a coil of halyards
 and a marline-spike about his neck.  He fell from the starboard futtock
 shrouds, and not knowing how to swim, and being heavily dressed, with all
@@ -2226,12 +2226,12 @@ as all concurring to give it its peculiar charm.
 
 When thoughts of this place have occurred to me at different times,
 I have endeavored to recall more particulars with regard to it.
-It is situated in about 33º 30' S., and is distant a little more than
+It is situated in about 33ï¿½ 30' S., and is distant a little more than
 three hundred miles from Valparaiso, on the coast of Chili, which is
 in the same latitude.  It is about fifteen miles in length and five
 in breadth.  The harbor in which we anchored (called by Lord Anson,
 Cumberland bay) is the only one in the island; two small bights of
-land on each side of the main bay (sometimes dignified by the name
+land on each side of the Indexer.main bay (sometimes dignified by the name
 of bays) being little more than landing-places for boats.  The best
 anchorage is at the western side of the bay, where we lay at about
 three cables' lengths from the shore, in a little more than thirty
@@ -2341,7 +2341,7 @@ small for the business; and as the winds were light and regular,
 he was kept during most of the daytime at the helm; so that nearly
 all the tarring came upon us.  We put on short duck frocks, and
 taking a small bucket of tar and a bunch of oakum in our hands we
-went aloft, one at the main royal-mast-head and the other at the fore,
+went aloft, one at the Indexer.main royal-mast-head and the other at the fore,
 and began tarring down.  This is an important operation, and is usually
 done about once in six months in vessels upon a long voyage.  It was
 done in our vessel several times afterwards, but by the whole crew
@@ -2510,7 +2510,7 @@ of making the land at night on a coast where there are no light-houses and
 but indifferent charts, and at daybreak on the morning of
 
 Tuesday, Jan 13th, 1835, we made the land at Point Conception,
-lat 34º 32' N., long 120º 06' W.  The port of Santa Barbara, to which
+lat 34ï¿½ 32' N., long 120ï¿½ 06' W.  The port of Santa Barbara, to which
 we were bound, lying about sixty miles to the southward of this point,
 we continued sailing down the coast during the day and following night,
 and on the next morning,
@@ -2532,9 +2532,9 @@ of north latitude.  It is subdivided into two provinces--Lower or
 Old California, lying between the gulf and the 32d degree of latitude,
 or near it; (the division line running, I believe, between the bay of
 Todos Santos and the port of San Diego;) and New or Upper California,
-the southernmost port of which is San Diego, in lat. 32º 39', and the
+the southernmost port of which is San Diego, in lat. 32ï¿½ 39', and the
 northernmost, San Francisco, situated in the large bay discovered by
-Sir Francis Drake, in lat. 37º 58', and called after him by the English,
+Sir Francis Drake, in lat. 37ï¿½ 58', and called after him by the English,
 though the Mexicans call it Yerba Buena.  Upper California has the seat
 of its government at Monterey, where is also the custom-house, the only
 one on the coast, and at which every vessel intending to trade on the
@@ -2546,7 +2546,7 @@ there for the agent who lives there, and transacts all the business
 for the firm to which our vessel belonged.
 
 The bay, or, as it was commonly called, the canal of Santa Barbara,
-is very large, being formed by the main land on one side, (between
+is very large, being formed by the Indexer.main land on one side, (between
 Point Conception on the north and Point St. Buena Ventura on the south,)
 which here bends in like a crescent, and three large islands opposite
 to it and at the distance of twenty miles.  This is just sufficient to
@@ -2901,7 +2901,7 @@ to beat the Ayacucho, which had been called the best sailer in
 the North Pacific, in which she had been known as a trader for
 six years or more.  We had an advantage over her in light winds,
 from our royals and skysails which we carried both at the fore
-and main, and also in our studding-sails; for Captain Wilson
+and Indexer.main, and also in our studding-sails; for Captain Wilson
 carried nothing above top-gallant-sails, and always unbent his
 studding-sails when on the coast.  As the wind was light and fair,
 we held our own, for some time, when we were both obliged to brace
@@ -2918,7 +2918,7 @@ do it, and come to at your former moorings, without letting go another
 anchor.  Captain Wilson was remarkable, among the sailors on the coast,
 for his skill in doing this; and our captain never let go a second
 anchor during all the time that I was with him.  Coming a little to
-windward of our buoy, we clewed up the light sails, backed our main
+windward of our buoy, we clewed up the light sails, backed our Indexer.main
 topsail, and lowered a boat, which pulled off, and made fast a spare
 hawser to the buoy on the end of the slip-rope.  We brought the other
 end to the captain, and hove in upon it until we came to the slip-rope,
@@ -2939,7 +2939,7 @@ passengers, were going to Monterey with us, and that we were to
 sail the same night.  In a few minutes Captain T-----, with two
 gentlemen and one female, came down, and we got ready to go off.
 They had a good deal of baggage, which we put into the bows of
-the boat, and then two of us took the señora in our arms, and waded
+the boat, and then two of us took the seï¿½ora in our arms, and waded
 with her through the water, and put her down safely in the stern.
 She appeared much amused with the transaction, and her husband was
 perfectly satisfied, thinking any arrangement good which saved his
@@ -3000,14 +3000,14 @@ and some men forward were trying to haul in the lower studding-sail,
 which had blown over the sprit-sail yard-arm and round the guys;
 while the topmast-studding-sail boom, after buckling up and springing
 out again like a piece of whalebone, broke off at the boom-iron.
-I sprang aloft to take in the main top-gallant studding-sail, but
+I sprang aloft to take in the Indexer.main top-gallant studding-sail, but
 before I got into the top, the tack parted, and away went the sail,
 swinging forward of the top-gallant-sail, and tearing and slatting
 itself to pieces.  The halyards were at this moment let go by the run;
 and such a piece of work I never had before, in taking in a sail.
 After great exertions I got it, or the remains of it, into the top,
 and was making it fast, when the captain, looking up, called out
-to me, "Lay aloft there, D-----, and furl that main royal." Leaving
+to me, "Lay aloft there, D-----, and furl that Indexer.main royal." Leaving
 the studding-sail, I went up to the cross trees; and here it looked
 rather squally.  The foot of the top-gallant-mast was working between
 the cross and trussel trees, and the royal-mast lay over at a fearful
@@ -3034,7 +3034,7 @@ fast as he could gather it in.  The top-gallant-sail below me was
 soon clewed up, which relieved the mast, and in a short time I got my
 sail furled, and went below; but I lost overboard a new tarpaulin hat,
 which troubled me more than anything else.  We worked for about half
-an hour with might and main; and in an hour from the time the squall
+an hour with might and Indexer.main; and in an hour from the time the squall
 struck us, from having all our flying kites abroad, we came down to
 double-reefed top-sails and the storm-sails.
 
@@ -3080,7 +3080,7 @@ there is very little wood, and the country has a naked, level
 appearance, though it is still very fertile.
 
 The bay of Monterey is very wide at the entrance, being about
-twenty-four miles between the two points, Año Nuevo at the north,
+twenty-four miles between the two points, Aï¿½o Nuevo at the north,
 and Pinos at the south, but narrows gradually as you approach the
 town, which is situated in a bend, or large cove, at the south-eastern
 extremity, and about eighteen miles from the points, which makes the
@@ -3241,7 +3241,7 @@ ornamented.  They have no suspenders, but always wear a sash round
 the waist, which is generally red, and varying in quality with the
 means of the wearer.  Add to this the never-failing cloak, and you
 have the dress of the Californian.  This last garment, the cloak, is
-always a mark of the rank and wealth of the owner.  The "gente de razón,"
+always a mark of the rank and wealth of the owner.  The "gente de razï¿½n,"
 or aristocracy, wear cloaks of black or dark blue broadcloth, with as
 much velvet and trimmings as may be; and from this they go down to the
 blanket of the Indian; the middle classes wearing something like a
@@ -3289,7 +3289,7 @@ we had a dozen pairs with their iron rims on.
 The Californians are an idle, thriftless people, and can make 
 nothing for themselves.  The country abounds in grapes, yet they
 buy bad wines made in Boston and brought round by us, at an immense
-price, and retail it among themselves at a real (12½ cents) by
+price, and retail it among themselves at a real (12ï¿½ cents) by
 the small wine-glass.  Their hides, too, which they value at two
 dollars in money, they give for something which costs seventy-five
 cents in Boston; and buy shoes (like as not, made of their own hides,
@@ -3356,7 +3356,7 @@ at first sight.  Yet the least drop of Spanish blood, if it be
 only of quadroon or octoroon, is sufficient to raise them from
 the rank of slaves, and entitle them to a suit of clothes--boots,
 hat, cloak, spurs, long knife, and all complete, though coarse
-and dirty as may be,--and to call themselves Españolos, and to
+and dirty as may be,--and to call themselves Espaï¿½olos, and to
 hold property, if they can get any.
 
 The fondness for dress among the women is excessive, and is often
@@ -4067,7 +4067,7 @@ there was a violent blow from the northward, but as this was
 off-shore, we had only to let go our other anchor and hold on.
 We were called up at night to send down the royal-yards.  It was
 as dark as a pocket, and the vessel pitching at her anchors,
-I went up to the fore, and my friend S-----, to the main,
+I went up to the fore, and my friend S-----, to the Indexer.main,
 and we soon had them down "ship-shape and Bristol fashion,"
 for, as we had now got used to our duty aloft, everything above
 the cross-trees was left to us, who were the youngest of the crew,
@@ -4094,7 +4094,7 @@ and always seemed to do his best; but the captain took a dislike
 to him, thought he was surly, and lazy; and "if you once give a
 dog a bad name"--as the sailor-phrase is--"he may as well jump
 overboard." The captain found fault with everything this man did,
-and hazed him for dropping a marline-spike from the main-yard,
+and hazed him for dropping a marline-spike from the Indexer.main-yard,
 where he was at work.  This, of course, was an accident, but it
 was set down against him.  The captain was on board all day Friday,
 and everything went on hard and disagreeably.  "The more you drive
@@ -4104,7 +4104,7 @@ early Saturday morning.  About ten o'clock the captain ordered
 our new officer, Russell, who by this time had become thoroughly
 disliked by all the crew, to get the gig ready to take him ashore.
 John, the Swede, was sitting in the boat alongside, and Russell
-and myself were standing by the main hatchway, waiting for the
+and myself were standing by the Indexer.main hatchway, waiting for the
 captain, who was down in the hold, where the crew were at work,
 when we heard his voice raised in violent dispute with somebody,
 whether it was with the mate, or one of the crew, I could not
@@ -4484,7 +4484,7 @@ at breakfast in the forecastle, and the cook, seeing us coming,
 rushed out of his galley, and called up the officers and men.
 
 Fortunately no great harm was done.  Her jib-boom ran between our
-fore and main masts, carrying away some of our rigging, and breaking
+fore and Indexer.main masts, carrying away some of our rigging, and breaking
 down the rail.  She lost her martingale.  This brought us up, and as
 they paid out chain, we swung clear of them, and let go the other
 anchor; but this had as bad luck as the first, for, before any one
@@ -4664,12 +4664,12 @@ being settled in favor of the latter, each of the crews of the other
 vessels treated all round in their turn, and as there were a good
 many present, (including some "loafers" who had dropped in, knowing
 what was going on, to take advantage of Jack's hospitality,)
-and the liquor was a real (12½ cents) a glass, it made somewhat
+and the liquor was a real (12ï¿½ cents) a glass, it made somewhat
 of a hole in their lockers.  It was now our ship's turn, and S-----
 and I, anxious to get away, stepped up to call for glasses; but we
 soon found that we must go in order--the oldest first, for the old
 sailors did not choose to be preceded by a couple of youngsters;
-and bon gré mal gré, we had to wait our turn, with the twofold
+and bon grï¿½ mal grï¿½, we had to wait our turn, with the twofold
 apprehension of being too late for our horses, and of getting
 corned; for drink you must, every time; and if you drink with
 one and not with another, it is always taken as an insult.
@@ -4707,7 +4707,7 @@ looking fellows, composed the garrison; and they, it was said, had
 not a musket apiece.  The small settlement lay directly below the
 fort, composed of about forty dark brown looking huts, or houses,
 and two larger ones, plastered, which belonged to two of the "gente
-de razón."  This town is not more than half as large as Monterey,
+de razï¿½n."  This town is not more than half as large as Monterey,
 or Santa Barbara, and has little or no business.  From the presidio,
 we rode off in the direction of the mission, which we were told was
 three miles distant.  The country was rather sandy, and there was
@@ -4745,7 +4745,7 @@ as "Mayordomo," received a low bow and an invitation to walk
 into his room.  Making our horses fast, we went in.  It was a plain
 room, containing a table, three or four chairs, a small picture or
 two of some saint, or miracle, or martyrdom, and a few dishes and
-glasses.  "Hay algunas cosa de comer?" said I.  "Si Señor!" said he.
+glasses.  "Hay algunas cosa de comer?" said I.  "Si Seï¿½or!" said he.
 "Que gusta usted?"  Mentioning frijoles, which I knew they must
 have if they had nothing else, and beef and bread, and a hint for
 wine, if they had any, he went off to another building, across the
@@ -4928,7 +4928,7 @@ upon her as a solace, during the long trips up and down the coast.
 "Obey orders, if you break owners!" said he.  "Break hearts," he
 meant to have said; and lent a hand to get her over the side,
 trying to make it as easy for her as possible.  We got a whip up on
-the main-yard, and hooking it to a strap around her body, swayed
+the Indexer.main-yard, and hooking it to a strap around her body, swayed
 away; and giving a wink to one another, ran her chock up to the
 yard.  "'Vast there! 'vast!" said the mate; "none of your skylarking!
 Lower away!" But he evidently enjoyed the joke.  The pig squealed
@@ -5004,7 +5004,7 @@ hold his ground among them.  The captain called him a "soger,"(1)
    more than a flogging.
 ------------------------------
 
-and promised to "ride him down as he would the main tack;" and when
+and promised to "ride him down as he would the Indexer.main tack;" and when
 officers are once determined to "ride a man down," it is a gone
 case with him.  He had had several difficulties with the captain,
 and asked leave to go home in the Lagoda; but this was refused him.
@@ -5239,7 +5239,7 @@ this was to keep off the evil spirits or not, I do not know.
 It was the only interpretation that I could put upon it.
 
 As we drew near the mission, we saw the great gate thrown open,
-and the pádre standing on the steps, with a crucifix in hand.
+and the pï¿½dre standing on the steps, with a crucifix in hand.
 The mission is a large and deserted-looking place, the out-buildings
 going to ruin, and everything giving one the impression of decayed
 grandeur.  A large stone fountain threw out pure water, from four
@@ -5259,7 +5259,7 @@ and carrying the remains of the saddle, which he had picked up
 on the road.  Going to the owner of the horse, we made a settlement
 with him, and found him surprisingly liberal.  All parts of
 the saddle were brought back, and, being capable of repair, he was
-satisfied with six reáls.  We thought it would have been a few
+satisfied with six reï¿½ls.  We thought it would have been a few
 dollars.  We pointed to the horse, which was now half way up one
 of the mountains; but he shook his head, saying, "No importe!"
 and giving us to understand that he had plenty more.
@@ -5317,7 +5317,7 @@ dancing.  The Italian sailors danced, and one of our crew exhibited
 himself in a sort of West India shuffle, much to the amusement of
 the bystanders, who cried out, "Bravo!" "Otra vez!" and "Vivan
 los marineros!" but the dancing did not become general, as the
-women and the "gente de razón" had not yet made their appearance.
+women and the "gente de razï¿½n" had not yet made their appearance.
 We wished very much to stay and see the style of dancing; but,
 although we had had our own way during the day, yet we were,
 after all, but 'foremast Jacks; and having been ordered to be on the
@@ -5741,7 +5741,7 @@ missionaries at home.  They spoke a little English, and by a sort
 of compromise, a mixed language was used on the beach, which could be
 understood by all.  The long name of Sandwich Islanders is dropped,
 and they are called by the whites, all over the Pacific ocean,
-"Kanákas," from a word in their own language which they apply to
+"Kanï¿½kas," from a word in their own language which they apply to
 themselves, and to all South Sea Islanders, in distinction from
 whites, whom they call "Haole."  This name, "Kanaka," they answer to,
 both collectively and individually.  Their proper names, in their
@@ -6022,14 +6022,14 @@ There was no watch to stand, and no topsails to reef.  The evenings
 we generally spent at one another's houses, and I often went up and
 spent an hour or so at the oven; which was called the "Kanaka Hotel,"
 and the "Oahu Coffee-house."  Immediately after dinner we usually
-took a short siésta to make up for our early rising, and spent the
+took a short siï¿½sta to make up for our early rising, and spent the
 rest of the afternoon according to our own fancies.  I generally
 read, wrote, and made or mended clothes; for necessity, the mother
 of invention, had taught me these two latter arts.  The Kanakas went
 up to the oven, and spent the time in sleeping, talking, and smoking;
 and my messmate, Nicholas, who neither knew how to read or write,
-passed away the time by a long siésta, two or three smokes with
-his pipe, and a paséo to the other houses.  This leisure time is
+passed away the time by a long siï¿½sta, two or three smokes with
+his pipe, and a pasï¿½o to the other houses.  This leisure time is
 never interfered with, for the captains know that the men earn it
 by working hard and fast, and that if they interfered with it,
 the men could easily make their twenty-five hides apiece last
@@ -6360,7 +6360,7 @@ were all gone.  We suspected him of sending them up to the town;
 and he always treated the squaws with molasses, when they came
 down to the beach.  Finding wheat-coffee and dry bread rather
 poor living, we dubbed together, and I went up to the town on
-horseback with a great salt-bag behind the saddle, and a few reáls
+horseback with a great salt-bag behind the saddle, and a few reï¿½ls
 in my pocket, and brought back the bag full of onions, pears, beans,
 water-melons, and other fruits; for the young woman who tended
 the garden, finding that I belonged to the American ship, and that
@@ -6580,7 +6580,7 @@ to every one concerned with the country, by trade or otherwise,
 than that of the administradores.  The priests were attached
 perpetually to one mission, and felt the necessity of keeping up
 its credit.  Accordingly, their debts were regularly paid, and the
-people were, in the main, well treated, and attached to those who
+people were, in the Indexer.main, well treated, and attached to those who
 had spent their whole lives among them. But the administradores are
 strangers sent from Mexico, having no interest in the country;
 not identified in any way with their charge, and, for the most
@@ -6694,9 +6694,9 @@ of cold steel has been the punishment of many an unwary man, who has
 been guilty, perhaps, of nothing more than indiscretion of manner.
 The difficulties of the attempt are numerous, and the consequences
 of discovery fatal.  With the unmarried women, too, great watchfulness
-is used.  The main object of the parents is to marry their daughters
+is used.  The Indexer.main object of the parents is to marry their daughters
 well, and to this, the slightest slip would be fatal.  The sharp eyes
-of a dueña, and the cold steel of a father or brother, are a protection
+of a dueï¿½a, and the cold steel of a father or brother, are a protection
 which the characters of most of them--men and women--render by no means
 useless; for the very men who would lay down their lives to avenge the
 dishonor of their own family, would risk the same lives to complete
@@ -6713,7 +6713,7 @@ her back again, dividing with her the money which she had got
 from the sailors.  If any of the girls were discovered by the
 alcalde to be open evil-livers, they were whipped, and kept at
 work sweeping the square of the presidio, and carrying mud and
-bricks for the buildings; yet a few reáls would generally buy
+bricks for the buildings; yet a few reï¿½ls would generally buy
 them off.  Intemperance, too, is a common vice among the Indians.
 The Spaniards, on the contrary, are very abstemious, and I do not
 remember ever having seen a Spaniard intoxicated.
@@ -6829,7 +6829,7 @@ was parting with him.
 Day after day, we went up the hill, but no ship was to be seen,
 and we began to form all sorts of conjectures as to her whereabouts;
 and the theme of every evening's conversation at the different houses,
-and in our afternoon's paséo upon the beach, was the ship--where
+and in our afternoon's pasï¿½o upon the beach, was the ship--where
 she could be--had she been to San Francisco?--how many hides she
 would bring, etc., etc.
 
@@ -7035,7 +7035,7 @@ canvas, from the royal-mast-heads to the decks.  Every one then
 laid down, except one man in each top, to overhaul the rigging,
 and the topsails were hoisted and sheeted home; all three yards
 going to the mast-head at once, the larboard watch hoisting the
-fore, the starboard watch the main, and five light hands, (of whom
+fore, the starboard watch the Indexer.main, and five light hands, (of whom
 I was one,) picked from the two watches, the mizen.  The yards were
 then trimmed, the anchor weighed, the cat-block hooked on, the fall
 stretched out, manned by "all hands and the cook," and the anchor
@@ -7142,14 +7142,14 @@ charge of the head sails and the forward part of the ship.  Two of
 the best men in the ship--the sailmaker from our watch, and John,
 the Frenchman, from the other, worked the forecastle.  The third
 mate commanded in the waist, and, with the carpenter and one man,
-worked the main tack and bowlines; the cook, ex-officio, the fore
-sheet, and the steward the main.  The second mate had charge of
-the after yards, and let go the lee fore and main braces.  I was
+worked the Indexer.main tack and bowlines; the cook, ex-officio, the fore
+sheet, and the steward the Indexer.main.  The second mate had charge of
+the after yards, and let go the lee fore and Indexer.main braces.  I was
 stationed at the weather cross-jack braces; three other light
 hands at the lee; one boy at the spanker-sheet and guy; a man
-and a boy at the main topsail, top-gallant, and royal braces;
+and a boy at the Indexer.main topsail, top-gallant, and royal braces;
 and all the rest of the crew--men and boys--tallied on to the
-main brace.  Every one here knew his station, must be there when
+Indexer.main brace.  Every one here knew his station, must be there when
 all hands were called to put the ship about, and was answerable
 for every rope committed to him.  Each man's rope must be let
 go and hauled in at the order, properly made fast, and neatly
@@ -7159,26 +7159,26 @@ quarter-deck, makes a sign to the man at the wheel to put it down,
 and calls out "Helm's a lee'!"  "Helm's a lee'!" answers the mate on
 the forecastle, and the head sheets are let go.  "Raise tacks and
 sheets!" says the captain; "tacks and sheets!" is passed forward,
-and the fore tack and main sheet are let go.  The next thing is to
+and the fore tack and Indexer.main sheet are let go.  The next thing is to
 haul taught for a swing.  The weather cross-jack braces and the lee
-main braces are each belayed together upon two pins, and ready to
+Indexer.main braces are each belayed together upon two pins, and ready to
 be let go; and the opposite braces hauled taught.  "Main topsail
 haul!" shouts the captain; the braces are let go; and if he has
 taken his time well, the yards swing round like a top; but if he
 is too late, or too soon, it is like drawing teeth.  The after
-yards are then braced up and belayed, the main sheet hauled aft,
+yards are then braced up and belayed, the Indexer.main sheet hauled aft,
 the spanker eased over to leeward, and the men from the braces
 stand by the head yards.  "Let go and haul!" says the captain;
 the second mate lets go the weather fore braces, and the men haul
 in to leeward.  The mate, on the forecastle, looks out for the
 head yards.  "Well, the fore topsail yard!"  "Top-gallant yard's
 well!"  "Royal yard too much! Haul into windward! So! well that!"
-"Well all!"  Then the starboard watch board the main tack, and the
+"Well all!"  Then the starboard watch board the Indexer.main tack, and the
 larboard watch lay forward and board the fore tack and haul down
 the jib sheet, clapping a tackle upon it, if it blows very fresh.
 The after yards are then trimmed, the captain generally looking
 out for them himself.  "Well the cross-jack yard!"  "Small pull the
-main top-gallant yard!"  "Well that!"  "Well the mizen top-gallant
+Indexer.main top-gallant yard!"  "Well that!"  "Well the mizen top-gallant
 yard!"  "Cross-jack yards all well!"  "Well all aft!"  "Haul taught
 to windward!"  Everything being now trimmed and in order, each man
 coils up the rigging at his own station, and the order is given--"Go
@@ -7213,7 +7213,7 @@ and this, I soon found, was a great matter on board this ship;
 for every sailor knows that a vessel is judged of, a good deal,
 by the furl of her sails.  The third mate, a sailmaker, and the
 larboard watch went upon the fore topsail yard; the second mate,
-carpenter, and the starboard watch upon the main; and myself
+carpenter, and the starboard watch upon the Indexer.main; and myself
 and the English lad, and the two Boston boys, and the young
 Cape-Cod man, furled the mizen topsail.  This sail belonged
 to us altogether, to reef and to furl, and not a man was allowed
@@ -7224,7 +7224,7 @@ without a wrinkle.  As soon as each sail was hauled up and the
 bunt made, the jigger was bent on to the slack of the buntlines,
 and the bunt triced up, on deck.  The mate then took his place
 between the knightheads to "twig" the fore, on the windlass to
-twig the main, and at the foot of the mainmast, for the mizen;
+twig the Indexer.main, and at the foot of the mainmast, for the mizen;
 and if anything was wrong,--too much bunt on one side, clews too
 taught or too slack, or any sail abaft the yard,--the whole must be
 dropped again.  When all was right, the bunts were triced well up,
@@ -7254,12 +7254,12 @@ and while this lasts, and there is a good understanding aft,
 everything will go on well.
 
 Having furled all the sails, the royal yards were next to be sent
-down.  The English lad and myself sent down the main, which was
-larger than the Pilgrim's main top-gallant yard; two more light
+down.  The English lad and myself sent down the Indexer.main, which was
+larger than the Pilgrim's Indexer.main top-gallant yard; two more light
 hands, the fore; and one boy, the mizen.  This order, we always
 kept while on the coast; sending them up and down every time we
 came in and went out of port.  They were all tripped and lowered
-together, the main on the starboard side, and the fore and mizen,
+together, the Indexer.main on the starboard side, and the fore and mizen,
 to port.  No sooner was she all snug, than tackles were got up
 on the yards and stays, and the long-boat and pinnace hove out.
 The swinging booms were then guyed out, and the boats made fast
@@ -7419,7 +7419,7 @@ her.
 
 Sunday, Oct. 4th.  This was the day of our arrival; and somehow
 or other, our captain always managed not only to sail, but to come
-into port, on a Sunday.  The main reason for sailing on the Sabbath
+into port, on a Sunday.  The Indexer.main reason for sailing on the Sabbath
 is not, as many people suppose, because Sunday is thought a lucky
 day, but because it is a leisure day.  During the six days, the crew
 are employed upon the cargo and other ship's works, and the Sabbath,
@@ -7479,7 +7479,7 @@ all the cargo; knowing, precisely, where each thing was, and how
 many hides we took in at every port.
 
 One night, he made a rough calculation of the number of hides that
-could be stowed in the lower hold, between the fore and main masts,
+could be stowed in the lower hold, between the fore and Indexer.main masts,
 taking the depth of hold and breadth of beam, (for he always knew
 the dimension of every part of the ship, before he had been a month
 on board,) and the average area and thickness of a hide; he came
@@ -7791,10 +7791,10 @@ the lee-shore against a heavy head sea, under reefed topsails,
 fore-topmast staysail and spanker.  The fore course was given
 to her, which helped her a little; but as she hardly held her
 own against the sea which was settling her leeward--"Board the
-main tack!" shouted the captain; when the tack was carried forward
+Indexer.main tack!" shouted the captain; when the tack was carried forward
 and taken to the windlass, and all hands called to the handspikes.
 The great sail bellied out horizontally as though it would lift up
-the main stay; the blocks rattled and flew about; but the force of
+the Indexer.main stay; the blocks rattled and flew about; but the force of
 machinery was too much for her.  "Heave ho!  Heave and pawl!  Yo,
 heave, hearty, ho!" and, in time with the song, by the force of
 twenty strong arms, the windlass came slowly round, pawl after pawl,
@@ -8086,7 +8086,7 @@ with suspenders over their shoulders, and pockets to put their hands
 in.  This, added to guernsey frocks, striped comforters about the
 neck, thick cowhide boots, woollen caps, and a strong, oily smell,
 and a decidedly green look, will complete the description.  Eight or
-ten were on the fore-topsail yard, and as many more in the main,
+ten were on the fore-topsail yard, and as many more in the Indexer.main,
 furling the topsails, while eight or ten were hanging about the
 forecastle, doing nothing.  This was a strange sight for a vessel
 coming to anchor; so we went up to them, to see what was the matter.
@@ -8347,7 +8347,7 @@ quick rattling of thunder, and the jib was blown to atoms out of
 the bolt-rope.  We got the topsails set, and the fragments of the
 jib stowed away, and the fore-topmast staysail set in its place,
 when the great mainsail gaped open, and the sail ripped from head
-to foot.  "Lay up on that main-yard and furl the sail, before it
+to foot.  "Lay up on that Indexer.main-yard and furl the sail, before it
 blows to tatters!" shouted the captain; and in a moment, we were
 up, gathering the remains of it upon the yard.  We got it wrapped,
 round the yard, and passed gaskets over it as snugly as possible,
@@ -8362,7 +8362,7 @@ and knotting the points carefully, we succeeded in setting
 the sail, close-reefed.
 
 We had but just got the rigging coiled up, and were waiting to
-hear "go below the watch!" when the main royal worked loose from
+hear "go below the watch!" when the Indexer.main royal worked loose from
 the gaskets, and blew directly out to leeward, flapping, and shaking
 the mast like a wand.  Here was a job for somebody.  The royal must
 come in or be cut adrift, or the mast would be snapped short off.
@@ -8439,7 +8439,7 @@ bunt; the fore-topsail went, in one rent, from clew to earing,
 and was blowing to tatters; one of the chain bobstays parted;
 the spritsail-yard sprung in the slings; the martingale had slued
 away off to leeward; and, owing to the long dry weather, the lee
-rigging hung in large bights, at every lurch.  One of the main
+rigging hung in large bights, at every lurch.  One of the Indexer.main
 top-gallant shrouds had parted; and, to crown all, the galley had
 got adrift, and gone over to leeward, and the anchor on the lee
 bow had worked loose, and was thumping the side.  Here was work
@@ -8455,7 +8455,7 @@ be.  Coming down, we found the rest of the crew just coming down
 the fore rigging, having furled the tattered topsail, or, rather,
 swathed it round the yard, which looked like a broken limb, bandaged.
 There was no sail now on the ship but the spanker and the close-reefed
-main topsail, which still held good.  But this was too much after
+Indexer.main topsail, which still held good.  But this was too much after
 sail; and order was given to furl the spanker.  The brails were
 hauled up, and all the light hands in the starboard watch sent
 out on the gaff to pass the gaskets; but they could do nothing
@@ -8477,15 +8477,15 @@ and washing chock aft to the taffrail.
 
 Having got everything secure again, we were promising ourselves
 some breakfast, for it was now nearly nine o'clock in the forenoon,
-when the main topsail showed evident signs of giving way.  Some sail
-must be kept on the ship, and the captain ordered the fore and main
+when the Indexer.main topsail showed evident signs of giving way.  Some sail
+must be kept on the ship, and the captain ordered the fore and Indexer.main
 spencer gaffs to be lowered down, and the two spencers (which were
 storm sails, bran new, small, and made of the strongest canvas)
-to be got up and bent; leaving the main topsail to blow away,
+to be got up and bent; leaving the Indexer.main topsail to blow away,
 with a blessing on it, if it would only last until we could set
 the spencers.  These we bent on very carefully, with strong robands
 and seizings, and making tackles fast to the clews, bowsed them down
-to the water-ways.  By this time the main topsail was among the
+to the water-ways.  By this time the Indexer.main topsail was among the
 things that have been, and we went aloft to stow away the remnant
 of the last sail of all those which were on the ship twenty-four
 hours before.  The spencers were now the only whole sails on the
@@ -8575,7 +8575,7 @@ SAN FRANCISCO--MONTEREY
 
 Our place of destination had been Monterey, but as we were to the
 northward of it when the wind hauled a-head, we made a fair wind
-for San Francisco.  This large bay, which lies in latitude 37° 58',
+for San Francisco.  This large bay, which lies in latitude 37ï¿½ 58',
 was discovered by Sir Francis Drake, and by him represented to
 be (as indeed it is) a magnificent bay, containing several good
 harbors, great depth of water, and surrounded by a fertile and
@@ -8636,7 +8636,7 @@ for three weeks, it rained almost every hour, without cessation.
 This was bad for our trade, for the collecting of hides is managed
 differently in this port from what it is in any other on the coast.
 The mission of San Francisco near the anchorage, has no trade at
-all, but those of San José, Santa Clara, and others, situated on
+all, but those of San Josï¿½, Santa Clara, and others, situated on
 large creeks or rivers which run into the bay, and distant between
 fifteen and forty miles from the anchorage, do a greater business
 in hides than any in California.  Large boats, manned by Indians,
@@ -8657,8 +8657,8 @@ boats, were soaked with water, and unfit to put below, so that we
 were obliged to trice them up to dry, in the intervals of sunshine
 or wind, upon all parts of the vessel.  We got up tricing-lines
 from the jib-boom-end to each arm of the fore yard, and thence to
-the main and cross-jack yard-arms.  Between the tops, too, and the
-mast-heads, from the fore to the main swifters, and thence to the
+the Indexer.main and cross-jack yard-arms.  Between the tops, too, and the
+mast-heads, from the fore to the Indexer.main swifters, and thence to the
 mizen rigging, and in all directions athwartships, tricing-lines
 were run, and strung with hides.  The head stays and guys, and the
 spritsail-yard, were lined, and, having still more, we got out the
@@ -8670,7 +8670,7 @@ Our ship was nothing but a mass of hides, from the cat-harpins
 to the water's edge, and from the jib-boom-end to the taffrail.
 
 One cold, rainy evening, about eight o'clock, I received orders to
-get ready to start for San José at four the next morning, in one of
+get ready to start for San Josï¿½ at four the next morning, in one of
 these Indian boats, with four days' provisions.  I got my oil-cloth
 clothes, south-wester, and thick boots all ready, and turned into
 my hammock early, determined to get some sleep in advance, as the
@@ -8869,7 +8869,7 @@ At midnight, the tide having turned, we hove up our anchor and
 stood out of the bay, with a fine starry heaven above us,--the
 first we had seen for weeks and weeks.  Before the light northerly
 winds, which blow here with the regularity of trades, we worked
-slowly along, and made Point Año Nuevo, the northerly point of
+slowly along, and made Point Aï¿½o Nuevo, the northerly point of
 the Bay of Monterey, on Monday afternoon.  We spoke, going in,
 the brig Diana, of the Sandwich Islands, from the North-west Coast,
 last from Asitka.  She was off the point at the same time with us,
@@ -9057,7 +9057,7 @@ and accent, and had, throughout, the bearing of a man of high
 birth and figure.  Yet here he was, with his passage given him,
 (as I afterwards learned,) for he had not the means of paying
 for it, and living upon the charity of our agent.  He was polite
-to every one, spoke to the sailors, and gave four reáls--I dare
+to every one, spoke to the sailors, and gave four reï¿½ls--I dare
 say the last he had in his pocket--to the steward, who waited
 upon him.  I could not but feel a pity for him, especially when I
 saw him by the side of his fellow-passenger and townsman, a fat,
@@ -9111,13 +9111,13 @@ The second morning after leaving Monterey, we were off Point Conception.
 It was a bright, sunny day, and the wind, though strong, was fair;
 and everything was in striking contrast with our experience in the
 same place two months before, when we were drifting off from a
-northwester under a fore and main spencer.  "Sail ho!" cried a
+northwester under a fore and Indexer.main spencer.  "Sail ho!" cried a
 man who was rigging out a top-gallant studding-sail boom.--"Where
 away?"--"Weather beam, sir!" and in a few minutes a full-rigged
 brig was seen standing out from under Point Conception.  The
 studding-sail halyards were let go, and the yards boom-ended,
 the after yards braced aback, and we waited her coming down.
-She rounded to, backed her main topsail, and showed her decks
+She rounded to, backed her Indexer.main topsail, and showed her decks
 full of men, four guns on a side, hammock nettings, and everything
 man-of-war fashion, except that there was no boatswain's whistle,
 and no uniforms on the quarter-deck.  A short, square-built man,
@@ -9222,7 +9222,7 @@ fantastic or flourishing, but appeared to be rather repressing a
 strong tendency to motion.  He was loudly applauded, and danced
 frequently toward the close of the evening.  After the supper,
 the waltzing began, which was confined to a very few of the "gente
-de razón," and was considered a high accomplishment, and a mark of
+de razï¿½n," and was considered a high accomplishment, and a mark of
 aristocracy.  Here, too, Don Juan figured greatly, waltzing with the
 sister of the bride, (Donna Angustia, a handsome woman and a general
 favorite,) in a variety of beautiful, but, to me, offensive figures,
@@ -9290,7 +9290,7 @@ and take a look into the booth.  The musicians were still there,
 upon their platform, scraping and twanging away, and a few people,
 apparently of the lower classes, were dancing.  The dancing is kept
 up, at intervals, throughout the day, but the crowd, the spirit,
-and the élite, come in at night.  The next night, which was the last,
+and the ï¿½lite, come in at night.  The next night, which was the last,
 we went ashore in the same manner, until we got almost tired of the
 monotonous twang of the instruments, the drawling sounds which the
 women kept up, as an accompaniment, and the slapping of the hands
@@ -9493,7 +9493,7 @@ up after him; when finding that we were overhauling him, he hove-to
 and spoke us.  Such a sight I never saw before.  Barefooted, with an
 old pair of trowsers tied round his waist by a piece of green hide,
 a soiled cotton shirt, and a torn Indian hat; "cleaned out," to the
-last reál, and completely "used up."  He confessed the whole matter;
+last reï¿½l, and completely "used up."  He confessed the whole matter;
 acknowledged that he was on his back; and now he had a prospect of a
 fit of the horrors for a week, and of being worse than useless for
 months.  This is a specimen of the life of half of the Americans
@@ -9510,19 +9510,19 @@ room at the hide-house, breathless, pale as a ghost, covered with
 mud, and torn by thorns and briers, nearly naked, and begged for
 a crust of bread, saying he had neither eaten nor slept for three
 days.  Here was the great Mr. Russell, who a month before was "Don
-Tomàs," "Capitán de la playa," "Maéstro de la casa," etc., etc.,
+Tomï¿½s," "Capitï¿½n de la playa," "Maï¿½stro de la casa," etc., etc.,
 begging food and shelter of Kanakas and sailors.  He staid with
 us till he gave himself up, and was dragged off to the calabozo.
 
 Another, and a more amusing specimen, was one whom we saw at San
 Francisco.  He had been a lad on board the ship California, in one
-of her first voyages, and ran away and commenced Ranchéro, gambling,
+of her first voyages, and ran away and commenced Ranchï¿½ro, gambling,
 stealing horses, etc. He worked along up to San Francisco, and was
 living on a rancho near there, while we were in port.  One morning,
 when we went ashore in the boat, we found him at the landing-place,
 dressed in California style,--a wide hat, faded velveteen trowsers,
 and a blanket cloak thrown over his shoulders--and wishing to go off
-in the boat, saying he was going to paseár with our captain a little.
+in the boat, saying he was going to paseï¿½r with our captain a little.
 We had many doubts of the reception he would meet with; but he
 seemed to think himself company for any one.  We took him aboard,
 landed him at the gangway, and went about our work, keeping an eye
@@ -9719,7 +9719,7 @@ with his strong head, clear brain, cool self-possession; *****,
 modest, sensitive, and underrated; *****, the mouth-piece of the
 debating clubs, noisy, vaporous, and democratic; and so following. 
 Then I could see them receiving their A. Bs. from the dignified,
-feudal-looking President, with his "auctoritate mihi commissâ,"
+feudal-looking President, with his "auctoritate mihi commissï¿½,"
 and walking off the stage with their diplomas in their hands;
 while upon the very same day, their classmate was walking up
 and down California beach with a hide upon his head. 
@@ -9801,7 +9801,7 @@ your owls.
 As I bade good-by to each successive place, I felt as though one
 link after another were struck from the chain of my servitude.
 Having kept close in shore, for the land-breeze, we passed the
-mission of San Juan Campestráno the same night, and saw distinctly,
+mission of San Juan Campestrï¿½no the same night, and saw distinctly,
 by the bright moonlight, the hill which I had gone down by a pair of
 halyards in search of a few paltry hides.  "Forsan et haec olim,"
 thought I, and took my last look of that place too.  And on the
@@ -10551,7 +10551,7 @@ between the knight-heads, cast a glance aloft, and called out,
 "All hands, lay aloft and loose the sails!"  We were half in the
 rigging before the order came, and never since we left Boston
 were the gaskets off the yards, and the rigging overhauled, in a
-shorter time.  "All ready forward, sir!"--"All ready the main!"--
+shorter time.  "All ready forward, sir!"--"All ready the Indexer.main!"--
 "Cross-jack yards all ready, sir!"--"Lay down, all hands but one
 on each yard!"  The yard-arm and bunt gaskets were cast off; and
 each sail hung by the jigger, with one man standing by the tie to
@@ -10788,8 +10788,8 @@ All this, however, was but anticipation.  We were still in fine
 weather in the North Pacific, running down the north-east trades,
 which we took on the second day after leaving San Diego. 
 
-Sunday, May 15th, one week out, we were in latitude 14° 56' N.,
-long.  116° 14' W., having gone, by reckoning, over thirteen hundred
+Sunday, May 15th, one week out, we were in latitude 14ï¿½ 56' N.,
+long.  116ï¿½ 14' W., having gone, by reckoning, over thirteen hundred
 miles in seven days.  In fact, ever since leaving San Diego, we had
 had a fair wind, and as much as we wanted of it.  For seven days,
 our lower and topmast studding-sails were set all the time, and our
@@ -10802,7 +10802,7 @@ we frequently made three degrees of latitude, besides something
 in longitude, in the course of twenty-four hours.--Our days were
 spent in the usual ship's work.  The rigging which had become slack
 from being long in port was to be set up; breast backstays got up;
-studding-sail booms rigged upon the main yard; and the royal studding-
+studding-sail booms rigged upon the Indexer.main yard; and the royal studding-
 sails got ready for the light trades; ring-tail set; and new rigging
 fitted and sails got ready for Cape Horn.  For, with a ship's gear,
 as well as a sailor's wardrobe, fine weather must be improved to
@@ -10812,7 +10812,7 @@ spent in the usual manner:--a trick at the wheel, a look-out on
 the forecastle, a nap on a coil of rigging under the lee of the
 rail; a yarn round the windlass-end; or, as was generally my way,
 a solitary walk fore and aft, in the weather waist, between the
-windlass-end and the main tack.  Every wave that she threw aside
+windlass-end and the Indexer.main tack.  Every wave that she threw aside
 brought us nearer home, and every day's observation at noon showed
 a progress which, if it continued, would in less than five months,
 take us into Boston Bay.  This is the pleasure of life at sea,
@@ -10991,7 +10991,7 @@ We got some straw, an old sail, and other things, and wrapped her
 up in a corner of the sty, where she staid until we got into fine
 weather again.
 
-Wednesday, May 18th.  Lat. 9° 54' N., long. 113° 17' W.  The north-
+Wednesday, May 18th.  Lat. 9ï¿½ 54' N., long. 113ï¿½ 17' W.  The north-
 east trades had now left us, and we had the usual variable winds,
 which prevail near the line, together with some rain.  So long as
 we were in these latitudes, we had but little rest in our watch on
@@ -11017,7 +11017,7 @@ the starboard side.  So it goes until it is eight bells,--call
 the watch,--heave the log,--relieve the wheel, and go below
 the larboard watch.
 
-Sunday, May 22d.  Lat. 5° 14' N., long. 166° 45' W.  We were now
+Sunday, May 22d.  Lat. 5ï¿½ 14' N., long. 166ï¿½ 45' W.  We were now
 a fortnight out, and within five degrees of the line, to which two
 days of good breeze would take us; but we had, for the most part,
 what sailors call "an Irishman's hurricane,--right up and down."
@@ -11054,14 +11054,14 @@ south-east, and, with us, they blew directly from the east-south-
 east, which was fortunate for us, for our course was south-by-west,
 and we could thus go one point free.  The yards were braced so that
 every sail drew, from the spanker to the flying-jib; and the upper
-yards being squared in a little, the fore and main top-gallant
+yards being squared in a little, the fore and Indexer.main top-gallant
 studding-sails were set, and just drew handsomely.  For twelve
 days this breeze blew steadily, not varying a point, and just so
 fresh that we could carry our royals; and, during the whole time,
 we hardly started a brace.  Such progress did we make, that at the
 end of seven days from the time we took the breeze, on
 
-Sunday, June 5th, we were in lat. 19° 29' S., and long. 118° 01' W.,
+Sunday, June 5th, we were in lat. 19ï¿½ 29' S., and long. 118ï¿½ 01' W.,
 having made twelve hundred miles in seven days, very nearly
 upon a taught bowline.  Our good ship was getting to be herself
 again, had increased her rate of sailing more than one-third since
@@ -11144,19 +11144,19 @@ preparation.  Our rigging was all examined and overhauled, and
 mended, or replaced with new, where it was necessary: new and
 strong bobstays fitted in the place of the chain ones, which were
 worn out; the spritsail yard and martingale guys and back-ropes
-set well taught; bran new fore and main braces rove; top-gallant
+set well taught; bran new fore and Indexer.main braces rove; top-gallant
 sheets, and wheel-ropes, made of green hide, laid up in the form of
 rope, were stretched and fitted; and new top-sail clewlines, etc.,
 rove; new fore-topmast back-stays fitted; and other preparations
 made, in good season, that the ropes might have time to stretch
 and become limber before we got into cold weather. 
 
-Sunday, June 12th.  Lat. 26° 04' S., 116° 31' W.  We had now lost
+Sunday, June 12th.  Lat. 26ï¿½ 04' S., 116ï¿½ 31' W.  We had now lost
 the regular trades, and had the winds variable, principally from
 the westward, and kept on, in a southerly course, sailing very
 nearly upon a meridian, and at the end of the week,
 
-Sunday, June 19th, were in lat. 34° 15' S., and long. 116° 38' W.
+Sunday, June 19th, were in lat. 34ï¿½ 15' S., and long. 116ï¿½ 38' W.
 
 
 
@@ -11206,7 +11206,7 @@ knight-heads, and seizing hold of the fore-stay with my hands,
 drew myself upon it.  My feet were just off the stanchion, when
 she struck fairly into the middle of the sea, and it washed her
 fore and aft, burying her in the water.  As soon as she rose out
-of it, I looked aft, and everything forward of the main-mast,
+of it, I looked aft, and everything forward of the Indexer.main-mast,
 except the long-boat, which was griped and double-lashed down
 to the ring-bolts, was swept off clear.  The galley, the pig-sty,
 the hen-coop, and a large sheep-pen which had been built upon the
@@ -11261,7 +11261,7 @@ we left them standing, and set the studding-sails.
 The next day, all hands were turned-to upon unbending the old
 sails, and getting up the new ones; for a ship, unlike people
 on shore, puts on her best suit in bad weather.  The old sails
-were sent down, and three new topsails, and new fore and main
+were sent down, and three new topsails, and new fore and Indexer.main
 courses, jib, and fore-topmast staysail, which were made on
 the coast, and never had been used, were bent, with a complete
 set of new earings, robands and reef-points; and reef-tackles
@@ -11283,7 +11283,7 @@ larboard quarter, until--
 
 Sunday, June 26th, when, having a fine, clear day, the captain
 got a lunar observation, as well as his meridian altitude, which
-made us in lat. 47° 50' S., long. 113° 49' W.; Cape Horn bearing,
+made us in lat. 47ï¿½ 50' S., long. 113ï¿½ 49' W.; Cape Horn bearing,
 according to my calculation, E. S. E. 1/2 E., and distant eighteen
 hundred miles.
 
@@ -11320,7 +11320,7 @@ gallant studding-sails, and the lower and topmast studding-sails
 were coming down by the run.  It was nothing but "haul down and
 clew up," until we got all the studding-sails in, and the royals,
 flying-jib, and mizen top-gallant sail furled, and the ship kept
-off a little, to take the squall.  The fore and main top-gallant
+off a little, to take the squall.  The fore and Indexer.main top-gallant
 sails were still on her, for the "old man" did not mean to be
 frightened in broad daylight, and was determined to carry sail
 till the last minute.
@@ -11330,7 +11330,7 @@ us that it was not be trifled with.  Rain, sleet, snow, and wind,
 enough to take our breath from us, and make the toughest turn his
 back to windward!  The ship lay nearly over on her beam-ends; the
 spars and rigging snapped and cracked; and her top-gallant masts
-bent like whip-sticks.  "Clew up the fore and main top-gallant
+bent like whip-sticks.  "Clew up the fore and Indexer.main top-gallant
 sails!" shouted the captain, and all hands sprang to the clewlines.
 The decks were standing nearly at an angle of forty-five degrees,
 and the ship going like a mad steed through the water, the whole
@@ -11364,14 +11364,14 @@ the first reef fast, and were just going to lay down, when--"Two
 reefs--two reefs!" shouted the mate, and we had a second reef to
 take, in the same way.  When this was fast, we laid down on deck,
 manned the halyards to leeward, nearly up to our knees in water,
-set the topsail, and then laid aloft on the main topsail yard,
+set the topsail, and then laid aloft on the Indexer.main topsail yard,
 and reefed that sail in the same manner; for, as I have before
 stated, we were a good deal reduced in numbers, and, to make
 it worse, the carpenter, only two days before, cut his leg with
 an axe, so that he could not go aloft.  This weakened us so that
 we could not well manage more than one topsail at a time, in such
 weather as this, and, of course, our labor was doubled.  From the
-main topsail yard, we went upon the main yard, and took a reef in
+Indexer.main topsail yard, we went upon the Indexer.main yard, and took a reef in
 the mainsail.  No sooner had we got on deck, than--"Lay aloft there,
 mizen-top-men, and close-reef the mizen topsail!"  This called me;
 and being nearest to the rigging, I got first aloft, and out to
@@ -11392,7 +11392,7 @@ the masts out of her.  We gave a look aloft, and knew that our work
 was not done yet; and, sure enough, no sooner did the mate see that
 we were on deck, than--"Lay aloft there, four of you, and furl the
 top-gallant sails!" This called me again, and two of us went aloft,
-up the fore rigging, and two more up the main, upon the top-gallant
+up the fore rigging, and two more up the Indexer.main, upon the top-gallant
 yards.
 
 The shrouds were now iced over, the sleet having formed a crust
@@ -11560,7 +11560,7 @@ a white crust; and the thundering sound of the cracking of
 the mass, and the breaking and tumbling down of huge pieces;
 together with its nearness and approach, which added a slight
 element of fear,--all combined to give to it the character of
-true sublimity.  The main body of the mass was, as I have said,
+true sublimity.  The Indexer.main body of the mass was, as I have said,
 of an indigo color, its base crusted with frozen foam; and as it
 grew thin and transparent toward the edges and top, its color
 shaded off from a deep blue to the whiteness of snow.
@@ -11584,7 +11584,7 @@ several icebergs, of different sizes, but none so near as the
 one which we saw the day before.  Some of them, as well as we
 could judge, at the distance at which we were, must have been
 as large as that, if not larger.  At noon we were in latitude
-55° 12' south, and supposed longitude 89° 5' west.  Toward night
+55ï¿½ 12' south, and supposed longitude 89ï¿½ 5' west.  Toward night
 the wind hauled to the southward, and headed us off our course
 a little, and blew a tremendous gale; but this we did not mind,
 as there was no rain nor snow, and we were already under close
@@ -11607,8 +11607,8 @@ was as much as we could do.  Yet no one forgot the day; and many
 were the wishes, and conjectures, and comparisons, both serious and
 ludicrous, which were made among all hands.  The sun shone bright
 as long as it was up, only that a scud of black clouds was ever
-and anon driving across it.  At noon we were in lat. 54° 27' S.,
-and long. 85° 5' W., having made a good deal of easting, but having
+and anon driving across it.  At noon we were in lat. 54ï¿½ 27' S.,
+and long. 85ï¿½ 5' W., having made a good deal of easting, but having
 lost in our latitude by the heading of the wind.  Between daylight
 and dark--that is, between nine o'clock and three--we saw thirty-
 four ice islands, of various sizes; some no bigger than the hull
@@ -11653,8 +11653,8 @@ to belay it, or, still worse, take a knot with it; and the sails
 nearly as stiff as sheet iron.  One at a time, (for it was a long
 piece of work and required many hands,) we furled the courses,
 mizen topsail, and fore-topmast staysail, and close-reefed the
-fore and main topsails, and hove the ship to under the fore,
-with the main hauled up by the clewlines and buntlines, and ready
+fore and Indexer.main topsails, and hove the ship to under the fore,
+with the Indexer.main hauled up by the clewlines and buntlines, and ready
 to be sheeted home, if we found it necessary to make sail to get
 to windward of an ice island.  A regular look-out was then set,
 and kept by each watch in turn, until the morning.  It was a tedious
@@ -11834,7 +11834,7 @@ coffee every four hours,) except that the mate stole a potful of
 coffee for two men to drink behind the galley, while he kept a
 look-out for the captain.  Every man had his station, and was not
 allowed to leave it; and nothing happened to break the monotony
-of the night, except once setting the main topsails to run clear
+of the night, except once setting the Indexer.main topsails to run clear
 of a large island to leeward, which they were drifting fast upon.
 Some of the boys got so sleepy and stupefied, that they actually
 fell asleep at their posts; and the young third mate, whose station
@@ -11990,7 +11990,7 @@ few days hardened them, and as soon as I got my mouth open wide
 enough to take in a piece of salt beef and hard bread, I was all
 right again.
 
-Sunday, July 10th.  Lat. 54° 10', long. 79° 07'.  This was our
+Sunday, July 10th.  Lat. 54ï¿½ 10', long. 79ï¿½ 07'.  This was our
 position at noon.  The sun was out bright; the ice was all left
 behind, and things had quite a cheering appearance.  We brought
 our wet pea-jackets and trowsers on deck, and hung them up in
@@ -12104,7 +12104,7 @@ bring us directly back to our old position of the week before.
 
 During our watch on deck, which was from twelve to four, the wind
 came out ahead, with a pelting storm of hail and sleet, and we
-lay hove-to, under a close-reefed main topsail, the whole watch.
+lay hove-to, under a close-reefed Indexer.main topsail, the whole watch.
 During the next watch it fell calm, with a drenching rain, until
 daybreak, when the wind came out to the westward, and the weather
 cleared up, and showed us the whole ocean, in the course which we
@@ -12189,7 +12189,7 @@ But ill luck seemed to have lighted upon us.  Not four hours had
 we been standing on in this course, before it fell dead calm;
 and in half an hour it clouded up; a few straggling blasts,
 with spits of snow and sleet, came from the eastward; and in
-an hour more, we lay hove-to under a close-reefed main topsail,
+an hour more, we lay hove-to under a close-reefed Indexer.main topsail,
 drifting bodily off to leeward before the fiercest storm that we
 had yet felt, blowing dead ahead, from the eastward.  It seemed
 as though the genius of the place had been roused at finding that
@@ -12417,7 +12417,7 @@ Independence, sixty-gun ship, which musters seven hundred men at
 her quarters, it is not wonderful that we were no quicker about it.
 We were glad enough to get on deck, and still more, to go below.
 The oldest sailor in the watch said, as he went down,--"I shall
-never forget that main yard;--it beats all my going a fishing.
+never forget that Indexer.main yard;--it beats all my going a fishing.
 Fun is fun, but furling one yard-arm of a course, at a time,
 off Cape Horn, is no better than man-killing."
 
@@ -12661,8 +12661,8 @@ all the time; watch and watch, and nothing to do but to steer and
 look out for the ship, and be blown along;--until the noon of the
 next day--
 
-Sunday, July 24th, when we were in latitude 50° 27' S., longitude
-62° 13' W., having made four degrees of latitude in the last
+Sunday, July 24th, when we were in latitude 50ï¿½ 27' S., longitude
+62ï¿½ 13' W., having made four degrees of latitude in the last
 twenty-four hours.  Being now to northward of the Falkland Islands,
 the ship was kept off, north-east, for the equator; and with her
 head for the equator, and Cape Horn over her taffrail, she went
@@ -12701,8 +12701,8 @@ great was our change of latitude each succeeding night, that we
 sank some constellation in the south, and raised another in the
 northern horizon.
 
-Sunday, July 31st.  At noon we were in lat. 36° 41' S., long.
-38° 08' W.; having traversed the distance of two thousand miles,
+Sunday, July 31st.  At noon we were in lat. 36ï¿½ 41' S., long.
+38ï¿½ 08' W.; having traversed the distance of two thousand miles,
 allowing for changes of course, in nine days.  A thousand miles
 in four days and a half!--This is equal to steam.
 
@@ -12941,7 +12941,7 @@ of his jacket, and hauled him up upon the yard, with--"Hold on,
 another time, you young monkey, and be d----d to you!"--and that
 was all that was heard about it.
 
-Sunday, August 7th.  Lat. 25° 59' S., long. 27° 0' W.  Spoke the
+Sunday, August 7th.  Lat. 25ï¿½ 59' S., long. 27ï¿½ 0' W.  Spoke the
 English bark Mary-Catherine, from Bahia, bound to Calcutta.
 This was the first sail we had fallen in with, and the first
 time we had seen a human form or heard the human voice, except of
@@ -12970,7 +12970,7 @@ the whale-men on the Banks, under their stump top-gallant masts,
 call "a Cape Horn-er under a cloud of sail."
 
 Friday, August 12th.  At daylight made the island of Trinidad,
-situated in lat. 20° 28' S., long. 29° 08' W. At twelve M.,
+situated in lat. 20ï¿½ 28' S., long. 29ï¿½ 08' W. At twelve M.,
 it bore N. W. 1/2 N., distant twenty-seven miles.  It was a
 beautiful day, the sea hardly ruffled by the light trades,
 and the island looking like a small blue mound rising from
@@ -12981,10 +12981,10 @@ long time, the resort of a band of pirates, who ravaged the tropical
 seas.
 
 Thursday, August 18th.  At three P. M., made the island of Fernando
-Naronha, lying in lat. 3° 55' S., long. 32° 35' W.; and between
+Naronha, lying in lat. 3ï¿½ 55' S., long. 32ï¿½ 35' W.; and between
 twelve o'clock Friday night and one o'clock Saturday morning,
 crossed the equator, for the fourth time since leaving Boston,
-in long. 35° W.; having been twenty-seven days from Staten
+in long. 35ï¿½ W.; having been twenty-seven days from Staten
 Land--a distance, by the courses we had made, of more than
 four thousand miles.
 
@@ -13074,7 +13074,7 @@ an hour after, slipping quietly along, with a light breeze over
 the taffrail, and studding-sails out on both sides;--until we fell
 in with the north-east trade-winds; which we did on the afternoon of
 
-Sunday, August 28th, in lat. 12° N. The trade-wind clouds had been
+Sunday, August 28th, in lat. 12ï¿½ N. The trade-wind clouds had been
 in sight for a day or two previously, and we expected to take them
 every hour.  The light southerly breeze, which had been blowing
 languidly during the first part of the day, died away toward noon,
@@ -13086,10 +13086,10 @@ freshening up the sea, and giving us as much as we could carry
 our royals to.  These winds blew strong and steady, keeping us
 generally upon a bowline, as our course was about north-north-west;
 and sometimes, as they veered a little to the eastward, giving us
-a chance at a main top-gallant studding-sail; and sending us well
+a chance at a Indexer.main top-gallant studding-sail; and sending us well
 to the northward, until--
 
-Sunday, Sept. 4th, when they left us, in lat. 22° N., long. 51° W.,
+Sunday, Sept. 4th, when they left us, in lat. 22ï¿½ N., long. 51ï¿½ W.,
 directly under the tropic of Cancer. 
 
 For several days we lay "humbugging about" in the Horse latitudes,
@@ -13116,7 +13116,7 @@ the water, with an uneasy expectation, which, from the long suspense,
 became actually painful.  We could hear the captain walking the deck,
 but it was too dark to see anything more than one's hand before the
 face.  Soon the mate came forward again, and gave an order, in a
-low tone, to clew up the main top-gallant sail; and so infectious
+low tone, to clew up the Indexer.main top-gallant sail; and so infectious
 was the awe and silence, that the clewlines and buntlines were
 hauled up without any of the customary singing out at the ropes.
 An English lad and myself went up to furl it; and we had just got
@@ -13124,7 +13124,7 @@ the bunt up, when the mate called out to us, something, we did
 not hear what,--but supposing it to be an order to bear-a-hand,
 we hurried, and made all fast, and came down, feeling our way among
 the rigging.  When we got down we found all hands looking aloft,
-and there, directly over where we had been standing, upon the main
+and there, directly over where we had been standing, upon the Indexer.main
 top-gallant-mast-head, was a ball of light, which the sailors name
 a corposant (corpus sancti), and which the mate had called out to
 us to look at.  They were all watching it carefully, for sailors
@@ -13247,7 +13247,7 @@ the officer of the watch to haul taught the weather brace.--"Hallo!
 There's S----- aloft to furl the sail!"--Next thing, rigging is
 heaved down directly over our heads, and a long-drawn cry and a
 rattling of hanks announce that the flying-jib has come in.--The
-second mate holds on to the main top-gallant sail until a heavy
+second mate holds on to the Indexer.main top-gallant sail until a heavy
 sea is shipped, and washes over the forecastle as though the
 whole ocean had come aboard; when a noise further aft shows
 that that sail, too, is taking in.  After this, the ship is
@@ -13262,10 +13262,10 @@ half upon her beam-ends; lee scuppers under water, and forecastle
 all in a smother of foam.--Rigging all let go, and washing about
 decks; topsail yards down upon the caps, and sails flapping and
 beating against the masts; and starboard watch hauling out the
-reef-tackles of the main topsail.  Our watch haul out the fore,
+reef-tackles of the Indexer.main topsail.  Our watch haul out the fore,
 and lay aloft and put two reefs into it, and reef the foresail,
 and race with the starboard watch, to see which will mast-head its
-topsail first.  All hands tally-on to the main tack, and while some
+topsail first.  All hands tally-on to the Indexer.main tack, and while some
 are furling the jib, and hoisting the staysail, we mizen-topmen
 double-reef the mizen topsail and hoist it up.  All being made fast
 --"Go below, the watch!" and we turn-in to sleep out the rest of the
@@ -13319,7 +13319,7 @@ bound to the West Indies or the Southern States.  The scurvy had
 spread no farther among the crew, but there was danger that it
 might; and these cases were bad ones.
 
-Sunday, Sept. 11th.  Lat. 30° 04' N., long. 63° 23' W.; the Bermudas
+Sunday, Sept. 11th.  Lat. 30ï¿½ 04' N., long. 63ï¿½ 23' W.; the Bermudas
 bearing north-north-west, distant one hundred and fifty miles.
 The next morning, about ten o'clock, "Sail ho!" was cried on deck;
 and all hands turned up to see the stranger.  As she drew nearer,
@@ -13327,9 +13327,9 @@ she proved to be an ordinary-looking hermaphrodite brig, standing
 south-south-east; and probably bound out, from the Northern States,
 to the West Indies; and was just the thing we wished to see.
 She hove-to for us, seeing that we wished to speak her; and we
-ran down to her; boom-ended our studding-sails; backed our main
+ran down to her; boom-ended our studding-sails; backed our Indexer.main
 topsail, and hailed her--"Brig, ahoy!"--"Hallo!"--"Where are you
-from, pray?"--"From New York, bound to Curaçoa."--"Have you any
+from, pray?"--"From New York, bound to Curaï¿½oa."--"Have you any
 fresh provisions to spare?"--"Aye, aye! plenty of them!"  We
 lowered away the quarter-boat, instantly; and the captain and
 four hands sprang in, and were soon dancing over the water,
@@ -13526,7 +13526,7 @@ CHAPTER XXXVI
 SOUNDINGS--SIGHTS FROM HOME--BOSTON HARBOR--LEAVING THE SHIP
 
 
-Friday, Sept. 16th.  Lat. 38° N., long. 69° 00' W.  A fine south-west
+Friday, Sept. 16th.  Lat. 38ï¿½ N., long. 69ï¿½ 00' W.  A fine south-west
 wind; every hour carrying us nearer in toward land.  All hands on deck
 at the dog watch, and nothing talked about, but our getting in; where
 we should make the land; whether we should arrive before Sunday;
@@ -13559,7 +13559,7 @@ tops, or boom-ended, the after yards backed, the deep-sea-lead
 carried forward, and everything got ready for sounding.  A man
 on the spritsail yard with the lead, another on the cathead with
 a handful of the line coiled up, another in the fore chains,
-another in the waist, and another in the main chains, each with
+another in the waist, and another in the Indexer.main chains, each with
 a quantity of the line coiled away in his hand.  "All ready there,
 forward?"--"Aye, aye, sir!"--"He-e-e-ave!"--"Watch! ho! watch!"
 sings out the man on the spritsail yard, and the heavy lead drops
@@ -14324,7 +14324,7 @@ and deferential to his employers at home.
 
 As to the appeal made in the captain's behalf on the ground of
 his being poor and having persons depending upon his labor for
-support, the main and fatal objection to it is, that it will
+support, the Indexer.main and fatal objection to it is, that it will
 cover every case of the kind, and exempt nearly the whole body
 of masters and officers from the punishment the law has provided
 for them.  There are very few, if any masters or other officers of
@@ -14615,7 +14615,7 @@ through the entrance, and covered the whole bay; and when they
 disappeared, we saw a few well-wooded islands, the sand-hills on
 the west, the grassy and wooded slopes on the east, and the vast
 stretch of the bay to the southward, where we were told lay the
-Missions of Santa Clara and San José, and still longer stretches to
+Missions of Santa Clara and San Josï¿½, and still longer stretches to
 the northward and northeastward, where we understood smaller bays
 spread out, and large rivers poured in their tributes of waters.
 There were no settlements on these bays or rivers, and the few
@@ -14762,8 +14762,8 @@ addressed by the name of Lies.(1)  Lies! thought I, that must be the
 man who came across the country from Kentucky to Monterey while
 we lay there in the Pilgrim in 1835, and made a passage in the
 Alert, when he used to shoot with his rifle bottles hung from the
-top-gallant studding-sail-boom-ends.  He married the beautiful Doña
-Rosalía Vallejo, sister of Don Guadalupe.  There were the old high
+top-gallant studding-sail-boom-ends.  He married the beautiful Doï¿½a
+Rosalï¿½a Vallejo, sister of Don Guadalupe.  There were the old high
 features and sandy hair.  I put my chair beside him, and began
 conversation, as any one may do in California.  Yes, he was the
 Mr. Lies; and when I gave my name he professed at once to remember
@@ -14780,7 +14780,7 @@ me than I was aware of at the time.
 
 Late in the afternoon, as there were vespers at the Roman Catholic
 churches, I went to that of Notre Dame des Victoires.  The congregation
-was French, and a sermon in French was preached by an Abbé; the music
+was French, and a sermon in French was preached by an Abbï¿½; the music
 was excellent, all things airy and tasteful, and making one feel as if
 in one of the chapels in Paris.  The Cathedral of St. Mary, which I
 afterwards visited, where the Irish attend, was a contrast indeed,
@@ -14795,7 +14795,7 @@ shop-keeping, and have some wealthy mercantile houses.
 
 It is noticeable that European Continental fashions prevail generally
 in this city,--French cooking, lunch at noon, and dinner at the end
-of the day, with café noir after meals, and to a great extent the
+of the day, with cafï¿½ noir after meals, and to a great extent the
 European Sunday,--to all which emigrants from the United States and
 Great Britain seem to adapt themselves.  Some dinners which were given
 to me at French restaurants were, it seemed to me,--a poor judge of
@@ -14914,7 +14914,7 @@ the Pilgrim to her berth in San Diego harbor, after she had drifted
 successively into the Lagoda and Loriotte, and was coming into him.
 I had made a pet of his brig, the Ayacucho, which pleased him almost
 as much as my remembrance of his bride and their wedding, which I
-saw at Santa Barbara in 1836.  Doña Ramona was now the mother of
+saw at Santa Barbara in 1836.  Doï¿½a Ramona was now the mother of
 a large family, and Wilson assured me that if I would visit him
 at his rancho, near San Luis Obispo, I should find her still
 a handsome woman, and very glad to see me.  How we walked the
@@ -14933,9 +14933,9 @@ nor could he tell me anything of handsome Bill Jackson (ante,
 p. 86), nor of Captain Nye of the Loriotte.  I told him all I
 then knew of the ships, the masters, and the officers.  I found he
 had kept some run of my history, and needed little information.
-Old Señor Noriego of Santa Barbara, he told me, was dead, and Don
+Old Seï¿½or Noriego of Santa Barbara, he told me, was dead, and Don
 Carlos and Don Santiago, but I should find their children there,
-now in middle life.  Doña Augustia, he said, I had made famous by
+now in middle life.  Doï¿½a Augustia, he said, I had made famous by
 my praises of her beauty and dancing, and I should have from her a
 royal reception.  She had been a widow, and remarried since, and had
 a daughter as handsome as herself.  The descendants of Noriego had
@@ -14945,7 +14945,7 @@ in the Alert, was now Don Pablo de la Guerra, a Senator in the
 State Legislature for Santa Barbara County.
 
 The points in the country, too, he noticed, as he passed them,
---Santa Cruz, San Luis Obispo, Point Año Nuevo, the opening
+--Santa Cruz, San Luis Obispo, Point Aï¿½o Nuevo, the opening
 to Monterey, which to my disappointment we did not visit.
 No; Monterey, the prettiest town on the coast, and its capital
 and seat of customs, had got no advantage from the great changes,
@@ -14964,7 +14964,7 @@ winters on a rancho instead of the deck of the Ayacucho, had not
 the same thing been told me by others.
 
 Passing round Point Conception, and steering easterly, we opened
-the islands that form, with the main-land, the canal of Santa
+the islands that form, with the Indexer.main-land, the canal of Santa
 Barbara.  There they are, Santa Cruz and Santa Rosa; and there is the
 beautiful point, Santa Buenaventura; and there lies Santa Barbara
 on its plain, with its amphitheatre of high hills and distant
@@ -14992,14 +14992,14 @@ and run her up by the gunwales.
 Santa Barbara has gained but little.  I should not know, from anything
 I saw, that she was now a seaport of the United States, a part of the
 enterprising Yankee nation, and not still a lifeless Mexican town.
-At the same old house, where Señor Noriego lived, on the piazza in
+At the same old house, where Seï¿½or Noriego lived, on the piazza in
 front of the court-yard, where was the gay scene of the marriage
-of our agent, Mr. Robinson, to Doña Anita, where Don Juan Bandini
-and Doña Augustia danced, Don Pablo de la Guerra received me in a
+of our agent, Mr. Robinson, to Doï¿½a Anita, where Don Juan Bandini
+and Doï¿½a Augustia danced, Don Pablo de la Guerra received me in a
 courtly fashion.  I passed the day with the family, and in walking
 about the place; and ate the old dinner with its accompaniments
 of frijoles, native olives and grapes, and native wines.  In due
-time I paid my respects to Doña Augustia, and notwithstanding
+time I paid my respects to Doï¿½a Augustia, and notwithstanding
 what Wilson told me, I could hardly believe that after twenty-
 four years there would still be so much of the enchanting woman
 about her.
@@ -15086,7 +15086,7 @@ very old man, and met there Don Juan Bandini, to whom I had given
 a good deal of notice in my book.  From him, as indeed from every
 one in this town, I met with the kindest attentions.  The wife of
 Don Juan, who was a beautiful young girl when we were on the coast,
-Doña Refugio, daughter of Don Santiago Argüello, the commandante
+Doï¿½a Refugio, daughter of Don Santiago Argï¿½ello, the commandante
 of San Diego, was with him, and still handsome.  This is one of
 several instances I have noticed of the preserving quality of the
 California climate.  Here, too, was Henry Mellus, who came out with
@@ -15184,11 +15184,11 @@ return at the end of a liberty day, and spend the night sub Jove.
 The little town of San Diego has undergone no change whatever that
 I can see.  It certainly has not grown.  It is still, like Santa
 Barbara, a Mexican town.  The four principal houses of the gente
-de razon--of the Bandinis, Estudillos, Argüellos, and Picos--are
+de razon--of the Bandinis, Estudillos, Argï¿½ellos, and Picos--are
 the chief houses now; but all the gentlemen--and their families,
 too, I believe--are gone.  The big vulgar shop-keeper and trader,
 Fitch, is long since dead; Tom Wrightington, who kept the rival
-pulpería, fell from his horse when drunk, and was found nearly
+pulperï¿½a, fell from his horse when drunk, and was found nearly
 eaten up by coyotes; and I can scarce find a person whom I remember.
 I went into a familiar one-story adobe house, with its piazza and
 earthen floor, inhabited by a respectable lower-class family by
@@ -15200,7 +15200,7 @@ voyage, but left the ship and married and settled here.  She said he
 wished very much to see me.  In a few minutes he came in, and his
 sincere pleasure in meeting me was extremely grateful.  We talked
 over old times as long as I could afford to.  I was glad to hear
-that he was sober and doing well.  Doña Tomasa Pico I found and
+that he was sober and doing well.  Doï¿½a Tomasa Pico I found and
 talked with.  She was the only person of the old upper class that
 remained on the spot, if I rightly recollect.  I found an American
 family here, with whom I dined,--Doyle and his wife, nice young
@@ -15240,7 +15240,7 @@ brilliant before us, and full of eager life.
 Making San Francisco my head-quarters, I paid visits to various
 parts of the State,--down the Bay to Santa Clara, with its live
 oaks and sycamores, and its Jesuit College for boys; and San
-José, where is the best girls' school in the State, kept by the
+Josï¿½, where is the best girls' school in the State, kept by the
 Sisters of Notre Dame,--a town now famous for a year's session of
 "The legislature of a thousand drinks,"--and thence to the rich
 Almaden quicksilver mines, returning on the Contra Costa side
@@ -15273,7 +15273,7 @@ but thick mists, which form and trickle, and then run and at last
 plunge into the blue Merced that flows through the centre of the
 valley.  Back by the Coulterville trail, the peaks of Sierra Nevada
 in sight, across the North Fork of the Merced, by Gentry's Gulch,
-over hills and through cañons, to Fremont's again, and thence to
+over hills and through caï¿½ons, to Fremont's again, and thence to
 Stockton and San Francisco--all this at the end of August, when
 there has been no rain for four months, and the air is dear and
 very hot, and the ground perfectly dry; windmills, to raise water for
@@ -15378,7 +15378,7 @@ estates.  But they have not much left.  They were nearly ruined
 by their bargain with the State, that they would put up the public
 buildings if the Capital should be placed at Vallejo, then a town
 of some promise. They spent $100,000, the Capital was moved there,
-and in two years removed to San José on another contract.  The town
+and in two years removed to San Josï¿½ on another contract.  The town
 fell to pieces, and the houses, chiefly wooden, were taken down
 and removed. I accepted the old gentleman's invitation so far as
 to stop at Vallejo to breakfast.
@@ -15781,7 +15781,7 @@ THE LAST ENTRY IN THE LOG-BOOK OF THE ALERT.
 
 "September 9, 1862. 
 
-"Shortly after the ship came to the wind, with the main yard
+"Shortly after the ship came to the wind, with the Indexer.main yard
 aback, we went alongside and were hoisted up, when we found we
 were prisoners of war, and our ship a prize to the Confederate
 steamer Alabama.  We were then ordered to give up all nautical

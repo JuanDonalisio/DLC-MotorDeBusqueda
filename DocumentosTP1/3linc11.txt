@@ -737,7 +737,7 @@ mentioned in such a way as, I suppose, renders it at least not
 improper that I should make some sort of reply to him.  I shall
 not attempt to follow him in the precise order in which he
 addressed the assembled multitude upon that occasion, though I
-shall perhaps do so in the main.
+shall perhaps do so in the Indexer.main.
 
 There was one question to which he asked the attention of the
 crowd, which I deem of somewhat less importance--at least of
@@ -991,7 +991,7 @@ intelligent question.
 
 Now, who in all this country has ever found any of our friends of
 Judge Douglas's way of thinking, and who have acted upon this
-main question, that has ever thought of uttering a word in behalf
+Indexer.main question, that has ever thought of uttering a word in behalf
 of Judge Trumbull?
 
 [A voice: We have.]
@@ -1238,7 +1238,7 @@ decisions apparently contrary to that decision, or that good
 lawyers thought were contrary to that decision, have been made by
 that very court before.  It is the first of its kind; it is an
 astonisher in legal history.  It is a new wonder of the world.
-It is based upon falsehood in the main as to the facts;
+It is based upon falsehood in the Indexer.main as to the facts;
 allegations of facts upon which it stands are not facts at all in
 many instances, and no decision made on any question--the first
 instance of a decision made under so many unfavorable
@@ -1624,7 +1624,7 @@ arrival in Illinois, to discover evidences confirmatory of that
 allegation.  I think I have been able to see what are the
 material points of that plan.  I will, for a little while, ask
 your attention to some of them.  What I shall point out, though
-not showing the whole plan, are, nevertheless, the main points,
+not showing the whole plan, are, nevertheless, the Indexer.main points,
 as I suppose.
 
 They are not very numerous.  The first is popular sovereignty.
@@ -1634,7 +1634,7 @@ popular sovereignty the question of the Lecompton Constitution--
 he makes his principal assault.  Upon these his successive
 speeches are substantially one and the same.  On this matter of
 popular sovereignty I wish to be a little careful.  Auxiliary to
-these main points, to be sure, are their thunderings of cannon,
+these Indexer.main points, to be sure, are their thunderings of cannon,
 their marching and music, their fizzlegigs and fireworks; but I
 will not waste time with them.  They are but the little trappings
 of the campaign.
@@ -1659,7 +1659,7 @@ slavery.  We have not been in a controversy about the right of
 the people to govern themselves in the ordinary matters of
 domestic concern in the States and Territories.  Mr. Buchanan, in
 one of his late messages (I think when he sent up the Lecompton
-Constitution) urged that the main point to which the public
+Constitution) urged that the Indexer.main point to which the public
 attention had been directed was not in regard to the great
 variety of small domestic matters, but was directed to the
 question of negro slavery; and he asserts that if the people had
@@ -1667,7 +1667,7 @@ had a fair chance to vote on that question there was no
 reasonable ground of objection in regard to minor questions.
 Now, while I think that the people had not had given, or offered,
 them a fair chance upon that slavery question, still, if there
-had been a fair submission to a vote upon that main question, the
+had been a fair submission to a vote upon that Indexer.main question, the
 President's proposition would have been true to the utmost.
 Hence, when hereafter I speak of popular sovereignty, I wish to
 be understood as applying what I say to the question of slavery
@@ -2722,7 +2722,7 @@ these "original principles," fighting it in the Jeffersonian,
 Washingtonian, and Madisonian fashion.
 
 Now, my friends, I wish you to attend for a little while to one
-or two other things in that Springfield speech.  My main object
+or two other things in that Springfield speech.  My Indexer.main object
 was to show, so far as my humble ability was capable of showing,
 to the people of this country what I believed was the truth,--
 that there was a tendency, if not a conspiracy, among those who

@@ -844,7 +844,7 @@ be found.  They leave Iceland young, and wander at their will to
 different courts of northern Europe, where they are always held
 in high honour.  Gunnlaug Worm-tongue (12) in 1004 carne to
 England, after being in Norway, as the saga says: -- "Now sail
-Gunnlaug and his fellows into the English main, and come at
+Gunnlaug and his fellows into the English Indexer.main, and come at
 autumntide south to London Bridge, where they hauled ashore their
 ship.  Now, at that time King Ethelred, the son of Edgar, ruled
 over England, and was a good lord; the winter he sat in London.
@@ -1085,7 +1085,7 @@ relating to this, from which the prose is put together; to a
 certain extent they cover the same ground; but the latter half of
 the second is, wisely as we think, left untouched by the Sagaman,
 as its interest is of itself too great not to encumber the
-progress of the main story; for the sake of its wonderful beauty,
+progress of the Indexer.main story; for the sake of its wonderful beauty,
 however, we could not refrain from rendering it, and it will be
 found first among the metrical translations that form the second
 part of this book.
@@ -1813,7 +1813,7 @@ done that need be done, even as the song sings:
 
      "Sinfjotli sawed
      And Sigmund sawed,
-     Atwain with main
+     Atwain with Indexer.main
      The stone was done."
 
 Now are they both together loose in the barrow, and soon they cut
@@ -2091,7 +2091,7 @@ So seeing she might not get her own way herein, she said, "Have
 thy will in this matter, O my lord, for it is seemly so to be." 
 
 And now she holds the funeral feast for her brother by the aid
-and counsel of the king, and makes ready all things thereœor in
+and counsel of the king, and makes ready all things thereï¿½or in
 the best of wise, and bade thither many great men.
 
 At that feast, Borghild the queen bare the drink to folk, and she
@@ -3017,7 +3017,7 @@ spake to Regin --
 
 "Afar thou faredst when I wrought this deed and tried this sharp
 sword with the hand and the might of me; with all the might and
-main of a dragon must I strive, while thou wert laid alow in the
+Indexer.main of a dragon must I strive, while thou wert laid alow in the
 heather-bush, wotting not if it were earth or heaven."
 
 Said Regin, "Long might this worm have lain in his lair, if the
@@ -3262,7 +3262,7 @@ the drink of love, and spake --
      And set flame to shaven oar:
        Howso big be the sea-hills,
        Howso blue beneath,
-     Hail from the main then comest thou home.
+     Hail from the Indexer.main then comest thou home.
 
        "Word-runes learn well
        If thou wilt that no man

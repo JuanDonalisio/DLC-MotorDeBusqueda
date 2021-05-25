@@ -1577,7 +1577,7 @@ It is true the amount of individuality bestowed upon Don Quixote
 is not very great. There are some natural touches of character about
 him, such as his mixture of irascibility and placability, and his
 curious affection for Sancho together with his impatience of the
-squire's loquacity and impertinence; but in the main, apart from his
+squire's loquacity and impertinence; but in the Indexer.main, apart from his
 craze, he is little more than a thoughtful, cultured gentleman, with
 instinctive good taste and a great deal of shrewdness and
 originality of mind.
@@ -5936,7 +5936,7 @@ well pleased to have that good sense and that valour your worship
 speaks of, but I swear on the faith of a poor man I am more fit for
 plasters than for arguments. See if your worship can get up, and let
 us help Rocinante, though he does not deserve it, for he was the
-main cause of all this thrashing. I never thought it of Rocinante, for
+Indexer.main cause of all this thrashing. I never thought it of Rocinante, for
 I took him to be a virtuous person and as quiet as myself. After
 all, they say right that it takes a long time to come to know
 people, and that there is nothing sure in this life. Who would have
@@ -10991,7 +10991,7 @@ incident seems to call for many words."
 To this the curate replied that not only were they not weary of
 listening to him, but that the details he mentioned interested them
 greatly, being of a kind by no means to be omitted and deserving of
-the same attention as the main story.
+the same attention as the Indexer.main story.
 
 "To proceed, then," continued Cardenio: "all being assembled in
 the hall, the priest of the parish came in and as he took the pair
@@ -19388,7 +19388,7 @@ take place, save that I have seen a play where the first act began
 in Europe, the second in Asia, the third finished in Africa, and no
 doubt, had it been in four acts, the fourth would have ended in
 America, and so it would have been laid in all four quarters of the
-globe? And if truth to life is the main thing the drama should keep in
+globe? And if truth to life is the Indexer.main thing the drama should keep in
 view, how is it possible for any average understanding to be satisfied
 when the action is supposed to pass in the time of King Pepin or
 Charlemagne, and the principal personage in it they represent to be
@@ -25594,7 +25594,7 @@ desolate heaths let him endure the burning rays of the midsummer
 sun, and the bitter inclemency of the winter winds and frosts; let
 no lions daunt him, no monsters terrify him, no dragons make him
 quail; for to seek these, to attack those, and to vanquish all, are in
-truth his main duties. I, then, as it has fallen to my lot to be a
+truth his Indexer.main duties. I, then, as it has fallen to my lot to be a
 member of knight-errantry, cannot avoid attempting all that to me
 seems to come within the sphere of my duties; thus it was my bounden
 duty to attack those lions that I just now attacked, although I knew
@@ -25667,7 +25667,7 @@ Here the author describes minutely everything belonging to Don
 Diego's mansion, putting before us in his picture the whole contents
 of a rich gentleman-farmer's house; but the translator of the
 history thought it best to pass over these and other details of the
-same sort in silence, as they are not in harmony with the main purpose
+same sort in silence, as they are not in harmony with the Indexer.main purpose
 of the story, the strong point of which is truth rather than dull
 digressions.
 
@@ -30041,7 +30041,7 @@ his understanding, he would manage any government as easily as the
 king does his taxes; and moreover, we know already ample experience
 that it does not require much cleverness or much learning to be a
 governor, for there are a hundred round about us that scarcely know
-how to read, and govern like gerfalcons. The main point is that they
+how to read, and govern like gerfalcons. The Indexer.main point is that they
 should have good intentions and be desirous of doing right in all
 things, for they will never be at a loss for persons to advise and
 direct them in what they have to do, like those knight-governors
@@ -30611,7 +30611,7 @@ Quixote of La Mancha, for you have him here before you."
 
 "By God and upon my conscience," said the devil, "I never observed
 it, for my mind is occupied with so many different things that I was
-forgetting the main thing I came about."
+forgetting the Indexer.main thing I came about."
 
 "This demon must be an honest fellow and a good Christian," said
 Sancho; "for if he wasn't he wouldn't swear by God and his conscience;
@@ -32687,7 +32687,7 @@ rather go Sancho to heaven than governor to hell."
 hast uttered alone, I consider thou deservest to be governor of a
 thousand islands. Thou hast good natural instincts, without which no
 knowledge is worth anything; commend thyself to God, and try not to
-swerve in the pursuit of thy main object; I mean, always make it thy
+swerve in the pursuit of thy Indexer.main object; I mean, always make it thy
 aim and fixed purpose to do right in all matters that come before
 thee, for heaven always helps good intentions; and now let us go to
 dinner, for I think my lord and lady are waiting for us."
@@ -32801,7 +32801,7 @@ were squires, duennas, and damsels in her house who would wait upon
 him to his full satisfaction.
 
 "The truth is, senora," replied Don Quixote, "that I do feel the
-loss of Sancho; but that is not the main cause of my looking sad;
+loss of Sancho; but that is not the Indexer.main cause of my looking sad;
 and of all the offers your excellence makes me, I accept only the
 good-will with which they are made, and as to the remainder I
 entreat of your excellence to permit and allow me alone to wait upon
@@ -36884,7 +36884,7 @@ could have made her fall in love with you? For indeed and in truth
 many a time I stop to look at your worship from the sole of your
 foot to the topmost hair of your head, and I see more to frighten
 one than to make one fall in love; moreover I have heard say that
-beauty is the first and main thing that excites love, and as your
+beauty is the first and Indexer.main thing that excites love, and as your
 worship has none at all, I don't know what the poor creature fell in
 love with."
 
@@ -40788,7 +40788,7 @@ more like a disorderly vagabond than a governor."
 
 "Hold your tongue, Teresa," said Sancho; "often 'where there are
 pegs there are no flitches;' let's go into the house and there
-you'll hear strange things. I bring money, and that's the main
+you'll hear strange things. I bring money, and that's the Indexer.main
 thing, got by my own industry without wronging anybody."
 
 "You bring the money, my good husband," said Teresa, "and no

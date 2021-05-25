@@ -1992,7 +1992,7 @@ Or he whose virtue sighed to lose a day?
 What then?  Is the reward of virtue bread?
 That, vice may merit, 'tis the price of toil;
 The knave deserves it, when he tills the soil,
-The knave deserves it, when he tempts the main,
+The knave deserves it, when he tempts the Indexer.main,
 Where folly fights for kings, or dives for gain.
 The good man may be weak, be indolent;
 Nor is his claim to plenty, but content.
@@ -3597,7 +3597,7 @@ And be whate'er Vitruvius was before:
 Bid harbours open, public ways extend,
 Bid temples, worthier of the god, ascend;
 Bid the broad arch the dangerous flood contain,
-The mole projected break the roaring main;
+The mole projected break the roaring Indexer.main;
 Back to his bounds their subject sea command,
 And roll obedient rivers through the land:
 These honours peace to happy Britain brings,
@@ -4661,7 +4661,7 @@ Who know themselves so little what to do?
 Alike in nothing but one lust of gold,
 Just half the land would buy, and half be sold:
 Their country's wealth our mightier misers drain,
-Or cross, to plunder provinces, the main;
+Or cross, to plunder provinces, the Indexer.main;
 The rest, some farm the poor-box, some the pews;
 Some keep assemblies, and would keep the stews;
 Some with fat bucks on childless dotards fawn;
@@ -4913,7 +4913,7 @@ EPISTLE I.
 TO AUGUSTUS.
 
 While you, great patron of mankind! sustain
-The balanced world, and open all the main;
+The balanced world, and open all the Indexer.main;
 Your country, chief, in arms abroad defend,
 At home, with morals, arts, and laws amend;
 How shall the muse from such a monarch, steal

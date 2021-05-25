@@ -5130,7 +5130,7 @@ public utility, it is impossible for them to prevent all
 particular hardships, or make beneficial consequences result from
 every individual case. It is sufficient, if the whole plan or
 scheme be necessary to the support of civil society, and if the
-balance of good, in the main, do thereby preponderate much above
+balance of good, in the Indexer.main, do thereby preponderate much above
 that of evil. Even the general laws of the universe, though
 planned by infinite wisdom, cannot exclude all evil or
 inconvenience in every particular operation.
@@ -5169,7 +5169,7 @@ arise from no other principle There would otherwise be no motive
 for any one of them to enter into that scheme of conduct.
 
 [Footnote: This theory concerning the origin of property, and
-consequently of justice, is, in the main, the same with that
+consequently of justice, is, in the Indexer.main, the same with that
 hinted at and adopted by Grotius, 'Hinc discimus, quae fuerit
 causa, ob quam a primaeva communione rerum primo mobilium, deinde
 et immobilinm discessum est: nimirum quod cum non contenti

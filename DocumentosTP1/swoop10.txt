@@ -1865,7 +1865,7 @@ Few more fortunate events have occurred in the history of English
 literature than the quite accidental visit of Mr. Bart Kennedy to the
 Lobelia on that historic night. He happened to turn in there casually
 after dinner, and was thus enabled to see the whole thing from start to
-finish. At a quarter to eleven a wild-eyed man charged in at the main
+finish. At a quarter to eleven a wild-eyed man charged in at the Indexer.main
 entrance of Carmelite House, and, too impatient to use the lift, dashed
 up the stairs, shouting for pens, ink and paper.
 
@@ -1914,7 +1914,7 @@ dead-head!"
 Here, in the original draft of the article, there are reflections, at
 some length, on the interior decorations of the Hall, and an excursus
 on music-hall performances in general. It is not till he comes to
-examine the audience that Mr. Kennedy returns to the main issue.
+examine the audience that Mr. Kennedy returns to the Indexer.main issue.
 
 "And what manner of audience was it that had gathered together to view
 the entertainment provided by the genial and courteous manager of the
@@ -2368,7 +2368,7 @@ It was the afternoon of Wednesday, September the Sixteenth. The battle
 had been over for twenty-four hours. The fog had thinned to a light
 lemon colour. It was raining.
 
-By now the country was in possession of the main facts. Full details
+By now the country was in possession of the Indexer.main facts. Full details
 were not to be expected, though it is to the credit of the newspapers
 that, with keen enterprise, they had at once set to work to invent
 them, and on the whole had not done badly.

@@ -787,7 +787,7 @@ At five times seven I must hard strive,
 What I could gain by mighty skill;
 But still against the stream I drive,
 And bowl up stones against the hill;
-The more I laboured might and main,
+The more I laboured might and Indexer.main,
 The more I strove against the stream.
 
 At six times seven all covetise
@@ -2401,7 +2401,7 @@ And yet for her marriage gave thousands three,
 Yet still he hath somewhat for pretty Bessee.
 
 'And here if any one do her disdain,
-Her father is ready with might and with main
+Her father is ready with might and with Indexer.main
 To prove she is come of noble degree,
 Therefore let none flout at my pretty Bessee.'
 
@@ -9986,7 +9986,7 @@ the evils and misfortunes of life.]
 
 
 How pleasant a sailor's life passes,
-Who roams o'er the watery main!
+Who roams o'er the watery Indexer.main!
 No treasure he ever amasses,
 But cheerfully spends all his gain.
 We're strangers to party and faction,
@@ -10938,7 +10938,7 @@ common copies is to be preferred.
 Chappell's copy--but what would a peasant understand by SACK?
 Dryden's receipt for a sack posset is as follows:-
 
-'From fair Barbadoes, on the western main,
+'From fair Barbadoes, on the western Indexer.main,
 Fetch sugar half-a-pound:  fetch sack, from Spain,
 A pint:  then fetch, from India's fertile coast,
 Nutmeg, the glory of the British toast.'

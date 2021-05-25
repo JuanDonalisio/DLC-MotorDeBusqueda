@@ -1835,7 +1835,7 @@ Hundred and One presented itself to me!
    `That day, too, I made a friend--of a sort.  It happened
 that, as I was watching some of the little people bathing in a
 shallow, one of them was seized with cramp and began drifting
-downstream.  The main current ran rather swiftly, but not too
+downstream.  The Indexer.main current ran rather swiftly, but not too
 strongly for even a moderate swimmer.  It will give you an idea,
 therefore, of the strange deficiency in these creatures, when I
 tell you that none made the slightest attempt to rescue the
@@ -3367,7 +3367,7 @@ Rare white flakes ever and again came eddying down.  To the
 north-eastward, the glare of snow lay under the starlight of the
 sable sky and I could see an undulating crest of hillocks pinkish
 white.  There were fringes of ice along the sea margin, with
-drifting masses further out; but the main expanse of that salt
+drifting masses further out; but the Indexer.main expanse of that salt
 ocean, all bloody under the eternal sunset, was still unfrozen.
 
    `I looked about me to see if any traces of animal life

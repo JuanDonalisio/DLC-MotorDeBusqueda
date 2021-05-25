@@ -933,7 +933,7 @@ thee company, and thou shalt take witness before thy husband's
 bed, and declare thyself separated from him by such a lawful
 separation as may hold good according to the judgment of the
 Great Thing, and the laws of the land; and at the man's door the
-main door of the house, thou shalt take the same witness.  After
+Indexer.main door of the house, thou shalt take the same witness.  After
 that ride away, and ride over Laxriverdale Heath, and so on over
 Holtbeacon Heath; for they will look for thee by way of
 Hrutfirth.  And so ride on till thou comest to me; then I will
@@ -7485,7 +7485,7 @@ Now it must be told how Njal's sons, Grim and Helgi, left Iceland
 the same summer that Thrain and his fellows went away; and in the
 ship with them were Olaf Kettle's son of Elda, and Bard the
 Black.  They got so strong a wind from the north that they were
-driven south into the main; and so thick a mist came over them
+driven south into the Indexer.main; and so thick a mist came over them
 that they could not tell whither they were driving, and they were
 out a long while.  At last they came to where was a great ground
 sea, and thought then they must be near land.  So then Njal's
@@ -7683,7 +7683,7 @@ those realms, and said that the earls were a short way off with a
 great host.  Then Earl Sigurd turns his host thither, and the
 name of that place is Duncansness above which they met, and it
 came to a great battle between them.  Now the Scots had let some
-of their host go free from the main battle, and these took the
+of their host go free from the Indexer.main battle, and these took the
 earl's men in flank, and many men fell there till Njal's sons
 turned against the foe, and fought with them and put them to
 flight; but still it was a hard fight, and then Njal's sons
@@ -7733,7 +7733,7 @@ Kolbein asked that man for his name.
 
 "What wilt thou with me?" says Kolbein.
 
-"I wish to ask thee to put me across the Iceland main."
+"I wish to ask thee to put me across the Iceland Indexer.main."
 
 "Whose son art thou?" asks Kolbein.
 
@@ -14913,7 +14913,7 @@ Then Kari sang these verses:
      Laid him low amongst the riffraff,
      How his heart then quaked for fear.
 
-     "Men who skim the main on sea stag
+     "Men who skim the Indexer.main on sea stag
      Well in this ye showed your sense
      Making game about the Burning,
      Mocking Helgi, Grim, and Njal;

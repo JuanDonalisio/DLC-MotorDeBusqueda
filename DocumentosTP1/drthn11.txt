@@ -5130,7 +5130,7 @@ least.  Fillgrave will do as much good as I can do.'
 'That depends on yourself.  He will do you good if you will tell him
 the truth, and will then be guided by him.  Your wife, your servant,
 any one can be as good a doctor to you as either he or I; as good, that
-is, in the main point.  But you have sent for Fillgrave now; and of
+is, in the Indexer.main point.  But you have sent for Fillgrave now; and of
 course you must see him. I have much to do, and you must let me go.'
 
 Scatcherd, however, would not let him go, but held his hand fast.
@@ -21004,7 +21004,7 @@ right throughout, right in her conclusions, though so foully wrong in
 her manner of drawing them?
 
 And then she did think for one moment of herself.  'You who have nothing
-to give in return!' Such had been Lady Arabella's main accusation
+to give in return!' Such had been Lady Arabella's Indexer.main accusation
 against her. Was it in fact true that she had nothing to give? Her
 maiden love, her feminine pride, her very life, and spirit, and
 being--were these things nothing? Were they to be weighed against pounds

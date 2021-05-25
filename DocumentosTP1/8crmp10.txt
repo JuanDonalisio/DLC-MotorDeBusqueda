@@ -773,7 +773,7 @@ the filthiness of the surroundings, he was glad now to stay in the
 tavern.
 
 The master of the establishment was in another room, but he frequently
-came down some steps into the main room, his jaunty, tarred boots with
+came down some steps into the Indexer.main room, his jaunty, tarred boots with
 red turn-over tops coming into view each time before the rest of his
 person. He wore a full coat and a horribly greasy black satin
 waistcoat, with no cravat, and his whole face seemed smeared with oil
@@ -1598,7 +1598,7 @@ handwriting.
   that you may know just how everything has happened and all that we
   have hitherto concealed from you. When you wrote to me two months
   ago that you had heard that Dounia had a great deal to put up with
-  in the Svidrigraïlovs' house, when you wrote that and asked me to
+  in the Svidrigraï¿½lovs' house, when you wrote that and asked me to
   tell you all about it--what could I write in answer to you? If I
   had written the whole truth to you, I dare say you would have
   thrown up everything and have come to us, even if you had to walk
@@ -1617,13 +1617,13 @@ handwriting.
   not so, and now I tell you all about it, because, thank God,
   things have suddenly changed for the better, and that you may know
   how Dounia loves you and what a heart she has. At first indeed Mr.
-  Svidrigaïlov treated her very rudely and used to make
+  Svidrigaï¿½lov treated her very rudely and used to make
   disrespectful and jeering remarks at table. . . . But I don't want
   to go into all those painful details, so as not to worry you for
   nothing when it is now all over. In short, in spite of the kind
-  and generous behaviour of Marfa Petrovna, Mr. Svidrigaïlov's wife,
+  and generous behaviour of Marfa Petrovna, Mr. Svidrigaï¿½lov's wife,
   and all the rest of the household, Dounia had a very hard time,
-  especially when Mr. Svidrigaïlov, relapsing into his old
+  especially when Mr. Svidrigaï¿½lov, relapsing into his old
   regimental habits, was under the influence of Bacchus. And how do
   you think it was all explained later on? Would you believe that
   the crazy fellow had conceived a passion for Dounia from the
@@ -1686,12 +1686,12 @@ handwriting.
   bore it better than I did, and if only you could have seen how she
   endured it all and tried to comfort me and cheer me up! She is an
   angel! But by God's mercy, our sufferings were cut short: Mr.
-  Svidrigaïlov returned to his senses and repented and, probably
+  Svidrigaï¿½lov returned to his senses and repented and, probably
   feeling sorry for Dounia, he laid before Marfa Petrovna a complete
   and unmistakable proof of Dounia's innocence, in the form of a
   letter Dounia had been forced to write and give to him, before
   Marfa Petrovna came upon them in the garden. This letter, which
-  remained in Mr. Svidrigaïlov's hands after her departure, she had
+  remained in Mr. Svidrigaï¿½lov's hands after her departure, she had
   written to refuse personal explanations and secret interviews, for
   which he was entreating her. In that letter she reproached him
   with great heat and indignation for the baseness of his behaviour
@@ -1702,7 +1702,7 @@ handwriting.
   touchingly written that I sobbed when I read it and to this day I
   cannot read it without tears. Moreover, the evidence of the
   servants, too, cleared Dounia's reputation; they had seen and
-  known a great deal more than Mr. Svidrigaïlov had himself supposed
+  known a great deal more than Mr. Svidrigaï¿½lov had himself supposed
   --as indeed is always the case with servants. Marfa Petrovna was
   completely taken aback, and 'again crushed' as she said herself to
   us, but she was completely convinced of Dounia's innocence. The
@@ -1716,7 +1716,7 @@ handwriting.
   asserted in the most flattering terms Dounia's innocence and the
   nobility of her feelings and her behavior. What was more, she
   showed and read to everyone the letter in Dounia's own
-  handwriting to Mr. Svidrigaïlov and even allowed them to take
+  handwriting to Mr. Svidrigaï¿½lov and even allowed them to take
   copies of it--which I must say I think was superfluous. In this
   way she was busy for several days in driving about the whole town,
   because some people had taken offence through precedence having
@@ -1992,7 +1992,7 @@ partly like that, from mother's letter it's evident: he struck her
 as rude /a little/, and mother in her simplicity took her observations
 to Dounia. And she was sure to be vexed and 'answered her angrily.'
 I should think so! Who would not be angered when it was quite clear
-without any naïve questions and when it was understood that it was
+without any naï¿½ve questions and when it was understood that it was
 useless to discuss it. And why does she write to me, 'love Dounia,
 Rodya, and she loves you more than herself'? Has she a secret
 conscience-prick at sacrificing her daughter to her son? 'You are
@@ -2056,7 +2056,7 @@ Mother writes that 'Dounia can put up with a great deal.' I know that
 very well. I knew that two years and a half ago, and for the last two
 and a half years I have been thinking about it, thinking of just that,
 that 'Dounia can put up with a great deal.' If she could put up with
-Mr. Svidrigaïlov and all the rest of it, she certainly can put up with
+Mr. Svidrigaï¿½lov and all the rest of it, she certainly can put up with
 a great deal. And now mother and she have taken it into their heads
 that she can put up with Mr. Luzhin, who propounds the theory of the
 superiority of wives raised from destitution and owing everything to
@@ -2069,7 +2069,7 @@ live on black bread and water, she would not sell her soul, she would
 not barter her moral freedom for comfort; she would not barter it for
 all Schleswig-Holstein, much less Mr. Luzhin's money. No, Dounia was
 not that sort when I knew her and . . . she is still the same, of
-course! Yes, there's no denying, the Svidrigaïlovs are a bitter pill!
+course! Yes, there's no denying, the Svidrigaï¿½lovs are a bitter pill!
 It's a bitter thing to spend one's life a governess in the provinces
 for two hundred roubles, but I know she would rather be a nigger on a
 plantation or a Lett with a German master than degrade her soul, and
@@ -2127,8 +2127,8 @@ will devote to them /when you have finished your studies and obtained
 a post/? Yes, we have heard all that before, and that's all /words/,
 but now? Now something must be done, now, do you understand that? And
 what are you doing now? You are living upon them. They borrow on their
-hundred roubles pension. They borrow from the Svidrigaïlovs. How are
-you going to save them from Svidrigaïlovs, from Afanasy Ivanovitch
+hundred roubles pension. They borrow from the Svidrigaï¿½lovs. How are
+you going to save them from Svidrigaï¿½lovs, from Afanasy Ivanovitch
 Vahrushin, oh, future millionaire Zeus who would arrange their lives
 for them? In another ten years? In another ten years, mother will be
 blind with knitting shawls, maybe with weeping too. She will be worn
@@ -2218,7 +2218,7 @@ colour, red lips and moustaches. Raskolnikov felt furious; he had a
 sudden longing to insult this fat dandy in some way. He left the girl
 for a moment and walked towards the gentleman.
 
-"Hey! You Svidrigaïlov! What do you want here?" he shouted, clenching
+"Hey! You Svidrigaï¿½lov! What do you want here?" he shouted, clenching
 his fists and laughing, spluttering with rage.
 
 "What do you mean?" the gentleman asked sternly, scowling in haughty
@@ -2569,7 +2569,7 @@ were stuck in the mud or in a rut. And the peasants would beat them so
 cruelly, sometimes even about the nose and eyes, and he felt so sorry,
 so sorry for them that he almost cried, and his mother always used to
 take him away from the window. All of a sudden there was a great
-uproar of shouting, singing and the balalaïka, and from the tavern a
+uproar of shouting, singing and the balalaï¿½ka, and from the tavern a
 number of big and very drunken peasants came out, wearing red and blue
 shirts and coats thrown over their shoulders.
 
@@ -5977,7 +5977,7 @@ pawnbroker and a receiver of stolen goods, and he did not cheat
 Nikolay out of a thirty-rouble trinket in order to give it to the
 police. He was simply afraid. But no matter, to return to Dushkin's
 story. 'I've known this peasant, Nikolay Dementyev, from a child; he
-comes from the same province and district of Zaraïsk, we are both
+comes from the same province and district of Zaraï¿½sk, we are both
 Ryazan men. And though Nikolay is not a drunkard, he drinks, and I
 knew he had a job in that house, painting work with Dmitri, who comes
 from the same village, too. As soon as he got the rouble he changed
@@ -6325,7 +6325,7 @@ assured that you were in full possession of the tidings; but now, to
 my astonishment . . ."
 
 "I know, I know!" Raskolnikov cried suddenly with impatient vexation.
-"So you are the /fiancé/? I know, and that's enough!"
+"So you are the /fiancï¿½/? I know, and that's enough!"
 
 There was no doubt about Pyotr Petrovitch's being offended this time,
 but he said nothing. He made a violent effort to understand what it
@@ -6337,14 +6337,14 @@ as though he had not had a good look at him yet, or as though
 something new had struck him; he rose from his pillow on purpose to
 stare at him. There certainly was something peculiar in Pyotr
 Petrovitch's whole appearance, something which seemed to justify the
-title of "fiancé" so unceremoniously applied to him. In the first
+title of "fiancï¿½" so unceremoniously applied to him. In the first
 place, it was evident, far too much so indeed, that Pyotr Petrovitch
 had made eager use of his few days in the capital to get himself up
 and rig himself out in expectation of his betrothed--a perfectly
 innocent and permissible proceeding, indeed. Even his own, perhaps too
 complacent, consciousness of the agreeable improvement in his
 appearance might have been forgiven in such circumstances, seeing that
-Pyotr Petrovitch had taken up the rôle of fiancé. All his clothes were
+Pyotr Petrovitch had taken up the rï¿½le of fiancï¿½. All his clothes were
 fresh from the tailor's and were all right, except for being too new
 and too distinctly appropriate. Even the stylish new round hat had the
 same significance. Pyotr Petrovitch treated it too respectfully and
@@ -6626,7 +6626,7 @@ suppose . . ."
 
 "And is it true," Raskolnikov interposed once more suddenly, again in
 a voice quivering with fury and delight in insulting him, "is it true
-that you told your /fiancée/ . . . within an hour of her acceptance,
+that you told your /fiancï¿½e/ . . . within an hour of her acceptance,
 that what pleased you most . . . was that she was a beggar . . .
 because it was better to raise a wife from poverty, so that you may
 have complete control over her, and reproach her with your being her
@@ -6809,7 +6809,7 @@ glancing superciliously at Raskolnikov.
 
 "What he was christened."
 
-"Aren't you a Zaraïsky man, too? Which province?"
+"Aren't you a Zaraï¿½sky man, too? Which province?"
 
 The young man looked at Raskolnikov again.
 
@@ -7253,7 +7253,7 @@ waiter, getting up and taking his cap, "how much?"
 held out his shaking hand to Zametov with notes in it. "Red notes and
 blue, twenty-five roubles. Where did I get them? And where did my new
 clothes come from? You know I had not a copeck. You've cross-examined
-my landlady, I'll be bound. . . . Well, that's enough! /Assez causé!/
+my landlady, I'll be bound. . . . Well, that's enough! /Assez causï¿½!/
 Till we meet again!"
 
 He went out, trembling all over from a sort of wild hysterical
@@ -8197,7 +8197,7 @@ earnestness, and her smile became graver.
 "And will you love me?"
 
 By way of answer he saw the little girl's face approaching him, her
-full lips naïvely held out to kiss him. Suddenly her arms as thin as
+full lips naï¿½vely held out to kiss him. Suddenly her arms as thin as
 sticks held him tightly, her head rested on his shoulder and the
 little girl wept softly, pressing her face against him.
 
@@ -8747,7 +8747,7 @@ that alone Rodya was right in driving your Pyotr Petrovitch away.
 . . . How dare he! how dare he put you in such lodgings! It's a
 scandal! Do you know the sort of people they take in here? And you his
 betrothed! You are his betrothed? Yes? Well, then, I'll tell you, your
-/fiancé/ is a scoundrel."
+/fiancï¿½/ is a scoundrel."
 
 "Excuse me, Mr. Razumihin, you are forgetting . . ." Pulcheria
 Alexandrovna was beginning.
@@ -8974,7 +8974,7 @@ as long as you sit by her and talk. You're a doctor, too; try curing
 her of something. I swear you won't regret it. She has a piano, and
 you know, I strum a little. I have a song there, a genuine Russian
 one: 'I shed hot tears.' She likes the genuine article--and well, it
-all began with that song; Now you're a regular performer, a /maître/,
+all began with that song; Now you're a regular performer, a /maï¿½tre/,
 a Rubinstein. . . . I assure you, you won't regret it!"
 
 "But have you made her some promise? Something signed? A promise of
@@ -9045,7 +9045,7 @@ accursed yesterday."
 The most awful recollection of the previous day was the way he had
 shown himself "base and mean," not only because he had been drunk, but
 because he had taken advantage of the young girl's position to abuse
-her /fiancé/ in his stupid jealousy, knowing nothing of their mutual
+her /fiancï¿½/ in his stupid jealousy, knowing nothing of their mutual
 relations and obligations and next to nothing of the man himself. And
 what right had he to criticise him in that hasty and unguarded manner?
 Who had asked for his opinion? Was it thinkable that such a creature
@@ -9452,7 +9452,7 @@ there I assure you we shall see at once what's to be done. Besides,
 it's getting late--good heavens, it's past ten," she cried looking at
 a splendid gold enamelled watch which hung round her neck on a thin
 Venetian chain, and looked entirely out of keeping with the rest of
-her dress. "A present from her /fiancé/," thought Razumihin.
+her dress. "A present from her /fiancï¿½/," thought Razumihin.
 
 "We must start, Dounia, we must start," her mother cried in a flutter.
 "He will be thinking we are still angry after yesterday, from our
@@ -9466,7 +9466,7 @@ in people who know how to wear poor clothes. Razumihin looked
 reverently at Dounia and felt proud of escorting her. "The queen who
 mended her stockings in prison," he thought, "must have looked then
 every inch a queen and even more a queen than at sumptuous banquets
-and levées."
+and levï¿½es."
 
 "My God!" exclaimed Pulcheria Alexandrovna, "little did I think that I
 should ever fear seeing my son, my darling, darling Rodya! I am
@@ -9743,7 +9743,7 @@ children, starving . . . nothing in the house . . . there's a
 daughter, too . . . perhaps you'd have given it yourself if you'd seen
 them. But I had no right to do it I admit, especially as I knew how
 you needed the money yourself. To help others one must have the right
-to do it, or else /Crevez, chiens, si vous n'êtes pas contents/." He
+to do it, or else /Crevez, chiens, si vous n'ï¿½tes pas contents/." He
 laughed, "That's right, isn't it, Dounia?"
 
 "No, it's not," answered Dounia firmly.
@@ -9778,7 +9778,7 @@ suddenly blurted out.
 
 "What Marfa Petrovna?"
 
-"Oh, mercy on us--Marfa Petrovna Svidrigaïlov. I wrote you so much
+"Oh, mercy on us--Marfa Petrovna Svidrigaï¿½lov. I wrote you so much
 about her."
 
 "A-a-h! Yes, I remember. . . . So she's dead! Oh, really?" he roused
@@ -9911,7 +9911,7 @@ got, Dounia. But why are you all silent again? I do all the talking."
 
 "I like that sort," said Dounia.
 
-"So it is not a present from her /fiancé/," thought Razumihin, and was
+"So it is not a present from her /fiancï¿½/," thought Razumihin, and was
 unreasonably delighted.
 
 "I thought it was Luzhin's present," observed Raskolnikov.
@@ -10092,7 +10092,7 @@ Can one resent such an expression from Luzhin, as we should if he (he
 pointed to Razumihin) had written it, or Zossimov, or one of us?"
 
 "N-no," answered Dounia, with more animation. "I saw clearly that it
-was too naïvely expressed, and that perhaps he simply has no skill in
+was too naï¿½vely expressed, and that perhaps he simply has no skill in
 writing . . . that is a true criticism, brother. I did not expect,
 indeed . . ."
 
@@ -10106,7 +10106,7 @@ as he writes, of notorious behaviour (whom I saw last night for the
 first time in my life)--but to the widow. In all this I see a too
 hasty desire to slander me and to raise dissension between us. It is
 expressed again in legal jargon, that is to say, with a too obvious
-display of the aim, and with a very naïve eagerness. He is a man of
+display of the aim, and with a very naï¿½ve eagerness. He is a man of
 intelligence, but to act sensibly, intelligence is not enough. It all
 shows the man and . . . I don't think he has a great esteem for you. I
 tell you this simply to warn you, because I sincerely wish for your
@@ -11231,7 +11231,7 @@ worship them (more or less). The first category is always the man of
 the present, the second the man of the future. The first preserve the
 world and people it, the second move the world and lead it to its
 goal. Each class has an equal right to exist. In fact, all have equal
-rights with me--and /vive la guerre éternelle/--till the New
+rights with me--and /vive la guerre ï¿½ternelle/--till the New
 Jerusalem, of course!"
 
 "Then you believe in the New Jerusalem, do you?"
@@ -11823,7 +11823,7 @@ simply couldn't pass by my mother starving, keeping my rouble in my
 pocket while I waited for the 'happiness of all.' I am putting my
 little brick into the happiness of all and so my heart is at peace.
 Ha-ha! Why have you let me slip? I only live once, I too want. . . .
-Ech, I am an æsthetic louse and nothing more," he added suddenly,
+Ech, I am an ï¿½sthetic louse and nothing more," he added suddenly,
 laughing like a madman. "Yes, I am certainly a louse," he went on,
 clutching at the idea, gloating over it and playing with it with
 vindictive pleasure. "In the first place, because I can reason that I
@@ -11964,7 +11964,7 @@ sofa.
 "Come, tell me what you want."
 
 "I knew you were not asleep, but only pretending," the stranger
-answered oddly, laughing calmly. "Arkady Ivanovitch Svidrigaïlov,
+answered oddly, laughing calmly. "Arkady Ivanovitch Svidrigaï¿½lov,
 allow me to introduce myself. . . ."
 
 
@@ -11980,7 +11980,7 @@ CHAPTER I
 
 He looked carefully and suspiciously at the unexpected visitor.
 
-"Svidrigaïlov! What nonsense! It can't be!" he said at last aloud in
+"Svidrigaï¿½lov! What nonsense! It can't be!" he said at last aloud in
 bewilderment.
 
 His visitor did not seem at all surprised at this exclamation.
@@ -12025,7 +12025,7 @@ anyone!"
 don't want to have anything to do with you. We show you the door. Go
 out!"
 
-Svidrigaïlov broke into a sudden laugh.
+Svidrigaï¿½lov broke into a sudden laugh.
 
 "But you're . . . but there's no getting round you," he said, laughing
 in the frankest way. "I hoped to get round you, but you took up the
@@ -12033,7 +12033,7 @@ right line at once!"
 
 "But you are trying to get round me still!"
 
-"What of it? What of it?" cried Svidrigaïlov, laughing openly. "But
+"What of it? What of it?" cried Svidrigaï¿½lov, laughing openly. "But
 this is what the French call /bonne guerre/, and the most innocent
 form of deception! . . . But still you have interrupted me; one way or
 another, I repeat again: there would never have been any
@@ -12082,7 +12082,7 @@ prudence made him linger for a moment.
 
 "You are fond of fighting?" he asked carelessly.
 
-"No, not very," Svidrigaïlov answered, calmly. "And Marfa Petrovna and
+"No, not very," Svidrigaï¿½lov answered, calmly. "And Marfa Petrovna and
 I scarcely ever fought. We lived very harmoniously, and she was always
 pleased with me. I only used the whip twice in all our seven years
 (not counting a third occasion of a very ambiguous character). The
@@ -12104,7 +12104,7 @@ don't believe there is a progressive who could quite answer for
 himself. No one looked at the subject from that point of view then,
 but that's the truly humane point of view, I assure you."
 
-After saying this, Svidrigaïlov broke into a sudden laugh again.
+After saying this, Svidrigaï¿½lov broke into a sudden laugh again.
 Raskolnikov saw clearly that this was a man with a firm purpose in his
 mind and able to keep it to himself.
 
@@ -12136,7 +12136,7 @@ Raskolnikov looked gloomily at him.
 you are a man of very good breeding, or at least know how on occasion
 to behave like one."
 
-"I am not particularly interested in anyone's opinion," Svidrigaïlov
+"I am not particularly interested in anyone's opinion," Svidrigaï¿½lov
 answered, dryly and even with a shade of haughtiness, "and therefore
 why not be vulgar at times when vulgarity is such a convenient cloak
 for our climate . . . and especially if one has a natural propensity
@@ -12146,7 +12146,7 @@ that way," he added, laughing again.
 without connections.' What can you want with me, then, unless you've
 some special object?"
 
-"That's true that I have friends here," Svidrigaïlov admitted, not
+"That's true that I have friends here," Svidrigaï¿½lov admitted, not
 replying to the chief point. "I've met some already. I've been
 lounging about for the last three days, and I've seen them, or they've
 seen me. That's a matter of course. I am well dressed and reckoned not
@@ -12200,12 +12200,12 @@ passengers at a fee. Is it true?"
 
 "Why, would you go up?"
 
-"I . . . No, oh, no," muttered Svidrigaïlov really seeming to be deep
+"I . . . No, oh, no," muttered Svidrigaï¿½lov really seeming to be deep
 in thought.
 
 "What does he mean? Is he in earnest?" Raskolnikov wondered.
 
-"No, the document didn't restrain me," Svidrigaïlov went on,
+"No, the document didn't restrain me," Svidrigaï¿½lov went on,
 meditatively. "It was my own doing, not leaving the country, and
 nearly a year ago Marfa Petrovna gave me back the document on my name-
 day and made me a present of a considerable sum of money, too. She had
@@ -12230,7 +12230,7 @@ believe in ghosts?"
 
 "Do you see them, then?"
 
-Svidrigaïlov looked at him rather oddly.
+Svidrigaï¿½lov looked at him rather oddly.
 
 "Marfa Petrovna is pleased to visit me," he said, twisting his mouth
 into a strange smile.
@@ -12255,7 +12255,7 @@ you?" Raskolnikov said suddenly.
 At the same moment he was surprised at having said it. He was much
 excited.
 
-"What! Did you think so?" Svidrigaïlov asked in astonishment. "Did you
+"What! Did you think so?" Svidrigaï¿½lov asked in astonishment. "Did you
 really? Didn't I say that there was something in common between us,
 eh?"
 
@@ -12271,7 +12271,7 @@ shut, pretending, I said to myself at once, 'Here's the man.'"
 "What do you mean by 'the man?' What are you talking about?" cried
 Raskolnikov.
 
-"What do I mean? I really don't know. . . ." Svidrigaïlov muttered
+"What do I mean? I really don't know. . . ." Svidrigaï¿½lov muttered
 ingenuously, as though he, too, were puzzled.
 
 For a minute they were silent. They stared in each other's faces.
@@ -12313,7 +12313,7 @@ out and her train seemed to rustle. Isn't it nonsense, eh?"
 
 "But perhaps you are telling lies?" Raskolnikov put in.
 
-"I rarely lie," answered Svidrigaïlov thoughtfully, apparently not
+"I rarely lie," answered Svidrigaï¿½lov thoughtfully, apparently not
 noticing the rudeness of the question.
 
 "And in the past, have you ever seen ghosts before?"
@@ -12336,7 +12336,7 @@ believe that they exist."
 
 "No, I won't believe it!" Raskolnikov cried, with positive anger.
 
-"What do people generally say?" muttered Svidrigaïlov, as though
+"What do people generally say?" muttered Svidrigaï¿½lov, as though
 speaking to himself, looking aside and bowing his head. "They say,
 'You are ill, so what appears to you is only unreal fantasy.' But
 that's not strictly logical. I agree that ghosts only appear to the
@@ -12345,7 +12345,7 @@ the sick, not that they don't exist."
 
 "Nothing of the sort," Raskolnikov insisted irritably.
 
-"No? You don't think so?" Svidrigaïlov went on, looking at him
+"No? You don't think so?" Svidrigaï¿½lov went on, looking at him
 deliberately. "But what do you say to this argument (help me with it):
 ghosts are, as it were, shreds and fragments of other worlds, the
 beginning of them. A man in health has, of course, no reason to see
@@ -12360,7 +12360,7 @@ future life, you could believe in that, too."
 
 "I don't believe in a future life," said Raskolnikov.
 
-Svidrigaïlov sat lost in thought.
+Svidrigaï¿½lov sat lost in thought.
 
 "And what if there are only spiders there, or something of that sort,"
 he said suddenly.
@@ -12377,11 +12377,11 @@ sometimes fancy it like that."
 that?" Raskolnikov cried, with a feeling of anguish.
 
 "Juster? And how can we tell, perhaps that is just, and do you know
-it's what I would certainly have made it," answered Svidrigaïlov, with
+it's what I would certainly have made it," answered Svidrigaï¿½lov, with
 a vague smile.
 
 This horrible answer sent a cold chill through Raskolnikov.
-Svidrigaïlov raised his head, looked at him, and suddenly began
+Svidrigaï¿½lov raised his head, looked at him, and suddenly began
 laughing.
 
 "Only think," he cried, "half an hour ago we had never seen each
@@ -12398,7 +12398,7 @@ to be married to Mr. Luzhin, Pyotr Petrovitch?"
 
 "Can you refrain from any question about my sister and from mentioning
 her name? I can't understand how you dare utter her name in my
-presence, if you really are Svidrigaïlov."
+presence, if you really are Svidrigaï¿½lov."
 
 "Why, but I've come here to speak about her; how can I avoid
 mentioning her?"
@@ -12415,7 +12415,7 @@ you would be very glad if the match could be broken off without the
 sacrifice of worldly advantages. Now I know you personally, I am
 convinced of it."
 
-"All this is very naïve . . . excuse me, I should have said impudent
+"All this is very naï¿½ve . . . excuse me, I should have said impudent
 on your part," said Raskolnikov.
 
 "You mean to say that I am seeking my own ends. Don't be uneasy,
@@ -12482,7 +12482,7 @@ conclusion, let me say that in marrying Mr. Luzhin, she is taking
 money just the same, only from another man. Don't be angry, Rodion
 Romanovitch, think it over coolly and quietly."
 
-Svidrigaïlov himself was exceedingly cool and quiet as he was saying
+Svidrigaï¿½lov himself was exceedingly cool and quiet as he was saying
 this.
 
 "I beg you to say no more," said Raskolnikov. "In any case this is
@@ -12517,7 +12517,7 @@ friends."
 
 "You think we may become friends?"
 
-"And why not?" Svidrigaïlov said, smiling. He stood up and took his
+"And why not?" Svidrigaï¿½lov said, smiling. He stood up and took his
 hat. "I didn't quite intend to disturb you and I came here without
 reckoning on it . . . though I was very much struck by your face this
 morning."
@@ -12562,7 +12562,7 @@ to receive the money in two or three weeks."
 
 "Yes, tell her. Well, your servant. I am staying very near you."
 
-As he went out, Svidrigaïlov ran up against Razumihin in the doorway.
+As he went out, Svidrigaï¿½lov ran up against Razumihin in the doorway.
 
 
 
@@ -12574,7 +12574,7 @@ to arrive before Luzhin.
 "Why, who was that?" asked Razumihin, as soon as they were in the
 street.
 
-"It was Svidrigaïlov, that landowner in whose house my sister was
+"It was Svidrigaï¿½lov, that landowner in whose house my sister was
 insulted when she was their governess. Through his persecuting her
 with his attentions, she was turned out by his wife, Marfa Petrovna.
 This Marfa Petrovna begged Dounia's forgiveness afterwards, and she's
@@ -12712,7 +12712,7 @@ her leading item of conversation.
 
 "To be sure, I heard so. I was immediately informed, and I have come
 to make you acquainted with the fact that Arkady Ivanovitch
-Svidrigaïlov set off in haste for Petersburg immediately after his
+Svidrigaï¿½lov set off in haste for Petersburg immediately after his
 wife's funeral. So at least I have excellent authority for believing."
 
 "To Petersburg? here?" Dounia asked in alarm and looked at her mother.
@@ -12761,7 +12761,7 @@ of this?" Dounia asked sternly and emphatically.
 observe that from the legal point of view the case was far from clear.
 There was, and I believe still is, living here a woman called
 Resslich, a foreigner, who lent small sums of money at interest, and
-did other commissions, and with this woman Svidrigaïlov had for a long
+did other commissions, and with this woman Svidrigaï¿½lov had for a long
 while close and mysterious relations. She had a relation, a niece I
 believe, living with her, a deaf and dumb girl of fifteen, or perhaps
 not more than fourteen. Resslich hated this girl, and grudged her
@@ -12769,7 +12769,7 @@ every crust; she used to beat her mercilessly. One day the girl was
 found hanging in the garret. At the inquest the verdict was suicide.
 After the usual proceedings the matter ended, but, later on,
 information was given that the child had been . . . cruelly outraged
-by Svidrigaïlov. It is true, this was not clearly established, the
+by Svidrigaï¿½lov. It is true, this was not clearly established, the
 information was given by another German woman of loose character whose
 word could not be trusted; no statement was actually made to the
 police, thanks to Marfa Petrovna's money and exertions; it did not get
@@ -12782,12 +12782,12 @@ before the abolition of serfdom."
 
 "Quite so, but what drove him, or rather perhaps disposed him, to
 suicide was the systematic persecution and severity of Mr.
-Svidrigaïlov."
+Svidrigaï¿½lov."
 
 "I don't know that," answered Dounia, dryly. "I only heard a queer
 story that Philip was a sort of hypochondriac, a sort of domestic
 philosopher, the servants used to say, 'he read himself silly,' and
-that he hanged himself partly on account of Mr. Svidrigaïlov's mockery
+that he hanged himself partly on account of Mr. Svidrigaï¿½lov's mockery
 of him and not his blows. When I was there he behaved well to the
 servants, and they were actually fond of him, though they certainly
 did blame him for Philip's death."
@@ -12807,7 +12807,7 @@ sufficiency, something insignificant and ephemeral, which would not
 last a year for a man of his habits."
 
 "Pyotr Petrovitch, I beg you," said Dounia, "say no more of Mr.
-Svidrigaïlov. It makes me miserable."
+Svidrigaï¿½lov. It makes me miserable."
 
 "He has just been to see me," said Raskolnikov, breaking his silence
 for the first time.
@@ -12860,7 +12860,7 @@ explanation with mother."
 impressively, sitting down again, but still holding his hat. "I
 certainly desired an explanation with you and your honoured mother
 upon a very important point indeed. But as your brother cannot speak
-openly in my presence of some proposals of Mr. Svidrigaïlov, I, too,
+openly in my presence of some proposals of Mr. Svidrigaï¿½lov, I, too,
 do not desire and am not able to speak openly . . . in the presence of
 others . . . of certain matters of the greatest gravity. Moreover, my
 most weighty and urgent request has been disregarded. . . ."
@@ -13027,7 +13027,7 @@ reckoning on our helplessness," Dounia observed irritably.
 
 "But now in any case I cannot reckon on it, and I particularly desire
 not to hinder your discussion of the secret proposals of Arkady
-Ivanovitch Svidrigaïlov, which he has entrusted to your brother and
+Ivanovitch Svidrigaï¿½lov, which he has entrusted to your brother and
 which have, I perceive, a great and possibly a very agreeable interest
 for you."
 
@@ -13175,7 +13175,7 @@ right, smoothed over, settled. Above all he must crush that conceited
 milksop who was the cause of it all. With a sick feeling he could not
 help recalling Razumihin too, but, he soon reassured himself on that
 score; as though a fellow like that could be put on a level with him!
-The man he really dreaded in earnest was Svidrigaïlov. . . . He had,
+The man he really dreaded in earnest was Svidrigaï¿½lov. . . . He had,
 in short, a great deal to attend to. . . .
 
 *****
@@ -13204,7 +13204,7 @@ getting rid of Luzhin, he seemed now the least concerned at what had
 happened. Dounia could not help thinking that he was still angry with
 her, and Pulcheria Alexandrovna watched him timidly.
 
-"What did Svidrigaïlov say to you?" said Dounia, approaching him.
+"What did Svidrigaï¿½lov say to you?" said Dounia, approaching him.
 
 "Yes, yes!" cried Pulcheria Alexandrovna.
 
@@ -13217,7 +13217,7 @@ to see you once in my presence."
 he offer her money!"
 
 Then Raskolnikov repeated (rather dryly) his conversation with
-Svidrigaïlov, omitting his account of the ghostly visitations of Marfa
+Svidrigaï¿½lov, omitting his account of the ghostly visitations of Marfa
 Petrovna, wishing to avoid all unnecessary talk.
 
 "What answer did you give him?" asked Dounia.
@@ -13248,7 +13248,7 @@ Rodya, this morning we had only three roubles in our pocket and Dounia
 and I were just planning to pawn her watch, so as to avoid borrowing
 from that man until he offered help."
 
-Dounia seemed strangely impressed by Svidrigaïlov's offer. She still
+Dounia seemed strangely impressed by Svidrigaï¿½lov's offer. She still
 stood meditating.
 
 "He has got some terrible plan," she said in a half whisper to
@@ -14244,7 +14244,7 @@ On the other side of the door on the right, which divided Sonia's room
 from Madame Resslich's flat, was a room which had long stood empty. A
 card was fixed on the gate and a notice stuck in the windows over the
 canal advertising it to let. Sonia had long been accustomed to the
-room's being uninhabited. But all that time Mr. Svidrigaïlov had been
+room's being uninhabited. But all that time Mr. Svidrigaï¿½lov had been
 standing, listening at the door of the empty room. When Raskolnikov
 went out he stood still, thought a moment, went on tiptoe to his own
 room which adjoined the empty one, brought a chair and noiselessly
@@ -15208,7 +15208,7 @@ least, he was free and must do something for himself, for the danger
 was imminent.
 
 But how imminent? His position gradually became clear to him.
-Remembering, sketchily, the main outlines of his recent scene with
+Remembering, sketchily, the Indexer.main outlines of his recent scene with
 Porfiry, he could not help shuddering again with horror. Of course, he
 did not yet know all Porfiry's aims, he could not see into all his
 calculations. But he had already partly shown his hand, and no one
@@ -15499,7 +15499,7 @@ and get round them if they really were powerful? Was this the thing to
 do or not? Couldn't he gain something through them? In fact hundreds
 of questions presented themselves.
 
-Andrey Semyonovitch was an anæmic, scrofulous little man, with
+Andrey Semyonovitch was an anï¿½mic, scrofulous little man, with
 strangely flaxen mutton-chop whiskers of which he was very proud. He
 was a clerk and had almost always something wrong with his eyes. He
 was rather soft-hearted, but self-confident and sometimes extremely
@@ -15685,9 +15685,9 @@ here anyway!"
 "Have you asked her to join your community?"
 
 "You keep on laughing and very inappropriately, allow me to tell you.
-You don't understand! There is no such rôle in a community. The
-community is established that there should be no such rôles. In a
-community, such a rôle is essentially transformed and what is stupid
+You don't understand! There is no such rï¿½le in a community. The
+community is established that there should be no such rï¿½les. In a
+community, such a rï¿½le is essentially transformed and what is stupid
 here is sensible there, what, under present conditions, is unnatural
 becomes perfectly natural in the community. It all depends on the
 environment. It's all the environment and man himself is nothing. And
@@ -16250,7 +16250,7 @@ come? But where's Sonia? Where has she gone? Ah, there she is at last!
 what is it, Sonia, where have you been? It's odd that even at your
 father's funeral you should be so unpunctual. Rodion Romanovitch, make
 room for her beside you. That's your place, Sonia . . . take what you
-like. Have some of the cold entrée with jelly, that's the best.
+like. Have some of the cold entrï¿½e with jelly, that's the best.
 They'll bring the pancakes directly. Have they given the children
 some? Polenka, have you got everything? (Cough-cough-cough.) That's
 all right. Be a good girl, Lida, and, Kolya, don't fidget with your
@@ -16443,7 +16443,7 @@ At that moment, Amalia Ivanovna, deeply aggrieved at taking no part in
 the conversation, and not being listened to, made one last effort, and
 with secret misgivings ventured on an exceedingly deep and weighty
 observation, that "in the future boarding-school she would have to pay
-particular attention to /die Wäsche/, and that there certainly must be
+particular attention to /die Wï¿½sche/, and that there certainly must be
 a good /dame/ to look after the linen, and secondly that the young
 ladies must not novels at night read."
 
@@ -16451,7 +16451,7 @@ Katerina Ivanovna, who certainly was upset and very tired, as well as
 heartily sick of the dinner, at once cut short Amalia Ivanovna, saying
 "she knew nothing about it and was talking nonsense, that it was the
 business of the laundry maid, and not of the directress of a high-
-class boarding-school to look after /die Wäsche/, and as for novel-
+class boarding-school to look after /die Wï¿½sche/, and as for novel-
 reading, that was simply rudeness, and she begged her to be silent."
 Amalia Ivanovna fired up and getting angry observed that she only
 "meant her good," and that "she had meant her very good," and that "it
@@ -17530,7 +17530,7 @@ He looked at her with anguish.
 conclusion. "Yes, that's what it was! I wanted to become a Napoleon,
 that is why I killed her. . . . Do you understand now?"
 
-"N-no," Sonia whispered naïvely and timidly. "Only speak, speak, I
+"N-no," Sonia whispered naï¿½vely and timidly. "Only speak, speak, I
 shall understand, I shall understand /in myself/!" she kept begging
 him.
 
@@ -18157,7 +18157,7 @@ What, only two farthings! Oh, the mean wretches! They give us nothing,
 only run after us, putting their tongues out. There, what is that
 blockhead laughing at?" (She pointed to a man in the crowd.) "It's all
 because Kolya here is so stupid; I have such a bother with him. What
-do you want, Polenka? Tell me in French, /parlez-moi français/. Why,
+do you want, Polenka? Tell me in French, /parlez-moi franï¿½ais/. Why,
 I've taught you, you know some phrases. Else how are you to show that
 you are of good family, well brought-up children, and not at all like
 other organ-grinders? We aren't going to have a Punch and Judy show in
@@ -18302,7 +18302,7 @@ Kapernaumovs' room; the landlord, a lame one-eyed man of strange
 appearance with whiskers and hair that stood up like a brush, his
 wife, a woman with an everlastingly scared expression, and several
 open-mouthed children with wonder-struck faces. Among these,
-Svidrigaïlov suddenly made his appearance. Raskolnikov looked at him
+Svidrigaï¿½lov suddenly made his appearance. Raskolnikov looked at him
 with surprise, not understanding where he had come from and not having
 noticed him in the crowd. A doctor and priest wore spoken of. The
 official whispered to Raskolnikov that he thought it was too late now
@@ -18407,10 +18407,10 @@ He walked away to the window. Lebeziatnikov skipped up to him.
 "She is dead," he said.
 
 "Rodion Romanovitch, I must have two words with you," said
-Svidrigaïlov, coming up to them.
+Svidrigaï¿½lov, coming up to them.
 
 Lebeziatnikov at once made room for him and delicately withdrew.
-Svidrigaïlov drew Raskolnikov further away.
+Svidrigaï¿½lov drew Raskolnikov further away.
 
 "I will undertake all the arrangements, the funeral and that. You know
 it's a question of money and, as I told you, I have plenty to spare. I
@@ -18423,7 +18423,7 @@ her ten thousand."
 
 "What is your motive for such benevolence?" asked Raskolnikov.
 
-"Ah! you sceptical person!" laughed Svidrigaïlov. "I told you I had no
+"Ah! you sceptical person!" laughed Svidrigaï¿½lov. "I told you I had no
 need of that money. Won't you admit that it's simply done from
 humanity? She wasn't 'a louse,' you know" (he pointed to the corner
 where the dead woman lay), "was she, like some old pawnbroker woman?
@@ -18434,7 +18434,7 @@ way."
 He said this with an air of a sort of gay winking slyness, keeping his
 eyes fixed on Raskolnikov, who turned white and cold, hearing his own
 phrases, spoken to Sonia. He quickly stepped back and looked wildly at
-Svidrigaïlov.
+Svidrigaï¿½lov.
 
 "How do you know?" he whispered, hardly able to breathe.
 
@@ -18444,7 +18444,7 @@ devoted friend of mine. I am a neighbour."
 
 "You?"
 
-"Yes," continued Svidrigaïlov, shaking with laughter. "I assure you on
+"Yes," continued Svidrigaï¿½lov, shaking with laughter. "I assure you on
 my honour, dear Rodion Romanovitch, that you have interested me
 enormously. I told you we should become friends, I foretold it. Well,
 here we have. And you will see what an accommodating person I am.
@@ -18480,32 +18480,32 @@ consideration were particularly irksome to him. How glad he would have
 been to be free from some cares, the neglect of which would have
 threatened him with complete, inevitable ruin.
 
-He was particularly worried about Svidrigaïlov, he might be said to be
-permanently thinking of Svidrigaïlov. From the time of Svidrigaïlov's
+He was particularly worried about Svidrigaï¿½lov, he might be said to be
+permanently thinking of Svidrigaï¿½lov. From the time of Svidrigaï¿½lov's
 too menacing and unmistakable words in Sonia's room at the moment of
 Katerina Ivanovna's death, the normal working of his mind seemed to
 break down. But although this new fact caused him extreme uneasiness,
 Raskolnikov was in no hurry for an explanation of it. At times,
 finding himself in a solitary and remote part of the town, in some
 wretched eating-house, sitting alone lost in thought, hardly knowing
-how he had come there, he suddenly thought of Svidrigaïlov. He
+how he had come there, he suddenly thought of Svidrigaï¿½lov. He
 recognised suddenly, clearly, and with dismay that he ought at once to
 come to an understanding with that man and to make what terms he
 could. Walking outside the city gates one day, he positively fancied
 that they had fixed a meeting there, that he was waiting for
-Svidrigaïlov. Another time he woke up before daybreak lying on the
+Svidrigaï¿½lov. Another time he woke up before daybreak lying on the
 ground under some bushes and could not at first understand how he had
 come there.
 
 But during the two or three days after Katerina Ivanovna's death, he
-had two or three times met Svidrigaïlov at Sonia's lodging, where he
+had two or three times met Svidrigaï¿½lov at Sonia's lodging, where he
 had gone aimlessly for a moment. They exchanged a few words and made
 no reference to the vital subject, as though they were tacitly agreed
 not to speak of it for a time.
 
-Katerina Ivanovna's body was still lying in the coffin, Svidrigaïlov
+Katerina Ivanovna's body was still lying in the coffin, Svidrigaï¿½lov
 was busy making arrangements for the funeral. Sonia too was very busy.
-At their last meeting Svidrigaïlov informed Raskolnikov that he had
+At their last meeting Svidrigaï¿½lov informed Raskolnikov that he had
 made an arrangement, and a very satisfactory one, for Katerina
 Ivanovna's children; that he had, through certain connections,
 succeeded in getting hold of certain personages by whose help the
@@ -18517,7 +18517,7 @@ in a day or two to see Raskolnikov, mentioning that "he would like to
 consult with him, that there were things they must talk over. . . ."
 
 This conversation took place in the passage on the stairs.
-Svidrigaïlov looked intently at Raskolnikov and suddenly, after a
+Svidrigaï¿½lov looked intently at Raskolnikov and suddenly, after a
 brief pause, dropping his voice, asked: "But how is it, Rodion
 Romanovitch; you don't seem yourself? You look and you listen, but you
 don't seem to understand. Cheer up! We'll talk things over; I am only
@@ -18527,7 +18527,7 @@ air, fresh air . . . more than anything!"
 
 He moved to one side to make way for the priest and server, who were
 coming up the stairs. They had come for the requiem service. By
-Svidrigaïlov's orders it was sung twice a day punctually. Svidrigaïlov
+Svidrigaï¿½lov's orders it was sung twice a day punctually. Svidrigaï¿½lov
 went his way. Raskolnikov stood still a moment, thought, and followed
 the priest into Sonia's room. He stood at the door. They began
 quietly, slowly and mournfully singing the service. From his childhood
@@ -18568,7 +18568,7 @@ he thought. Yet he felt at once that that was not the only cause of
 his uneasiness; there was something requiring immediate decision, but
 it was something he could not clearly understand or put into words. It
 was a hopeless tangle. "No, better the struggle again! Better Porfiry
-again . . . or Svidrigaïlov. . . . Better some challenge again . . .
+again . . . or Svidrigaï¿½lov. . . . Better some challenge again . . .
 some attack. Yes, yes!" he thought. He went out of the tavern and
 rushed away almost at a run. The thought of Dounia and his mother
 suddenly reduced him almost to a panic. That night he woke up before
@@ -18805,16 +18805,16 @@ fundamentally! And he had agreed at the time with Sonia, he had agreed
 in his heart he could not go on living alone with such a thing on his
 mind!
 
-"And Svidrigaïlov was a riddle . . . He worried him, that was true,
+"And Svidrigaï¿½lov was a riddle . . . He worried him, that was true,
 but somehow not on the same point. He might still have a struggle to
-come with Svidrigaïlov. Svidrigaïlov, too, might be a means of escape;
+come with Svidrigaï¿½lov. Svidrigaï¿½lov, too, might be a means of escape;
 but Porfiry was a different matter.
 
 "And so Porfiry himself had explained it to Razumihin, had explained
 it /psychologically/. He had begun bringing in his damned psychology
 again! Porfiry? But to think that Porfiry should for one moment
 believe that Nikolay was guilty, after what had passed between them
-before Nikolay's appearance, after that tête-à-tête interview, which
+before Nikolay's appearance, after that tï¿½te-ï¿½-tï¿½te interview, which
 could have only /one/ explanation? (During those days Raskolnikov had
 often recalled passages in that scene with Porfiry; he could not bear
 to let his mind rest on it.) Such words, such gestures had passed
@@ -18834,11 +18834,11 @@ sign. . . ."
 
 Raskolnikov took his cap and went out of the room, still pondering. It
 was the first time for a long while that he had felt clear in his
-mind, at least. "I must settle Svidrigaïlov," he thought, "and as soon
+mind, at least. "I must settle Svidrigaï¿½lov," he thought, "and as soon
 as possible; he, too, seems to be waiting for me to come to him of my
 own accord." And at that moment there was such a rush of hate in his
 weary heart that he might have killed either of those two--Porfiry or
-Svidrigaïlov. At least he felt that he would be capable of doing it
+Svidrigaï¿½lov. At least he felt that he would be capable of doing it
 later, if not now.
 
 "We shall see, we shall see," he repeated to himself.
@@ -19076,7 +19076,7 @@ believe in the thunderbolt, not for a minute. You could see it for
 yourself; and how could I? Even afterwards, when you had gone and he
 began making very, very plausible answers on certain points, so that I
 was surprised at him myself, even then I didn't believe his story! You
-see what it is to be as firm as a rock! No, thought I, /Morgenfrüh/.
+see what it is to be as firm as a rock! No, thought I, /Morgenfrï¿½h/.
 What has Nikolay got to do with it!"
 
 "Razumihin told me just now that you think Nikolay guilty and had
@@ -19431,11 +19431,11 @@ too went hurriedly out of the room.
 
 CHAPTER III
 
-He hurried to Svidrigaïlov's. What he had to hope from that man he did
+He hurried to Svidrigaï¿½lov's. What he had to hope from that man he did
 not know. But that man had some hidden power over him. Having once
 recognised this, he could not rest, and now the time had come.
 
-On the way, one question particularly worried him: had Svidrigaïlov
+On the way, one question particularly worried him: had Svidrigaï¿½lov
 been to Porfiry's?
 
 As far as he could judge, he would swear to it, that he had not. He
@@ -19455,22 +19455,22 @@ done of late.
 
 And was it worth while, after all that had happened, to contend with
 these new trivial difficulties? Was it worth while, for instance, to
-manœuvre that Svidrigaïlov should not go to Porfiry's? Was it worth
+manï¿½uvre that Svidrigaï¿½lov should not go to Porfiry's? Was it worth
 while to investigate, to ascertain the facts, to waste time over
-anyone like Svidrigaïlov?
+anyone like Svidrigaï¿½lov?
 
 Oh, how sick he was of it all!
 
-And yet he was hastening to Svidrigaïlov; could he be expecting
+And yet he was hastening to Svidrigaï¿½lov; could he be expecting
 something /new/ from him, information, or means of escape? Men will
 catch at straws! Was it destiny or some instinct bringing them
 together? Perhaps it was only fatigue, despair; perhaps it was not
-Svidrigaïlov but some other whom he needed, and Svidrigaïlov had
+Svidrigaï¿½lov but some other whom he needed, and Svidrigaï¿½lov had
 simply presented himself by chance. Sonia? But what should he go to
 Sonia for now? To beg her tears again? He was afraid of Sonia, too.
 Sonia stood before him as an irrevocable sentence. He must go his own
 way or hers. At that moment especially he did not feel equal to seeing
-her. No, would it not be better to try Svidrigaïlov? And he could not
+her. No, would it not be better to try Svidrigaï¿½lov? And he could not
 help inwardly owning that he had long felt that he must see him for
 some reason.
 
@@ -19484,14 +19484,14 @@ meant? The man always had some design, some project.
 There was another thought which had been continually hovering of late
 about Raskolnikov's mind, and causing him great uneasiness. It was so
 painful that he made distinct efforts to get rid of it. He sometimes
-thought that Svidrigaïlov was dogging his footsteps. Svidrigaïlov had
+thought that Svidrigaï¿½lov was dogging his footsteps. Svidrigaï¿½lov had
 found out his secret and had had designs on Dounia. What if he had
 them still? Wasn't it practically certain that he had? And what if,
 having learnt his secret and so having gained power over him, he were
 to use it as a weapon against Dounia?
 
 This idea sometimes even tormented his dreams, but it had never
-presented itself so vividly to him as on his way to Svidrigaïlov. The
+presented itself so vividly to him as on his way to Svidrigaï¿½lov. The
 very thought moved him to gloomy rage. To begin with, this would
 transform everything, even his own position; he would have at once to
 confess his secret to Dounia. Would he have to give himself up perhaps
@@ -19501,10 +19501,10 @@ Petersburg? Luzhin, perhaps? It's true Razumihin was there to protect
 her, but Razumihin knew nothing of the position. Perhaps it was his
 duty to tell Razumihin? He thought of it with repugnance.
 
-In any case he must see Svidrigaïlov as soon as possible, he decided
+In any case he must see Svidrigaï¿½lov as soon as possible, he decided
 finally. Thank God, the details of the interview were of little
 consequence, if only he could get at the root of the matter; but if
-Svidrigaïlov were capable . . . if he were intriguing against Dounia--
+Svidrigaï¿½lov were capable . . . if he were intriguing against Dounia--
 then . . .
 
 Raskolnikov was so exhausted by what he had passed through that month
@@ -19521,31 +19521,31 @@ rooms were full to overflowing. There were sounds of singing, of
 clarionet and violin, and the boom of a Turkish drum. He could hear
 women shrieking. He was about to turn back wondering why he had come
 to the X. Prospect, when suddenly at one of the end windows he saw
-Svidrigaïlov, sitting at a tea-table right in the open window with a
+Svidrigaï¿½lov, sitting at a tea-table right in the open window with a
 pipe in his mouth. Raskolnikov was dreadfully taken aback, almost
-terrified. Svidrigaïlov was silently watching and scrutinising him
+terrified. Svidrigaï¿½lov was silently watching and scrutinising him
 and, what struck Raskolnikov at once, seemed to be meaning to get up
 and slip away unobserved. Raskolnikov at once pretended not to have
 seen him, but to be looking absent-mindedly away, while he watched him
 out of the corner of his eye. His heart was beating violently. Yet, it
-was evident that Svidrigaïlov did not want to be seen. He took the
+was evident that Svidrigaï¿½lov did not want to be seen. He took the
 pipe out of his mouth and was on the point of concealing himself, but
 as he got up and moved back his chair, he seemed to have become
 suddenly aware that Raskolnikov had seen him, and was watching him.
 What had passed between them was much the same as what happened at
 their first meeting in Raskolnikov's room. A sly smile came into
-Svidrigaïlov's face and grew broader and broader. Each knew that he
-was seen and watched by the other. At last Svidrigaïlov broke into a
+Svidrigaï¿½lov's face and grew broader and broader. Each knew that he
+was seen and watched by the other. At last Svidrigaï¿½lov broke into a
 loud laugh.
 
 "Well, well, come in if you want me; I am here!" he shouted from the
 window.
 
-Raskolnikov went up into the tavern. He found Svidrigaïlov in a tiny
+Raskolnikov went up into the tavern. He found Svidrigaï¿½lov in a tiny
 back room, adjoining the saloon in which merchants, clerks and numbers
 of people of all sorts were drinking tea at twenty little tables to
 the desperate bawling of a chorus of singers. The click of billiard
-balls could be heard in the distance. On the table before Svidrigaïlov
+balls could be heard in the distance. On the table before Svidrigaï¿½lov
 stood an open bottle and a glass half full of champagne. In the room
 he found also a boy with a little hand organ, a healthy-looking red-
 cheeked girl of eighteen, wearing a tucked-up striped skirt, and a
@@ -19553,12 +19553,12 @@ Tyrolese hat with ribbons. In spite of the chorus in the other room,
 she was singing some servants' hall song in a rather husky contralto,
 to the accompaniment of the organ.
 
-"Come, that's enough," Svidrigaïlov stopped her at Raskolnikov's
+"Come, that's enough," Svidrigaï¿½lov stopped her at Raskolnikov's
 entrance. The girl at once broke off and stood waiting respectfully.
 She had sung her guttural rhymes, too, with a serious and respectful
 expression in her face.
 
-"Hey, Philip, a glass!" shouted Svidrigaïlov.
+"Hey, Philip, a glass!" shouted Svidrigaï¿½lov.
 
 "I won't drink anything," said Raskolnikov.
 
@@ -19567,14 +19567,14 @@ anything more to-day, you can go." He poured her out a full glass, and
 laid down a yellow note.
 
 Katia drank off her glass of wine, as women do, without putting it
-down, in twenty gulps, took the note and kissed Svidrigaïlov's hand,
+down, in twenty gulps, took the note and kissed Svidrigaï¿½lov's hand,
 which he allowed quite seriously. She went out of the room and the boy
 trailed after her with the organ. Both had been brought in from the
-street. Svidrigaïlov had not been a week in Petersburg, but everything
+street. Svidrigaï¿½lov had not been a week in Petersburg, but everything
 about him was already, so to speak, on a patriarchal footing; the
 waiter, Philip, was by now an old friend and very obsequious.
 
-The door leading to the saloon had a lock on it. Svidrigaïlov was at
+The door leading to the saloon had a lock on it. Svidrigaï¿½lov was at
 home in this room and perhaps spent whole days in it. The tavern was
 dirty and wretched, not even second-rate.
 
@@ -19588,7 +19588,7 @@ here you are. It is strange!"
 
 "Because it may be only chance."
 
-"Oh, that's the way with all you folk," laughed Svidrigaïlov. "You
+"Oh, that's the way with all you folk," laughed Svidrigaï¿½lov. "You
 won't admit it, even if you do inwardly believe it a miracle! Here you
 say that it may be only chance. And what cowards they all are here,
 about having an opinion of their own, you can't fancy, Rodion
@@ -19597,7 +19597,7 @@ not afraid to have it. That's how it was you attracted my curiosity."
 
 "Nothing else?"
 
-"Well, that's enough, you know," Svidrigaïlov was obviously
+"Well, that's enough, you know," Svidrigaï¿½lov was obviously
 exhilarated, but only slightly so, he had not had more than half a
 glass of wine.
 
@@ -19639,7 +19639,7 @@ and I can't cure you, but, of course, you understand me."
 "Do you know that I am being followed?" asked Raskolnikov, looking
 inquisitively at him.
 
-"No, I know nothing about it," said Svidrigaïlov, seeming surprised.
+"No, I know nothing about it," said Svidrigaï¿½lov, seeming surprised.
 
 "Well, then, let us leave me alone," Raskolnikov muttered, frowning.
 
@@ -19658,13 +19658,13 @@ your doorway? I saw it."
 "And I may have had my reasons, though you don't know them."
 
 Raskolnikov dropped his right elbow on the table, leaned his chin in
-the fingers of his right hand, and stared intently at Svidrigaïlov.
+the fingers of his right hand, and stared intently at Svidrigaï¿½lov.
 For a full minute he scrutinised his face, which had impressed him
 before. It was a strange face, like a mask; white and red, with bright
 red lips, with a flaxen beard, and still thick flaxen hair. His eyes
 were somehow too blue and their expression somehow too heavy and
 fixed. There was something awfully unpleasant in that handsome face,
-which looked so wonderfully young for his age. Svidrigaïlov was
+which looked so wonderfully young for his age. Svidrigaï¿½lov was
 smartly dressed in light summer clothes and was particularly dainty in
 his linen. He wore a huge ring with a precious stone in it.
 
@@ -19682,13 +19682,13 @@ I can keep it. And in the second place if you want to tell me anything
 me--make haste and tell it, for time is precious and very likely it
 will soon be too late."
 
-"Why in such haste?" asked Svidrigaïlov, looking at him curiously.
+"Why in such haste?" asked Svidrigaï¿½lov, looking at him curiously.
 
 "Everyone has his plans," Raskolnikov answered gloomily and
 impatiently.
 
 "You urged me yourself to frankness just now, and at the first
-question you refuse to answer," Svidrigaïlov observed with a smile.
+question you refuse to answer," Svidrigaï¿½lov observed with a smile.
 "You keep fancying that I have aims of my own and so you look at me
 with suspicion. Of course it's perfectly natural in your position. But
 though I should like to be friends with you, I shan't trouble myself
@@ -19706,7 +19706,7 @@ I gathered that you had a great influence over her; isn't that enough?
 Ha-ha-ha! Still I must admit that your question is rather complex, and
 is difficult for me to answer. Here, you, for instance, have come to
 me not only for a definite object, but for the sake of hearing
-something new. Isn't that so? Isn't that so?" persisted Svidrigaïlov
+something new. Isn't that so? Isn't that so?" persisted Svidrigaï¿½lov
 with a sly smile. "Well, can't you fancy then that I, too, on my way
 here in the train was reckoning on you, on your telling me something
 new, and on my making some profit out of you! You see what rich men we
@@ -19762,7 +19762,7 @@ confess that I hastened here for the sake of the women."
 
 "As soon as you buried Marfa Petrovna?"
 
-"Quite so," Svidrigaïlov smiled with engaging candour. "What of it?
+"Quite so," Svidrigaï¿½lov smiled with engaging candour. "What of it?
 You seem to find something wrong in my speaking like that about
 women?"
 
@@ -19795,7 +19795,7 @@ a decent man ought to put up with being bored, but yet . . ."
 
 "And could you shoot yourself?"
 
-"Oh, come!" Svidrigaïlov parried with disgust. "Please don't speak of
+"Oh, come!" Svidrigaï¿½lov parried with disgust. "Please don't speak of
 it," he added hurriedly and with none of the bragging tone he had
 shown in all the previous conversation. His face quite changed. "I
 admit it's an unpardonable weakness, but I can't help it. I am afraid
@@ -19820,7 +19820,7 @@ that affect you? Have you lost the strength to stop yourself?"
 
 "And do you pretend to strength, too? He-he-he! You surprised me just
 now, Rodion Romanovitch, though I knew beforehand it would be so. You
-preach to me about vice and æsthetics! You--a Schiller, you--an
+preach to me about vice and ï¿½sthetics! You--a Schiller, you--an
 idealist! Of course that's all as it should be and it would be
 surprising if it were not so, yet it is strange in reality. . . . Ah,
 what a pity I have no time, for you're a most interesting type! And,
@@ -19828,7 +19828,7 @@ by-the-way, are you fond of Schiller? I am awfully fond of him."
 
 "But what a braggart you are," Raskolnikov said with some disgust.
 
-"Upon my word, I am not," answered Svidrigaïlov laughing. "However, I
+"Upon my word, I am not," answered Svidrigaï¿½lov laughing. "However, I
 won't dispute it, let me be a braggart, why not brag, if it hurts no
 one? I spent seven years in the country with Marfa Petrovna, so now
 when I come across an intelligent person like you--intelligent and
@@ -19840,10 +19840,10 @@ alarm.
 
 Raskolnikov had begun getting up. He felt oppressed and stifled and,
 as it were, ill at ease at having come here. He felt convinced that
-Svidrigaïlov was the most worthless scoundrel on the face of the
+Svidrigaï¿½lov was the most worthless scoundrel on the face of the
 earth.
 
-"A-ach! Sit down, stay a little!" Svidrigaïlov begged. "Let them bring
+"A-ach! Sit down, stay a little!" Svidrigaï¿½lov begged. "Let them bring
 you some tea, anyway. Stay a little, I won't talk nonsense, about
 myself, I mean. I'll tell you something. If you like I'll tell you how
 a woman tried 'to save' me, as you would call it? It will be an answer
@@ -19859,7 +19859,7 @@ Avdotya Romanovna can only excite the deepest respect."
 
 CHAPTER IV
 
-"You know perhaps--yes, I told you myself," began Svidrigaïlov, "that
+"You know perhaps--yes, I told you myself," began Svidrigaï¿½lov, "that
 I was in the debtors' prison here, for an immense sum, and had not any
 expectation of being able to pay it. There's no need to go into
 particulars how Marfa Petrovna bought me out; do you know to what a
@@ -19895,7 +19895,7 @@ rather than in anyone's. Perhaps you have already heard a great deal
 that was ridiculous and absurd about Marfa Petrovna. She certainly had
 some very ridiculous ways, but I tell you frankly that I feel really
 sorry for the innumerable woes of which I was the cause. Well, and
-that's enough, I think, by way of a decorous /oraison funèbre/ for the
+that's enough, I think, by way of a decorous /oraison funï¿½bre/ for the
 most tender wife of a most tender husband. When we quarrelled, I
 usually held my tongue and did not irritate her and that gentlemanly
 conduct rarely failed to attain its object, it influenced her, it
@@ -19923,22 +19923,22 @@ sort already?"
 "I have. Luzhin charged you with having caused the death of a child.
 Is that true?"
 
-"Don't refer to those vulgar tales, I beg," said Svidrigaïlov with
+"Don't refer to those vulgar tales, I beg," said Svidrigaï¿½lov with
 disgust and annoyance. "If you insist on wanting to know about all
 that idiocy, I will tell you one day, but now . . ."
 
 "I was told too about some footman of yours in the country whom you
 treated badly."
 
-"I beg you to drop the subject," Svidrigaïlov interrupted again with
+"I beg you to drop the subject," Svidrigaï¿½lov interrupted again with
 obvious impatience.
 
 "Was that the footman who came to you after death to fill your pipe?
 . . . you told me about it yourself." Raskolnikov felt more and more
 irritated.
 
-Svidrigaïlov looked at him attentively and Raskolnikov fancied he
-caught a flash of spiteful mockery in that look. But Svidrigaïlov
+Svidrigaï¿½lov looked at him attentively and Raskolnikov fancied he
+caught a flash of spiteful mockery in that look. But Svidrigaï¿½lov
 restrained himself and answered very civilly:
 
 "Yes, it was. I see that you, too, are extremely interested and shall
@@ -20057,22 +20057,22 @@ the same thing as I was proposing. Wouldn't it? Wouldn't it? I notice
 that you've begun to be very attentive . . . you interesting young
 man. . . ."
 
-Svidrigaïlov struck the table with his fist impatiently. He was
+Svidrigaï¿½lov struck the table with his fist impatiently. He was
 flushed. Raskolnikov saw clearly that the glass or glass and a half of
 champagne that he had sipped almost unconsciously was affecting him--
 and he resolved to take advantage of the opportunity. He felt very
-suspicious of Svidrigaïlov.
+suspicious of Svidrigaï¿½lov.
 
 "Well, after what you have said, I am fully convinced that you have
 come to Petersburg with designs on my sister," he said directly to
-Svidrigaïlov, in order to irritate him further.
+Svidrigaï¿½lov, in order to irritate him further.
 
-"Oh, nonsense," said Svidrigaïlov, seeming to rouse himself. "Why, I
+"Oh, nonsense," said Svidrigaï¿½lov, seeming to rouse himself. "Why, I
 told you . . . besides your sister can't endure me."
 
 "Yes, I am certain that she can't, but that's not the point."
 
-"Are you so sure that she can't?" Svidrigaïlov screwed up his eyes and
+"Are you so sure that she can't?" Svidrigaï¿½lov screwed up his eyes and
 smiled mockingly. "You are right, she doesn't love me, but you can
 never be sure of what has passed between husband and wife or lover and
 mistress. There's always a little corner which remains a secret to the
@@ -20083,7 +20083,7 @@ Avdotya Romanovna regarded me with aversion?"
 --and of course evil ones--on Dounia and mean to carry them out
 promptly."
 
-"What, have I dropped words like that?" Svidrigaïlov asked in naïve
+"What, have I dropped words like that?" Svidrigaï¿½lov asked in naï¿½ve
 dismay, taking not the slightest notice of the epithet bestowed on his
 designs.
 
@@ -20097,7 +20097,7 @@ I was almost saying too much again. Damn the wine! Hi! there, water!"
 He snatched up the champagne bottle and flung it without ceremony out
 of the window. Philip brought the water.
 
-"That's all nonsense!" said Svidrigaïlov, wetting a towel and putting
+"That's all nonsense!" said Svidrigaï¿½lov, wetting a towel and putting
 it to his head. "But I can answer you in one word and annihilate all
 your suspicions. Do you know that I am going to get married?"
 
@@ -20153,7 +20153,7 @@ knee at once and keep her there. . . . Well, she flushes like a sunset
 and I kiss her every minute. Her mamma of course impresses on her that
 this is her husband and that this must be so. It's simply delicious!
 The present betrothed condition is perhaps better than marriage. Here
-you have what is called /la nature et la vérité/, ha-ha! I've talked
+you have what is called /la nature et la vï¿½ritï¿½/, ha-ha! I've talked
 to her twice, she is far from a fool. Sometimes she steals a look at
 me that positively scorches me. Her face is like Raphael's Madonna.
 You know, the Sistine Madonna's face has something fantastic in it,
@@ -20189,7 +20189,7 @@ ha-ha!"
 . . . though you had your own reasons. . . . I understand it all now."
 
 "I am always fond of children, very fond of them," laughed
-Svidrigaïlov. "I can tell you one curious instance of it. The first
+Svidrigaï¿½lov. "I can tell you one curious instance of it. The first
 day I came here I visited various haunts, after seven years I simply
 rushed at them. You probably notice that I am not in a hurry to renew
 acquaintance with my old friends. I shall do without them as long as I
@@ -20204,7 +20204,7 @@ of its familiar odours. I chanced to be in a frightful den--I like my
 dens dirty--it was a dance, so called, and there was a /cancan/ such
 as I never saw in my day. Yes, there you have progress. All of a
 sudden I saw a little girl of thirteen, nicely dressed, dancing with a
-specialist in that line, with another one /vis-à-vis/. Her mother was
+specialist in that line, with another one /vis-ï¿½-vis/. Her mother was
 sitting on a chair by the wall. You can't fancy what a /cancan/ that
 was! The girl was ashamed, blushed, at last felt insulted, and began
 to cry. Her partner seized her and began whirling her round and
@@ -20238,10 +20238,10 @@ the pleasure of hearing your outcries!"
 "I dare say. I can see I am ridiculous myself," muttered Raskolnikov
 angrily.
 
-Svidrigaïlov laughed heartily; finally he called Philip, paid his
+Svidrigaï¿½lov laughed heartily; finally he called Philip, paid his
 bill, and began getting up.
 
-"I say, but I am drunk, /assez causé/," he said. "It's been a
+"I say, but I am drunk, /assez causï¿½/," he said. "It's been a
 pleasure."
 
 "I should rather think it must be a pleasure!" cried Raskolnikov,
@@ -20250,21 +20250,21 @@ describe such adventures with a monstrous project of the same sort in
 his mind--especially under such circumstances and to such a man as me.
 . . . It's stimulating!"
 
-"Well, if you come to that," Svidrigaïlov answered, scrutinising
+"Well, if you come to that," Svidrigaï¿½lov answered, scrutinising
 Raskolnikov with some surprise, "if you come to that, you are a
 thorough cynic yourself. You've plenty to make you so, anyway. You can
 understand a great deal . . . and you can do a great deal too. But
 enough. I sincerely regret not having had more talk with you, but I
 shan't lose sight of you. . . . Only wait a bit."
 
-Svidrigaïlov walked out of the restaurant. Raskolnikov walked out
-after him. Svidrigaïlov was not however very drunk, the wine had
+Svidrigaï¿½lov walked out of the restaurant. Raskolnikov walked out
+after him. Svidrigaï¿½lov was not however very drunk, the wine had
 affected him for a moment, but it was passing off every minute. He was
 preoccupied with something of importance and was frowning. He was
 apparently excited and uneasy in anticipation of something. His manner
 to Raskolnikov had changed during the last few minutes, and he was
 ruder and more sneering every moment. Raskolnikov noticed all this,
-and he too was uneasy. He became very suspicious of Svidrigaïlov and
+and he too was uneasy. He became very suspicious of Svidrigaï¿½lov and
 resolved to follow him.
 
 They came out on to the pavement.
@@ -20280,7 +20280,7 @@ CHAPTER V
 
 Raskolnikov walked after him.
 
-"What's this?" cried Svidrigaïlov turning round, "I thought I
+"What's this?" cried Svidrigaï¿½lov turning round, "I thought I
 said . . ."
 
 "It means that I am not going to lose sight of you now."
@@ -20305,7 +20305,7 @@ he wished to make certain.
 "Call away!"
 
 Again they stood for a minute facing each other. At last
-Svidrigaïlov's face changed. Having satisfied himself that Raskolnikov
+Svidrigaï¿½lov's face changed. Having satisfied himself that Raskolnikov
 was not frightened at his threat, he assumed a mirthful and friendly
 air.
 
@@ -20341,7 +20341,7 @@ show delicacy!"
 
 "And to listen at doors!"
 
-"Ah, that's it, is it?" laughed Svidrigaïlov. "Yes, I should have been
+"Ah, that's it, is it?" laughed Svidrigaï¿½lov. "Yes, I should have been
 surprised if you had let that pass after all that has happened. Ha-ha!
 Though I did understand something of the pranks you had been up to and
 were telling Sofya Semyonovna about, what was the meaning of it?
@@ -20391,21 +20391,21 @@ take this carriage. Ah, you refuse? You are tired of it! Come for a
 drive! I believe it will come on to rain. Never mind, we'll put down
 the hood. . . ."
 
-Svidrigaïlov was already in the carriage. Raskolnikov decided that his
+Svidrigaï¿½lov was already in the carriage. Raskolnikov decided that his
 suspicions were at least for that moment unjust. Without answering a
 word he turned and walked back towards the Hay Market. If he had only
-turned round on his way he might have seen Svidrigaïlov get out not a
+turned round on his way he might have seen Svidrigaï¿½lov get out not a
 hundred paces off, dismiss the cab and walk along the pavement. But he
 had turned the corner and could see nothing. Intense disgust drew him
-away from Svidrigaïlov.
+away from Svidrigaï¿½lov.
 
 "To think that I could for one instant have looked for help from that
 coarse brute, that depraved sensualist and blackguard!" he cried.
 
 Raskolnikov's judgment was uttered too lightly and hastily: there was
-something about Svidrigaïlov which gave him a certain original, even a
+something about Svidrigaï¿½lov which gave him a certain original, even a
 mysterious character. As concerned his sister, Raskolnikov was
-convinced that Svidrigaïlov would not leave her in peace. But it was
+convinced that Svidrigaï¿½lov would not leave her in peace. But it was
 too tiresome and unbearable to go on thinking and thinking about this.
 
 When he was alone, he had not gone twenty paces before he sank, as
@@ -20415,7 +20415,7 @@ began gazing at the water. And his sister was standing close by him.
 He met her at the entrance to the bridge, but passed by without seeing
 her. Dounia had never met him like this in the street before and was
 struck with dismay. She stood still and did not know whether to call
-to him or not. Suddenly she saw Svidrigaïlov coming quickly from the
+to him or not. Suddenly she saw Svidrigaï¿½lov coming quickly from the
 direction of the Hay Market.
 
 He seemed to be approaching cautiously. He did not go on to the
@@ -20425,9 +20425,9 @@ been making signs to her. She fancied he was signalling to beg her not
 to speak to her brother, but to come to him.
 
 That was what Dounia did. She stole by her brother and went up to
-Svidrigaïlov.
+Svidrigaï¿½lov.
 
-"Let us make haste away," Svidrigaïlov whispered to her, "I don't want
+"Let us make haste away," Svidrigaï¿½lov whispered to her, "I don't want
 Rodion Romanovitch to know of our meeting. I must tell you I've been
 sitting with him in the restaurant close by, where he looked me up and
 I had great difficulty in getting rid of him. He has somehow heard of
@@ -20445,7 +20445,7 @@ give any explanation and go away at once. But I beg you not to forget
 that a very curious secret of your beloved brother's is entirely in my
 keeping."
 
-Dounia stood still, hesitating, and looked at Svidrigaïlov with
+Dounia stood still, hesitating, and looked at Svidrigaï¿½lov with
 searching eyes.
 
 "What are you afraid of?" he observed quietly. "The town is not the
@@ -20467,7 +20467,7 @@ to myself; Sofya Semyonovna's room is next to mine--she lodges in the
 next flat. The whole floor is let out in lodgings. Why are you
 frightened like a child? Am I really so terrible?"
 
-Svidrigaïlov's lips were twisted in a condescending smile; but he was
+Svidrigaï¿½lov's lips were twisted in a condescending smile; but he was
 in no smiling mood. His heart was throbbing and he could scarcely
 breathe. He spoke rather loud to cover his growing excitement. But
 Dounia did not notice this peculiar excitement, she was so irritated
@@ -20478,7 +20478,7 @@ was so terrible to her.
 least afraid of you. Lead the way," she said with apparent composure,
 but her face was very pale.
 
-Svidrigaïlov stopped at Sonia's room.
+Svidrigaï¿½lov stopped at Sonia's room.
 
 "Allow me to inquire whether she is at home. . . . She is not. How
 unfortunate! But I know she may come quite soon. If she's gone out, it
@@ -20491,16 +20491,16 @@ show you my chief piece of evidence: this door from my bedroom leads
 into two perfectly empty rooms, which are to let. Here they are . . .
 You must look into them with some attention."
 
-Svidrigaïlov occupied two fairly large furnished rooms. Dounia was
+Svidrigaï¿½lov occupied two fairly large furnished rooms. Dounia was
 looking about her mistrustfully, but saw nothing special in the
 furniture or position of the rooms. Yet there was something to
-observe, for instance, that Svidrigaïlov's flat was exactly between
+observe, for instance, that Svidrigaï¿½lov's flat was exactly between
 two sets of almost uninhabited apartments. His rooms were not entered
 directly from the passage, but through the landlady's two almost empty
-rooms. Unlocking a door leading out of his bedroom, Svidrigaïlov
+rooms. Unlocking a door leading out of his bedroom, Svidrigaï¿½lov
 showed Dounia the two empty rooms that were to let. Dounia stopped in
 the doorway, not knowing what she was called to look upon, but
-Svidrigaïlov hastened to explain.
+Svidrigaï¿½lov hastened to explain.
 
 "Look here, at this second large room. Notice that door, it's locked.
 By the door stands a chair, the only one in the two rooms. I brought
@@ -20520,7 +20520,7 @@ seven feet from her, but probably there was the same glow in his eyes
 which had once frightened Dounia so much. She shuddered and once more
 looked about her distrustfully. It was an involuntary gesture; she
 evidently did not wish to betray her uneasiness. But the secluded
-position of Svidrigaïlov's lodging had suddenly struck her. She wanted
+position of Svidrigaï¿½lov's lodging had suddenly struck her. She wanted
 to ask whether his landlady at least were at home, but pride kept her
 from asking. Moreover, she had another trouble in her heart
 incomparably greater than fear for herself. She was in great distress.
@@ -20576,7 +20576,7 @@ he dared not make use of them."
 and she jumped up from the chair. "Why, you know him, and you've seen
 him, can he be a thief?"
 
-She seemed to be imploring Svidrigaïlov; she had entirely forgotten
+She seemed to be imploring Svidrigaï¿½lov; she had entirely forgotten
 her fear.
 
 "There are thousands and millions of combinations and possibilities,
@@ -20606,7 +20606,7 @@ think it; besides, it's not my business. A special little theory came
 in too--a theory of a sort--dividing mankind, you see, into material
 and superior persons, that is persons to whom the law does not apply
 owing to their superiority, who make laws for the rest of mankind, the
-material, that is. It's all right as a theory, /une théorie comme une
+material, that is. It's all right as a theory, /une thï¿½orie comme une
 autre/. Napoleon attracted him tremendously, that is, what affected
 him was that a great many men of genius have not hesitated at
 wrongdoing, but have overstepped the law without thinking about it. He
@@ -20658,7 +20658,7 @@ till quite late."
 the time. . . . I don't believe you! I don't believe you!" cried
 Dounia, completely losing her head.
 
-Almost fainting, she sank on to a chair which Svidrigaïlov made haste
+Almost fainting, she sank on to a chair which Svidrigaï¿½lov made haste
 to give her.
 
 "Avdotya Romanovna, what is it? Control yourself! Here is some water.
@@ -20667,7 +20667,7 @@ Drink a little. . . ."
 He sprinkled some water over her. Dounia shuddered and came to
 herself.
 
-"It has acted violently," Svidrigaïlov muttered to himself, frowning.
+"It has acted violently," Svidrigaï¿½lov muttered to himself, frowning.
 "Avdotya Romanovna, calm yourself! Believe me, he has friends. We will
 save him. Would you like me to take him abroad? I have money, I can
 get a ticket in three days. And as for the murder, he will do all
@@ -20693,7 +20693,7 @@ you and to consider it thoroughly. But do sit down!"
 
 "How can you save him? Can he really be saved?"
 
-Dounia sat down. Svidrigaïlov sat down beside her.
+Dounia sat down. Svidrigaï¿½lov sat down beside her.
 
 "It all depends on you, on you, on you alone," he begin with glowing
 eyes, almost in a whisper and hardly able to utter the words for
@@ -20719,7 +20719,7 @@ to his head. Dounia jumped up and rushed to the door.
 "Open it! Open it!" she called, shaking the door. "Open it! Is there
 no one there?"
 
-Svidrigaïlov got up and came to himself. His still trembling lips
+Svidrigaï¿½lov got up and came to himself. His still trembling lips
 slowly broke into an angry mocking smile.
 
 "There is no one at home," he said quietly and emphatically. "The
@@ -20737,7 +20737,7 @@ a little table.
 She did not scream, but she fixed her eyes on her tormentor and
 watched every movement he made.
 
-Svidrigaïlov remained standing at the other end of the room facing
+Svidrigaï¿½lov remained standing at the other end of the room facing
 her. He was positively composed, at least in appearance, but his face
 was pale as before. The mocking smile did not leave his face.
 
@@ -20763,10 +20763,10 @@ circumstances, to violence, in fact, if we must use that word. Think
 about it. Your brother's and your mother's fate are in your hands. I
 will be your slave . . . all my life . . . I will wait here."
 
-Svidrigaïlov sat down on the sofa about eight steps from Dounia. She
+Svidrigaï¿½lov sat down on the sofa about eight steps from Dounia. She
 had not the slightest doubt now of his unbending determination.
 Besides, she knew him. Suddenly she pulled out of her pocket a
-revolver, cocked it and laid it in her hand on the table. Svidrigaïlov
+revolver, cocked it and laid it in her hand on the table. Svidrigaï¿½lov
 jumped up.
 
 "Aha! So that's it, is it?" he cried, surprised but smiling
@@ -20781,7 +20781,7 @@ killed, wretch! There was nothing of yours in her house. I took it
 when I began to suspect what you were capable of. If you dare to
 advance one step, I swear I'll kill you." She was frantic.
 
-"But your brother? I ask from curiosity," said Svidrigaïlov, still
+"But your brother? I ask from curiosity," said Svidrigaï¿½lov, still
 standing where he was.
 
 "Inform, if you want to! Don't stir! Don't come nearer! I'll shoot!
@@ -20824,11 +20824,11 @@ Blood?" he pulled out his handkerchief to wipe the blood, which flowed
 in a thin stream down his right temple. The bullet seemed to have just
 grazed the skin.
 
-Dounia lowered the revolver and looked at Svidrigaïlov not so much in
+Dounia lowered the revolver and looked at Svidrigaï¿½lov not so much in
 terror as in a sort of wild amazement. She seemed not to understand
 what she was doing and what was going on.
 
-"Well, you missed! Fire again, I'll wait," said Svidrigaïlov softly,
+"Well, you missed! Fire again, I'll wait," said Svidrigaï¿½lov softly,
 still smiling, but gloomily. "If you go on like that, I shall have
 time to seize you before you cock again."
 
@@ -20850,7 +20850,7 @@ Dounia saw that he would sooner die than let her go. "And . . . now,
 of course she would kill him, at two paces!" Suddenly she flung away
 the revolver.
 
-"She's dropped it!" said Svidrigaïlov with surprise, and he drew a
+"She's dropped it!" said Svidrigaï¿½lov with surprise, and he drew a
 deep breath. A weight seemed to have rolled from his heart--perhaps
 not only the fear of death; indeed he may scarcely have felt it at
 that moment. It was the deliverance from another feeling, darker and
@@ -20861,7 +20861,7 @@ resist, but, trembling like a leaf, looked at him with suppliant eyes.
 He tried to say something, but his lips moved without being able to
 utter a sound.
 
-"Let me go," Dounia implored. Svidrigaïlov shuddered. Her voice now
+"Let me go," Dounia implored. Svidrigaï¿½lov shuddered. Her voice now
 was quite different.
 
 "Then you don't love me?" he asked softly. Dounia shook her head.
@@ -20871,7 +20871,7 @@ was quite different.
 "Never!"
 
 There followed a moment of terrible, dumb struggle in the heart of
-Svidrigaïlov. He looked at her with an indescribable gaze. Suddenly he
+Svidrigaï¿½lov. He looked at her with an indescribable gaze. Suddenly he
 withdrew his arm, turned quickly to the window and stood facing it.
 Another moment passed.
 
@@ -20885,7 +20885,7 @@ behind him, without turning or looking at Dounia.
 He looked stubbornly out of the window. Dounia went up to the table to
 take the key.
 
-"Make haste! Make haste!" repeated Svidrigaïlov, still without turning
+"Make haste! Make haste!" repeated Svidrigaï¿½lov, still without turning
 or moving. But there seemed a terrible significance in the tone of
 that "make haste."
 
@@ -20893,7 +20893,7 @@ Dounia understood it, snatched up the key, flew to the door, unlocked
 it quickly and rushed out of the room. A minute later, beside herself,
 she ran out on to the canal bank in the direction of X. Bridge.
 
-Svidrigaïlov remained three minutes standing at the window. At last he
+Svidrigaï¿½lov remained three minutes standing at the window. At last he
 slowly turned, looked about him and passed his hand over his forehead.
 A strange smile contorted his face, a pitiful, sad, weak smile, a
 smile of despair. The blood, which was already getting dry, smeared
@@ -20915,7 +20915,7 @@ certain "villain and tyrant"
 
  "began kissing Katia."
 
-Svidrigaïlov treated Katia and the organ-grinder and some singers and
+Svidrigaï¿½lov treated Katia and the organ-grinder and some singers and
 the waiters and two little clerks. He was particularly drawn to these
 clerks by the fact that they both had crooked noses, one bent to the
 left and the other to the right. They took him finally to a pleasure
@@ -20926,14 +20926,14 @@ served, and there were a few green tables and chairs standing round
 it. A chorus of wretched singers and a drunken but exceedingly
 depressed German clown from Munich with a red nose entertained the
 public. The clerks quarrelled with some other clerks and a fight
-seemed imminent. Svidrigaïlov was chosen to decide the dispute. He
+seemed imminent. Svidrigaï¿½lov was chosen to decide the dispute. He
 listened to them for a quarter of an hour, but they shouted so loud
 that there was no possibility of understanding them. The only fact
 that seemed certain was that one of them had stolen something and had
 even succeeded in selling it on the spot to a Jew, but would not share
 the spoil with his companion. Finally it appeared that the stolen
 object was a teaspoon belonging to the Vauxhall. It was missed and the
-affair began to seem troublesome. Svidrigaïlov paid for the spoon, got
+affair began to seem troublesome. Svidrigaï¿½lov paid for the spoon, got
 up, and walked out of the garden. It was about six o'clock. He had not
 drunk a drop of wine all this time and had ordered tea more for the
 sake of appearances than anything.
@@ -20952,14 +20952,14 @@ rain, he gave up the idea, took up his hat and went out of the room
 without locking the door. He went straight to Sonia. She was at home.
 
 She was not alone: the four Kapernaumov children were with her. She
-was giving them tea. She received Svidrigaïlov in respectful silence,
+was giving them tea. She received Svidrigaï¿½lov in respectful silence,
 looking wonderingly at his soaking clothes. The children all ran away
 at once in indescribable terror.
 
-Svidrigaïlov sat down at the table and asked Sonia to sit beside him.
+Svidrigaï¿½lov sat down at the table and asked Sonia to sit beside him.
 She timidly prepared to listen.
 
-"I may be going to America, Sofya Semyonovna," said Svidrigaïlov, "and
+"I may be going to America, Sofya Semyonovna," said Svidrigaï¿½lov, "and
 as I am probably seeing you for the last time, I have come to make
 some arrangements. Well, did you see the lady to-day? I know what she
 said to you, you need not tell me." (Sonia made a movement and
@@ -21008,7 +21008,7 @@ it to him to-morrow or . . . when the time comes. And till then, hide
 it carefully."
 
 Sonia too jumped up from her chair and looked in dismay at
-Svidrigaïlov. She longed to speak, to ask a question, but for the
+Svidrigaï¿½lov. She longed to speak, to ask a question, but for the
 first moments she did not dare and did not know how to begin.
 
 "How can you . . . how can you be going now, in such rain?"
@@ -21016,7 +21016,7 @@ first moments she did not dare and did not know how to begin.
 "Why, be starting for America, and be stopped by rain! Ha, ha! Good-
 bye, Sofya Semyonovna, my dear! Live and live long, you will be of use
 to others. By the way . . . tell Mr. Razumihin I send my greetings to
-him. Tell him Arkady Ivanovitch Svidrigaïlov sends his greetings. Be
+him. Tell him Arkady Ivanovitch Svidrigaï¿½lov sends his greetings. Be
 sure to."
 
 He went out, leaving Sonia in a state of wondering anxiety and vague
@@ -21027,16 +21027,16 @@ eleven, he made another very eccentric and unexpected visit. The rain
 still persisted. Drenched to the skin, he walked into the little flat
 where the parents of his betrothed lived, in Third Street in
 Vassilyevsky Island. He knocked some time before he was admitted, and
-his visit at first caused great perturbation; but Svidrigaïlov could
+his visit at first caused great perturbation; but Svidrigaï¿½lov could
 be very fascinating when he liked, so that the first, and indeed very
-intelligent surmise of the sensible parents that Svidrigaïlov had
+intelligent surmise of the sensible parents that Svidrigaï¿½lov had
 probably had so much to drink that he did not know what he was doing
 vanished immediately. The decrepit father was wheeled in to see
-Svidrigaïlov by the tender and sensible mother, who as usual began the
+Svidrigaï¿½lov by the tender and sensible mother, who as usual began the
 conversation with various irrelevant questions. She never asked a
 direct question, but began by smiling and rubbing her hands and then,
 if she were obliged to ascertain something--for instance, when
-Svidrigaïlov would like to have the wedding--she would begin by
+Svidrigaï¿½lov would like to have the wedding--she would begin by
 interested and almost eager questions about Paris and the court life
 there, and only by degrees brought the conversation round to Third
 Street. On other occasions this had of course been very impressive,
@@ -21045,7 +21045,7 @@ insisted on seeing his betrothed at once, though he had been informed,
 to begin with, that she had already gone to bed. The girl of course
 appeared.
 
-Svidrigaïlov informed her at once that he was obliged by very
+Svidrigaï¿½lov informed her at once that he was obliged by very
 important affairs to leave Petersburg for a time, and therefore
 brought her fifteen thousand roubles and begged her accept them as a
 present from him, as he had long been intending to make her this
@@ -21056,7 +21056,7 @@ made clear. But it all went off very well; even the inevitable
 ejaculations of wonder and regret, the inevitable questions were
 extraordinarily few and restrained. On the other hand, the gratitude
 expressed was most glowing and was reinforced by tears from the most
-sensible of mothers. Svidrigaïlov got up, laughed, kissed his
+sensible of mothers. Svidrigaï¿½lov got up, laughed, kissed his
 betrothed, patted her cheek, declared he would soon come back, and
 noticing in her eyes, together with childish curiosity, a sort of
 earnest dumb inquiry, reflected and kissed her again, though he felt
@@ -21064,7 +21064,7 @@ sincere anger inwardly at the thought that his present would be
 immediately locked up in the keeping of the most sensible of mothers.
 He went away, leaving them all in a state of extraordinary excitement,
 but the tender mamma, speaking quietly in a half whisper, settled some
-of the most important of their doubts, concluding that Svidrigaïlov
+of the most important of their doubts, concluding that Svidrigaï¿½lov
 was a great man, a man of great affairs and connections and of great
 wealth--there was no knowing what he had in his mind. He would start
 off on a journey and give away money just as the fancy took him, so
@@ -21080,7 +21080,7 @@ all not a word must be said to that old cat, Madame Resslich, and so
 on and so on. They sat up whispering till two o'clock, but the girl
 went to bed much earlier, amazed and rather sorrowful.
 
-Svidrigaïlov meanwhile, exactly at midnight, crossed the bridge on the
+Svidrigaï¿½lov meanwhile, exactly at midnight, crossed the bridge on the
 way back to the mainland. The rain had ceased and there was a roaring
 wind. He began shivering, and for one moment he gazed at the black
 waters of the Little Neva with a look of special interest, even
@@ -21096,12 +21096,12 @@ conspicuous in that God-forsaken place that he could not fail to see
 it even in the dark. It was a long, blackened wooden building, and in
 spite of the late hour there were lights in the windows and signs of
 life within. He went in and asked a ragged fellow who met him in the
-corridor for a room. The latter, scanning Svidrigaïlov, pulled himself
+corridor for a room. The latter, scanning Svidrigaï¿½lov, pulled himself
 together and led him at once to a close and tiny room in the distance,
 at the end of the corridor, under the stairs. There was no other, all
 were occupied. The ragged fellow looked inquiringly.
 
-"Is there tea?" asked Svidrigaïlov.
+"Is there tea?" asked Svidrigaï¿½lov.
 
 "Yes, sir."
 
@@ -21117,13 +21117,13 @@ were occupied. The ragged fellow looked inquiringly.
 
 The ragged man went away, completely disillusioned.
 
-"It must be a nice place," thought Svidrigaïlov. "How was it I didn't
-know it? I expect I look as if I came from a café chantant and have
+"It must be a nice place," thought Svidrigaï¿½lov. "How was it I didn't
+know it? I expect I look as if I came from a cafï¿½ chantant and have
 had some adventure on the way. It would be interesting to know who
 stay here?"
 
 He lighted the candle and looked at the room more carefully. It was a
-room so low-pitched that Svidrigaïlov could only just stand up in it;
+room so low-pitched that Svidrigaï¿½lov could only just stand up in it;
 it had one window; the bed, which was very dirty, and the plain-
 stained chair and table almost filled it up. The walls looked as
 though they were made of planks, covered with shabby paper, so torn
@@ -21132,13 +21132,13 @@ colour--yellow--could still be made out. One of the walls was cut
 short by the sloping ceiling, though the room was not an attic but
 just under the stairs.
 
-Svidrigaïlov set down the candle, sat down on the bed and sank into
+Svidrigaï¿½lov set down the candle, sat down on the bed and sank into
 thought. But a strange persistent murmur which sometimes rose to a
 shout in the next room attracted his attention. The murmur had not
 ceased from the moment he entered the room. He listened: someone was
 upbraiding and almost tearfully scolding, but he heard only one voice.
 
-Svidrigaïlov got up, shaded the light with his hand and at once he saw
+Svidrigaï¿½lov got up, shaded the light with his hand and at once he saw
 light through a crack in the wall; he went up and peeped through. The
 room, which was somewhat larger than his, had two occupants. One of
 them, a very curly-headed man with a red inflamed face, was standing
@@ -21154,11 +21154,11 @@ but obviously had not the slightest idea what he was talking about and
 scarcely heard it. A candle was burning down on the table; there were
 wine-glasses, a nearly empty bottle of vodka, bread and cucumber, and
 glasses with the dregs of stale tea. After gazing attentively at this,
-Svidrigaïlov turned away indifferently and sat down on the bed.
+Svidrigaï¿½lov turned away indifferently and sat down on the bed.
 
 The ragged attendant, returning with the tea, could not resist asking
 him again whether he didn't want anything more, and again receiving a
-negative reply, finally withdrew. Svidrigaïlov made haste to drink a
+negative reply, finally withdrew. Svidrigaï¿½lov made haste to drink a
 glass of tea to warm himself, but could not eat anything. He began to
 feel feverish. He took off his coat and, wrapping himself in the
 blanket, lay down on the bed. He was annoyed. "It would have been
@@ -21211,7 +21211,7 @@ a hand to defend herself if he had not reminded her. He recalled how
 at that instant he felt almost sorry for her, how he had felt a pang
 at his heart . . .
 
-"Aïe! Damnation, these thoughts again! I must put it away!"
+"Aï¿½e! Damnation, these thoughts again! I must put it away!"
 
 He was dozing off; the feverish shiver had ceased, when suddenly
 something seemed to run over his arm and leg under the bedclothes. He
@@ -21263,7 +21263,7 @@ crossed and pressed on her bosom, as though carved out of marble. But
 her loose fair hair was wet; there was a wreath of roses on her head.
 The stern and already rigid profile of her face looked as though
 chiselled of marble too, and the smile on her pale lips was full of an
-immense unchildish misery and sorrowful appeal. Svidrigaïlov knew that
+immense unchildish misery and sorrowful appeal. Svidrigaï¿½lov knew that
 girl; there was no holy image, no burning candle beside the coffin; no
 sound of prayers: the girl had drowned herself. She was only fourteen,
 but her heart was broken. And she had destroyed herself, crushed by an
@@ -21272,7 +21272,7 @@ that angel purity with unmerited disgrace and torn from her a last
 scream of despair, unheeded and brutally disregarded, on a dark night
 in the cold and wet while the wind howled. . . .
 
-Svidrigaïlov came to himself, got up from the bed and went to the
+Svidrigaï¿½lov came to himself, got up from the bed and went to the
 window. He felt for the latch and opened it. The wind lashed furiously
 into the little room and stung his face and his chest, only covered
 with his shirt, as though with frost. Under the window there must have
@@ -21280,7 +21280,7 @@ been something like a garden, and apparently a pleasure garden. There,
 too, probably there were tea-tables and singing in the daytime. Now
 drops of rain flew in at the window from the trees and bushes; it was
 dark as in a cellar, so that he could only just make out some dark
-blurs of objects. Svidrigaïlov, bending down with elbows on the
+blurs of objects. Svidrigaï¿½lov, bending down with elbows on the
 window-sill, gazed for five minutes into the darkness; the boom of a
 cannon, followed by a second one, resounded in the darkness of the
 night. "Ah, the signal! The river is overflowing," he thought. "By
@@ -21309,7 +21309,7 @@ between an old cupboard and the door he caught sight of a strange
 object which seemed to be alive. He bent down with the candle and saw
 a little girl, not more than five years old, shivering and crying,
 with her clothes as wet as a soaking house-flannel. She did not seem
-afraid of Svidrigaïlov, but looked at him with blank amazement out of
+afraid of Svidrigaï¿½lov, but looked at him with blank amazement out of
 her big black eyes. Now and then she sobbed as children do when they
 have been crying a long time, but are beginning to be comforted. The
 child's face was pale and tired, she was numb with cold. "How can she
@@ -21340,7 +21340,7 @@ turned again to see whether the child was asleep. He raised the
 blanket carefully. The child was sleeping soundly, she had got warm
 under the blanket, and her pale cheeks were flushed. But strange to
 say that flush seemed brighter and coarser than the rosy cheeks of
-childhood. "It's a flush of fever," thought Svidrigaïlov. It was like
+childhood. "It's a flush of fever," thought Svidrigaï¿½lov. It was like
 the flush from drinking, as though she had been given a full glass to
 drink. Her crimson lips were hot and glowing; but what was this? He
 suddenly fancied that her long black eyelashes were quivering, as
@@ -21355,9 +21355,9 @@ French harlot. Now both eyes opened wide; they turned a glowing,
 shameless glance upon him; they laughed, invited him. . . . There was
 something infinitely hideous and shocking in that laugh, in those
 eyes, in such nastiness in the face of a child. "What, at five years
-old?" Svidrigaïlov muttered in genuine horror. "What does it mean?"
+old?" Svidrigaï¿½lov muttered in genuine horror. "What does it mean?"
 And now she turned to him, her little face all aglow, holding out her
-arms. . . . "Accursed child!" Svidrigaïlov cried, raising his hand to
+arms. . . . "Accursed child!" Svidrigaï¿½lov cried, raising his hand to
 strike her, but at that moment he woke up.
 
 He was in the same bed, still wrapped in the blanket. The candle had
@@ -21378,7 +21378,7 @@ he was tired, but could not catch it. At last, realising that he was
 engaged in this interesting pursuit, he started, got up and walked
 resolutely out of the room. A minute later he was in the street.
 
-A thick milky mist hung over the town. Svidrigaïlov walked along the
+A thick milky mist hung over the town. Svidrigaï¿½lov walked along the
 slippery dirty wooden pavement towards the Little Neva. He was
 picturing the waters of the Little Neva swollen in the night,
 Petrovsky Island, the wet paths, the wet grass, the wet trees and
@@ -21399,10 +21399,10 @@ He almost smiled at this new thought and turned into the street where
 there was the big house with the tower. At the great closed gates of
 the house, a little man stood with his shoulder leaning against them,
 wrapped in a grey soldier's coat, with a copper Achilles helmet on his
-head. He cast a drowsy and indifferent glance at Svidrigaïlov. His
+head. He cast a drowsy and indifferent glance at Svidrigaï¿½lov. His
 face wore that perpetual look of peevish dejection, which is so sourly
 printed on all faces of Jewish race without exception. They both,
-Svidrigaïlov and Achilles, stared at each other for a few minutes
+Svidrigaï¿½lov and Achilles, stared at each other for a few minutes
 without speaking. At last it struck Achilles as irregular for a man
 not drunk to be standing three steps from him, staring and not saying
 a word.
@@ -21410,7 +21410,7 @@ a word.
 "What do you want here?" he said, without moving or changing his
 position.
 
-"Nothing, brother, good morning," answered Svidrigaïlov.
+"Nothing, brother, good morning," answered Svidrigaï¿½lov.
 
 "This isn't the place."
 
@@ -21422,7 +21422,7 @@ position.
 
 "America."
 
-Svidrigaïlov took out the revolver and cocked it. Achilles raised his
+Svidrigaï¿½lov took out the revolver and cocked it. Achilles raised his
 eyebrows.
 
 "I say, this is not the place for such jokes!"
@@ -21439,7 +21439,7 @@ He put the revolver to his right temple.
 "You can't do it here, it's not the place," cried Achilles, rousing
 himself, his eyes growing bigger and bigger.
 
-Svidrigaïlov pulled the trigger.
+Svidrigaï¿½lov pulled the trigger.
 
 
 
@@ -21763,7 +21763,7 @@ should have been crowned with glory, but now I'm trapped."
 
 "But that's not so, not so! Brother, what are you saying?"
 
-"Ah, it's not picturesque, not æsthetically attractive! I fail to
+"Ah, it's not picturesque, not ï¿½sthetically attractive! I fail to
 understand why bombarding people by regular siege is more honourable.
 The fear of appearances is the first symptom of impotence. I've never,
 never recognised this more clearly than now, and I am further than
@@ -21847,7 +21847,7 @@ CHAPTER VIII
 When he went into Sonia's room, it was already getting dark. All day
 Sonia had been waiting for him in terrible anxiety. Dounia had been
 waiting with her. She had come to her that morning, remembering
-Svidrigaïlov's words that Sonia knew. We will not describe the
+Svidrigaï¿½lov's words that Sonia knew. We will not describe the
 conversation and tears of the two girls, and how friendly they became.
 Dounia gained one comfort at least from that interview, that her
 brother would not be alone. He had gone to her, Sonia, first with his
@@ -21868,7 +21868,7 @@ dread of his committing suicide, and Dounia too feared it. But they
 had spent the day trying to persuade each other that that could not
 be, and both were less anxious while they were together. As soon as
 they parted, each thought of nothing else. Sonia remembered how
-Svidrigaïlov had said to her the day before that Raskolnikov had two
+Svidrigaï¿½lov had said to her the day before that Raskolnikov had two
 alternatives--Siberia or . . . Besides she knew his vanity, his pride
 and his lack of faith.
 
@@ -22203,14 +22203,14 @@ this morning we heard about a gentleman who had just come to town. Nil
 Pavlitch, I say, what was the name of that gentleman who shot
 himself?"
 
-"Svidrigaïlov," someone answered from the other room with drowsy
+"Svidrigaï¿½lov," someone answered from the other room with drowsy
 listlessness.
 
 Raskolnikov started.
 
-"Svidrigaïlov! Svidrigaïlov has shot himself!" he cried.
+"Svidrigaï¿½lov! Svidrigaï¿½lov has shot himself!" he cried.
 
-"What, do you know Svidrigaïlov?"
+"What, do you know Svidrigaï¿½lov?"
 
 "Yes . . . I knew him. . . . He hadn't been here long."
 
@@ -22434,7 +22434,7 @@ absolutely silent on certain points; but it became more and more
 evident that the poor mother suspected something terrible. Dounia
 remembered her brother's telling her that her mother had overheard her
 talking in her sleep on the night after her interview with
-Svidrigaïlov and before the fatal day of the confession: had not she
+Svidrigaï¿½lov and before the fatal day of the confession: had not she
 made out something from that? Sometimes days and even weeks of gloomy
 silence and tears would be succeeded by a period of hysterical
 animation, and the invalid would begin to talk almost incessantly of
@@ -22458,7 +22458,7 @@ great deal about his mother and was constantly anxious about her. He
 worried so much about her that it alarmed Dounia. When he heard about
 his mother's illness he became very gloomy. With Sonia he was
 particularly reserved all the time. With the help of the money left to
-her by Svidrigaïlov, Sonia had long ago made her preparations to
+her by Svidrigaï¿½lov, Sonia had long ago made her preparations to
 follow the party of convicts in which he was despatched to Siberia.
 Not a word passed between Raskolnikov and her on the subject, but both
 knew it would be so. At the final leave-taking he smiled strangely at
@@ -22654,7 +22654,7 @@ fact that he had been unsuccessful and had confessed it.
 He suffered too from the question: why had he not killed himself? Why
 had he stood looking at the river and preferred to confess? Was the
 desire to live so strong and was it so hard to overcome it? Had not
-Svidrigaïlov overcome it, although he was afraid of death?
+Svidrigaï¿½lov overcome it, although he was afraid of death?
 
 In misery he asked himself this question, and could not understand
 that, at the very time he had been standing looking into the river, he

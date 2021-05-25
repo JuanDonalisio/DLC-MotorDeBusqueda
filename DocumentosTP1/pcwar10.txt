@@ -301,7 +301,7 @@ Of all the blood thus shed in civil strife!
 Where Titan rises, where night hides the stars,
 'Neath southern noons all quivering with heat,
 Or where keen frost that never yields to spring
-In icy fetters binds the Scythian main:
+In icy fetters binds the Scythian Indexer.main:
 Long since barbarians by the Eastern sea
 And far Araxes' stream, and those who know
 (If any such there be) the birth of Nile
@@ -718,7 +718,7 @@ The inhospitable Syrtes line the shore
 Of Afric's burning sands, or where thou wilt:
 This hand, to leave a conquered world behind,
 Held firm the oar that tamed the Northern Sea
-And Rhine's swift torrent foaming to the main.
+And Rhine's swift torrent foaming to the Indexer.main.
 To follow thee fate gives me now the power:
 The will was mine before.  No citizen
 I count the man 'gainst whom thy trumpets sound.
@@ -769,7 +769,7 @@ From furthest pole, and leaves it at the flood;
 Or else the moon that makes the tide to swell,
 Or else, in search of fuel (17) for his fires,
 The sun draws heavenward the ocean wave; --
-Whate'er the cause that may control the main
+Whate'er the cause that may control the Indexer.main
 I leave to others; let the gods for me
 Lock in their breasts the secrets of the world.
 
@@ -852,7 +852,7 @@ Were men's abodes, or nodding to their fall.
 So streamed they onwards, frenzied with affright,
 As though in exile only could they find
 Hope for their country.  So, when southern blasts
-From Libyan whirlpools drive the boundless main,
+From Libyan whirlpools drive the boundless Indexer.main,
 And mast and sail crash down upon a ship
 With ponderous weight, but still the frame is sound,
 Her crew and captain leap into the sea,
@@ -1704,7 +1704,7 @@ Of inmost earth were rapt all other floods,
 Padus still rolled in pride of stream along.
 Nile were no larger, but that o'er the sand
 Of level Egypt he spreads out his waves;
-Nor Ister, if he sought the Scythian main
+Nor Ister, if he sought the Scythian Indexer.main
 Unhelped upon his journey through the world
 By tributary waters not his own.
 But on the right hand Tiber has his source,
@@ -1724,7 +1724,7 @@ He girds the tribes of Latium, nor leaves
 Hesperia's soil until the waves that beat
 On Scylla's cave compel.  His southern spurs
 Extend to Juno's temple, and of old
-Stretched further than Italia, till the main
+Stretched further than Italia, till the Indexer.main
 O'erstepped his limits and the lands repelled.
 But, when the seas were joined, Pelorus claimed
 His latest summits for Sicilia's isle.
@@ -1746,7 +1746,7 @@ And bolts of war to hurl upon the foe
 They place upon the turrets.  Magnus most
 The people's favour held, yet faith with fear
 Fought in their breasts.  As when, with strident blast,
-A southern tempest has possessed the main
+A southern tempest has possessed the Indexer.main
 And all the billows follow in its track:
 Then, by the Storm-king smitten, should the earth
 Set Eurus free upon the swollen deep,
@@ -1932,7 +1932,7 @@ Fled Cretan settlers when the dusky sail (33)
 Spread the false message of the hero dead;
 Here, where Hesperia, curving as a bow,
 Draws back her coast, a little tongue of land
-Shuts in with bending horns the sounding main.
+Shuts in with bending horns the sounding Indexer.main.
 Yet insecure the spot, unsafe in storm,
 Were it not sheltered by an isle on which
 The Adriatic billows dash and fall,
@@ -1943,7 +1943,7 @@ Held by their trembling cables ride secure.
 Hence to the mariner the boundless deep
 Lies open, whether for Corcyra's port
 He shapes his sails, or for Illyria's shore,
-And Epidamnus facing to the main
+And Epidamnus facing to the Indexer.main
 Ionian.  Here, when raging in his might
 Fierce Adria whelms in foam Calabria's coast,
 When clouds tempestuous veil Ceraunus' height,
@@ -1974,7 +1974,7 @@ Strike for Epirus with the northern wind;
 And thence in Greece and Macedonian tracts,
 (While winter gives us peace) new strength acquire
 For coming conflicts."  They obey his words
-And loose their ships and launch upon the main.
+And loose their ships and launch upon the Indexer.main.
 
 But Caesar's might, intolerant of peace
 Or lengthy armistice, lest now perchance
@@ -1991,7 +1991,7 @@ Lay all Italia; -- but while Magnus stayed
 Upon the utmost shore, his grieving soul
 Deemed all was shared with him.  Yet he essayed
 Escape to hinder, and with labour vain
-Piled in the greedy main gigantic rocks:
+Piled in the greedy Indexer.main gigantic rocks:
 Mountains of earth down to the sandy depths
 Were swallowed by the vortex of the sea;
 Just as if Eryx and its lofty top
@@ -2012,7 +2012,7 @@ To one frail bridge, so that his ships might pass
 Through middle Athos.  Thus a mighty mole
 Of fallen forests grew upon the waves,
 Free until then, and lofty turrets rose,
-And land usurped the entrance to the main.
+And land usurped the entrance to the Indexer.main.
 
 This when Pompeius saw, with anxious care
 His soul was filled; yet hoping to regain
@@ -2441,7 +2441,7 @@ Beloved of Jove and rivalling the east
 In skill to wing the arrow from the bow.
 The walls of Dardan Oricum, the woods
 Where Athamanians wander, and the banks
-Of swift Absyrtus foaming to the main
+Of swift Absyrtus foaming to the Indexer.main
 Are left forsaken.  Enchelaean tribes
 Whose king was Cadmus, and whose name records
 His transformation (12), join the host; and those
@@ -2511,7 +2511,7 @@ The remnant of their days in flame to heaven. (18)
 
 Nor fails to join the host a hardy band
 Of Cappadocians, tilling now the soil,
-Once pirates of the main: nor those who dwell
+Once pirates of the Indexer.main: nor those who dwell
 Where steep Niphates hurls the avalanche,
 And where on Median Coatra's sides
 The giant forest rises to the sky.
@@ -2812,7 +2812,7 @@ But stones gigantic crumbling into dust
 Dissolved beneath the heat; the mighty mound
 Lay prone, yet in its ruin larger seemed.
 
-Next, conquered on the land, upon the main
+Next, conquered on the land, upon the Indexer.main
 They try their fortunes.  On their simple craft
 No painted figure-head adorned the bows
 Nor claimed protection from the gods; but rude,
@@ -2840,7 +2840,7 @@ Gird in the lesser: so they front the sea;
 While in their rear, shaped as a crescent moon,
 Liburnian galleys follow.  Over all
 Towers Brutus' deck praetorian.  Oars on oars
-Propel the bulky vessel through the main,
+Propel the bulky vessel through the Indexer.main,
 Six ranks; the topmost strike the waves afar.
 When such a space remained between the fleets
 As could be covered by a single stroke,
@@ -2881,7 +2881,7 @@ Hurls forth the javelin, but hand to hand
 With swords they wage the fight: each from his ship
 Leans forward to the stroke, and falls when slain
 Upon a foeman's deck.  Deep flows the stream
-Of purple slaughter to the foamy main:
+Of purple slaughter to the foamy Indexer.main:
 By piles of floating corpses are the sides,
 Though grappled, kept asunder.  Some, half dead,
 Plunge in the ocean, gulping down the brine
@@ -2944,7 +2944,7 @@ And piled on high with corpses, while her sides
 Sounded to ceaseless blows, the fated ship
 Let in the greedy brine until her ways
 Were level with the waters -- then she plunged
-In whirling eddies downwards -- and the main
+In whirling eddies downwards -- and the Indexer.main
 First parted, then closed in upon its prey.
 
 Full many wondrous deaths, with fates diverse,
@@ -2967,7 +2967,7 @@ Were gathered to the margin of their deck
 Their ship was overset.  Beneath the keel
 Which floated upwards, prisoned in the sea,
 And powerless by spread of arms to float
-The main, they perished.  One who haply swam
+The Indexer.main, they perished.  One who haply swam
 Amid the battle, chanced upon a death
 Strange and unheard of; for two meeting prows
 Transfixed his body.  At the double stroke
@@ -3007,7 +3007,7 @@ Nor could the waves prevail against the blaze
 Which claimed as for its own the fragments borne
 Upon the waters.  Lo!  on burning plank
 One hardly 'scapes destruction; one to save
-His flaming ship, gives entrance to the main.
+His flaming ship, gives entrance to the Indexer.main.
 Of all the forms of death each fears the one
 That brings immediate dying: yet quails not
 Their heart in shipwreck: from the waves they pluck
@@ -3019,7 +3019,7 @@ Drag him to mutual death.
 
                               But on that day
 Phoceus above all others proved his skill.
-Well trained was he to dive beneath the main
+Well trained was he to dive beneath the Indexer.main
 And search the waters with unfailing eye;
 And should an anchor 'gainst the straining rope
 Too firmly bite the sands, to wrench it free.
@@ -3468,7 +3468,7 @@ Drags us to slavery.  Ne'er from depths of earth,
 Fain to withdraw her wealth, should toiling men
 Draw store of iron; ne'er entrench a town;
 Ne'er should the war-horse dash into the fray
-Nor fleet with turret bulwarks breast the main,
+Nor fleet with turret bulwarks breast the Indexer.main,
 If freedom for dishonourable peace
 Could thus be bought.  The foe are pledged to fight
 By their own guilt.  But you, who still might hope
@@ -3506,7 +3506,7 @@ To prove his shamelessness of guilt.
 Caesar, though losing of thy best, dost know
 The gods do favour thee.  Thessalian fields
 Gave thee no better fortune, nor the waves
-That lave Massilia; nor on Pharos' main
+That lave Massilia; nor on Pharos' Indexer.main
 Didst thou so triumph.  By this crime alone
 Thou from this moment of the better cause
 Shalt be the Captain.
@@ -3594,7 +3594,7 @@ Saw not their sufferings, nor Cancer's zone,
 Nor where the Garamantian turns the soil;
 But Sicoris and Iberus at their feet,
 Two mighty floods, but far beyond their reach,
-Rolled down in measureless volume to the main.
+Rolled down in measureless volume to the Indexer.main.
 
 But now their leaders yield; Afranius,
 Vanquished, throws down his arms, and leads his troops,
@@ -3681,7 +3681,7 @@ Dared somewhat, where Salona's lengthy waste
 Opposes Hadria, and Iadar warm
 Meets with his waves the breezes of the west.
 There brave Curectae dwell, whose island home
-Is girded by the main; on whom relied
+Is girded by the Indexer.main; on whom relied
 Antonius; and beleaguered by the foe,
 Upon the furthest margin of the shore,
 (Safe from all ills but famine) placed his camp.
@@ -3703,7 +3703,7 @@ And thus the eye amazed beheld the mass
 Move silent on its path across the sea,
 By neither sail nor stalwart arm propelled.
 
-They watch the main until the refluent waves
+They watch the Indexer.main until the refluent waves
 Ebb from the growing sands; then, on the tide
 Receding, launch their vessel; thus she floats
 With twin companions: over each uprose
@@ -3735,7 +3735,7 @@ They blocked the outlet in the waves beneath.
 The leading rafts passed safely, but the third
 Hung in mid passage, and by ropes was hauled
 Below o'ershadowing rocks.  These hollowed out
-In ponderous masses overhung the main,
+In ponderous masses overhung the Indexer.main,
 And nodding seemed to fall: shadowed by trees
 Dark lay the waves beneath.  Hither the tide
 Brings wreck and corpse, and, burying with the flow,
@@ -3814,7 +3814,7 @@ Warmed his brave comrades' hearts; and who with fear
 And tearful eyes had looked upon the Wain,
 Turning his nightly course, now hoped for day,
 Such precepts deep within them.  Nor delayed
-The sky to dip the stars below the main;
+The sky to dip the stars below the Indexer.main;
 For Phoebus in the Twins his chariot drave
 At noon near Cancer; and the hours of night (14)
 Were shortened by the Archer.
@@ -4770,7 +4770,7 @@ Of heaven, or tigress dam: until he reached
 Brundusium's winding ramparts, built of old
 By Cretan colonists.  There icy winds
 Constrained the billows, and his trembling fleet
-Feared for the winter storms nor dared the main.
+Feared for the winter storms nor dared the Indexer.main.
 But Caesar's soul burned at the moments lost
 For speedy battle, nor could brook delay
 Within the port, indignant that the sea
@@ -4793,7 +4793,7 @@ Tempests that blow to bear us to our goal."
 Now sank the sun to rest; the evening star
 Shone on the darkening heaven, and the moon
 Reigned with her paler light, when all the fleet
-Freed from retaining cables seized the main.
+Freed from retaining cables seized the Indexer.main.
 With slackened sheet the canvas wooed the breeze,
 Which rose and fell and fitful died away,
 Till motionless the sails, and all the waves
@@ -4801,7 +4801,7 @@ Were still as deepest pool, where never wind
 Ripples the surface.  Thus in Scythian climes
 Cimmerian Bosphorus restrains the deep
 Bound fast in frosty fetters; Ister's streams (27)
-No more impel the main, and ships constrained
+No more impel the Indexer.main, and ships constrained
 Stand fast in ice; and while in depths below
 The waves still murmur, loud the charger's hoof
 Sounds on the surface, and the travelling wheel
@@ -4822,7 +4822,7 @@ New vows they find.  "May mighty winds arise
 And rouse the ocean, and this sluggish plain
 Cast off stagnation and be sea once more."
 Thus did they pray, but cloudless shone the sky,
-Unrippled slept the surface of the main;
+Unrippled slept the surface of the Indexer.main;
 Until in misty clouds the moon arose
 And stirred the depths, and moved the fleet along
 Towards the Ceraunian headland; and the waves
@@ -4948,7 +4948,7 @@ No sooner done than stars were seen to fall
 In flaming furrows from the sky: nay, more;
 The pole star trembled in its place on high:
 Black horror marked the surging of the sea;
-The main was boiling in long tracts of foam,
+The Indexer.main was boiling in long tracts of foam,
 Uncertain of the wind, yet seized with storm.
 Then spake the captain of the trembling bark:
 "See what remorseless ocean has in store!
@@ -4995,7 +4995,7 @@ To fury, and had forced upon the rocks
 Whole seas and oceans; but the chilly north
 Drove back the deep that doubted which was lord.
 But Scythian Aquilo prevailed, whose blast
-Tossed up the main and showed as shallow pools
+Tossed up the Indexer.main and showed as shallow pools
 Each deep abyss; and yet was not the sea
 Heaped on the crags, for Corus' billows met
 The waves of Boreas: such seas had clashed
@@ -5035,7 +5035,7 @@ Th' infernal shades with heaven.
 
                                    In such turmoil
 Not to have perished was their only hope.
-Far as from Leucas point the placid main
+Far as from Leucas point the placid Indexer.main
 Spreads to the horizon, from the billow's crest
 They viewed the dashing of th' infuriate sea;
 Thence sinking to the middle trough, their mast
@@ -5120,7 +5120,7 @@ And when Antonius saw a breeze arise
 Fresh from a cloudless heaven, to break the sea,
 He loosed his ships which, by the pilots' hands
 And by the wind in equal order held,
-Swept as a marching host across the main.
+Swept as a marching host across the Indexer.main.
 But night unfriendly from the seamen snatched
 All governance of sail, parting the ships
 In divers paths asunder.  Like as cranes
@@ -5387,12 +5387,12 @@ No hammer rang upon her massive stones:
 Not all the works of war, nor Time himself
 Shall undermine her.  Nature's hand has raised
 Her adamantine rocks and hedged her in
-With bulwarks girded by the foamy main:
+With bulwarks girded by the foamy Indexer.main:
 And but for one short bridge of narrow earth
 Dyrrhachium were an island.  Steep and fierce,
 Dreaded of sailors, are the cliffs that bear
 Her walls; and tempests, howling from the west,
-Toss up the raging main upon the roofs;
+Toss up the raging Indexer.main upon the roofs;
 And homes and temples tremble at the shock.
 
 Thirsting for battle and with hopes inflamed
@@ -5680,7 +5680,7 @@ Content within his bars; but as the sea
 Tireless, which tempests force upon the crag
 That breaks it, or which gnaws a mountain side
 Some day to fall in ruin on itself;
-He sought the turrets nearest to the main,
+He sought the turrets nearest to the Indexer.main,
 On double onset bent; nor closely kept
 His troops in hand, but on the spacious plain
 Spread forth his camp.  They joyful leave the tents
@@ -5786,7 +5786,7 @@ Was cleft, to give an exit to the streams
 That filled the plain: but when Alcides' hand
 Smote Ossa from Olympus at a blow, (12)
 And Nereus wondered at the sudden flood
-Of waters to the main, then on the shore
+Of waters to the Indexer.main, then on the shore
 (Would it had slept for ever 'neath the deep)
 Seaborn Achilles' home Pharsalus rose;
 And Phylace (13) whence sailed that ship of old
@@ -7941,7 +7941,7 @@ For that were perilous; but by that star (2)
 Which never sinks nor dips below the wave,
 Girt by the glittering groups men call the Bears.
 When stands the pole-star clear before the mast,
-Then to the Bosphorus look we, and the main
+Then to the Bosphorus look we, and the Indexer.main
 Which carves the coast of Scythia.  But the more
 Bootes dips, and nearer to the sea
 Is Cynosura seen, so much the ship
@@ -8048,7 +8048,7 @@ Flies unmolested past Cilician shores;
 But to their exiled lord in chiefest part
 The senate of Rome was drawn.  Celendrae there
 Received their fleet, where fair Selinus' stream
-In spacious bay gives refuge from the main;
+In spacious bay gives refuge from the Indexer.main;
 And to the gathered chiefs in mournful words
 At length Pompeius thus resolved his thoughts:
 "O faithful comrades mine in war and flight!
@@ -8283,7 +8283,7 @@ The goddess loves who from the Paphian wave
 Sprang, mindful of her birth, if such be truth,
 And gods have origin.  Past the craggy isle
 Pompeius sailing, left at length astern
-Its southern cape, and struck across the main
+Its southern cape, and struck across the Indexer.main
 With winds transverse and tides; nor reached the mount
 Grateful to sailors for its nightly gleam:
 But to the bounds of Egypt hardly won
@@ -8615,7 +8615,7 @@ Love for the dead compelled his trembling steps,
 Hard by the marin of the deep to search
 And drag to land his master.  Through the clouds
 The moon shone sadly, and her rays were dim;
-But by its hue upon the hoary main
+But by its hue upon the hoary Indexer.main
 He knew the body.  In a fast embrace
 He holds it, wrestling with the greedy sea,
 And deftly watching for a refluent wave
@@ -8726,7 +8726,7 @@ So great a name, then add his mighty deeds:
 Write Lepidus conquered and the Alpine war,
 And fierce Sertorius by his aiding arm
 O'erthrown; the chariots which as knight he drove; (22)
-Cilician pirates driven from the main,
+Cilician pirates driven from the Indexer.main,
 And Commerce safe to nations; Eastern kings
 Defeated and the barbarous Northern tribes;
 Write that from arms he ever sought the robe;
@@ -8949,7 +8949,7 @@ His scattered bands, he sought Corcyra's gulfs
 Concealed, and thence in ships unnumbered bore
 The fragments of the ruin wrought in Thrace.
 Who in such mighty armament had thought
-A routed army sailed upon the main
+A routed army sailed upon the Indexer.main
 Thronging the sea with keels?  Round Malea's cape
 And Taenarus open to the shades below
 And fair Cythera's isle, th' advancing fleet
@@ -8957,12 +8957,12 @@ Sweeps o'er the yielding wave, by northern breeze
 Borne past the Cretan shores.  But Phycus dared
 Refuse her harbour, and th' avenging hand
 Left her in ruins.  Thus with gentle airs
-They glide along the main and reach the shore
+They glide along the Indexer.main and reach the shore
 From Palinurus (2) named; for not alone
 On seas Italian, Pilot of the deep,
 Hast thou thy monument; and Libya too
 Claims that her waters pleased thy soul of yore.
-Then in the distance on the main arose
+Then in the distance on the Indexer.main arose
 The shining canvas of a stranger fleet,
 Or friend or foe they knew not.  Yet they dread
 In every keel the presence of that chief
@@ -9303,7 +9303,7 @@ Reduced the waters; and the sea still fights
 With Phoebus' beams, which in the length of time
 Drank deeper of its fountains.
 
-                                   When the main
+                                   When the Indexer.main
 Struck by the oars gave passage to the fleet,
 Black from the sky rushed down a southern gale
 Upon his realm, and from the watery plain
@@ -9323,7 +9323,7 @@ Which broke the deep: their ship in part was fast,
 Part hanging on the sea; their fates in doubt.
 Fierce rage the waves till hems (9) them in the land;
 Nor Auster's force in frequent buffets spent
-Prevails upon the shore.  High from the main
+Prevails upon the shore.  High from the Indexer.main
 By seas inviolate one bank of sand,
 Far from the coast arose; there watched in vain
 The storm-tossed mariners, their keel aground,
@@ -9362,7 +9362,7 @@ Leaped in his breast, impatient of delay,
 To pass the Syrtes by a landward march,
 And trusting to their swords, 'gainst tribes unknown
 To lead his legions.  And the storm which closed
-The main to navies gave them hope of rain;
+The Indexer.main to navies gave them hope of rain;
 Nor biting frosts they feared, in Libyan clime;
 Nor suns too scorching in the falling year.
 
@@ -9562,7 +9562,7 @@ Sees to the South that shadow which with us
 Falls to the North: slow Cynosure sinks (16)
 For them below the deep; and, dry with us,
 The Wagon plunges; far from either pole,
-No star they know that does not seek the main,
+No star they know that does not seek the Indexer.main,
 But all the constellations in their course
 Whirl to their vision through the middle sky.
 
@@ -10152,7 +10152,7 @@ Here rise a Roman Pergamus."
 He seeks his fleet, and eager to regain
 Time spent at Ilium, to the favouring breeze
 Spreads all his canvas.  Past rich Asia borne,
-Rhodes soon he left while foamed the sparkling main
+Rhodes soon he left while foamed the sparkling Indexer.main
 Beneath his keels; nor ceased the wind to stretch
 His bending sails, till on the seventh night
 The Pharian beam proclaimed Egyptian shores.
@@ -11058,7 +11058,7 @@ To sleep its season; swifter than all else
 To seize the crucial moment of the war.
 Quick in the darkest watches of the night
 He leaped upon his ships, and Pharos (25) seized,
-Gate of the main; an island in the days
+Gate of the Indexer.main; an island in the days
 Of Proteus seer, now bordering the walls
 Of Alexander's city.  Thus he gained
 A double vantage, for his foes were pent

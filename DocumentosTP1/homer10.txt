@@ -443,7 +443,7 @@ this attribution is remarkable -- the veneration paid to Hesiod.
 
 Life of Hesiod
 
-Our information respecting Hesiod is derived in the main from
+Our information respecting Hesiod is derived in the Indexer.main from
 notices and allusions in the works attributed to him, and to
 these must be added traditions concerning his death and burial
 gathered from later writers.
@@ -580,7 +580,7 @@ centres round the "Works and Days", the second round the
 "Theogony".
 
 I. "The Works and Days":
-The poem consists of four main sections. a) After the prelude,
+The poem consists of four Indexer.main sections. a) After the prelude,
 which Pausanias failed to find in the ancient copy engraved on
 lead seen by him on Mt. Helicon, comes a general exhortation to
 industry.  It begins with the allegory of the two Strifes, who
@@ -856,7 +856,7 @@ work, `When the Pleiades, Atlas' daughters, begin to rise...'
 be analysed: it can only be said that given such a subject, this
 alone is the right method of treatment.
 
-Hesiod's diction is in the main Homeric, but one of his charms is
+Hesiod's diction is in the Indexer.main Homeric, but one of his charms is
 the use of quaint allusive phrases derived, perhaps, from a pre-
 Hesiodic peasant poetry: thus the season when Boreas blows is the
 time when `the Boneless One gnaws his foot by his fireless hearth
@@ -1551,7 +1551,7 @@ T    Madrid, Public Library 24.
 V    Venice, Marc. 456.
 
 The same scholar has traced all the MSS. back to a common parent
-from which three main families are derived (M had a separate
+from which three Indexer.main families are derived (M had a separate
 descent and is not included in any family): --
 
 x1 = E,T
@@ -2978,7 +2978,7 @@ Giants with gleaming armour, holding long spears in their hands
 and the Nymphs whom they call Meliae (8) all over the boundless
 earth.  And so soon as he had cut off the members with flint and
 cast them from the land into the surging sea, they were swept
-away over the main a long time: and a white foam spread around
+away over the Indexer.main a long time: and a white foam spread around
 them from the immortal flesh, and in it there grew a maiden. 
 First she drew near holy Cythera, and from there, afterwards, she
 came to sea-girt Cyprus, and came forth an awful and lovely
@@ -3549,7 +3549,7 @@ high and beetling rock.  Far under the wide-pathed earth a branch
 of Oceanus flows through the dark night out of the holy stream,
 and a tenth part of his water is allotted to her.  With nine
 silver-swirling streams he winds about the earth and the sea's
-wide back, and then falls into the main (24); but the tenth flows
+wide back, and then falls into the Indexer.main (24); but the tenth flows
 out from a rock, a sore trouble to the gods.  For whoever of the
 deathless gods that hold the peaks of snowy Olympus pours a
 libation of her water is forsworn, lies breathless until a full
@@ -3890,7 +3890,7 @@ ENDNOTES:
      the earth and the seas, and so as flowing back upon himself.
 (24) The conception of Oceanus is here different: he has nine
      streams which encircle the earth and the flow out into the
-     `main' which appears to be the waste of waters on which,
+     `Indexer.main' which appears to be the waste of waters on which,
      according to early Greek and Hebrew cosmology, the disk-like
      earth floated.
 (25) i.e. the threshold is of `native' metal, and not artificial.
@@ -7452,7 +7452,7 @@ lives to hazard and bring mischief to men of foreign parts as
 they roam?  Why rest you so and are afraid, and do not go ashore
 nor stow the gear of your black ship?  For that is the custom of
 men who live by bread, whenever they come to land in their dark
-ships from the main, spent with toil; at once desire for sweet
+ships from the Indexer.main, spent with toil; at once desire for sweet
 food catches them about the heart.'
 
 (ll. 462-473) So speaking, he put courage in their hearts, and
@@ -9839,7 +9839,7 @@ as a spy, and there being recognized by Helen, plots with her for
 the taking of the city; after killing certain of the Trojans, he
 returns to the ships.  Next he carries the Palladium out of Troy
 with help of Diomedes.  Then after putting their best men in the
-wooden horse and burning their huts, the main body of the
+wooden horse and burning their huts, the Indexer.main body of the
 Hellenes sail to Tenedos.  The Trojans, supposing their troubles
 over, destroy a part of their city wall and take the wooden horse
 into their city and feast as though they had conquered the

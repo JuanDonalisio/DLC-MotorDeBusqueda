@@ -305,7 +305,7 @@ when he had finished, he looked at the two boys, and said: "Jack is
 right! This is an account of a trip made to the moon by some of the
 Martians, who have advanced much further in the art of air navigation
 than have we. Some of the words I am not altogether familiar with, but
-in the main, that is what the paper states."
+in the Indexer.main, that is what the paper states."
 
 "And doesn't it tell about them finding a field of Reonaris?" asked
 Jack eagerly, for he was anxious to prove to his chum that he was
@@ -1252,7 +1252,7 @@ other night, when I was comin' past, with a lot of rats I'd jest taken
 out of my traps, I see a light in the old house. Thinks I, to myself,
 that there's more tramps snoozin' in there, and I didn't reckon it was
 none of my business, so I kept on. But jest as I was walking past the
-main gate, some one come out of the house and hurried away. I had a
+Indexer.main gate, some one come out of the house and hurried away. I had a
 good look at him, an'----"
 
 "Who was it?" asked Mark impatiently, for the old trapper was a slow
@@ -1289,7 +1289,7 @@ hide in."
 "Give it up. Evidently he isn't a tramp, though he stays in a place
 where there are plenty of the Knights of the Road."
 
-The boys increased their pace, and were soon on the main road leading
+The boys increased their pace, and were soon on the Indexer.main road leading
 to the Preakness house, and about a mile away from it. "We'll soon be
 there now," remarked Jack. "Then we'll see if we can find that man."
 
@@ -1561,7 +1561,7 @@ official promised to do.
 grin, "seein' as how this is the only one I've had to send to-day. I'll
 get it right off for you, Jack."
 
-Jack meant to hurry back, but, just as he was turning out of the main
+Jack meant to hurry back, but, just as he was turning out of the Indexer.main
 village street, to cut across lots, and join Mark at the place agreed
 upon, Jack saw two dogs fighting. It was with the best intentions in
 the world that he ran toward them, for he wanted to separate them.
@@ -2450,7 +2450,7 @@ then rain won't worry us. Is your stateroom all fixed up?"
 "No, I didn't think of that. Guess I'd better look after it."
 
 The two started together for the projectile. The stout one entered
-first, and made his way through the engine room and main cabin to the
+first, and made his way through the engine room and Indexer.main cabin to the
 compartment off which the staterooms opened. He entered one.
 
 "Here, that's not yours," cried Jack. "That's where Professor Henderson
@@ -2471,7 +2471,7 @@ in charge of a caretaker, who would remain on guard until our friends
 returned.
 
 "Are we all ready?" asked Professor Henderson, as he stood ready to
-close the main entrance door and seal it hermetically.
+close the Indexer.main entrance door and seal it hermetically.
 
 "All ready, I guess," answered Jack. The stout one had gone to his
 stateroom, where he could be heard moving about.
@@ -2714,7 +2714,7 @@ difficult to run and laugh at the same time.
 "No, you might kill him or scare him t' death," objected Washington.
 
 "Come on, Mark, and help," cried Jack, looking toward the projectile,
-where a figure was peering from the glass-covered port of the main
+where a figure was peering from the glass-covered port of the Indexer.main
 cabin.
 
 But the figure, whose hand was done up in voluminous bandages, did not
@@ -3118,7 +3118,7 @@ shown that it was in good working shape, it was decided to leave the
 earth.
 
 "At last, I think, we are really going to get under way to the moon,"
-said Jack, as he closed the big main door. This time it was not
+said Jack, as he closed the big Indexer.main door. This time it was not
 reopened. All the stores and supplies were in place. The two professors
 were in the engine room. Washington White was in his galley, getting
 ready to serve the first meal in the air. Jack and Mark were in the
@@ -3131,7 +3131,7 @@ thrill that would tell them the projectile had left the earth.
 
 "Then here we go!" announced the aged scientist.
 
-He pulled toward him the main starting lever of the Cardite motor,
+He pulled toward him the Indexer.main starting lever of the Cardite motor,
 while Professor Roumann opened the valve which admitted to the plates
 and cylinders the mysterious force that was to send them on their way.
 
@@ -3500,7 +3500,7 @@ pointer swept slowly on in a circle, past point after point.
 "One hundred and thirty-five--one hundred and forty," whispered Jack,
 as if afraid to speak aloud. The two professors did not look up from
 the motor. They looked at the oil and lubricating cups. Already the
-main shaft was smoking with the heat of friction.
+Indexer.main shaft was smoking with the heat of friction.
 
 "Look! look!" whispered Mark hoarsely.
 
@@ -4108,7 +4108,7 @@ on the moon in bright sunlight.
 "Yes, it's always colder when the sun goes down," went on the lad.
 
 "You have forgotten one thing," said Mr. Henderson, with a smile at his
-young protégé. "You must remember, Jack, that the nights and days here
+young protï¿½gï¿½. "You must remember, Jack, that the nights and days here
 are each fourteen days long--that is, fourteen of our days."
 
 "How's that?" asked Jack.
@@ -4800,7 +4800,7 @@ Professors Roumann and Henderson made a few more observations for
 scientific purposes. They found traces of some vegetation, but it was
 of little value for food, even to the lower forms of animal life, they
 decided. There was also a little moisture; noticed at certain hours of
-the day. But, in the main, the place where they had landed was most
+the day. But, in the Indexer.main, the place where they had landed was most
 desolate.
 
 "I hope we get to a better place soon," said Jack, just before they
