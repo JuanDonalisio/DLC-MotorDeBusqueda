@@ -3,6 +3,7 @@ package Persistencia;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.IdClass;
 
 @Entity
 public class Vocabulario {

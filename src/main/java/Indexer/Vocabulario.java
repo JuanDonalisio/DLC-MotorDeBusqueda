@@ -2,7 +2,9 @@ package Indexer;
 
 import jdk.internal.jimage.ImageReaderFactory;
 
+import javax.persistence.IdClass;
 import java.util.*;
+
 
 public class Vocabulario {
     private String palabra; //una palabra del documento
@@ -31,5 +33,17 @@ public class Vocabulario {
 
     public String getPalabra() {
         return palabra;
+    }
+
+    public void setPalabra(String palabra) {
+        this.palabra = palabra;
+    }
+
+    public int getMaxTf() {
+        return maxTf;
+    }
+
+    public int getNr() {
+        return nr;
     }
 }

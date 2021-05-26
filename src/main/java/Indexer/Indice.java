@@ -12,6 +12,7 @@ public class Indice {
     public static void obtenerVocabularioYPosteo(File name, HashMap map, HashMap posteo) throws FileNotFoundException {
         Scanner scanner = new Scanner(new BufferedReader(new FileReader((name))));
         int aux;
+        String nombreDoc = name.getPath();
 
         while (scanner.hasNext()) {
             String palabra = scanner.next().toLowerCase(Locale.ROOT).replaceAll("\\p{Punct}", "");
@@ -31,14 +32,14 @@ public class Indice {
                 //Obtiene el posteo
                 if (posteo.containsKey(palabra.toLowerCase())) {
                     p1 = (LinkedHashMap) posteo.get(palabra.toLowerCase());
-                    if (p1.containsKey(name)) {
-                        aux = (Integer) p1.get(name);
-                        p1.replace(name, aux, aux + 1);
+                    if (p1.containsKey(nombreDoc)) {
+                        aux = (Integer) p1.get(nombreDoc);
+                        p1.replace(nombreDoc, aux, aux + 1);
                     } else {
-                        p1.put(name, 1);
+                        p1.put(nombreDoc, 1);
                     }
                 } else {
-                    p1.put(name, 1);
+                    p1.put(nombreDoc, 1);
                     posteo.put(palabra.toLowerCase(), p1);
                 }
             }
