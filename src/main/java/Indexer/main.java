@@ -6,8 +6,6 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.*;
 
 
@@ -56,14 +54,13 @@ public class main {
         while (it2.hasNext()) {
             Map.Entry pair = (Map.Entry)it2.next();
             LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
-            Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
+
             String aux = (String) pair.getKey();
 
             Iterator it3 = unPosteoQuestionMark.entrySet().iterator();
                 while (it3.hasNext()) {
                     Map.Entry pair2 = (Map.Entry)it3.next();
-                    //File aux = (File) pair2.getKey();
-                    //String content = Files.readString(Paths.get(aux).-);
+                    Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
                     otroPosteo.setPalabra(aux);
                     otroPosteo.setDocumento((String) pair2.getKey());
                     otroPosteo.setTf((Integer) pair2.getValue());
