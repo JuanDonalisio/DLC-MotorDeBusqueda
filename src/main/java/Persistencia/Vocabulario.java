@@ -1,11 +1,9 @@
 package Persistencia;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.IdClass;
+import javax.persistence.*;
 
 @Entity
+@Table(name = "Vocabulario")
 public class Vocabulario {
     @Id
     private String palabra;

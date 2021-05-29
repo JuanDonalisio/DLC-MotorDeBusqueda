@@ -1,11 +1,5 @@
 package Indexer;
 
-import jdk.internal.jimage.ImageReaderFactory;
-
-import javax.persistence.IdClass;
-import java.util.*;
-
-
 public class Vocabulario {
     private String palabra; //una palabra del documento
     public int maxTf=0;  //es la mayor cantidad de veces que apareció la palabra en un documento
@@ -14,7 +8,6 @@ public class Vocabulario {
     public Vocabulario(String palabra) {
         this.palabra = palabra;
     }
-
 
     public void setMaxTf(int maxTf) {
         this.maxTf = maxTf;

@@ -15,8 +15,8 @@ public class Indice {
         String nombreDoc = name.getPath();
 
         while (scanner.hasNext()) {
-            String palabra = scanner.next().toLowerCase(Locale.ROOT).replaceAll("\\p{Punct}", "");
-
+            String palabra = scanner.next().toLowerCase(Locale.ROOT).replaceAll("[^a-z]","");
+            palabra = palabra.replaceAll("�", "");
             if (!palabra.isBlank()) {
                 LinkedHashMap p1 = new LinkedHashMap();
                 Vocabulario v1 = new Vocabulario(palabra.toLowerCase());

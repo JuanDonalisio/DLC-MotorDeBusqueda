@@ -17,7 +17,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="DLCTP" />
+          <factory-entry name="DLCTP" value="fa0798c6-df9f-4d2a-b287-783a8868e249" />
           <factory-entry name="dlc_motordebusqueda" />
         </datasource-mapping>
         <naming-strategy-map />
