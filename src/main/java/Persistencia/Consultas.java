@@ -1,15 +1,12 @@
 package Persistencia;
 
+import Indexer.Indice;
 import org.jvnet.fastinfoset.Vocabulary;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-import javax.persistence.PersistenceContext;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.ArrayList;
+import javax.persistence.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.*;
 
 public class Consultas {
 
@@ -53,13 +50,76 @@ public class Consultas {
         return posteoFinal;
     }
 
-    public static long cantidadDeDocumentos() {
+    public long cantidadDeDocumentos() {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em2 = emf.createEntityManager();
+
         long cantidadDeDocumentos = (long) em2.createQuery("SELECT COUNT(distinct documento) FROM Posteo").getSingleResult();
 
         em2.close();
         em2.close();
         return cantidadDeDocumentos;
+    }
+
+    public void agregarDocumento(File file) throws FileNotFoundException {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
+        EntityManager em2 = emf.createEntityManager();
+        List<HashMap> list = Indice.obtenerVocabularioYPosteo(file);
+        l
+        em2.createQuery("INSERT ");
+
+        em2.close();
+        em2.close();
+    }
+
+    public void cargarVocabularioYPosteo(HashMap vocabulario, HashMap posteo) {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
+        EntityManager em = emf.createEntityManager();
+        EntityTransaction t = em.getTransaction();
+        t.begin();
+        int i = 0;
+
+        //Cargar Vocabulario
+        Iterator it = vocabulario.entrySet().iterator();
+
+        while (it.hasNext()) {
+            Map.Entry pair = (Map.Entry) it.next();
+            Indexer.Vocabulario unVocabulario = (Indexer.Vocabulario) pair.getValue();
+            Persistencia.Vocabulario otroVocabulario = new Persistencia.Vocabulario();
+            otroVocabulario.setPalabra(unVocabulario.getPalabra());
+            otroVocabulario.setNr(unVocabulario.getNr());
+            otroVocabulario.setTf(unVocabulario.getMaxTf());
+            em.persist(otroVocabulario);
+            /*if (i % 50 == 0) {
+                em.flush();
+                em.clear();
+            }
+            i++;*/
+        }
+
+        //Cargar Posteo
+        Iterator it2 = posteo.entrySet().iterator();
+        while (it2.hasNext()) {
+            Map.Entry pair = (Map.Entry)it2.next();
+            LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
+            String aux = (String) pair.getKey();
+            Iterator it3 = unPosteoQuestionMark.entrySet().iterator();
+            while (it3.hasNext()) {
+                Map.Entry pair2 = (Map.Entry)it3.next();
+                Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
+                otroPosteo.setPalabra(aux);
+                otroPosteo.setDocumento((String) pair2.getKey());
+                otroPosteo.setTf((Integer) pair2.getValue());
+                em.persist(otroPosteo);
+            }
+            /*if (i % 50 == 0) {
+                em.flush();
+                em.clear();
+            }
+            i++;*/
+        }
+        t.commit();
+        em.close();
+        emf.close();
     }
 }

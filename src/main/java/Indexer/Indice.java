@@ -1,5 +1,7 @@
 package Indexer;
 
+import Persistencia.Consultas;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,10 +11,15 @@ import java.util.Map.Entry;
 
 public class Indice {
 
-    public static void obtenerVocabularioYPosteo(File name, HashMap map, HashMap posteo) throws FileNotFoundException {
+    public static List<HashMap> obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
+        Consultas consulta = new Consultas();
+
         Scanner scanner = new Scanner(new BufferedReader(new FileReader((name))));
         int aux;
         String nombreDoc = name.getPath();
+
+        HashMap map = new HashMap();
+        HashMap posteo = new HashMap();
 
         while (scanner.hasNext()) {
             String palabra = scanner.next().toLowerCase(Locale.ROOT).replaceAll("[^a-z]","");
@@ -46,6 +53,12 @@ public class Indice {
         }
         obtenerNr(posteo, map);
         obtenerMaxTF(posteo, map);
+
+        List<HashMap> listIndice = new ArrayList<HashMap>();
+        listIndice.add(map);
+        listIndice.add(posteo);
+
+        return listIndice;
     }
 
     public static void obtenerNr(HashMap map, HashMap mapVoc){
