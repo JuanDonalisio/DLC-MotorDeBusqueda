@@ -50,19 +50,21 @@ public class main {
             }
         }
        //em.createNativeQuery("truncate table Posteo").executeUpdate();      -->Para borrar lo que hay en la BD tabla posteo
-       Iterator it2 = posteo.entrySet().iterator();
-       while (it2.hasNext()) {
-           Map.Entry pair = (Map.Entry)it2.next();
-           LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
-          String aux = (String) pair.getKey();
-          Iterator it3 = unPosteoQuestionMark.entrySet().iterator();
-               while (it3.hasNext()) {
-                   Map.Entry pair2 = (Map.Entry)it3.next();
-                   Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
-                   otroPosteo.setPalabra(aux);
-                   otroPosteo.setDocumento((String) pair2.getKey());
-                   otroPosteo.setTf((Integer) pair2.getValue());
-                   em.persist(otroPosteo);
+
+
+        Iterator it2 = posteo.entrySet().iterator();
+        while (it2.hasNext()) {
+            Map.Entry pair = (Map.Entry)it2.next();
+            LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
+            String aux = (String) pair.getKey();
+            Iterator it3 = unPosteoQuestionMark.entrySet().iterator();
+            while (it3.hasNext()) {
+                Map.Entry pair2 = (Map.Entry)it3.next();
+                Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
+                otroPosteo.setPalabra(aux);
+                otroPosteo.setDocumento((String) pair2.getKey());
+                otroPosteo.setTf((Integer) pair2.getValue());
+                em.persist(otroPosteo);
                }
            int i=0;
            if (i % 50 == 0) {

@@ -1,6 +1,7 @@
 package Indexer;
 
 import java.io.*;
+import java.util.Scanner;
 
 public class LectorArchivos {
 
@@ -15,4 +16,18 @@ public class LectorArchivos {
         return files;
     }
 
+    public static void ReadFile(String path) {
+        try {
+            File file = new File(path);
+            Scanner scanner = new Scanner(file);
+            while (scanner.hasNextLine()) {
+                String data = scanner.nextLine();
+                System.out.println(data);
+            }
+            scanner.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("No se encontro el archivo.");
+            e.printStackTrace();
+        }
+    }
 }

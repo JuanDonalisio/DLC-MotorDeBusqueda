@@ -1,82 +1,36 @@
 package Api;
 
-import Indexer.Indice;
-import Indexer.Vocabulario;
-
+import Persistencia.Gestor;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.Map;
-
+import java.util.stream.Stream;
+import javax.inject.Inject;
+import javax.ws.rs.Consumes;
+import javax.ws.rs.DELETE;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.PUT;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.QueryParam;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
 
 public class ApiBuscador {
 
+    @Inject Gestor gestor;
 
-    private static EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
+    //@GET
+    //@Path("/buscar")
+    //public Response obtenerTodos(@QueryParam("busqueda") String busqueda) {
+    //Response.ok(gestor.obtenerTodos()).build();
 
-    public void calificacionPara(HashMap vocabulario, HashMap posteo, Integer numeroDocumentos) {
-        String ingresar = new String(String.valueOf(System.in));
+    //}
 
-        String[] palabras = ingresar.split(" ");
-        LinkedHashMap documentosRelevantes = new LinkedHashMap();
+    //@POST
+    //@Path("/buscar/{nombreSeleccionado}")
+    //public Response buscarDocumento(@QueryParam("seleccionado") String seleccionado) {
 
-        for (int i = 0; i < palabras.length; i++) {
-
-            Indexer.Vocabulario palabra = (Vocabulario) vocabulario.get(palabras[i]);
-            LinkedHashMap documentosPalabra = (LinkedHashMap) posteo.get(palabra);
-
-
-            int j = 0;
-            Iterator it = documentosPalabra.entrySet().iterator();
-            while (it.hasNext()) {
-                Map.Entry pair = (Map.Entry) it.next();
-                int tf = (int) pair.getValue();
-
-
-                //Idf es logaritmo de N/nR
-                int nr = documentosPalabra.size();
-                double idf = Math.log(numeroDocumentos / nr);
-
-                double peso = (tf * idf);
-                String nombreDoc = (String) pair.getKey();
-
-                if (documentosRelevantes.containsKey(nombreDoc)) {
-                    Integer pesoViejo = (Integer) documentosRelevantes.get(nombreDoc);
-                    documentosRelevantes.replace(nombreDoc, pesoViejo, pesoViejo + peso);
-                } else {
-                    documentosRelevantes.put(nombreDoc, peso);
-                }
-
-                j++;
-                if (j == 10) {
-                    break;
-                }
-                //veamos estlo con jojs limpitos
-
-            }
-        }
-        documentosRelevantes = Indice.sortByValue(documentosRelevantes);
-
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    //}
 
 }
