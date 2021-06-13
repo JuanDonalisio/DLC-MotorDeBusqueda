@@ -1,6 +1,8 @@
 package Indexer;
 
 import java.io.*;
+import java.util.HashMap;
+import java.util.List;
 import java.util.Scanner;
 
 public class LectorArchivos {
@@ -16,7 +18,7 @@ public class LectorArchivos {
         return files;
     }
 
-    public static void ReadFile(String path) {
+    public static void LeerArchivo(String path) {
         try {
             File file = new File(path);
             Scanner scanner = new Scanner(file);
@@ -30,4 +32,12 @@ public class LectorArchivos {
             e.printStackTrace();
         }
     }
+
+    public static void cargarArchivo(String path) throws FileNotFoundException {
+        File file = new File(path);
+        List<HashMap> list = Indice.obtenerVocabularioYPosteo(file);
+
+
+    }
+
 }

@@ -103,7 +103,7 @@ public class Buscador {
                 aux = scanner.nextInt();
             }
 
-            lector.ReadFile(subRelist.get(aux-1));
+            lector.LeerArchivo(subRelist.get(aux-1));
 
         }else{
             System.out.println("No se encontraron las palabras en ningun documento\n" );

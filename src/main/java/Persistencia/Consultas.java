@@ -61,12 +61,53 @@ public class Consultas {
         return cantidadDeDocumentos;
     }
 
-    public void agregarDocumento(File file) throws FileNotFoundException {
+    public void cargarDocumento(File file, HashMap vocabularioNuevo, HashMap posteoNuevo) {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
+        EntityManager em = emf.createEntityManager();
+        EntityTransaction t = em.getTransaction();
+        t.begin();
+
+        HashMap vocabularioViejo = obtenerTodos();
+        HashMap posteoViejo = obtenerTodosPosteos();
+
+        Iterator it = vocabularioViejo.entrySet().iterator();
+
+        while (it.hasNext()) {
+            Map.Entry pair = (Map.Entry) it.next();
+
+            Indexer.Vocabulario unVocabulario = (Indexer.Vocabulario) pair.getValue();
+            Persistencia.Vocabulario otroVocabulario = new Persistencia.Vocabulario();
+
+            //Cargar vocabulario
+            if(vocabularioViejo.containsKey(pair.getKey())) {
+                //Update para cuando se encuentra el elemento en el vocabulario
+                em.find(Vocabulario.class, otroVocabulario.getPalabra());
+                otroVocabulario.setNr(unVocabulario.getNr());
+                otroVocabulario.setTf(unVocabulario.getMaxTf());
+
+                //Query q = em.createQuery
+
+
+
+            }else{
+                //insert para cuando NO se encuentra el elemento en el vocabulario
+                otroVocabulario.setPalabra(unVocabulario.getPalabra());
+                otroVocabulario.setNr(unVocabulario.getNr());
+                otroVocabulario.setTf(unVocabulario.getMaxTf());
+                em.persist(otroVocabulario);
+            }
+        }
+        t.commit();
+        em.close();
+        emf.close();
+    }
+
+    public void modificarVocabularioYPosteo(HashMap vocabulario, HashMap posteo){
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em2 = emf.createEntityManager();
-        List<HashMap> list = Indice.obtenerVocabularioYPosteo(file);
-        l
-        em2.createQuery("INSERT ");
+
+
+        em2.createQuery("");
 
         em2.close();
         em2.close();
