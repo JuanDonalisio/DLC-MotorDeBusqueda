@@ -79,9 +79,9 @@ public class Buscador {
             System.out.println("Estos son los diez documentos más relevantes:\n");
 
             List<String> listRel = new ArrayList<String>(docRelevantes.keySet());
-            List<Double> listRel2 = new ArrayList<Double>(docRelevantes.values());
+            //List<Double> listRel2 = new ArrayList<Double>(docRelevantes.values());
             List<String> subRelist = new ArrayList<String>(listRel.subList(0, R));
-            List<Double> subRelist2 = new ArrayList<Double>(listRel2.subList(0, R));
+            //List<Double> subRelist2 = new ArrayList<Double>(listRel2.subList(0, R));
 
             for (String i : subRelist) {
                 System.out.println("Numero: " + j + " | " + i + "\n");
