@@ -4,6 +4,8 @@ import Indexer.Indice;
 import Persistencia.Consultas;
 import java.util.*;
 
+import static Indexer.Indice.*;
+
 public class Buscador {
 
     private static HashMap vocabulario;
@@ -62,11 +64,9 @@ public class Buscador {
         return documentosRelevantes;
     }
 
-    public static HashMap<String, Double> buscador(String busqueda, int R) {
-
-
+    public HashMap<String, Double> buscador(String busqueda, int R) {
         HashMap docRelevantes = calificacionPara(busqueda);
-        HashMap<String, Double> subRelist = new HashMap<>();
+        LinkedHashMap<String, Double> subRelist = new LinkedHashMap<>();
 
         Iterator it = docRelevantes.entrySet().iterator();
         int j=0;
@@ -75,9 +75,8 @@ public class Buscador {
             String doc = (String) pair.getKey();
             double peso = (double) pair.getValue();
             subRelist.put(doc, peso);
-            subRelist = Indice.sortByValue(subRelist);
         }
-
+        subRelist = Indice.sortByValue(subRelist);
         return subRelist;
     }
 

@@ -17,26 +17,19 @@ public class LectorArchivos {
         return files;
     }
 
-    public static String LeerArchivo(String path) {
-        StringBuilder data = null;
-        try {
-            File file = new File(path);
-            Scanner scanner = new Scanner(file);
-            while (scanner.hasNextLine()) {
-                data.append(scanner.nextLine());
-                //System.out.println(data);
-            }
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("No se encontro el archivo.");
-            e.printStackTrace();
+    public static String LeerArchivo(String path) throws FileNotFoundException {
+        Scanner sc = new Scanner(new BufferedReader(new FileReader(path)));
+        StringBuilder lectura = new StringBuilder();
+        while(sc.hasNext())
+        {
+            lectura.append(sc.nextLine());
+            lectura.append("\n");
         }
-        return data.toString();
+        return lectura.toString();
     }
 
     public static void cargarArchivo(File file, HashMap vocabulario) throws FileNotFoundException {
         Indice ind = new Indice(vocabulario);
         ind.obtenerVocabularioYPosteo(file);
     }
-
 }
