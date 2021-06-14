@@ -12,7 +12,13 @@ import java.util.Map.Entry;
 
 public class Indice {
 
-    public static void obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
+    private static HashMap vocabulario;
+
+    public Indice(HashMap vocabulario) {
+        this.vocabulario = vocabulario;
+    }
+
+    public void obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
         Consultas consulta = new Consultas();
 
         Scanner scanner = new Scanner(new BufferedReader(new FileReader((name))));
@@ -62,7 +68,7 @@ public class Indice {
         obtenerNr(posteo, map);
         obtenerMaxTF(posteo, map);
 
-        consulta.cargarVocabulario(map);
+        consulta.cargarVocabulario(map, vocabulario);
         consulta.cargarPosteo(name, posteo);
     }
 
@@ -80,7 +86,7 @@ public class Indice {
 
             HashMap posteosViejo = consulta.obtenerTodosPosteos();
 
-            if(posteosViejo.containsKey(palabra)){
+            if(posteosViejo.containsKey(palabraString)){
                 documentos = (LinkedHashMap) posteosViejo.get(palabraString);
                 aux = documentos.size();
             }
@@ -119,13 +125,11 @@ public class Indice {
             hashOrdenada = sortByValue(hashDesordenada);
             map.replace(palabraString, hashOrdenada);
 
-            HashMap vocabularioViejo = consulta.obtenerTodos();
-
             Map.Entry par = (Map.Entry) hashOrdenada.entrySet().iterator().next();
             int frecuencia = (int) par.getValue();
 
-            if(vocabularioViejo.containsKey(palabra)){
-                Persistencia.Vocabulario palabra2 = (Persistencia.Vocabulario) vocabularioViejo.get(palabra);
+            if(vocabulario.containsKey(palabraString)){
+                Persistencia.Vocabulario palabra2 = (Persistencia.Vocabulario) vocabulario.get(palabra);
                 if(frecuencia < palabra2.getTf()){
                     frecuencia = palabra2.getTf();
                 }

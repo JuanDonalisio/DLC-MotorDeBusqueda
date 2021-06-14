@@ -1,11 +1,6 @@
 package Persistencia;
 
-import org.hibernate.loader.custom.sql.SQLQueryParser;
-
 import javax.persistence.*;
-import javax.persistence.criteria.CriteriaBuilder;
-import javax.persistence.criteria.CriteriaQuery;
-import javax.persistence.criteria.CriteriaUpdate;
 import java.io.File;
 import java.util.*;
 
@@ -66,13 +61,11 @@ public class Consultas {
      *a la base de datos. Para ello usamos transacciones.
      */
 
-    public void cargarVocabulario(HashMap vocabularioNuevo) {
+    public void cargarVocabulario(HashMap vocabularioNuevo, HashMap vocabularioViejo) {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em = emf.createEntityManager();
         EntityTransaction t = em.getTransaction();
         t.begin();
-
-        HashMap vocabularioViejo = obtenerTodos();
 
         Iterator it = vocabularioNuevo.entrySet().iterator();
 

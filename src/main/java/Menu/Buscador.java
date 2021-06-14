@@ -1,20 +1,21 @@
 package Menu;
 
-import Api.ApiBuscador;
 import Indexer.Indice;
-import Indexer.LectorArchivos;
-import Indexer.Vocabulario;
 import Persistencia.Consultas;
-
 import java.util.*;
 
 public class Buscador {
+
+    private static HashMap vocabulario;
+
+    public Buscador(HashMap vocabulario) {
+        this.vocabulario = vocabulario;
+    }
 
     public static HashMap<String, Integer> calificacionPara(String ingresar) {
 
         Consultas cons = new Consultas();
 
-        HashMap vocabulario = cons.obtenerTodos();
         HashMap posteo = cons.obtenerTodosPosteos();
         long numeroDocumentos = cons.cantidadDeDocumentos();
 
@@ -61,58 +62,23 @@ public class Buscador {
         return documentosRelevantes;
     }
 
-    public static void buscador(){
+    public static HashMap<String, Double> buscador(String busqueda, int R) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("¿Que desea buscar?\n");
-        String busqueda = scanner.nextLine();
-        System.out.println(busqueda);
-
-        LectorArchivos lector = new LectorArchivos();
-
-        int R = 5;
-        int j = 1;
 
         HashMap docRelevantes = calificacionPara(busqueda);
+        HashMap<String, Double> subRelist = new HashMap<>();
 
-        if (docRelevantes.size() !=0) {
-            System.out.println("Estos son los diez documentos más relevantes:\n");
-
-            List<String> listRel = new ArrayList<String>(docRelevantes.keySet());
-            //List<Double> listRel2 = new ArrayList<Double>(docRelevantes.values());
-            List<String> subRelist = new ArrayList<String>(listRel.subList(0, R));
-            //List<Double> subRelist2 = new ArrayList<Double>(listRel2.subList(0, R));
-
-            for (String i : subRelist) {
-                System.out.println("Numero: " + j + " | " + i + "\n");
-                j++;
-            }
-
-            // esto es para mostrar los pesos
-            /*
-            for ( double i : subRelist2) {
-                String s = String.valueOf(i);
-                System.out.println("Numero: " + j + " | " + s + "\n");
-                j++;
-            }*/
-
-            System.out.println("Ingrese el numero del documento a mostrar: ");
-            int aux = scanner.nextInt();
-            if (R < aux) {
-                System.out.println("El numero ingresado no es válido. Por favor, ingrese un número válido.");
-                aux = scanner.nextInt();
-            }
-
-            lector.LeerArchivo(subRelist.get(aux-1));
-
-        }else{
-            System.out.println("No se encontraron las palabras en ningun documento\n" );
+        Iterator it = docRelevantes.entrySet().iterator();
+        int j=0;
+        while (it.hasNext() && j < R) {
+            Map.Entry pair = (Map.Entry) it.next();
+            String doc = (String) pair.getKey();
+            double peso = (double) pair.getValue();
+            subRelist.put(doc, peso);
+            subRelist = Indice.sortByValue(subRelist);
         }
 
-}
-
-    public static void main(String[] args) {
-        buscador();
+        return subRelist;
     }
 
 }

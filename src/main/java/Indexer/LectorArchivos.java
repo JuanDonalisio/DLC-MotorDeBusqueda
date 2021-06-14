@@ -2,7 +2,6 @@ package Indexer;
 
 import java.io.*;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Scanner;
 
 public class LectorArchivos {
@@ -18,25 +17,26 @@ public class LectorArchivos {
         return files;
     }
 
-    public static void LeerArchivo(String path) {
+    public static String LeerArchivo(String path) {
+        StringBuilder data = null;
         try {
             File file = new File(path);
             Scanner scanner = new Scanner(file);
             while (scanner.hasNextLine()) {
-                String data = scanner.nextLine();
-                System.out.println(data);
+                data.append(scanner.nextLine());
+                //System.out.println(data);
             }
             scanner.close();
         } catch (FileNotFoundException e) {
             System.out.println("No se encontro el archivo.");
             e.printStackTrace();
         }
+        return data.toString();
     }
 
-    public static void cargarArchivo(String path) throws FileNotFoundException {
-        File file = new File(path);
-        Indice.obtenerVocabularioYPosteo(file);
-
+    public static void cargarArchivo(File file, HashMap vocabulario) throws FileNotFoundException {
+        Indice ind = new Indice(vocabulario);
+        ind.obtenerVocabularioYPosteo(file);
     }
 
 }
