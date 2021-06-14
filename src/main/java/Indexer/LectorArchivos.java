@@ -35,8 +35,7 @@ public class LectorArchivos {
 
     public static void cargarArchivo(String path) throws FileNotFoundException {
         File file = new File(path);
-        List<HashMap> list = Indice.obtenerVocabularioYPosteo(file);
-
+        Indice.obtenerVocabularioYPosteo(file);
 
     }
 

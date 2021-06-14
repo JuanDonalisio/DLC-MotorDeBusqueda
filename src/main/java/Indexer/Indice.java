@@ -2,6 +2,7 @@ package Indexer;
 
 import Persistencia.Consultas;
 
+import javax.persistence.Persistence;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -11,7 +12,7 @@ import java.util.Map.Entry;
 
 public class Indice {
 
-    public static List<HashMap> obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
+    public static void obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
         Consultas consulta = new Consultas();
 
         Scanner scanner = new Scanner(new BufferedReader(new FileReader((name))));
@@ -26,13 +27,19 @@ public class Indice {
             palabra = palabra.replaceAll("�", "");
             if (!palabra.isBlank()) {
                 LinkedHashMap p1 = new LinkedHashMap();
-                Vocabulario v1 = new Vocabulario(palabra.toLowerCase());
+                //Persistencia.Vocabulario v1 = new Persistencia.Vocabulario();
 
                 //Obtiene el vocabulario
-                if (map.containsKey(palabra.toLowerCase())) {
-                    v1 = (Vocabulario) map.get(palabra.toLowerCase());
+                /*if (map.containsKey(palabra.toLowerCase())) {
+                    v1 = (Persistencia.Vocabulario) map.get(palabra.toLowerCase());
                     map.replace(palabra, v1);
                 } else {
+                    map.put(palabra, v1);
+                }*/
+
+                if (!(map.containsKey(palabra.toLowerCase()))) {
+                    Persistencia.Vocabulario v1 = new Persistencia.Vocabulario();
+                    v1.setPalabra(palabra);
                     map.put(palabra, v1);
                 }
 
@@ -51,26 +58,34 @@ public class Indice {
                 }
             }
         }
+
         obtenerNr(posteo, map);
         obtenerMaxTF(posteo, map);
 
-        List<HashMap> listIndice = new ArrayList<HashMap>();
-        listIndice.add(map);
-        listIndice.add(posteo);
-
-        return listIndice;
+        consulta.cargarVocabulario(map);
+        consulta.cargarPosteo(name, posteo);
     }
 
     public static void obtenerNr(HashMap map, HashMap mapVoc){
-        LinkedHashMap aux;
+        LinkedHashMap documentos;
+
+        Consultas consulta = new Consultas();
 
         Iterator it = mapVoc.entrySet().iterator();
         while (it.hasNext()) {
+            int aux = 0;
             Map.Entry pair = (Map.Entry)it.next();
-            Vocabulario palabra = (Vocabulario) pair.getValue();
+            Persistencia.Vocabulario palabra = (Persistencia.Vocabulario) pair.getValue();
             String palabraString = palabra.getPalabra();
-            aux = (LinkedHashMap) map.get(palabraString);
-            palabra.setNr(aux.size());
+
+            HashMap posteosViejo = consulta.obtenerTodosPosteos();
+
+            if(posteosViejo.containsKey(palabra)){
+                documentos = (LinkedHashMap) posteosViejo.get(palabraString);
+                aux = documentos.size();
+            }
+            aux +=1;
+            palabra.setNr(aux);
         }
     }
 
@@ -87,22 +102,35 @@ public class Indice {
     }
 
 
-     public static void obtenerMaxTF(HashMap map, HashMap mapVoc){
-        LinkedHashMap hashDesordenada = new LinkedHashMap();
-        LinkedHashMap hashOrdenada = new LinkedHashMap();
+    public static void obtenerMaxTF(HashMap map, HashMap mapVoc){
+        LinkedHashMap hashDesordenada;
+        LinkedHashMap hashOrdenada;
 
-         Iterator it = mapVoc.entrySet().iterator();
-         while (it.hasNext()) {
-             Map.Entry pair = (Map.Entry)it.next();
-             Vocabulario palabra = (Vocabulario) pair.getValue();
-             String palabraString = palabra.getPalabra();
-             hashDesordenada = (LinkedHashMap) map.get(palabraString);
-             hashOrdenada = sortByValue(hashDesordenada);
-             map.replace(palabraString, hashOrdenada);
+        Consultas consulta = new Consultas();
+        Iterator it = mapVoc.entrySet().iterator();
+        while (it.hasNext()) {
 
-             Map.Entry par = (Map.Entry) hashOrdenada.entrySet().iterator().next();
-             int frecuencia = (int) par.getValue();
-             palabra.setMaxTf(frecuencia);
+
+            Map.Entry pair = (Map.Entry)it.next();
+            Persistencia.Vocabulario palabra = (Persistencia.Vocabulario) pair.getValue();
+            String palabraString = palabra.getPalabra();
+
+            hashDesordenada = (LinkedHashMap) map.get(palabraString);
+            hashOrdenada = sortByValue(hashDesordenada);
+            map.replace(palabraString, hashOrdenada);
+
+            HashMap vocabularioViejo = consulta.obtenerTodos();
+
+            Map.Entry par = (Map.Entry) hashOrdenada.entrySet().iterator().next();
+            int frecuencia = (int) par.getValue();
+
+            if(vocabularioViejo.containsKey(palabra)){
+                Persistencia.Vocabulario palabra2 = (Persistencia.Vocabulario) vocabularioViejo.get(palabra);
+                if(frecuencia < palabra2.getTf()){
+                    frecuencia = palabra2.getTf();
+                }
+            }
+            palabra.setTf(frecuencia);
          }
     }
 }

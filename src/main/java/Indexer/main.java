@@ -13,24 +13,11 @@ public class main {
 
     public static void main(String[] args) throws IOException {
 
-        File[] files = LectorArchivos.obtenerArchivos();
-        HashMap<String, LinkedHashMap<String, Integer>> posteo = new HashMap<>();
-        HashMap<String, Vocabulario > vocabulario = new HashMap<>();
-
-        for (int i = 0; i < files.length; i++){
+        //File[] files = LectorArchivos.obtenerArchivos();
+        /*for (int i = 0; i < files.length; i++){
             Indice.obtenerVocabularioYPosteo(files[i]);
-        }
-
-        /**Una vez procesado el vocabulario y el posteo debemos pasarlo
-         *a la base de datos. Para ello usamos transacciones.
-         */
-
-
-        //Escritura del vocabulario
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
-        EntityManager em = emf.createEntityManager();
-        EntityTransaction t = em.getTransaction();
-        t.begin();
+        }*/
+        LectorArchivos.cargarArchivo("DocumentosTP1/doctest.txt");
 
         //em.createNativeQuery("truncate table Vocabulario").executeUpdate();     -->Para borrar lo que hay en la BD tabla posteo
        //em.createNativeQuery("truncate table Posteo").executeUpdate();      -->Para borrar lo que hay en la BD tabla posteo

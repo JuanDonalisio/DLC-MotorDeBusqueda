@@ -1,11 +1,12 @@
 package Persistencia;
 
-import Indexer.Indice;
-import org.jvnet.fastinfoset.Vocabulary;
+import org.hibernate.loader.custom.sql.SQLQueryParser;
 
 import javax.persistence.*;
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaQuery;
+import javax.persistence.criteria.CriteriaUpdate;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.*;
 
 public class Consultas {
@@ -17,7 +18,7 @@ public class Consultas {
 
     @PersistenceContext(unitName = "DLCTP")
 
-    public HashMap<String, Vocabulario> obtenerTodos() {
+    public static HashMap<String, Vocabulario> obtenerTodos() {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em2 = emf.createEntityManager();
         List<Vocabulario> listaDerogatory = em2.createQuery("select v from Vocabulario v ", Vocabulario.class).getResultList();
@@ -28,7 +29,7 @@ public class Consultas {
         em2.close();
         return vocFinal;
     }
-    public HashMap<String, Vocabulario> obtenerTodosPosteos() {
+    public static HashMap<String, Vocabulario> obtenerTodosPosteos() {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em2 = emf.createEntityManager();
         List<Posteo> listaDerogatory = em2.createQuery("select p from Posteo p ORDER BY p.tf DESC", Posteo.class).getResultList();
@@ -61,39 +62,52 @@ public class Consultas {
         return cantidadDeDocumentos;
     }
 
-    public void cargarDocumento(File file, HashMap vocabularioNuevo, HashMap posteoNuevo) {
+    /**Una vez procesado el vocabulario y el posteo debemos pasarlo
+     *a la base de datos. Para ello usamos transacciones.
+     */
+
+    public void cargarVocabulario(HashMap vocabularioNuevo) {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em = emf.createEntityManager();
         EntityTransaction t = em.getTransaction();
         t.begin();
 
         HashMap vocabularioViejo = obtenerTodos();
-        HashMap posteoViejo = obtenerTodosPosteos();
 
-        Iterator it = vocabularioViejo.entrySet().iterator();
+        Iterator it = vocabularioNuevo.entrySet().iterator();
 
         while (it.hasNext()) {
             Map.Entry pair = (Map.Entry) it.next();
 
-            Indexer.Vocabulario unVocabulario = (Indexer.Vocabulario) pair.getValue();
+            Persistencia.Vocabulario unVocabulario = (Persistencia.Vocabulario) pair.getValue();
             Persistencia.Vocabulario otroVocabulario = new Persistencia.Vocabulario();
 
             //Cargar vocabulario
             if(vocabularioViejo.containsKey(pair.getKey())) {
                 //Update para cuando se encuentra el elemento en el vocabulario
-                em.find(Vocabulario.class, otroVocabulario.getPalabra());
+                //em.find(Vocabulario.class, otroVocabulario.getPalabra());
                 otroVocabulario.setNr(unVocabulario.getNr());
-                otroVocabulario.setTf(unVocabulario.getMaxTf());
+                otroVocabulario.setTf(unVocabulario.getTf());
 
-                //Query q = em.createQuery
+                String palabra = (String) pair.getKey();
+                int nuevoNr = unVocabulario.getNr();
+                int nuevoTf = unVocabulario.getTf();
 
+                Query q = em.createQuery("SELECT v FROM Vocabulario v WHERE v.palabra = :palabraParametro", Vocabulario.class);
+                q.setParameter("palabraParametro", palabra);
+                otroVocabulario = (Vocabulario) q.getSingleResult();
+                em.remove(otroVocabulario);
+                otroVocabulario.setNr(nuevoNr);
+                otroVocabulario.setTf(nuevoTf);
+                em.persist(otroVocabulario);
 
+                //TypedQuery q = em.createQuery("UPDATE Vocabulario v SET v.nr = :nr, v.tf = :tf WHERE palabra = :palabra", Vocabulario.class);
 
             }else{
                 //insert para cuando NO se encuentra el elemento en el vocabulario
                 otroVocabulario.setPalabra(unVocabulario.getPalabra());
                 otroVocabulario.setNr(unVocabulario.getNr());
-                otroVocabulario.setTf(unVocabulario.getMaxTf());
+                otroVocabulario.setTf(unVocabulario.getTf());
                 em.persist(otroVocabulario);
             }
         }
@@ -101,66 +115,37 @@ public class Consultas {
         em.close();
         emf.close();
     }
+    public void cargarPosteo(File nameDoc, HashMap posteoNuevo) {
+        EntityManagerFactory emf2 = Persistence.createEntityManagerFactory("DLCTP");
+        EntityManager em2 = emf2.createEntityManager();
+        EntityTransaction t2 = em2.getTransaction();
+        t2.begin();
 
-    public void modificarVocabularioYPosteo(HashMap vocabulario, HashMap posteo){
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
-        EntityManager em2 = emf.createEntityManager();
+        String nombreDoc = nameDoc.getPath();
 
-
-        em2.createQuery("");
-
-        em2.close();
-        em2.close();
-    }
-
-    public void cargarVocabularioYPosteo(HashMap vocabulario, HashMap posteo) {
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("DLCTP");
-        EntityManager em = emf.createEntityManager();
-        EntityTransaction t = em.getTransaction();
-        t.begin();
-        int i = 0;
-
-        //Cargar Vocabulario
-        Iterator it = vocabulario.entrySet().iterator();
-
-        while (it.hasNext()) {
-            Map.Entry pair = (Map.Entry) it.next();
-            Indexer.Vocabulario unVocabulario = (Indexer.Vocabulario) pair.getValue();
-            Persistencia.Vocabulario otroVocabulario = new Persistencia.Vocabulario();
-            otroVocabulario.setPalabra(unVocabulario.getPalabra());
-            otroVocabulario.setNr(unVocabulario.getNr());
-            otroVocabulario.setTf(unVocabulario.getMaxTf());
-            em.persist(otroVocabulario);
-            /*if (i % 50 == 0) {
-                em.flush();
-                em.clear();
-            }
-            i++;*/
-        }
+        HashMap posteoViejo = obtenerTodosPosteos();
 
         //Cargar Posteo
-        Iterator it2 = posteo.entrySet().iterator();
+        Iterator it2 = posteoNuevo.entrySet().iterator();
         while (it2.hasNext()) {
             Map.Entry pair = (Map.Entry)it2.next();
-            LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
+
             String aux = (String) pair.getKey();
-            Iterator it3 = unPosteoQuestionMark.entrySet().iterator();
-            while (it3.hasNext()) {
-                Map.Entry pair2 = (Map.Entry)it3.next();
+            LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
+            int tfNuevo = (int) unPosteoQuestionMark.get(nombreDoc);
+
+            LinkedHashMap posteoV = (LinkedHashMap) posteoViejo.get(aux);
+
+            if (!(posteoV.containsKey(nombreDoc))){
                 Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
                 otroPosteo.setPalabra(aux);
-                otroPosteo.setDocumento((String) pair2.getKey());
-                otroPosteo.setTf((Integer) pair2.getValue());
-                em.persist(otroPosteo);
+                otroPosteo.setDocumento(nombreDoc);
+                otroPosteo.setTf(tfNuevo);
+                em2.persist(otroPosteo);
             }
-            /*if (i % 50 == 0) {
-                em.flush();
-                em.clear();
-            }
-            i++;*/
         }
-        t.commit();
-        em.close();
-        emf.close();
+        t2.commit();
+        em2.close();
+        emf2.close();
     }
 }
