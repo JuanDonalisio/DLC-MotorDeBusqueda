@@ -9,6 +9,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.*;
 import javax.inject.Inject;
+import javax.swing.text.Document;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -27,11 +28,11 @@ public class ApiBuscador {
         return Response.ok("test exitoso UwU").build();
     }
 
-@GET
-@Path("/buscar")
+    @GET
+    @Path("/buscar")
     public Response busqueda(@QueryParam("busqueda") String busqueda, @QueryParam("r") Integer r) throws JSONException {
         Buscador buscador = new Buscador(vocabularioEnMemoria.getVocFinal());
-        String json = new JSONObject(buscador.buscador(busqueda, r)).toString();
+        String json = new JSONObject(Indice.sortByValue(buscador.buscador(busqueda, r))).toString();
         return Response.ok(json).build();
     }
 
@@ -41,10 +42,11 @@ public class ApiBuscador {
         return Response.ok(LectorArchivos.LeerArchivo("C:\\Users\\Juanpa\\Desktop\\DLC-MotorDeBusqueda\\DocumentosTP1\\" + nombreDocumento + ".txt")).build();
    }
 
-   @PUT //???????
+   @POST
+   @Consumes({MediaType.APPLICATION_JSON})
    @Path("/agregar")
-   @Consumes(MediaType.APPLICATION_JSON)
-    public Response cargarDocumento(File file) throws IOException{
+    public Response cargarDocumento(@QueryParam("ruta") String ruta) throws IOException{
+        File file = new File(ruta);
         LectorArchivos.cargarArchivo(file, vocabularioEnMemoria.getVocFinal());
         return Response.ok("ok").build();
    }

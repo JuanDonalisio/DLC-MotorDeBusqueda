@@ -1,6 +1,7 @@
 package Indexer;
 
 import Persistencia.Consultas;
+import Persistencia.Vocabulario;
 
 import javax.persistence.Persistence;
 import java.io.BufferedReader;
@@ -36,7 +37,8 @@ public class Indice {
                 //Persistencia.Vocabulario v1 = new Persistencia.Vocabulario();
 
                 //Obtiene el vocabulario
-                /*if (map.containsKey(palabra.toLowerCase())) {
+                /*Vocabulario v1;
+                if (map.containsKey(palabra.toLowerCase())) {
                     v1 = (Persistencia.Vocabulario) map.get(palabra.toLowerCase());
                     map.replace(palabra, v1);
                 } else {
@@ -129,7 +131,7 @@ public class Indice {
             int frecuencia = (int) par.getValue();
 
             if(vocabulario.containsKey(palabraString)){
-                Persistencia.Vocabulario palabra2 = (Persistencia.Vocabulario) vocabulario.get(palabra);
+                Persistencia.Vocabulario palabra2 = (Persistencia.Vocabulario) vocabulario.get(palabraString);
                 if(frecuencia < palabra2.getTf()){
                     frecuencia = palabra2.getTf();
                 }

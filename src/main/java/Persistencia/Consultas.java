@@ -127,9 +127,17 @@ public class Consultas {
             LinkedHashMap unPosteoQuestionMark = (LinkedHashMap) pair.getValue();
             int tfNuevo = (int) unPosteoQuestionMark.get(nombreDoc);
 
-            LinkedHashMap posteoV = (LinkedHashMap) posteoViejo.get(aux);
+            if (posteoViejo.containsKey(aux)){
+                LinkedHashMap posteoV = (LinkedHashMap) posteoViejo.get(aux);
 
-            if (!(posteoV.containsKey(nombreDoc))){
+                if (!(posteoV.containsKey(nombreDoc))){
+                    Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
+                    otroPosteo.setPalabra(aux);
+                    otroPosteo.setDocumento(nombreDoc);
+                    otroPosteo.setTf(tfNuevo);
+                    em2.persist(otroPosteo);
+            }
+            }else{
                 Persistencia.Posteo otroPosteo = new Persistencia.Posteo();
                 otroPosteo.setPalabra(aux);
                 otroPosteo.setDocumento(nombreDoc);
