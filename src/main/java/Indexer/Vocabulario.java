@@ -9,10 +9,6 @@ public class Vocabulario {
         this.palabra = palabra;
     }
 
-    public void setMaxTf(int maxTf) {
-        this.maxTf = maxTf;
-    }
-
     public void setNr(int nr) {
         this.nr = nr;
     }
@@ -30,10 +26,6 @@ public class Vocabulario {
 
     public void setPalabra(String palabra) {
         this.palabra = palabra;
-    }
-
-    public int getMaxTf() {
-        return maxTf;
     }
 
     public int getNr() {

@@ -78,7 +78,7 @@ public class Consultas {
             //Cargar vocabulario
             if(vocabularioViejo.containsKey(pair.getKey())) {
                 //Update para cuando se encuentra el elemento en el vocabulario
-                //em.find(Vocabulario.class, otroVocabulario.getPalabra());
+
                 otroVocabulario.setNr(unVocabulario.getNr());
                 otroVocabulario.setTf(unVocabulario.getTf());
 
@@ -94,7 +94,6 @@ public class Consultas {
                 otroVocabulario.setTf(nuevoTf);
                 em.persist(otroVocabulario);
 
-                //TypedQuery q = em.createQuery("UPDATE Vocabulario v SET v.nr = :nr, v.tf = :tf WHERE palabra = :palabra", Vocabulario.class);
 
             }else{
                 //insert para cuando NO se encuentra el elemento en el vocabulario

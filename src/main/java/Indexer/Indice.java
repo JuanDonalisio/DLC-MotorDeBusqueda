@@ -34,16 +34,7 @@ public class Indice {
             palabra = palabra.replaceAll("�", "");
             if (!palabra.isBlank()) {
                 LinkedHashMap p1 = new LinkedHashMap();
-                //Persistencia.Vocabulario v1 = new Persistencia.Vocabulario();
-
-                //Obtiene el vocabulario
-                /*Vocabulario v1;
-                if (map.containsKey(palabra.toLowerCase())) {
-                    v1 = (Persistencia.Vocabulario) map.get(palabra.toLowerCase());
-                    map.replace(palabra, v1);
-                } else {
-                    map.put(palabra, v1);
-                }*/
+                //Persistencia.Vocabulario v1 = new Persistencia.Vocabulario
 
                 if (!(map.containsKey(palabra.toLowerCase()))) {
                     Persistencia.Vocabulario v1 = new Persistencia.Vocabulario();
@@ -108,7 +99,6 @@ public class Indice {
         }
         return result;
     }
-
 
     public static void obtenerMaxTF(HashMap map, HashMap mapVoc){
         LinkedHashMap hashDesordenada;

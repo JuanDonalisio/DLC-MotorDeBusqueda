@@ -21,7 +21,7 @@ public class VocabularioEnMemoria {
         em2.close();
         em2.close();
     }
-    //Gracias
+
     public HashMap getVocFinal() {
         return vocFinal;
     }
