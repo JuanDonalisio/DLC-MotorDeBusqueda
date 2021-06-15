@@ -67,6 +67,7 @@ public class Consultas {
         EntityTransaction t = em.getTransaction();
         t.begin();
 
+        //em.createNativeQuery("truncate table Vocabulario").executeUpdate();
         Iterator it = vocabularioNuevo.entrySet().iterator();
 
         while (it.hasNext()) {
@@ -107,7 +108,8 @@ public class Consultas {
         em.close();
         emf.close();
     }
-    public void cargarPosteo(File nameDoc, HashMap posteoNuevo) {
+
+    public void cargarPosteo(File nameDoc, HashMap posteoNuevo, HashMap posteoViejo) {
         EntityManagerFactory emf2 = Persistence.createEntityManagerFactory("DLCTP");
         EntityManager em2 = emf2.createEntityManager();
         EntityTransaction t2 = em2.getTransaction();
@@ -115,8 +117,7 @@ public class Consultas {
 
         String nombreDoc = nameDoc.getPath();
 
-        HashMap posteoViejo = obtenerTodosPosteos();
-
+        //em2.createNativeQuery("truncate table Posteo").executeUpdate();
         //Cargar Posteo
         Iterator it2 = posteoNuevo.entrySet().iterator();
         while (it2.hasNext()) {

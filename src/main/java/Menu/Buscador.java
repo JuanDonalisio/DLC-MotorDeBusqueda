@@ -35,6 +35,7 @@ public class Buscador {
             }
 
             LinkedHashMap documentosPalabra = (LinkedHashMap) posteo.get(i);
+            documentosPalabra = Indice.sortByValue(documentosPalabra);
 
             int j = 0;
             Iterator it = documentosPalabra.entrySet().iterator();

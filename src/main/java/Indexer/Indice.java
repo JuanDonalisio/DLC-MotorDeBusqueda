@@ -21,6 +21,7 @@ public class Indice {
 
     public void obtenerVocabularioYPosteo(File name) throws FileNotFoundException {
         Consultas consulta = new Consultas();
+        HashMap posteoViejo = consulta.obtenerTodosPosteos();
 
         Scanner scanner = new Scanner(new BufferedReader(new FileReader((name))));
         int aux;
@@ -58,14 +59,14 @@ public class Indice {
             }
         }
 
-        obtenerNr(posteo, map);
+        obtenerNr(posteoViejo, map);
         obtenerMaxTF(posteo, map);
 
         consulta.cargarVocabulario(map, vocabulario);
-        consulta.cargarPosteo(name, posteo);
+        consulta.cargarPosteo(name, posteo, posteoViejo);
     }
 
-    public static void obtenerNr(HashMap map, HashMap mapVoc){
+    public static void obtenerNr(HashMap posteosViejo, HashMap mapVoc){
         LinkedHashMap documentos;
 
         Consultas consulta = new Consultas();
@@ -76,8 +77,6 @@ public class Indice {
             Map.Entry pair = (Map.Entry)it.next();
             Persistencia.Vocabulario palabra = (Persistencia.Vocabulario) pair.getValue();
             String palabraString = palabra.getPalabra();
-
-            HashMap posteosViejo = consulta.obtenerTodosPosteos();
 
             if(posteosViejo.containsKey(palabraString)){
                 documentos = (LinkedHashMap) posteosViejo.get(palabraString);
